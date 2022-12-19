@@ -119,6 +119,7 @@ padding:0 4px;
 text-transform: uppercase;
 text-decoration: none;
 font-size: 13px;
+line-height: 15px;
 font-weight: 100;
 }
 .quote {
@@ -373,6 +374,10 @@ color: #888;
 }
 
 @media only screen and (max-width: 475px) {
+	.title{
+		font-size: 25px;
+		line-height: 28px;
+	}
 	.hashtags {
 		display:none;
 	}
