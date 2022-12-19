@@ -60,7 +60,7 @@ img {
 	float:left;
 	width:100%;
 	border-top: solid 1px #555;
-	padding:15px 0px 40px 0px;
+	padding:15px 0px 50px 0px;
 	font-size: 14px;
 	line-height: 18px;
 	color:#555;
@@ -83,6 +83,7 @@ a.foota {
 	font-size:18px;
 	line-height:98px;
 	color:#00ff00;
+	background-size: 100px 100px;background-image: url('../images/max_head.gif');
 }
 
 
@@ -360,3 +361,22 @@ color: #888;
 		background-repeat: no-repeat;
 		background-position: center;
 	}
+
+@media only screen and (max-width: 750px) {
+	.toptoots {
+		display:none;
+	}
+}
+
+.hashtags_mobile {
+	display:none;
+}
+
+@media only screen and (max-width: 475px) {
+	.hashtags {
+		display:none;
+	}
+	.hashtags_mobile {
+		display:block;
+	}
+}
