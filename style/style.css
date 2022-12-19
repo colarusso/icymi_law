@@ -8,27 +8,47 @@ body {
 	line-height: 22px;
 }
 
-div.prize {
-	float: right;
-	margin: -5px 2px 10px 2px;
-	padding:5px 8px;
-	border-radius: 10px;
-	text-align: center;
-	text-decoration:heavy;
-	border: 1px solid #bbb;
-	background: #ccffcc;
+.title {
+	font-size: 30px;
+	line-height: 32px;
+	text-align:center;
+	width:100%;
+	font-variant: small-caps;
 }
 
-div.food {
-	float: right;
-	margin: -5px 2px 10px 2px;
-	padding:5px 8px;
-	border-radius: 10px;
-	text-align: center;
-	text-decoration:heavy;
-	border: 1px solid #bbb;
-	background: #ffffcc;
+.intro{
+border-top: solid 1px #888;
+border-bottom: solid 1px #eee;
+margin:0 0 0px 0;
+padding: 10px 0 15px 0;
 }
+
+
+.content {
+    margin:15px auto;
+    max-width:1000px;
+}
+img {
+    width:100%%;
+}
+
+.toptoots {
+    float:right;
+    max-width:416px;
+    margin: 0px 0 0px 30px;
+}
+
+.toots {
+    height: 825px;
+    overflow-y:auto;
+    background:white;
+}
+
+.hashtags {
+    float:left;
+    width:100%%;
+}
+
 
 .details {
 	font-size: 14px;
@@ -50,7 +70,6 @@ a.foota {
 	color:#555;
 }
 
-
 #icon {
 	z-index:2;
 	margin:75px auto 14px auto;
@@ -66,20 +85,6 @@ a.foota {
 	color:#00ff00;
 }
 
-.add {
-	float:left;
-	text-align:center;
-	width:100%;
-	padding:10px 0;
-	background:#eee;
-}
-
-#past {
-	float:left;
-	border-top: solid 1px #555;
-	width:100%;
-	margin:20px 0 0 0;
-}
 
 a.event {
 	color:black;
@@ -94,19 +99,12 @@ a.visit {
 	line-height: 25px;
 }
 
-.title {
-	font-size: 36px;
-	text-align:center;
-	width:100%;
-	font-variant: small-caps;
-}
-
 .menu_bar{
 border-top: solid 1px #888;
 border-bottom: solid 1px #888;
 margin:0 0 0px 0;
-
 }
+
 a.menu {
 font-family: sans-serif;
 text-decoration: none;
@@ -127,6 +125,7 @@ font-size: 23px;
 line-height: 28px;
 color: #888;
 }
+
 
 	#rawmarkup{
 		display:none;
