@@ -3,178 +3,170 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="http://www.facebook.com/2008/fbml"><html>
 <head>
-<title>ICYMI (LAW)</title>
+    <title>In Case You Missed It (Law)</title>
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta name="apple-mobile-web-app-capable" content="no" />
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Legal Innovation and Technology Lab"/>
-    <meta property="og:description" content="A lab within the clinics at Suffolk Law, the Legal Innovation and Technology Lab (LIT Lab) provides students the opportunity to work in a consultancy and R&D shop focusing on legal tech and data science work."/>
-    <meta property="og:image" content="images/thefuture.png"/>
+    <meta property="og:title" content="In Case You Missed It (Law) "/>
+    <meta property="og:description" content=""/>
+    <meta property="og:image" content="https://sb-esq-social.b-cdn.net/accounts/avatars/109/428/291/259/323/869/original/e525a8b28919a4f8.gif"/>
 
-<style>
-.content {
-    margin:15px auto;
-    max-width:1000px;
-}
-img {
-    width:100%%;
-}
-.into {
-    width:100%%;
-    margin: 40px 0px;
-}
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
 
-.toptoots {
-    float:right;
-    max-width:416px;
-    margin: -21px 0 0px 30px;
-}
+    <style>
 
-.toots {
-    height: 825px;
-    overflow-y:auto;
-    background:white;
-}
+        ul.cloud {
+          list-style: none;
+          padding-left: 0;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
+          line-height: 2.75rem;
+          width: 100%%;
+        }
 
-.hashtags {
-    float:left;
-    width:100%%;
-}
+        ul.cloud a {
+          /*   
+          Not supported by any browser at the moment :(
+          --size: attr(data-weight number); 
+          */
+          --size: 4;
+          --color: #a33;
+          color: var(--color);
+          font-size: calc(var(--size) * 0.25rem + 0.5rem);
+          display: block;
+          padding: 0.125rem 0.25rem;
+          position: relative;
+          text-decoration: none;
+          /* 
+          For different tones of a single color
+          opacity: calc((15 - (9 - var(--size))) / 15); 
+          */
+        }
+                ul.cloud a[data-weight="1"] { --size: 0; }        ul.cloud a[data-weight="2"] { --size: 1; }        ul.cloud a[data-weight="3"] { --size: 1; }        ul.cloud a[data-weight="4"] { --size: 1; }        ul.cloud a[data-weight="5"] { --size: 1; }        ul.cloud a[data-weight="6"] { --size: 2; }        ul.cloud a[data-weight="7"] { --size: 2; }        ul.cloud a[data-weight="8"] { --size: 2; }        ul.cloud a[data-weight="9"] { --size: 2; }        ul.cloud a[data-weight="10"] { --size: 3; }        ul.cloud a[data-weight="11"] { --size: 3; }        ul.cloud a[data-weight="12"] { --size: 3; }        ul.cloud a[data-weight="13"] { --size: 3; }        ul.cloud a[data-weight="14"] { --size: 4; }        ul.cloud a[data-weight="15"] { --size: 4; }        ul.cloud a[data-weight="16"] { --size: 4; }        ul.cloud a[data-weight="17"] { --size: 5; }        ul.cloud a[data-weight="18"] { --size: 5; }        ul.cloud a[data-weight="19"] { --size: 5; }        ul.cloud a[data-weight="20"] { --size: 5; }        ul.cloud a[data-weight="21"] { --size: 6; }        ul.cloud a[data-weight="22"] { --size: 6; }        ul.cloud a[data-weight="23"] { --size: 6; }        ul.cloud a[data-weight="24"] { --size: 6; }        ul.cloud a[data-weight="25"] { --size: 7; }        ul.cloud a[data-weight="26"] { --size: 7; }        ul.cloud a[data-weight="27"] { --size: 7; }        ul.cloud a[data-weight="28"] { --size: 7; }        ul.cloud a[data-weight="29"] { --size: 8; }        ul.cloud a[data-weight="30"] { --size: 8; }        ul.cloud a[data-weight="31"] { --size: 8; }        ul.cloud a[data-weight="32"] { --size: 9; }        ul.cloud a[data-weight="33"] { --size: 9; }        ul.cloud a[data-weight="34"] { --size: 9; }        ul.cloud a[data-weight="35"] { --size: 9; }        ul.cloud a[data-weight="36"] { --size: 10; }        ul.cloud a[data-weight="37"] { --size: 10; }        ul.cloud a[data-weight="38"] { --size: 10; }        ul.cloud a[data-weight="39"] { --size: 10; }        ul.cloud a[data-weight="40"] { --size: 11; }        ul.cloud a[data-weight="41"] { --size: 11; }        ul.cloud a[data-weight="42"] { --size: 11; }        ul.cloud a[data-weight="43"] { --size: 11; }        ul.cloud a[data-weight="44"] { --size: 12; }        ul.cloud a[data-weight="45"] { --size: 12; }        ul.cloud a[data-weight="46"] { --size: 12; }        ul.cloud a[data-weight="47"] { --size: 13; }        ul.cloud a[data-weight="48"] { --size: 13; }        ul.cloud a[data-weight="49"] { --size: 13; }        ul.cloud a[data-weight="50"] { --size: 13; }
 
-ul.cloud {
-  list-style: none;
-  padding-left: 0;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  line-height: 2.75rem;
-  width: 100%%;
-}
+        ul[data-show-value] a::after {
+          content: " (" attr(data-weight) ")";
+          font-size: 1rem;
+        }
 
-ul.cloud a {
-  /*   
-  Not supported by any browser at the moment :(
-  --size: attr(data-weight number); 
-  */
-  --size: 4;
-  --color: #a33;
-  color: var(--color);
-  font-size: calc(var(--size) * 0.25rem + 0.5rem);
-  display: block;
-  padding: 0.125rem 0.25rem;
-  position: relative;
-  text-decoration: none;
-  /* 
-  For different tones of a single color
-  opacity: calc((15 - (9 - var(--size))) / 15); 
-  */
-}
-ul.cloud a[data-weight="1"] { --size: 0; }ul.cloud a[data-weight="2"] { --size: 1; }ul.cloud a[data-weight="3"] { --size: 1; }ul.cloud a[data-weight="4"] { --size: 1; }ul.cloud a[data-weight="5"] { --size: 1; }ul.cloud a[data-weight="6"] { --size: 2; }ul.cloud a[data-weight="7"] { --size: 2; }ul.cloud a[data-weight="8"] { --size: 2; }ul.cloud a[data-weight="9"] { --size: 2; }ul.cloud a[data-weight="10"] { --size: 3; }ul.cloud a[data-weight="11"] { --size: 3; }ul.cloud a[data-weight="12"] { --size: 3; }ul.cloud a[data-weight="13"] { --size: 3; }ul.cloud a[data-weight="14"] { --size: 4; }ul.cloud a[data-weight="15"] { --size: 4; }ul.cloud a[data-weight="16"] { --size: 4; }ul.cloud a[data-weight="17"] { --size: 5; }ul.cloud a[data-weight="18"] { --size: 5; }ul.cloud a[data-weight="19"] { --size: 5; }ul.cloud a[data-weight="20"] { --size: 5; }ul.cloud a[data-weight="21"] { --size: 6; }ul.cloud a[data-weight="22"] { --size: 6; }ul.cloud a[data-weight="23"] { --size: 6; }ul.cloud a[data-weight="24"] { --size: 6; }ul.cloud a[data-weight="25"] { --size: 7; }ul.cloud a[data-weight="26"] { --size: 7; }ul.cloud a[data-weight="27"] { --size: 7; }ul.cloud a[data-weight="28"] { --size: 7; }ul.cloud a[data-weight="29"] { --size: 8; }ul.cloud a[data-weight="30"] { --size: 8; }ul.cloud a[data-weight="31"] { --size: 8; }ul.cloud a[data-weight="32"] { --size: 9; }ul.cloud a[data-weight="33"] { --size: 9; }ul.cloud a[data-weight="34"] { --size: 9; }ul.cloud a[data-weight="35"] { --size: 9; }ul.cloud a[data-weight="36"] { --size: 10; }ul.cloud a[data-weight="37"] { --size: 10; }ul.cloud a[data-weight="38"] { --size: 10; }ul.cloud a[data-weight="39"] { --size: 10; }ul.cloud a[data-weight="40"] { --size: 11; }ul.cloud a[data-weight="41"] { --size: 11; }ul.cloud a[data-weight="42"] { --size: 11; }ul.cloud a[data-weight="43"] { --size: 11; }ul.cloud a[data-weight="44"] { --size: 12; }ul.cloud a[data-weight="45"] { --size: 12; }ul.cloud a[data-weight="46"] { --size: 12; }ul.cloud a[data-weight="47"] { --size: 13; }ul.cloud a[data-weight="48"] { --size: 13; }ul.cloud a[data-weight="49"] { --size: 13; }ul.cloud a[data-weight="50"] { --size: 13; }
+        ul.cloud li:nth-child(2n+1) a { --color: #181; }
+        ul.cloud li:nth-child(3n+1) a { --color: #33a; }
+        ul.cloud li:nth-child(4n+1) a { --color: #c38; }
 
-ul[data-show-value] a::after {
-  content: " (" attr(data-weight) ")";
-  font-size: 1rem;
-}
+        ul.cloud a:focus {
+          outline: 1px dashed;
+        }
 
-ul.cloud li:nth-child(2n+1) a { --color: #181; }
-ul.cloud li:nth-child(3n+1) a { --color: #33a; }
-ul.cloud li:nth-child(4n+1) a { --color: #c38; }
+        ul.cloud a::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 50%;
+          width: 0;
+          height: 100%;
+          background: var(--color);
+          transform: translate(-50%, 0);
+          opacity: 0.15;
+          transition: width 0.25s;
+        }
 
-ul.cloud a:focus {
-  outline: 1px dashed;
-}
+        ul.cloud a:focus::before,
+        ul.cloud a:hover::before {
+          width: 100%;
+        }
 
-ul.cloud a::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 50%;
-  width: 0;
-  height: 100%;
-  background: var(--color);
-  transform: translate(-50%, 0);
-  opacity: 0.15;
-  transition: width 0.25s;
-}
+        @media (prefers-reduced-motion) {
+          ul.cloud * {
+            transition: none !important;
+          }
+        }
 
-ul.cloud a:focus::before,
-ul.cloud a:hover::before {
-  width: 100%;
-}
-
-@media (prefers-reduced-motion) {
-  ul.cloud * {
-    transition: none !important;
-  }
-}
-
-</style>
+    </style>
 </head>
 <body>
-<link rel="stylesheet" type="text/css" href="style/style.css">
+<link rel="stylesheet" type="text/css" href="style/style.css?v=2022-12-19">
+
 <div id="icon" style="background-size: 100px 100px;background-image: url('images/max_head.gif');"></div>
-<h1 style="text-align:center;">In Case You Missed It (Law)
-<center style="margin-top:5px;">
-<span class="subtitle"><font size="-0.5">Daily Digest for Sunday December 18, 2022</span>
+<h1 class="title">In Case You Missed It (Law)
+<center style="margin-top:0px;">
+<span class="subtitle"><font size="-0.5">Daily Digest for Monday December 19, 2022</span>
 </center></h1>
 
 
 
 <div class="content">
-<div class="menu_bar">
-My name's David Colarusso, and I'm a GenXer devoted to the open web, as such I really want the #fedivers to thrive, esp. #LawFedi. To that end,
-I've put together this algorithmicly-genrated daily digest to showcase some of its great content. If you like what you see, consider 
-joining Mastodon, and following the 
-@icymi_law bot for even more insights into the community.</div>
-    <div class="into">
-
+<div class="menu_bar" style="display:none;">
+<p style="text-align:center;">
+<a href="." class="menu">&nbsp;Yesterday&nbsp;</a> |
+<a href="." class="menu">&nbsp;Tomorrow&nbsp;</a>
+</p>
+</div>
+<div class="intro">
+<p>
+Greetings, my name is <a href="https://mastodon.social/@Colarusso" target="_blank">David Colarusso</a>, and I'm the director of Suffolk Law School's 
+<a href="https://suffolklitlab.org/" target="_blank">Legal Innovation &amp; Technology (LIT) Lab</a>. 
+So with one foot in law and the other in tech, I really the open web to thrive, esp. 
+<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a>. To that end,
+I've put together this algorithmicly-genrated daily digest to showcase some of its great content. 
+If you like what you see, consider 
+<a href="https://www.washingtonpost.com/technology/2022/12/17/how-to-join-mastodon/" target="_blank">joining Mastodon</a>, and following the 
+<a rel="me" href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a> bot.
+</p>
+<p>
+FWIW, here are some server suggestions: 
+(1) <a href="https://esq.social" target="_blank">esq.social</a> (legal general interest);  
+(2) <a href="https://law.builders" target="_blank">law.builders</a> (legal tech et al.); and  
+(3) <a href="https://mastodon.lawprofs.org/" target="_blank">mastodon.lawprofs.org</a> (legal acedemics).
+</p>
 </div>
 
 <div class="toptoots">
 <h2>Top Posts</h2>
-<div class="toots"><iframe src="https://mastodon.social/@Popehat/109536084001983562/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@mmasnick/109536092348733414/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@QasimRashid/109532974857393627/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.lol/@evacide/109532385943517368/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@heidilifeldman/109535746993149355/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@scottjshapiro/109535051246099443/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@emptywheel/109536248595334534/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://federate.social/@mattblaze/109531555069296166/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@questauthority/109536357168778153/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://cryptodon.lol/@gulovsen/109532865158422869/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@jkosseff/109536262911024098/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.lawprofs.org/@marklemley/109536148431205621/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mas.to/@marcelias/109532734614776371/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.lawprofs.org/@AnnemarieBridy/109535112550091371/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://legal.social/@krisnelson/109536320636199251/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://law-and-politics.online/@Teri_Kanefield/109535956969153125/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://esq.social/@annmlipton/109534482121702612/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.neilzone.co.uk/@neil/109533660718530672/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@klonick/109534160683128462/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://ourislandgeorgia.net/@Wolven/109536227608695936/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<div class="toots"><iframe src="2022-12-19/embed?v=https://mastodon.social/@Popehat/109536084001983562" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@mmasnick/109536092348733414" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@jkosseff/109536228339917526" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://law-and-politics.online/@Teri_Kanefield/109535395841790705" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@emptywheel/109536248595334534" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@scottjshapiro/109537027600520219" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@heidilifeldman/109535746993149355" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.lol/@evacide/109536954313576291" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@questauthority/109536357168778153" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://legal.social/@krisnelson/109536320636199251" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://esq.social/@ConnorMoran/109538850228461121" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mas.to/@marcelias/109535744508235072" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.green/@davidallengreen/109539355140006690" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://journa.host/@WalterShaub/109537678373285480" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.lawprofs.org/@marklemley/109536148431205621" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.lawprofs.org/@AnnemarieBridy/109535112550091371" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@esqueer/109536814525002687" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://mastodon.social/@tiffanycli/109536864435787301" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://esq.social/@andrew/109538238565727990" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="2022-12-19/embed?v=https://infosec.exchange/@wbm312/109536332767702570" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
 
 <script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
 </div>
 </div>
-<h2>Most-Shared Links</h2><p>Here are last week's most-shared links from #Law / #LawFedi folks I follow.¹</p><ol><li><a href='https://www.afr.com/companies/financial-services/ftx-s-inner-circle-had-a-secret-chat-group-called-wirefraud-20221213-p5c5sx' target='_blank'>FTX’s inner circle had a secret chat group called ‘Wirefraud’</a> (~25 shares)</li><li><a href='https://popehat.substack.com/p/goodbye-twitter' target='_blank'>Goodbye, Twitter - by Ken White - The Popehat Report</a> (~23 shares)</li><li><a href='https://www.nytimes.com/2022/12/13/technology/elon-musk-twitter-shakeup.html' target='_blank'>Musk Shakes Up Twitter’s Legal Team as He Looks to Cut More Costs - The New York Times</a> (~22 shares)</li><li><a href='https://www.washingtonpost.com/nation/2022/12/14/texas-transgender-data-paxton/' target='_blank'>Office of Texas A.G. Ken Paxton sought data on transgender residents - The Washington Post</a> (~17 shares)</li><li><a href='https://www.techdirt.com/2022/12/14/twitters-big-ad-plan-violate-both-ftc-consent-decree-california-privacy-law-to-force-users-to-hand-over-info-for-ad-targeting/' target='_blank'>Twitter’s Big Ad Plan: Violate FTC Consent Decree, California Privacy Law & EU Privacy Laws To Force Users To Hand Over Info For Ad Targeting | Techdirt</a> (~15 shares)</li><li><a href='https://uklabourlawblog.com/2022/12/12/pay-for-work-in-prison-by-virginia-mantouvalou/' target='_blank'>Pay for Work in Prison – by Virginia Mantouvalou – UK Labour Law</a> (~15 shares)</li><li><a href='https://terikanefield.com/disillusioned-by-democracy/' target='_blank'>Disillusioned With Democracy - Teri Kanefield</a> (~14 shares)</li><li><a href='https://www.techdirt.com/2022/12/15/congress-is-about-to-make-this-post-telling-you-when-to-celebrate-scotus-justice-birthdays-illegal/' target='_blank'>Congress Is About To Make This Post Telling You When To Celebrate SCOTUS Justice Birthdays Illegal | Techdirt</a> (~14 shares)</li><li><a href='https://www.washingtonpost.com/media/2022/12/15/twitter-journalists-suspended-musk/' target='_blank'>Musk suspends journalists from Twitter, claims ‘assassination’ danger - The Washington Post</a> (~13 shares)</li><li><a href='https://www.techdirt.com/2022/12/16/elon-tries-badly-to-defend-the-banning-of-journalists-as-twitter-starts-blocking-links-mentions-of-mastodon/' target='_blank'>Elon Tries (Badly) To Defend The Banning Of Journalists As Twitter Starts Blocking Links & Mentions Of Mastodon | Techdirt</a> (~12 shares)</li></ol>
-
-¹ Where LAST WEEK is the week of December 11, 2022.<h2>SSRN Roundup</h2><p>I keep an eye out for #Law / #LawFedi papers, & once I collect 5, I share them. This is the most-recent bundle.</p><ul>
+<h2>Most-Shared Links</h2><p>Here are yesterday's most-shared links from <a href="https://esq.social/tags/law" tatget="_blank">#Law</a> / <a href="https://esq.social/tags/lawfedi" tatget="_blank">#LawFedi</a> folks I follow.</p><ol><li><a href='https://help.twitter.com/en/rules-and-policies/social-platforms-policy' target='_blank'>404</a> (~14 shares)</li><li><a href='https://www.ru.nl/en/working-at/job-opportunities/postdoctoral-researcher-use-of-bulk-data-by-intelligence-services-and-other-state-bodies' target='_blank'>Postdoctoral Researcher: Use of Bulk Data by Intelligence Services and Other State Bodies | Radboud University</a> (~5 shares)</li><li><a href='https://terikanefield.com/elon-musk-fox-news-and-free-speech-absolutism/' target='_blank'>Elon Musk, Fox News, and Free Speech Absolutism - Teri Kanefield</a> (~5 shares)</li><li><a href='https://www.ru.nl/en/working-at/job-opportunities/postdoctoral-legal-researcher-fair-and-non-discriminatory-ai' target='_blank'>Postdoctoral Legal Researcher: Fair and Non-discriminatory AI | Radboud University</a> (~5 shares)</li><li><a href='https://popehat.substack.com/p/in-defense-of-free-speech-pedantry?sd=pf' target='_blank'>In Defense Of Free Speech Pedantry  - by Ken White</a> (~4 shares)</li><li><a href='https://scholarship.law.wm.edu/wmborj/vol29/iss1/2/' target='_blank'>"Democratizing Education Rights" by Joshua E. Weishart</a> (~3 shares)</li><li><a href='https://latertwitter.cyou/' target='_blank'>Later Twitter - Move to Mastodon Twitter header image generator</a> (~3 shares)</li><li><a href='https://docs.google.com/spreadsheets/d/1AH_ltVbaipAG9a5X_btIGyH3kZZyCtqbrThTbPTMyEE/edit?usp=sharing' target='_blank'>#TaxTwitter contact info (Responses) - Google Sheets</a> (~3 shares)</li><li><a href='https://www.flickr.com/photos/mattblaze/51381729335/' target='_blank'>United Nations Secretariat Building, NYC | 15 August 2021 Th… | Flickr</a> (~3 shares)</li><li><a href='https://venturebeat.com/social/facebooks-alleged-use-of-apis-to-crush-competition-is-a-warning-to-other-data-companies/' target='_blank'>Facebook's alleged use of APIs to crush competition is a warning to other data companies | VentureBeat</a> (~3 shares)</li></ol><h2>SSRN Roundup</h2><p>I keep an eye out for papers shared on SSRN. Once I collect five, I share them. This is the most-recent bundle.¹</p><ul>
 <li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=553625" target="_blank">Author Page for Dalindyebo Bafana Shabalala :: SSRN</a></li>
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3033231" target="_blank">The 'Article of Manufacture' Today by Sarah Burstein :: SSRN</a></li>
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230633" target="_blank">Buy Now Pay (Pain?) Later by Ed deHaan, Jungbae Kim, Ben Lourie, Chenqi Zhu :: SSRN</a></li>
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256652" target="_blank">January 6, Ambiguously Inciting Speech, and the Overt-Acts Solution by Alan Z. Rozenshtein, Jed Handelsman Shugerman :: SSRN</a></li>
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300410" target="_blank">The Gun Industry and the New Anti-Boycott Laws by Drury D. Stevenson :: SSRN</a></li>
-</ul><div class="hashtags"><h2>Hastags</h2>FWIW, folks I follow used these hashtags today:<ul class="cloud" role="navigation" aria-label="Webdev word cloud"><li><a href="https://esq.social/tags/dsa" data-weight="2" target="_blank">dsa (2)</a></li><li><a href="https://esq.social/tags/policy" data-weight="2" target="_blank">policy (2)</a></li><li><a href="https://esq.social/tags/mtga" data-weight="2" target="_blank">mtga (2)</a></li><li><a href="https://esq.social/tags/education" data-weight="2" target="_blank">education (2)</a></li><li><a href="https://esq.social/tags/nyt" data-weight="2" target="_blank">nyt (2)</a></li><li><a href="https://esq.social/tags/dimaria" data-weight="2" target="_blank">dimaria (2)</a></li><li><a href="https://esq.social/tags/lawyers" data-weight="3" target="_blank">lawyers (3)</a></li><li><a href="https://esq.social/tags/SBF" data-weight="3" target="_blank">SBF (3)</a></li><li><a href="https://esq.social/tags/musk" data-weight="3" target="_blank">musk (3)</a></li><li><a href="https://esq.social/tags/mastodonunited" data-weight="3" target="_blank">mastodonunited (3)</a></li><li><a href="https://esq.social/tags/topgear" data-weight="3" target="_blank">topgear (3)</a></li><li><a href="https://esq.social/tags/gaeilge" data-weight="3" target="_blank">gaeilge (3)</a></li><li><a href="https://esq.social/tags/philosophy" data-weight="3" target="_blank">philosophy (3)</a></li><li><a href="https://esq.social/tags/ARG" data-weight="4" target="_blank">ARG (4)</a></li><li><a href="https://esq.social/tags/spytrac" data-weight="4" target="_blank">spytrac (4)</a></li><li><a href="https://esq.social/tags/openaccess" data-weight="4" target="_blank">openaccess (4)</a></li><li><a href="https://esq.social/tags/SupremeCourt" data-weight="4" target="_blank">SupremeCourt (4)</a></li><li><a href="https://esq.social/tags/doctorwho" data-weight="4" target="_blank">doctorwho (4)</a></li><li><a href="https://esq.social/tags/spyfone" data-weight="4" target="_blank">spyfone (4)</a></li><li><a href="https://esq.social/tags/job" data-weight="5" target="_blank">job (5)</a></li><li><a href="https://esq.social/tags/digitalservicesact" data-weight="6" target="_blank">digitalservicesact (6)</a></li><li><a href="https://esq.social/tags/birdsite" data-weight="7" target="_blank">birdsite (7)</a></li><li><a href="https://esq.social/tags/mastodon" data-weight="8" target="_blank">mastodon (8)</a></li><li><a href="https://esq.social/tags/johnmastodon" data-weight="50" target="_blank">johnmastodon (50)</a></li><li><a href="https://esq.social/tags/worldcup" data-weight="23" target="_blank">worldcup (23)</a></li><li><a href="https://esq.social/tags/twitter" data-weight="13" target="_blank">twitter (13)</a></li><li><a href="https://esq.social/tags/law" data-weight="12" target="_blank">law (12)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="9" target="_blank">lawfedi (9)</a></li><li><a href="https://esq.social/tags/twittermigration" data-weight="8" target="_blank">twittermigration (8)</a></li><li><a href="https://esq.social/tags/catsofmastodon" data-weight="7" target="_blank">catsofmastodon (7)</a></li><li><a href="https://esq.social/tags/messi" data-weight="7" target="_blank">messi (7)</a></li><li><a href="https://esq.social/tags/photography" data-weight="7" target="_blank">photography (7)</a></li><li><a href="https://esq.social/tags/caturday" data-weight="7" target="_blank">caturday (7)</a></li><li><a href="https://esq.social/tags/Introduction" data-weight="6" target="_blank">Introduction (6)</a></li><li><a href="https://esq.social/tags/getfedihired" data-weight="5" target="_blank">getfedihired (5)</a></li><li><a href="https://esq.social/tags/postdoc" data-weight="5" target="_blank">postdoc (5)</a></li><li><a href="https://esq.social/tags/history" data-weight="5" target="_blank">history (5)</a></li><li><a href="https://esq.social/tags/azteclabs" data-weight="4" target="_blank">azteclabs (4)</a></li><li><a href="https://esq.social/tags/stalkerware" data-weight="4" target="_blank">stalkerware (4)</a></li><li><a href="https://esq.social/tags/snow" data-weight="4" target="_blank">snow (4)</a></li><li><a href="https://esq.social/tags/argentina" data-weight="4" target="_blank">argentina (4)</a></li><li><a href="https://esq.social/tags/fediverse" data-weight="4" target="_blank">fediverse (4)</a></li><li><a href="https://esq.social/tags/tax" data-weight="4" target="_blank">tax (4)</a></li><li><a href="https://esq.social/tags/legal" data-weight="4" target="_blank">legal (4)</a></li><li><a href="https://esq.social/tags/elonmusk" data-weight="4" target="_blank">elonmusk (4)</a></li><li><a href="https://esq.social/tags/crypto" data-weight="3" target="_blank">crypto (3)</a></li><li><a href="https://esq.social/tags/mastofocloir" data-weight="3" target="_blank">mastofocloir (3)</a></li><li><a href="https://esq.social/tags/holiday" data-weight="3" target="_blank">holiday (3)</a></li><li><a href="https://esq.social/tags/ftx" data-weight="3" target="_blank">ftx (3)</a></li><li><a href="https://esq.social/tags/mastodaoine" data-weight="3" target="_blank">mastodaoine (3)</a></li><li><a href="https://esq.social/tags/cop15" data-weight="3" target="_blank">cop15 (3)</a></li><li><a href="https://esq.social/tags/jesuisjohnmastodon" data-weight="3" target="_blank">jesuisjohnmastodon (3)</a></li><li><a href="https://esq.social/tags/lawtwitter" data-weight="3" target="_blank">lawtwitter (3)</a></li><li><a href="https://esq.social/tags/japaneseamericans" data-weight="3" target="_blank">japaneseamericans (3)</a></li><li><a href="https://esq.social/tags/cat" data-weight="3" target="_blank">cat (3)</a></li><li><a href="https://esq.social/tags/getcovered" data-weight="3" target="_blank">getcovered (3)</a></li><li><a href="https://esq.social/tags/TrustAndSafety" data-weight="3" target="_blank">TrustAndSafety (3)</a></li><li><a href="https://esq.social/tags/fifaworldcup" data-weight="3" target="_blank">fifaworldcup (3)</a></li><li><a href="https://esq.social/tags/irish" data-weight="3" target="_blank">irish (3)</a></li><li><a href="https://esq.social/tags/TaxTwitter" data-weight="3" target="_blank">TaxTwitter (3)</a></li><li><a href="https://esq.social/tags/Cybersecurity" data-weight="3" target="_blank">Cybersecurity (3)</a></li><li><a href="https://esq.social/tags/eu" data-weight="2" target="_blank">eu (2)</a></li><li><a href="https://esq.social/tags/moderation" data-weight="2" target="_blank">moderation (2)</a></li><li><a href="https://esq.social/tags/satoshinakamoto" data-weight="2" target="_blank">satoshinakamoto (2)</a></li><li><a href="https://esq.social/tags/elb" data-weight="2" target="_blank">elb (2)</a></li><li><a href="https://esq.social/tags/green" data-weight="2" target="_blank">green (2)</a></li><li><a href="https://esq.social/tags/silentsunday" data-weight="2" target="_blank">silentsunday (2)</a></li><li><a href="https://esq.social/tags/disinformation" data-weight="2" target="_blank">disinformation (2)</a></li><li><a href="https://esq.social/tags/fedilaw" data-weight="2" target="_blank">fedilaw (2)</a></li><li><a href="https://esq.social/tags/misinformation" data-weight="2" target="_blank">misinformation (2)</a></li></ul></div>
+</ul><p class="footnote">¹ Depending on how many folks are sharing there could be more or less than one bundle per day, this is just the most-recent.</p><div class="hashtags"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul class="cloud" role="navigation" aria-label="Webdev word cloud"><li><a href="https://esq.social/tags/racist" data-weight="2" target="_blank">racist (2)</a></li><li><a href="https://esq.social/tags/humanrightslaw" data-weight="2" target="_blank">humanrightslaw (2)</a></li><li><a href="https://esq.social/tags/bruen" data-weight="2" target="_blank">bruen (2)</a></li><li><a href="https://esq.social/tags/green" data-weight="2" target="_blank">green (2)</a></li><li><a href="https://esq.social/tags/rss" data-weight="2" target="_blank">rss (2)</a></li><li><a href="https://esq.social/tags/refugee" data-weight="2" target="_blank">refugee (2)</a></li><li><a href="https://esq.social/tags/chanukka" data-weight="3" target="_blank">chanukka (3)</a></li><li><a href="https://esq.social/tags/mazeldon" data-weight="3" target="_blank">mazeldon (3)</a></li><li><a href="https://esq.social/tags/Ruschist" data-weight="3" target="_blank">Ruschist (3)</a></li><li><a href="https://esq.social/tags/platgov" data-weight="3" target="_blank">platgov (3)</a></li><li><a href="https://esq.social/tags/France" data-weight="3" target="_blank">France (3)</a></li><li><a href="https://esq.social/tags/socialmedia" data-weight="3" target="_blank">socialmedia (3)</a></li><li><a href="https://esq.social/tags/designpatents" data-weight="3" target="_blank">designpatents (3)</a></li><li><a href="https://esq.social/tags/greciaverse" data-weight="5" target="_blank">greciaverse (5)</a></li><li><a href="https://esq.social/tags/argentina" data-weight="5" target="_blank">argentina (5)</a></li><li><a href="https://esq.social/tags/openaccess" data-weight="5" target="_blank">openaccess (5)</a></li><li><a href="https://esq.social/tags/job" data-weight="6" target="_blank">job (6)</a></li><li><a href="https://esq.social/tags/hanukah" data-weight="6" target="_blank">hanukah (6)</a></li><li><a href="https://esq.social/tags/cop15" data-weight="6" target="_blank">cop15 (6)</a></li><li><a href="https://esq.social/tags/photography" data-weight="8" target="_blank">photography (8)</a></li><li><a href="https://esq.social/tags/twittermigration" data-weight="11" target="_blank">twittermigration (11)</a></li><li><a href="https://esq.social/tags/johnmastodon" data-weight="19" target="_blank">johnmastodon (19)</a></li><li><a href="https://esq.social/tags/law" data-weight="19" target="_blank">law (19)</a></li><li><a href="https://esq.social/tags/worldcup" data-weight="34" target="_blank">worldcup (34)</a></li><li><a href="https://esq.social/tags/twitter" data-weight="27" target="_blank">twitter (27)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="12" target="_blank">lawfedi (12)</a></li><li><a href="https://esq.social/tags/messi" data-weight="10" target="_blank">messi (10)</a></li><li><a href="https://esq.social/tags/elonmusk" data-weight="9" target="_blank">elonmusk (9)</a></li><li><a href="https://esq.social/tags/birdsite" data-weight="9" target="_blank">birdsite (9)</a></li><li><a href="https://esq.social/tags/hanukkah" data-weight="9" target="_blank">hanukkah (9)</a></li><li><a href="https://esq.social/tags/digitalservicesact" data-weight="7" target="_blank">digitalservicesact (7)</a></li><li><a href="https://esq.social/tags/SupremeCourt" data-weight="6" target="_blank">SupremeCourt (6)</a></li><li><a href="https://esq.social/tags/postdoc" data-weight="6" target="_blank">postdoc (6)</a></li><li><a href="https://esq.social/tags/getfedihired" data-weight="6" target="_blank">getfedihired (6)</a></li><li><a href="https://esq.social/tags/Ukraine" data-weight="5" target="_blank">Ukraine (5)</a></li><li><a href="https://esq.social/tags/fifaworldcup" data-weight="5" target="_blank">fifaworldcup (5)</a></li><li><a href="https://esq.social/tags/chanukah" data-weight="5" target="_blank">chanukah (5)</a></li><li><a href="https://esq.social/tags/mastodon" data-weight="5" target="_blank">mastodon (5)</a></li><li><a href="https://esq.social/tags/history" data-weight="5" target="_blank">history (5)</a></li><li><a href="https://esq.social/tags/tax" data-weight="5" target="_blank">tax (5)</a></li><li><a href="https://esq.social/tags/russia" data-weight="5" target="_blank">russia (5)</a></li><li><a href="https://esq.social/tags/Introduction" data-weight="5" target="_blank">Introduction (5)</a></li><li><a href="https://esq.social/tags/snow" data-weight="5" target="_blank">snow (5)</a></li><li><a href="https://esq.social/tags/elonmusktwitter" data-weight="5" target="_blank">elonmusktwitter (5)</a></li><li><a href="https://esq.social/tags/tesla" data-weight="4" target="_blank">tesla (4)</a></li><li><a href="https://esq.social/tags/TaxTwitter" data-weight="4" target="_blank">TaxTwitter (4)</a></li><li><a href="https://esq.social/tags/lawtwitter" data-weight="4" target="_blank">lawtwitter (4)</a></li><li><a href="https://esq.social/tags/musk" data-weight="4" target="_blank">musk (4)</a></li><li><a href="https://esq.social/tags/ARG" data-weight="4" target="_blank">ARG (4)</a></li><li><a href="https://esq.social/tags/eu" data-weight="3" target="_blank">eu (3)</a></li><li><a href="https://esq.social/tags/japaneseamericans" data-weight="3" target="_blank">japaneseamericans (3)</a></li><li><a href="https://esq.social/tags/mbappe" data-weight="3" target="_blank">mbappe (3)</a></li><li><a href="https://esq.social/tags/ukrainian" data-weight="3" target="_blank">ukrainian (3)</a></li><li><a href="https://esq.social/tags/bizhumanrights" data-weight="3" target="_blank">bizhumanrights (3)</a></li><li><a href="https://esq.social/tags/rwanda" data-weight="3" target="_blank">rwanda (3)</a></li><li><a href="https://esq.social/tags/copyright" data-weight="3" target="_blank">copyright (3)</a></li><li><a href="https://esq.social/tags/theatre" data-weight="3" target="_blank">theatre (3)</a></li><li><a href="https://esq.social/tags/music" data-weight="3" target="_blank">music (3)</a></li><li><a href="https://esq.social/tags/dsa" data-weight="3" target="_blank">dsa (3)</a></li><li><a href="https://esq.social/tags/legal" data-weight="3" target="_blank">legal (3)</a></li><li><a href="https://esq.social/tags/auspol" data-weight="3" target="_blank">auspol (3)</a></li><li><a href="https://esq.social/tags/Qatar" data-weight="3" target="_blank">Qatar (3)</a></li><li><a href="https://esq.social/tags/dogs" data-weight="3" target="_blank">dogs (3)</a></li><li><a href="https://esq.social/tags/dimaria" data-weight="3" target="_blank">dimaria (3)</a></li><li><a href="https://esq.social/tags/humanrights" data-weight="3" target="_blank">humanrights (3)</a></li><li><a href="https://esq.social/tags/fra" data-weight="2" target="_blank">fra (2)</a></li><li><a href="https://esq.social/tags/culturalheritage" data-weight="2" target="_blank">culturalheritage (2)</a></li><li><a href="https://esq.social/tags/crimea" data-weight="2" target="_blank">crimea (2)</a></li><li><a href="https://esq.social/tags/histodons" data-weight="2" target="_blank">histodons (2)</a></li><li><a href="https://esq.social/tags/freesoftwareadvent" data-weight="2" target="_blank">freesoftwareadvent (2)</a></li></ul></div><div class="hashtags_mobile" style="display:none;"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul><li><a href="https://esq.social/tags/worldcup" data-weight="34" target="_blank">worldcup (34)</a></li><li><a href="https://esq.social/tags/twitter" data-weight="27" target="_blank">twitter (27)</a></li><li><a href="https://esq.social/tags/law" data-weight="19" target="_blank">law (19)</a></li><li><a href="https://esq.social/tags/johnmastodon" data-weight="19" target="_blank">johnmastodon (19)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="12" target="_blank">lawfedi (12)</a></li><li><a href="https://esq.social/tags/twittermigration" data-weight="11" target="_blank">twittermigration (11)</a></li><li><a href="https://esq.social/tags/messi" data-weight="10" target="_blank">messi (10)</a></li><li><a href="https://esq.social/tags/birdsite" data-weight="9" target="_blank">birdsite (9)</a></li><li><a href="https://esq.social/tags/hanukkah" data-weight="9" target="_blank">hanukkah (9)</a></li><li><a href="https://esq.social/tags/elonmusk" data-weight="9" target="_blank">elonmusk (9)</a></li></ul></div>
 <div style="float:left;">
 <h2>Traffic</h2>
-FOlks hjkh lkhhllj adlskAHK
+Of course, these insights are all thanks to a commuunity of users, namely the folks I follow over at <a rel="me" href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a>. 
+For fun, here's a look at their posting traffic yesterday. I for one, like to make up stories about the daily ups and downs. ;)
 
-<img src="plots/2022-12-17_end_of_day.png" width="100%" ALT="Spot Homepage Screenshot" border="0px" style="border-radius: 5px;"/>
+<img src="plots/2022-12-18_end_of_day.png" width="100%" ALT="Plot of yesterday's posts" border="0px" style="border-radius: 5px;"/>
 
 </div>
 <div class="footer" style="text-align:center;">
-<font size=-1>~ Created Sunday December 18, 2022 ~</font>
+<font size=-1>~ Created Monday December 19, 2022 ~</font>
 </div></div>
 </body></html>
