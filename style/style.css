@@ -12,14 +12,28 @@ body {
 	font-size: 30px;
 	line-height: 32px;
 	text-align:center;
+	margin-bottom:8px;
 	width:100%;
 	font-variant: small-caps;
+}
+
+.subtitle{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: 100;
+}
+
+.choose_date {
+	width:200px;
+	margin:0 auto;
 }
 
 .intro{
 border-top: solid 1px #888;
 border-bottom: solid 1px #eee;
-margin:0 0 0px 0;
+margin:20px 0 0px 0;
 padding: 10px 0 15px 0;
 }
 
@@ -115,13 +129,7 @@ font-weight: 700;
  text-transform: uppercase;
 padding:0 4px;
 }
-.subtitle{
-text-transform: uppercase;
-text-decoration: none;
-font-size: 13px;
-line-height: 15px;
-font-weight: 100;
-}
+
 .quote {
 font-size: 23px;
 line-height: 28px;
@@ -377,6 +385,10 @@ color: #888;
 	.title{
 		font-size: 25px;
 		line-height: 28px;
+	}
+	.subtitle{
+		font-size: 14px;
+		line-height: 16px;
 	}
 	.hashtags {
 		display:none;
