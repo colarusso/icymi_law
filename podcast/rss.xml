@@ -1,1 +1,29 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>In Case You Missed It (Law)</title>
+    <itunes:owner>
+    <itunes:email>icymi@y-naught.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>ICYMI Law dot com</itunes:author>
+    <itunes:summary>A daily digest of law-themed happenings in the fediverse, including most-shared links and the SSRN paper of the day.</itunes:summary>
+    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>en-us</language>
+    <itunes:category text="News &amp; Politics"/>
+    <link>https://icymilaw.org</link>
+    <item>
+      <title>In Case You Missed It (Law): 2022-12-21</title>
+      <description>
+          <content:encoded>
+              <![CDATA[First, a New York mother was stopped at the entrance of Radio City Music Hall because of facial recognition technology. This brings attention to the current facial recognition policy that has been strongly criticized. Secondly, we look at the growing design patent system and its implications for US intellectual property policy. Finally, we take a deeper look into the Capitol insurrection report and its failures in predicting and responding to the violence. Stay tuned for more! <a href=”https://icymilaw.org/archive/2022-12-21.html”>View the Digest/Primary Sources</a>]]>
+          </content:encoded>
+      </description>
+      <pubDate>Wed, 21 Dec 2022 20:04:40 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-21_show.mp3"
+                 type="audio/mpeg" length="230873"/>
+      <itunes:duration>231</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-21_show.mp3</guid>
+    </item>
+    </channel>
+</rss>
