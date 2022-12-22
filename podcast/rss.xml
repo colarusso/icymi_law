@@ -8,23 +8,23 @@
     </itunes:owner>
     <itunes:author>ICYMI Law dot com</itunes:author>
     <itunes:summary>A daily digest of law-themed happenings in the fediverse, including most-shared links and the SSRN paper of the day.</itunes:summary>
-    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <itunes:image href="https://icymilaw.org/images/icymi_cover_art.png"/>
     <language>en-us</language>
     <itunes:category text="News &amp; Politics"/>
     <link>https://icymilaw.org</link>
     <item>
-      <title>In Case You Missed It (Law): 2022-12-21</title>
-      <link>https://icymilaw.org/archive/2022-12-21.html</link>
+      <title>In Case You Missed It (Law): 2022-12-20</title>
+      <link>https://icymilaw.org/archive/2022-12-20.html</link>
       <description>
         <content type="html">
-          <![CDATA[First, a New York mother was stopped at the entrance of Radio City Music Hall because of facial recognition technology. This brings attention to the current facial recognition policy that has been strongly criticized. Secondly, we look at the growing design patent system and its implications for US intellectual property policy. Finally, we take a deeper look into the Capitol insurrection report and its failures in predicting and responding to the violence. Stay tuned for more! <a href=”https://icymilaw.org/archive/2022-12-21.html”>View the Digest/Primary Sources</a>]]>
+          <![CDATA[Welcome to today's news roundup. We start off with a story about the importance of representation in the judiciary. This follows the portrait ceremony of Judge Robert L. Wilkins, who was appointed to the U.S. Court of Appeals for the District of Columbia Circuit. We'll also look at how the COVID-19 pandemic has opened up opportunities for Americans with disabilities in the job market. Finally, we'll review the résumé of Rep.-elect George Santos (R-NY), which is being called into question. Be sure to stay tuned for all the details.  <a href=”https://icymilaw.org/archive/2022-12-20.html”>View the Digest/Primary Sources</a>]]>
         </content>
       </description>
-      <pubDate>Wed, 21 Dec 2022 20:04:40 -0000</pubDate>
-      <enclosure url="https://icymilaw.org/podcast/2022-12-21_show.mp3"
-                 type="audio/mpeg" length="230873"/>
-      <itunes:duration>231</itunes:duration>
-      <guid>https://icymilaw.org/podcast/2022-12-21_show.mp3</guid>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-20_show.mp3"
+                 type="audio/mpeg" length="245905"/>
+      <itunes:duration>246</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-20_show.mp3</guid>
     </item>
     </channel>
 </rss>
