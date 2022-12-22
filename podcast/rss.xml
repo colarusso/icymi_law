@@ -8,10 +8,24 @@
     </itunes:owner>
     <itunes:author>ICYMI Law dot com</itunes:author>
     <itunes:summary>Discover the latest legal news and content in the fediverse with this experimental AI-summarized newscast, an algorithmicly-generated examination of your host's Mastodon timeline. It follows a bunch of lawyers, law profs, and the like so you don't have too. Get the highlights of the day's most important law-related events, including the most-shared links, SSRN papers, and more – all in the span of five minutes or less. Each show links back to original source material so you can keep the bot honest. Trust no one, esp. if they're actually not a someone. Did I mention this was an experiment? ;)</itunes:summary>
-    <itunes:image href="https://icymilaw.org/images/icymi_cover_art.png"/>
+    <itunes:image href="https://icymilaw.org/images/icymi_cover_1400.png"/>
     <language>en-us</language>
-    <itunes:category text="News &amp; Politics"/>
+    <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
+    <item>
+      <title>In Case You Missed It (Law): 2022-12-22</title>
+      <link>https://icymilaw.org/archive/2022-12-22.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[Welcome to the future of social media – decentralized, open source platforms like Mastodon, ActivityPub, and Bluesky are gaining traction. Could a 'Gmail moment' be on the horizon? Meanwhile, President Biden is nominating six individuals for federal judgeships, and a guide is available to help hosts of Mastodon instances navigate the legal risks associated with hosting such a platform. Keep tuning in to find out more! <a href=”https://icymilaw.org/archive/2022-12-22.html”>View the Digest/Primary Sources</a>]]>
+        </content>
+      </description>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-22_show.mp3"
+                 type="audio/mpeg" length="237275"/>
+      <itunes:duration>237</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-22_show.mp3</guid>
+    </item>
     <item>
       <title>In Case You Missed It (Law): 2022-12-21</title>
       <link>https://icymilaw.org/archive/2022-12-21.html</link>
