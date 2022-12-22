@@ -122,6 +122,8 @@
         }
 
     </style>
+    <link rel="stylesheet" type="text/css" href="style/green-audio-player.css">
+    <script src="js/green-audio-player.js"></script>
 </head>
 <body>
 <div id="icon" onclick="window.location='/';"></div>
@@ -134,6 +136,32 @@
 
 <div class="content">
 <div class="intro">
+  <div class="audio_container_container" style="display:block">
+    <div class="audio_container">
+      <div class="pod_cover">
+        <img src="images/icymi_cover_1400.png" style="height:125px;width:125px" aligh="left" alt="Cover art for the podcast. An elephant in sunglasses."/>
+      </div>
+
+      <b>Our Daily AI-Generated Podcast</b>
+      <div class="gap-example player-accessible">
+        <audio>
+            <source src="podcast/2022-12-22_show.mp3" type="audio/mpeg">
+        </audio>
+      </div>
+      <span class="playback">
+        Speed: <a href="javascript:void('')" onClick="set_speed(0.5)" class="playback" id="pb05">0.5x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(1)" class="playback" id="pb10" style="font-weight:900;">1x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(1.5)" class="playback" id="pb15">1.5x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(2)" class="playback" id="pb20">2x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(3)" class="playback" id="pb30">3x</a>
+      </span>
+      <div class="subscribe">
+        <a target="_blank" href="https://icymilaw.org/podcast/rss.xml" style="display: inline-block; background-color: #FFFFFF; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #eee; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: -230px -653px; height: 40px; width: 121px;">RSS Feed</a>
+        <a target="_blank" href="https://podcasts.apple.com/us/podcast/in-case-you-missed-it-law/id1661174664" style="display: inline-block; background-color: #FFFFFF; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #eee; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: -230px 7px; height: 40px; width: 165px;">Listen on Apple Podcasts</a>
+      </div>
+
+    </div>
+  </div>
 <p>
 Greetings, my name is <a href="https://mastodon.social/@Colarusso" target="_blank">David Colarusso</a>. 
 I'm the director of Suffolk University Law School's 
@@ -247,5 +275,9 @@ I like trying to create stories about the daily ups and downs. What is that bump
  function myFunction() {
   document.location.href = document.getElementById("date").value + ".html";
  }   
+
+ new GreenAudioPlayer('.gap-example');
+ const audio_object = document.querySelector('.gap-example  audio');
+
 </script>
 </html>
