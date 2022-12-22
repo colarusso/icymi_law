@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<HTML xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml"><html>
+<head>
+    <title>In Case You Missed It (Law)</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <link rel="apple-touch-icon" href="/icymi_law/images/icon_300.png"/>
+    
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="In Case You Missed It (Law) "/>
+    <meta property="og:description" content="A daily digest of law-themed happenings in the fediverse, including the most-shared links, an SSRN roundup, and the community's top Mastodon posts."/>
+    <meta property="og:image" content="https://sb-esq-social.b-cdn.net/accounts/avatars/109/428/291/259/323/869/original/e525a8b28919a4f8.gif"/>
+
+    <link rel="stylesheet" type="text/css" href="../style/style.css?v=2022-12-22">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RB08M9FHX6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-RB08M9FHX6');
+    </script>
+    
+    <style>
+
+        ul.cloud {
+          list-style: none;
+          padding-left: 0;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
+          line-height: 2.75rem;
+          width: 100%;
+        }
+
+        ul.cloud a {
+          /*   
+          Not supported by any browser at the moment :(
+          --size: attr(data-weight number); 
+          */
+          --size: 4;
+          --color: #a33;
+          color: var(--color);
+          font-size: calc(var(--size) * 0.25rem + 0.5rem);
+          display: block;
+          padding: 0.125rem 0.25rem;
+          position: relative;
+          text-decoration: none;
+          /* 
+          For different tones of a single color
+          opacity: calc((15 - (9 - var(--size))) / 15); 
+          */
+        }
+        
+        ul.cloud a[data-weight="1"] { --size: 1; }
+        ul.cloud a[data-weight="2"] { --size: 1; }
+        ul.cloud a[data-weight="3"] { --size: 2; }
+        ul.cloud a[data-weight="4"] { --size: 2; }
+        ul.cloud a[data-weight="5"] { --size: 3; }
+        ul.cloud a[data-weight="6"] { --size: 3; }
+        ul.cloud a[data-weight="7"] { --size: 4; }
+        ul.cloud a[data-weight="8"] { --size: 4; }
+        ul.cloud a[data-weight="9"] { --size: 5; }
+        ul.cloud a[data-weight="10"] { --size: 5; }
+        ul.cloud a[data-weight="11"] { --size: 6; }
+        ul.cloud a[data-weight="12"] { --size: 6; }
+        ul.cloud a[data-weight="13"] { --size: 7; }
+        ul.cloud a[data-weight="14"] { --size: 8; }
+        ul.cloud a[data-weight="15"] { --size: 8; }
+        ul.cloud a[data-weight="16"] { --size: 9; }
+        ul.cloud a[data-weight="17"] { --size: 9; }
+        ul.cloud a[data-weight="18"] { --size: 10; }
+        ul.cloud a[data-weight="19"] { --size: 10; }
+        ul.cloud a[data-weight="20"] { --size: 11; }
+        ul.cloud a[data-weight="21"] { --size: 11; }
+        ul.cloud a[data-weight="22"] { --size: 12; }
+        ul.cloud a[data-weight="23"] { --size: 12; }
+        ul.cloud a[data-weight="24"] { --size: 13; }
+
+
+        ul[data-show-value] a::after {
+          content: " (" attr(data-weight) ")";
+          font-size: 1rem;
+        }
+
+        ul.cloud li:nth-child(2n+1) a { --color: #181; }
+        ul.cloud li:nth-child(3n+1) a { --color: #33a; }
+        ul.cloud li:nth-child(4n+1) a { --color: #c38; }
+
+        ul.cloud a:focus {
+          outline: 1px dashed;
+        }
+
+        ul.cloud a::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 50%;
+          width: 0;
+          height: 100%;
+          background: var(--color);
+          transform: translate(-50%, 0);
+          opacity: 0.15;
+          transition: width 0.25s;
+        }
+
+        ul.cloud a:focus::before,
+        ul.cloud a:hover::before {
+          width: 100%;
+        }
+
+        @media (prefers-reduced-motion) {
+          ul.cloud * {
+            transition: none !important;
+          }
+        }
+
+    </style>
+</head>
+<body>
+<div id="icon" onclick="window.location='/';"></div>
+<h1 class="title">In Case You Missed It (Law)<br>
+<span class="subtitle">Digest for Thursday December 22, 2022</span>
+</h1>
+<div class="choose_date">
+<duet-date-picker identifier="date" style="width:200px;"></duet-date-picker>
+</div>
+
+<div class="content">
+<div class="intro">
+<p>
+Greetings, my name is <a href="https://mastodon.social/@Colarusso" target="_blank">David Colarusso</a>. 
+I'm the director of Suffolk University Law School's 
+<a href="https://suffolklitlab.org/" target="_blank">Legal Innovation &amp; Technology (LIT) Lab</a>. 
+With one foot in law and the other in tech, I really want the open web to thrive, esp. 
+<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a>. To that end,
+I've put together this algorithmicly-genrated daily digest to showcase some of its great content. 
+If you like what you see, consider 
+<a href="https://www.washingtonpost.com/technology/2022/12/17/how-to-join-mastodon/" target="_blank">joining Mastodon</a>, 
+and following the <a rel="me" href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a> bot.
+<span style="background:#fff3b5"><b><i>
+You may also want to learn more about my Lab's
+<a href="https://forms.gle/1NAjwMLhLDsboiee9" target="_blank">April event</a> on collaborating at scale.
+</i></b></span>
+</p>
+<p>
+FWIW, here are some law-flavored server suggestions: 
+(1) <a href="https://esq.social" target="_blank">esq.social</a> (legal general interest);  
+(2) <a href="https://law.builders" target="_blank">law.builders</a> (legal tech et al.); and  
+(3) <a href="https://mastodon.lawprofs.org/" target="_blank">mastodon.lawprofs.org</a> (legal academics).
+</p>
+</div>
+
+<div class="toptoots">
+<h2>Top Posts</h2>
+<div class="toots"><iframe src="https://mastodon.social/@mmasnick/109553596358337572/embed" name="2022-12-22_0" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@Popehat/109552464021559397/embed" name="2022-12-22_1" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@QasimRashid/109555032272931095/embed" name="2022-12-22_2" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mstdn.social/@lawprofblawg/109552719431204156/embed" name="2022-12-22_3" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@drustevenson/109552667064051869/embed" name="2022-12-22_4" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://journa.host/@WalterShaub/109553695986159963/embed" name="2022-12-22_5" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@MarinKLevy/109553956965340823/embed" name="2022-12-22_6" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://federate.social/@mattblaze/109553335749577425/embed" name="2022-12-22_7" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://esq.social/@annmlipton/109554673143945835/embed" name="2022-12-22_8" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://law-and-politics.online/@Teri_Kanefield/109553549166920428/embed" name="2022-12-22_9" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.lol/@evacide/109554536421454920/embed" name="2022-12-22_10" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@aramsinn/109552159519267151/embed" name="2022-12-22_11" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.cloud/@cathygellis/109554538479494883/embed" name="2022-12-22_12" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@heidilifeldman/109553849698455142/embed" name="2022-12-22_13" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@zoetillman/109554310452827452/embed" name="2022-12-22_14" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@klonick/109552396305944499/embed" name="2022-12-22_15" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://thecooltable.wtf/@benjaminwittes/109554415339145456/embed" name="2022-12-22_16" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mstdn.social/@maxkennerly/109554007579173567/embed" name="2022-12-22_17" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://esq.social/@Jason/109553978786530738/embed" name="2022-12-22_18" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@emptywheel/109554156351497237/embed" name="2022-12-22_19" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
+</div>
+</div>
+
+<h2>Most-Shared Links</h2><p>Here are yesterday's most-shared links from <a href="https://esq.social/tags/law" target="_blank">#Law</a>/<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a> folks I follow.¹</p><ol>
+<li><a href='https://www.techdirt.com/2022/12/21/why-would-anyone-use-another-centralized-social-media-service-after-this/' target='_blank'>Why Would Anyone Use Another Centralized Social Media Service After This? | Techdirt</a> (~7 shares)</li>
+<li><a href='https://firearmslaw.duke.edu/2022/04/public-nuisance-liability-and-the-irrelevance-of-the-second-amendment/' target='_blank'>Public Nuisance Liability and the Irrelevance of the Second Amendment | Duke Center for Firearms Law</a> (~5 shares)</li>
+<li><a href='https://www.bloomberg.com/news/articles/2022-12-21/trump-lawyer-accused-of-evading-subpoena-in-giuliani-lawsuit' target='_blank'>[couldn't read title] </a> (~4 shares)</li>
+<li><a href='https://www.scribd.com/document/615575243/Gorge-Design-v-Xuansheng-Fed-Cir-briefs' target='_blank'>Gorge Design v. Xuansheng - Fed. Cir. briefs | PDF | Lawsuit | Injunction</a> (~4 shares)</li>
+<li><a href='https://www.whitehouse.gov/briefing-room/statements-releases/2022/12/21/president-biden-names-twenty-eighth-round-of-judicial-nominees/' target='_blank'>President Biden Names Twenty-Eighth Round of Judicial Nominees | The White House</a> (~4 shares)</li>
+<li><a href='https://www.wivb.com/wp-content/uploads/sites/97/2022/12/The_City_of_Buffalo_COMPLAINT_2.pdf' target='_blank'>[couldn't read title] </a> (~4 shares)</li>
+<li><a href='https://sites.northwestern.edu/sarahlawsky/websites/' target='_blank'>403 Forbidden</a> (~4 shares)</li>
+<li><a href='https://www.eff.org/deeplinks/2022/12/user-generated-content-and-fediverse-legal-primer' target='_blank'>User Generated Content and the Fediverse: A Legal Primer | Electronic Frontier Foundation</a> (~3 shares)</li>
+<li><a href='https://january6th.house.gov/news/press-releases/release-select-committee-materials' target='_blank'>Release of Select Committee Materials | Select Committee to Investigate the January 6th Attack on the United States Capitol</a> (~3 shares)</li>
+<li><a href='https://january6th.house.gov/sites/democrats.january6th.house.gov/files/20220719_Garrett%20M.%20Ziegler.pdf' target='_blank'>[couldn't read title] </a> (~3 shares)</li>
+</ol><p class="footnote">¹ <i>Yesterday</i> includes today before this list was generated.</p>
+
+<h2>SSRN Roundup</h2><p>I keep an eye out for links to SSRN. Once I collect five, I share them. This is the most-recent bundle.¹</p><ul>
+<li><a href="https://papers.ssrn.com/abstract_id=4097094" target="_blank">[couldn't read title] </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213674" target="_blank">Moderating the Fediverse: Content Moderation on Distributed Social Media by Alan Z. Rozenshtein </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4097094" target="_blank">Pregnant Workers Fairness Acts: Advancing a Progressive Policy in Both Red and Blue America by Deborah A. Widiss </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3937438" target="_blank">Invisible Primes: Fintech Lending with Alternative Data by Marco Di Maggio, Dimuthu Ratnadiwakara, Don Carmichael </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300736" target="_blank">The Case Against the Debt Tax by Vijay Raghavan </a></li>
+</ul><p class="footnote">¹ Depending on how much folks are sharing, there could be more or less than one bundle per day, this is just the most-recent one.</p>
+
+<div class="hashtags"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul class="cloud" role="navigation" aria-label="Webdev word cloud"><li><a href="https://esq.social/tags/thespiritofchristmas" data-weight="3" target="_blank">thespiritofchristmas (3)</a></li><li><a href="https://esq.social/tags/ucurising" data-weight="3" target="_blank">ucurising (3)</a></li><li><a href="https://esq.social/tags/twitter" data-weight="3" target="_blank">twitter (3)</a></li><li><a href="https://esq.social/tags/fediverse" data-weight="3" target="_blank">fediverse (3)</a></li><li><a href="https://esq.social/tags/scotus" data-weight="3" target="_blank">scotus (3)</a></li><li><a href="https://esq.social/tags/Ukraine" data-weight="3" target="_blank">Ukraine (3)</a></li><li><a href="https://esq.social/tags/beer" data-weight="3" target="_blank">beer (3)</a></li><li><a href="https://esq.social/tags/northwesternlaw" data-weight="4" target="_blank">northwesternlaw (4)</a></li><li><a href="https://esq.social/tags/appellatetwitter" data-weight="5" target="_blank">appellatetwitter (5)</a></li><li><a href="https://esq.social/tags/solstice" data-weight="5" target="_blank">solstice (5)</a></li><li><a href="https://esq.social/tags/taxprof" data-weight="5" target="_blank">taxprof (5)</a></li><li><a href="https://esq.social/tags/designpatents" data-weight="6" target="_blank">designpatents (6)</a></li><li><a href="https://esq.social/tags/photography" data-weight="6" target="_blank">photography (6)</a></li><li><a href="https://esq.social/tags/ghostgun" data-weight="6" target="_blank">ghostgun (6)</a></li><li><a href="https://esq.social/tags/bruen" data-weight="7" target="_blank">bruen (7)</a></li><li><a href="https://esq.social/tags/hanukkah" data-weight="7" target="_blank">hanukkah (7)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="24" target="_blank">lawfedi (24)</a></li><li><a href="https://esq.social/tags/law" data-weight="17" target="_blank">law (17)</a></li><li><a href="https://esq.social/tags/elb" data-weight="11" target="_blank">elb (11)</a></li><li><a href="https://esq.social/tags/Introduction" data-weight="10" target="_blank">Introduction (10)</a></li><li><a href="https://esq.social/tags/litigation" data-weight="9" target="_blank">litigation (9)</a></li><li><a href="https://esq.social/tags/schedulea" data-weight="9" target="_blank">schedulea (9)</a></li><li><a href="https://esq.social/tags/lawstudents" data-weight="7" target="_blank">lawstudents (7)</a></li><li><a href="https://esq.social/tags/iranprotests" data-weight="7" target="_blank">iranprotests (7)</a></li><li><a href="https://esq.social/tags/mastodon" data-weight="7" target="_blank">mastodon (7)</a></li><li><a href="https://esq.social/tags/guns" data-weight="6" target="_blank">guns (6)</a></li><li><a href="https://esq.social/tags/ai" data-weight="6" target="_blank">ai (6)</a></li><li><a href="https://esq.social/tags/publicnuisance" data-weight="6" target="_blank">publicnuisance (6)</a></li><li><a href="https://esq.social/tags/lawprofs" data-weight="6" target="_blank">lawprofs (6)</a></li><li><a href="https://esq.social/tags/patents" data-weight="6" target="_blank">patents (6)</a></li><li><a href="https://esq.social/tags/firearms" data-weight="6" target="_blank">firearms (6)</a></li><li><a href="https://esq.social/tags/2a" data-weight="5" target="_blank">2a (5)</a></li><li><a href="https://esq.social/tags/lawschool" data-weight="5" target="_blank">lawschool (5)</a></li><li><a href="https://esq.social/tags/copyright" data-weight="5" target="_blank">copyright (5)</a></li><li><a href="https://esq.social/tags/foodie" data-weight="5" target="_blank">foodie (5)</a></li><li><a href="https://esq.social/tags/food" data-weight="5" target="_blank">food (5)</a></li><li><a href="https://esq.social/tags/democracy" data-weight="5" target="_blank">democracy (5)</a></li><li><a href="https://esq.social/tags/federalcircuit" data-weight="5" target="_blank">federalcircuit (5)</a></li><li><a href="https://esq.social/tags/mazeldon" data-weight="5" target="_blank">mazeldon (5)</a></li><li><a href="https://esq.social/tags/openaccess" data-weight="4" target="_blank">openaccess (4)</a></li><li><a href="https://esq.social/tags/beerreview" data-weight="4" target="_blank">beerreview (4)</a></li><li><a href="https://esq.social/tags/wintersolstice" data-weight="3" target="_blank">wintersolstice (3)</a></li><li><a href="https://esq.social/tags/titleix" data-weight="3" target="_blank">titleix (3)</a></li><li><a href="https://esq.social/tags/lawprof" data-weight="3" target="_blank">lawprof (3)</a></li><li><a href="https://esq.social/tags/legaltech" data-weight="3" target="_blank">legaltech (3)</a></li><li><a href="https://esq.social/tags/politics" data-weight="3" target="_blank">politics (3)</a></li><li><a href="https://esq.social/tags/tesla" data-weight="3" target="_blank">tesla (3)</a></li><li><a href="https://esq.social/tags/publichealthlaw" data-weight="3" target="_blank">publichealthlaw (3)</a></li><li><a href="https://esq.social/tags/trump" data-weight="3" target="_blank">trump (3)</a></li><li><a href="https://esq.social/tags/dogs" data-weight="3" target="_blank">dogs (3)</a></li></ul></div>
+
+<div class="hashtags_mobile"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul><li><a href="https://esq.social/tags/lawfedi" data-weight="24" target="_blank">lawfedi (24)</a></li><li><a href="https://esq.social/tags/law" data-weight="17" target="_blank">law (17)</a></li><li><a href="https://esq.social/tags/elb" data-weight="11" target="_blank">elb (11)</a></li><li><a href="https://esq.social/tags/Introduction" data-weight="10" target="_blank">Introduction (10)</a></li><li><a href="https://esq.social/tags/litigation" data-weight="9" target="_blank">litigation (9)</a></li><li><a href="https://esq.social/tags/schedulea" data-weight="9" target="_blank">schedulea (9)</a></li><li><a href="https://esq.social/tags/mastodon" data-weight="7" target="_blank">mastodon (7)</a></li><li><a href="https://esq.social/tags/iranprotests" data-weight="7" target="_blank">iranprotests (7)</a></li><li><a href="https://esq.social/tags/hanukkah" data-weight="7" target="_blank">hanukkah (7)</a></li><li><a href="https://esq.social/tags/lawstudents" data-weight="7" target="_blank">lawstudents (7)</a></li></ul></div>
+
+<div style="float:left;">
+<h2>Traffic</h2>
+Of course, these insights are all thanks to a community of users, namely the folks I follow over at <a href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a>. 
+For fun, here's a look at their posting traffic yesterday. 
+I like trying to create stories about the daily ups and downs. What is that bump? ;)
+
+<p style="text-align:center;"><a href="../plots/2022-12-21_end_of_day.png" target="_blank"><img src="../plots/2022-12-21_end_of_day.png" width="100%" ALT="Plot of yesterday's posts" border="0px" style="border-radius: 5px;"/></a></p>
+
+</div>
+<div class="footer" style="text-align:center;">
+<font size=-1>~ Created December 22, 2022 @ 01:12 AM US/Eastern ~</font>
+</div></div>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/themes/default.css" />
+</body>
+<script>
+  function isPresent(date) {
+    if ((new Date(date).getTime() < new Date("2022-12-20").getTime()) || (new Date(date).getTime() >= new Date().getTime())){
+        return true
+    } else {
+        return false
+    }
+  }
+
+  const pickerDisable = document.querySelector("duet-date-picker")
+  pickerDisable.isDateDisabled = isPresent
+
+  pickerDisable.addEventListener("duetChange", function(e) {
+    if (isWeekend(e.detail.valueAsDate)) {
+      alert("Please select a day in the past, but after 2022-12-19.")
+    }
+  })
+  
+ document.addEventListener("duetChange", myFunction);
+
+ function myFunction() {
+  document.location.href = document.getElementById("date").value + ".html";
+ }   
+</script>
+</html>
