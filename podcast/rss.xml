@@ -10,7 +10,7 @@
     <itunes:summary>A daily digest of law-themed happenings in the fediverse, including most-shared links and the SSRN paper of the day.</itunes:summary>
     <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
     <language>en-us</language>
-    <itunes:category text="News &amp; Politics"/>
+    <itunes:category text="Daily News"/>
     <link>https://icymilaw.org</link>
     <item>
       <title>In Case You Missed It (Law): 2022-12-21</title>
