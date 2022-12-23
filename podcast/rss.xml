@@ -13,6 +13,20 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2022-12-23</title>
+      <link>https://icymilaw.org/archive/2022-12-23.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[Max here, bringing you the latest news! Ukrainian President Volodymyr Zelensky made a strong plea to Congress for more support in the war against Russia. Brooklyn Law School is looking for an experienced leader for a civil litigation clinic, and Google's control of the digital ad industry is opening the door to a range of abuses and schemes. Stay tuned for more updates, and don't forget to keep it locked here for all the latest news. <a href=”https://icymilaw.org/archive/2022-12-23.html”>View the Digest/Primary Sources</a>]]>
+        </content>
+      </description>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-23_show.mp3"
+                 type="audio/mpeg" length="272549"/>
+      <itunes:duration>273</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-23_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2022-12-22</title>
       <link>https://icymilaw.org/archive/2022-12-22.html</link>
       <description>
