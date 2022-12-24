@@ -13,6 +13,20 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2022-12-24</title>
+      <link>https://icymilaw.org/archive/2022-12-24.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[Welcome to the news! U.S. lawmakers have left out an important proposal to make court records free and Twitter has removed a suicide prevention feature. And two conservative prosecutors have been nominated for vacancies on their states' highest courts. Stay tuned for more information on these stories! <a href=”https://icymilaw.org/archive/2022-12-24.html”>View the Digest/Primary Sources</a>]]>
+        </content>
+      </description>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-24_show.mp3"
+                 type="audio/mpeg" length="250669"/>
+      <itunes:duration>251</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-24_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2022-12-23</title>
       <link>https://icymilaw.org/archive/2022-12-23.html</link>
       <description>
