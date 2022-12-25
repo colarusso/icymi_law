@@ -13,6 +13,20 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2022-12-25</title>
+      <link>https://icymilaw.org/archive/2022-12-25.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[Welcome to the world of technology, where your data is being shared and your security is being compromised! First, we’ll look at the news that tax return websites are sending user financial information to Facebook. Then, we’ll delve into the Israeli cyber firm Toka and its capabilities. Finally, we’ll explore the difficulty of leaving a social media platform when it is being used by abusers. Stay with us as we explore the ever-changing landscape of the World Wide Web. <a href=”https://icymilaw.org/archive/2022-12-25.html”>View the Digest/Primary Sources</a>]]>
+        </content>
+      </description>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-25_show.mp3?v=2"
+                 type="audio/mpeg" length="240906"/>
+      <itunes:duration>241</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-25_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2022-12-24</title>
       <link>https://icymilaw.org/archive/2022-12-24.html</link>
       <description>
