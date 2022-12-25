@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<HTML xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml"><html>
+<head>
+    <title>In Case You Missed It (Law)</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <link rel="apple-touch-icon" href="/icymi_law/images/icon_300.png"/>
+    
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="In Case You Missed It (Law) "/>
+    <meta property="og:description" content="A daily digest of law-themed happenings in the fediverse, including the most-shared links, an SSRN roundup, and the community's top Mastodon posts."/>
+    <meta property="og:image" content="https://sb-esq-social.b-cdn.net/accounts/avatars/109/428/291/259/323/869/original/e525a8b28919a4f8.gif"/>
+
+    <link rel="stylesheet" type="text/css" href="../style/style.css?v=2022-12-25">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for ICYMI Law's AI-Summarized Podcast" href="https://icymilaw.org/podcast/rss.xml" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RB08M9FHX6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-RB08M9FHX6');
+    </script>
+    
+    <style>
+
+        ul.cloud {
+          list-style: none;
+          padding-left: 0;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
+          line-height: 2.75rem;
+          width: 100%;
+        }
+
+        ul.cloud a {
+          /*   
+          Not supported by any browser at the moment :(
+          --size: attr(data-weight number); 
+          */
+          --size: 4;
+          --color: #a33;
+          color: var(--color);
+          font-size: calc(var(--size) * 0.25rem + 0.5rem);
+          display: block;
+          padding: 0.125rem 0.25rem;
+          position: relative;
+          text-decoration: none;
+          /* 
+          For different tones of a single color
+          opacity: calc((15 - (9 - var(--size))) / 15); 
+          */
+        }
+        
+        ul.cloud a[data-weight="1"] { --size: 1; }
+        ul.cloud a[data-weight="2"] { --size: 2; }
+        ul.cloud a[data-weight="3"] { --size: 3; }
+        ul.cloud a[data-weight="4"] { --size: 4; }
+        ul.cloud a[data-weight="5"] { --size: 5; }
+        ul.cloud a[data-weight="6"] { --size: 6; }
+        ul.cloud a[data-weight="7"] { --size: 8; }
+        ul.cloud a[data-weight="8"] { --size: 9; }
+        ul.cloud a[data-weight="9"] { --size: 10; }
+        ul.cloud a[data-weight="10"] { --size: 11; }
+        ul.cloud a[data-weight="11"] { --size: 12; }
+        ul.cloud a[data-weight="12"] { --size: 13; }
+
+
+        ul[data-show-value] a::after {
+          content: " (" attr(data-weight) ")";
+          font-size: 1rem;
+        }
+
+        ul.cloud li:nth-child(2n+1) a { --color: #181; }
+        ul.cloud li:nth-child(3n+1) a { --color: #33a; }
+        ul.cloud li:nth-child(4n+1) a { --color: #c38; }
+
+        ul.cloud a:focus {
+          outline: 1px dashed;
+        }
+
+        ul.cloud a::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 50%;
+          width: 0;
+          height: 100%;
+          background: var(--color);
+          transform: translate(-50%, 0);
+          opacity: 0.15;
+          transition: width 0.25s;
+        }
+
+        ul.cloud a:focus::before,
+        ul.cloud a:hover::before {
+          width: 100%;
+        }
+
+        @media (prefers-reduced-motion) {
+          ul.cloud * {
+            transition: none !important;
+          }
+        }
+
+    </style>
+    <link rel="stylesheet" type="text/css" href="../style/green-audio-player.css">
+    <script src="../js/green-audio-player.js"></script>
+</head>
+<body>
+<div id="icon" onclick="window.location='/';"></div>
+<h1 class="title">In Case You Missed It (Law)<br>
+<span class="subtitle">Digest for Sunday December 25, 2022</span>
+</h1>
+<div class="choose_date">
+<duet-date-picker identifier="date" value="2022-12-25" style="width:200px;"></duet-date-picker>
+</div>
+
+<div class="content">
+<div class="intro">
+  <div class="audio_container_container" style="display:block;">
+    <div class="audio_container">
+      <div class="pod_cover">
+        <img src="../images/icymi_cover_1400.png" style="height:125px;width:125px" aligh="left" alt="Cover art for the podcast. An elephant in sunglasses."/>
+      </div>
+
+      <b>Today's AI-Generated Podcast</b>
+      <div class="gap-example player-accessible">
+        <audio>
+            <source src="../podcast/2022-12-25_show.mp3" type="audio/mpeg">
+        </audio>
+      </div>
+      <span class="playback">
+        Speed: <a href="javascript:void('')" onClick="set_speed(0.5)" class="playback" id="pb05">0.5x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(1)" class="playback" id="pb10" style="font-weight:900;">1x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(1.5)" class="playback" id="pb15">1.5x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(2)" class="playback" id="pb20">2x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(3)" class="playback" id="pb30">3x</a>
+      </span>
+      <div class="subscribe">
+        <a target="_blank" href="https://icymilaw.org/podcast/rss.xml" style="display: inline-block; background-color: #FFFFFF; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #eee; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: -230px -653px; height: 40px; width: 121px;">RSS Feed</a>
+        <a target="_blank" href="https://podcasts.apple.com/us/podcast/in-case-you-missed-it-law/id1661174664" style="display: inline-block; background-color: #FFFFFF; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #eee; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: -230px 7px; height: 40px; width: 165px;">Listen on Apple Podcasts</a>
+      </div>
+
+    </div>
+  </div>
+<p>
+Greetings, my name is <a href="https://mastodon.social/@Colarusso" target="_blank">David Colarusso</a>. 
+I'm the director of Suffolk University Law School's 
+<a href="https://suffolklitlab.org/" target="_blank">Legal Innovation &amp; Technology (LIT) Lab</a>. 
+With one foot in law and the other in tech, I really want the open web to thrive, esp. 
+<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a>. To that end,
+I've coded this algorithmicly-genrated digest and the AI-summarized podcast to showcase some of its great content. 
+If you like what you see, consider 
+<a href="https://www.washingtonpost.com/technology/2022/12/17/how-to-join-mastodon/" target="_blank">joining Mastodon</a>, 
+and following the <a rel="me" href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a> bot.
+<span style="background:#fff3b5"><b><i>
+You may also want to learn more about my Lab's
+<a href="https://forms.gle/1NAjwMLhLDsboiee9" target="_blank">April event</a> on collaborating at scale.
+</i></b></span>
+</p>
+<p>
+FWIW, here are some law-flavored server suggestions: 
+(1) <a href="https://esq.social" target="_blank">esq.social</a> (legal general interest);  
+(2) <a href="https://law.builders" target="_blank">law.builders</a> (legal tech et al.); and  
+(3) <a href="https://mastodon.lawprofs.org/" target="_blank">mastodon.lawprofs.org</a> (legal academics).
+</p>
+<p><i>
+  A few folks have asked for an email newsletter, but I'd probably have to pay for a service if I don't want it showing up in spam folders.
+  Consequently, I'm only game if enough folks (~100) <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0JLlCg95yXLf0oBPjNaYJy1w6ZY6iUpr4dAkT7_Sl74bwcA/viewform?usp=sf_link" target="_blank">sign up to be on the mailing list</a>.
+  Content would basically be a text version of <a href="https://podcasts.apple.com/us/podcast/in-case-you-missed-it-law/id1661174664" target="_blank">the podcast</a> with links.
+</i></p>
+</div>
+
+<div class="toptoots">
+<h2>Top Posts</h2>
+<div class="toots"><iframe src="https://mastodon.social/@QasimRashid/109569525819236627/embed" id="frame_2022-12-25_0" name="frame_2022-12-25_0" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@Popehat/109566608755402420/embed" id="frame_2022-12-25_1" name="frame_2022-12-25_1" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.lol/@evacide/109566914500652154/embed" id="frame_2022-12-25_2" name="frame_2022-12-25_2" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mas.to/@marcelias/109565992515586884/embed" id="frame_2022-12-25_3" name="frame_2022-12-25_3" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@heidilifeldman/109566055186986511/embed" id="frame_2022-12-25_4" name="frame_2022-12-25_4" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@FrankPasquale/109567312603209079/embed" id="frame_2022-12-25_5" name="frame_2022-12-25_5" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@scottjshapiro/109569117312694929/embed" id="frame_2022-12-25_6" name="frame_2022-12-25_6" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@design_law/109569366279917491/embed" id="frame_2022-12-25_7" name="frame_2022-12-25_7" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://journa.host/@WalterShaub/109569399325819272/embed" id="frame_2022-12-25_8" name="frame_2022-12-25_8" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.green/@davidallengreen/109567797181033448/embed" id="frame_2022-12-25_9" name="frame_2022-12-25_9" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@Maybellromero/109571309310033777/embed" id="frame_2022-12-25_10" name="frame_2022-12-25_10" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@klonick/109571221441591656/embed" id="frame_2022-12-25_11" name="frame_2022-12-25_11" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://esq.social/@andrew/109569892391772076/embed" id="frame_2022-12-25_12" name="frame_2022-12-25_12" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mas.to/@trabern/109570215493155561/embed" id="frame_2022-12-25_13" name="frame_2022-12-25_13" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://federate.social/@mattblaze/109570940275911023/embed" id="frame_2022-12-25_14" name="frame_2022-12-25_14" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://thecooltable.wtf/@benjaminwittes/109566001665321136/embed" id="frame_2022-12-25_15" name="frame_2022-12-25_15" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.online/@nataliesedacca/109568448754319810/embed" id="frame_2022-12-25_16" name="frame_2022-12-25_16" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mstdn.social/@keribla/109569234995702789/embed" id="frame_2022-12-25_17" name="frame_2022-12-25_17" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mastodon.social/@SeanJones/109570323914187918/embed" id="frame_2022-12-25_18" name="frame_2022-12-25_18" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://mstdn.social/@lawprofblawg/109566008865936948/embed" id="frame_2022-12-25_19" name="frame_2022-12-25_19" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+<script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
+</div>
+</div>
+
+<h2>Most-Shared Links</h2><p>Here are yesterday's most-shared links from <a href="https://esq.social/tags/law" target="_blank">#Law</a>/<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a> folks I follow.¹</p><ol>
+<li><a href='https://news.bloombergtax.com/tax-insights-and-commentary/facebook-leak-just-one-reason-taxpayer-data-sharing-must-stop' target='_blank'>Facebook Leak Just One Reason Taxpayer Data Sharing Must Stop</a> (~6 shares)</li>
+<li><a href='https://www.haaretz.com/israel-news/security-aviation/2022-12-23/ty-article-magazine/.premium/revealed-the-israeli-firm-selling-dystopian-hacking-capabilities/00000185-0bc6-d26d-a1b7-dbd739100000' target='_blank'>Revealed: The Israeli Firm Selling ‘Dystopian’ Hacking Capabilities - National Security & Cyber - Haaretz.com</a> (~6 shares)</li>
+<li><a href='https://www.reuters.com/technology/elon-musk-orders-removal-twitter-suicide-prevention-feature-sources-say-2022-12-23/' target='_blank'>Exclusive: Twitter removes suicide prevention feature, says it's under revamp | Reuters</a> (~5 shares)</li>
+<li><a href='https://pluralistic.net/2022/12/23/semipermeable-membranes/' target='_blank'>Pluralistic: What the fediverse (does/n’t) solve (23 Dec 2022) – Pluralistic: Daily links from Cory Doctorow</a> (~5 shares)</li>
+<li><a href='https://github.com/ajleahey/tootages/blob/main/app.py' target='_blank'>tootages/app.py at main · ajleahey/tootages · GitHub</a> (~4 shares)</li>
+<li><a href='https://robhorning.substack.com/p/every-answer' target='_blank'>Every answer - by Rob Horning - Internal exile</a> (~4 shares)</li>
+<li><a href='https://www.washingtonpost.com/technology/2022/12/24/elon-musk-twitter-meltdown-tesla/' target='_blank'>Elon Musk’s unpredictable Twitter habits have Tesla investors worried - The Washington Post</a> (~4 shares)</li>
+<li><a href='https://esq.social' target='_blank'>esq.social</a> (~4 shares)</li>
+<li><a href='https://www.damemagazine.com/' target='_blank'>Dame Magazine | For Women Who Know Better</a> (~4 shares)</li>
+<li><a href='http://tootages.herokuapp.com' target='_blank'>esq.social - the visual guide</a> (~4 shares)</li>
+</ol><p class="footnote">¹ <i>Yesterday</i> includes today before this list was generated.</p>
+
+<h2>SSRN Roundup</h2><p>I keep an eye out for links to SSRN. Once I collect five, I share them. This is the most-recent bundle.¹</p><ul>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4001099" target="_blank">The Truth About Design Patents by Sarah Burstein, Saurabh Vishnubhakat </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265295" target="_blank">A Regulatory Classification of Digital Assets: Toward an Operational Howey Test for Cryptocurrencies, ICOs, and Other Digital Assets by M. Todd Henderson, Max Raskin </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814925" target="_blank">Endogenous and Dangerous by Brian Larson </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250452" target="_blank">The Copyright Claims Board: Good News or Bad News for Communication Scholars? by Patricia Aufderheide, Aram Sinnreich </a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4304442#" target="_blank">Myths and Reality of Patent Law at the Supreme Court by Mark A. Lemley, Paul R. Gugliuzza </a></li>
+</ul><p class="footnote">¹ Depending on how much folks are sharing, there could be more or less than one bundle per day, this is just the most-recent one.</p>
+
+<div class="hashtags"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul class="cloud" role="navigation" aria-label="Webdev word cloud"><li><a href="https://esq.social/tags/designpatents" data-weight="3" target="_blank">designpatents (3)</a></li><li><a href="https://esq.social/tags/insurrection" data-weight="3" target="_blank">insurrection (3)</a></li><li><a href="https://esq.social/tags/criminaljustice" data-weight="3" target="_blank">criminaljustice (3)</a></li><li><a href="https://esq.social/tags/congress" data-weight="3" target="_blank">congress (3)</a></li><li><a href="https://esq.social/tags/github" data-weight="4" target="_blank">github (4)</a></li><li><a href="https://esq.social/tags/lawtwitter" data-weight="4" target="_blank">lawtwitter (4)</a></li><li><a href="https://esq.social/tags/forcedlabour" data-weight="4" target="_blank">forcedlabour (4)</a></li><li><a href="https://esq.social/tags/lawprofs" data-weight="5" target="_blank">lawprofs (5)</a></li><li><a href="https://esq.social/tags/catsofmastodon" data-weight="6" target="_blank">catsofmastodon (6)</a></li><li><a href="https://esq.social/tags/christmaseve" data-weight="8" target="_blank">christmaseve (8)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="10" target="_blank">lawfedi (10)</a></li><li><a href="https://esq.social/tags/caturday" data-weight="11" target="_blank">caturday (11)</a></li><li><a href="https://esq.social/tags/elb" data-weight="12" target="_blank">elb (12)</a></li><li><a href="https://esq.social/tags/law" data-weight="10" target="_blank">law (10)</a></li><li><a href="https://esq.social/tags/christmas" data-weight="10" target="_blank">christmas (10)</a></li><li><a href="https://esq.social/tags/mastodon" data-weight="7" target="_blank">mastodon (7)</a></li><li><a href="https://esq.social/tags/Taxlaw" data-weight="6" target="_blank">Taxlaw (6)</a></li><li><a href="https://esq.social/tags/fediverse" data-weight="5" target="_blank">fediverse (5)</a></li><li><a href="https://esq.social/tags/workersrights" data-weight="4" target="_blank">workersrights (4)</a></li><li><a href="https://esq.social/tags/music" data-weight="4" target="_blank">music (4)</a></li><li><a href="https://esq.social/tags/art" data-weight="4" target="_blank">art (4)</a></li><li><a href="https://esq.social/tags/python" data-weight="4" target="_blank">python (4)</a></li><li><a href="https://esq.social/tags/garmentindustry" data-weight="4" target="_blank">garmentindustry (4)</a></li><li><a href="https://esq.social/tags/exploitation" data-weight="4" target="_blank">exploitation (4)</a></li><li><a href="https://esq.social/tags/crypto" data-weight="4" target="_blank">crypto (4)</a></li><li><a href="https://esq.social/tags/flask" data-weight="4" target="_blank">flask (4)</a></li><li><a href="https://esq.social/tags/heroku" data-weight="4" target="_blank">heroku (4)</a></li><li><a href="https://esq.social/tags/photography" data-weight="4" target="_blank">photography (4)</a></li><li><a href="https://esq.social/tags/twittermigration" data-weight="3" target="_blank">twittermigration (3)</a></li><li><a href="https://esq.social/tags/merrychristmas" data-weight="3" target="_blank">merrychristmas (3)</a></li><li><a href="https://esq.social/tags/books" data-weight="3" target="_blank">books (3)</a></li><li><a href="https://esq.social/tags/cats" data-weight="3" target="_blank">cats (3)</a></li><li><a href="https://esq.social/tags/prison" data-weight="3" target="_blank">prison (3)</a></li><li><a href="https://esq.social/tags/noonlasalle" data-weight="3" target="_blank">noonlasalle (3)</a></li><li><a href="https://esq.social/tags/whispercash" data-weight="3" target="_blank">whispercash (3)</a></li><li><a href="https://esq.social/tags/etymologyfunfactoftheday" data-weight="3" target="_blank">etymologyfunfactoftheday (3)</a></li></ul></div>
+
+<div class="hashtags_mobile"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul><li><a href="https://esq.social/tags/elb" data-weight="12" target="_blank">elb (12)</a></li><li><a href="https://esq.social/tags/caturday" data-weight="11" target="_blank">caturday (11)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="10" target="_blank">lawfedi (10)</a></li><li><a href="https://esq.social/tags/christmas" data-weight="10" target="_blank">christmas (10)</a></li><li><a href="https://esq.social/tags/law" data-weight="10" target="_blank">law (10)</a></li><li><a href="https://esq.social/tags/christmaseve" data-weight="8" target="_blank">christmaseve (8)</a></li><li><a href="https://esq.social/tags/mastodon" data-weight="7" target="_blank">mastodon (7)</a></li><li><a href="https://esq.social/tags/Taxlaw" data-weight="6" target="_blank">Taxlaw (6)</a></li><li><a href="https://esq.social/tags/catsofmastodon" data-weight="6" target="_blank">catsofmastodon (6)</a></li><li><a href="https://esq.social/tags/lawprofs" data-weight="5" target="_blank">lawprofs (5)</a></li></ul></div>
+
+<div style="float:left;">
+<h2>Traffic</h2>
+Of course, these insights are all thanks to a community of users, namely the folks I follow over at <a href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a>. 
+For fun, here's a look at their posting traffic yesterday. 
+I like trying to create stories about the daily ups and downs. What is that bump? ;)
+
+<p style="text-align:center;"><a href="../plots/2022-12-24_end_of_day.png" target="_blank"><img src="../plots/2022-12-24_end_of_day.png" width="100%" ALT="Plot of yesterday's posts" border="0px" style="border-radius: 5px;"/></a></p>
+
+</div>
+<div class="footer" style="text-align:center;">
+<font size=-1>~ Created December 24, 2022 @ 20:12 US/Eastern ~</font>
+</div></div>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/themes/default.css" />
+</body>
+<script>
+  function isPresent(date) {
+    if ((new Date(date).getTime() < new Date("2022-12-20").getTime()) || (new Date(date).getTime() >= new Date().getTime())){
+        return true
+    } else {
+        return false
+    }
+  }
+
+  const pickerDisable = document.querySelector("duet-date-picker")
+  pickerDisable.isDateDisabled = isPresent
+
+  pickerDisable.addEventListener("duetChange", function(e) {
+    if (isWeekend(e.detail.valueAsDate)) {
+      alert("Please select a day in the past, but after 2022-12-19.")
+    }
+  })
+  
+ document.addEventListener("duetChange", myFunction);
+
+ function myFunction() {
+  document.location.href = document.getElementById("date").value + ".html";
+ }   
+
+ new GreenAudioPlayer('.gap-example');
+ const audio_object = document.querySelector('.gap-example  audio');
+
+</script>
+</html>
