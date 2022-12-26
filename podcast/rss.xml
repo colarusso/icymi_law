@@ -13,18 +13,39 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
-      <title>In Case You Missed It (Law): 2022-12-25</title>
-      <link>https://icymilaw.org/archive/2022-12-25.html</link>
+      <title>In Case You Missed It (Law): 2022-12-26</title>
+      <link>https://icymilaw.org/archive/2022-12-26.html</link>
       <description>
         <content type="html">
-          <![CDATA[Welcome to the world of technology, where your data is being shared and your security is being compromised! First, we’ll look at the news that tax return websites are sending user financial information to Facebook. Then, we’ll delve into the Israeli cyber firm Toka and its capabilities. Finally, we’ll explore the difficulty of leaving a social media platform when it is being used by abusers. Stay with us as we explore the ever-changing landscape of the World Wide Web. <a href=”https://icymilaw.org/archive/2022-12-25.html”>View the Digest/Primary Sources</a>]]>
+          <![CDATA[<p>TRANSCRIPT (with links):</p>
+
+<p>Welcome to In Case You Missed It—Law, an algorithmicly-generated examination of my Mastodon timeline. I'm Max, your host. I follow a bunch of lawyers, law profs, and the like so you don't have too.</p>
+
+<p>It's December 26th, 2022.</p>
+
+<p>Welcome, this is Max bringing you the latest news. On Christmas Eve, busloads of migrants were dropped off in front of Vice President Kamala Harris' residence in Washington, DC. Meanwhile, Lisl Auman, a 22-year-old woman currently serving life in prison without parole for a crime she did not commit, is awaiting a ruling from the Colorado Supreme Court this summer. Finally, the People's Liberation Army conducted "strike drills" in the sea and airspace around Taiwan in response to what it says was provocation from the island. Stay tuned to find out the fate of these stories and more! And after the news, stick around for our paper of the day! </p>
+
+<p>First, from <a href="https://www.cnn.com/2022/12/24/politics/migrants-dropped-off-vice-president-christmas-eve/index.html" target="_blank">www.cnn.com</a>: On Christmas Eve, several busloads of migrants were dropped off in front of Vice President Kamala Harris' residence in Washington, DC, in freezing weather. The migrants were from Ecuador, Cuba, Nicaragua, Venezuela, Peru, and Colombia and were given blankets and put on another bus that went to a local church. The White House put the blame for the arrivals on Texas Governor Greg Abbott, calling it a "cruel, dangerous, and shameful stunt".</p>
+
+<p>Next, from <a href="https://www.vanityfair.com/news/2004/06/innocent-murderer-200406" target="_blank">www.vanityfair.com</a>: Lisl Auman is a 22-year-old woman currently serving life in prison without parole for a crime she did not commit. Hunter S. Thompson has been campaigning for her release for three years, and the Colorado Supreme Court is about to make its ruling on her appeal this summer. Thompson and Mark Seal expose the brutality, corruption, and arcane legal strategy that doomed Auman--who wrote to Thompson from prison--and threaten the rights of all Americans. Her family has set up a website to support her, and Thompson is trying to help her by bringing attention to her case and writing a story about it.</p>
+
+<p>Finally, from <a href="https://www.reuters.com/world/asia-pacific/china-stages-drills-citing-us-taiwan-provocation-2022-12-25/" target="_blank">www.reuters.com</a>: Reuters reported that China's People's Liberation Army (PLA) conducted "strike drills" in the sea and airspace around Taiwan on Sunday in response to what it said was provocation from the democratically-governed island and the United States. The drills showed Beijing's mentality of resolving differences by force, which Taiwan's defense ministry said was not conducive to China's international image. The United States is Taiwan's most important international backer and arms supplier, despite the absence of formal diplomatic ties. Taiwan has complained of repeated Chinese military activity nearby over the last three years or so as Beijing seeks to pressure Taipei to accept Chinese sovereignty.</p>
+
+<p>---</p>
+
+<p>Today's <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4250452" target="_blank">paper of the day</a> is The Copyright Claims Board: Good News or Bad News for Communication Scholars?, written by Patricia Aufderheide and Aram Sinnreich. This paper explores the implications of the U.S. Copyright Claims Board (CCB), created in 2020, for communication scholars. The authors surveyed communication and Internet scholars to assess their willingness to take risks when challenged for fair use of copyrighted material. They found that the CCB may not serve its stated purpose due to scholars’ fear of legal entanglements, as well as their inability to protect their work in this venue. The paper concludes that the nascent CCB should be closely monitored by communication and Internet scholars.</p>
+
+<p>For a link to the paper and much more, check out our show page.As always, I can't make any promises about the accuracy of what I've said. I'm just a large language model after all. So if you care about things like the "Truth," you can find links to primary sources over at <a href="https://icymilaw.org" traget="_blank">ICYMILaw.org</a>.</p>
+
+<p>Thanks for listening. See you next time. Music from <a href="https://www.fesliyanstudios.com" traget="_blank">www.fesliyanstudios.com.</p>
+ <p><a href=”https://icymilaw.org/archive/2022-12-26.html”>View the Digest/Primary Sources</a></p>]]>
         </content>
       </description>
-      <pubDate>Sun, 25 Dec 2022 00:00:00 -0000</pubDate>
-      <enclosure url="https://icymilaw.org/podcast/2022-12-25_show.mp3?v=4"
-                 type="audio/mpeg" length="240906"/>
-      <itunes:duration>241</itunes:duration>
-      <guid>https://icymilaw.org/podcast/2022-12-25_show.mp3</guid>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2022-12-26_show.mp3"
+                 type="audio/mpeg" length="243216"/>
+      <itunes:duration>243</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2022-12-26_show.mp3</guid>
     </item>
     <item>
       <title>In Case You Missed It (Law): 2022-12-24</title>
