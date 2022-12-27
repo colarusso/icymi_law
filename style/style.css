@@ -49,11 +49,11 @@ img {
 .toptoots {
     float:right;
     max-width:416px;
-    margin: 0px 0 0px 30px;
+    margin: 0px 0 20px 30px;
 }
 
 .toots {
-    height: 935px;
+    height: 950px;
     overflow-y:auto;
     background:white;
 }
