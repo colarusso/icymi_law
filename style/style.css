@@ -58,6 +58,29 @@ img {
     background:white;
 }
 
+.newsletter {
+	float:right;
+	font-family: "Roboto", sans-serif;
+	box-sizing: border-box;
+  background: #4497a6;
+	padding: 0 15px;
+  height: 35px;
+	font-size: 14px;
+  line-height: 35px;
+  text-align: center;
+  color: white;
+  font-weight: 550;
+  border-radius: 10px;
+	margin:0 0 15px 0;
+  box-sizing: border-box;
+}
+
+a.letterlink {
+	text-decoration: none;
+	margin:none;
+	padding:none;
+}
+
 .hashtags {
     float:left;
     width:100%%;

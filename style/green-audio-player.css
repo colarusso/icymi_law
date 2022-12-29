@@ -42,9 +42,14 @@
     width: 100%;
   }
   .audio_container {
-    margin: 0 auto 25px auto;
+    margin: 0 auto 8px auto;
     padding: 10px 0 0 0px;
     border: 0px solid #fff;
+  }
+  .newsletter {
+    float:none;
+    width:300px;
+    margin: 0 auto 25px auto;
   }
 }
 
