@@ -37,6 +37,12 @@ margin:20px 0 0px 0;
 padding: 10px 0 15px 0;
 }
 
+.intro_too{
+border-top: solid 1px #888;
+margin:20px 0 0px 0;
+padding: 10px 0 15px 0;
+}
+
 
 .content {
     margin:15px auto;
@@ -389,10 +395,54 @@ color: #888;
 		float:right;
 		width:22px;
 		height:16px;
-		background-image: url("http://www.codingthelaw.org/images/link.png");
+		background-image: url("../images/link.png");
 		background-repeat: no-repeat;
 		background-position: center;
 	}
+
+
+.vid_wrapper {
+	box-sizing: border-box;
+	float:left;
+	padding-bottom:25px;
+}
+
+.vid_wrapper_right {
+	box-sizing: border-box;
+	float:right;
+	padding-bottom:25px;
+	margin: 5px 0 0px 30px;
+}
+
+@media only screen and (max-width: 680px) {
+	.vid_wrapper, .vid_wrapper_right {
+		position:relative;
+		width:100%;
+	}
+	.profile_vid, .profile_vid_right {
+		float:none;
+		position:relative;
+		margin:15px auto;
+		width:400px;
+	}
+	.embed_vid {
+		float:none;
+		width:100%;
+	}
+	.profile_img {
+		float:none;
+		position:relative;
+		margin:15px auto;
+		width:400px;
+	}
+
+}
+
+@media only screen and (max-width: 420px) {
+	.profile_img {
+		width:100%;
+	}
+}
 
 @media only screen and (max-width: 750px) {
 	.toptoots {
