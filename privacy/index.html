@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<HTML xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml"><html>
+<head>
+    <title>Privacy for About In Case You Missed It (Law)</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <link rel="apple-touch-icon" href="/icymi_law/images/icon_300.png"/>
+
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="About In Case You Missed It (Law) "/>
+    <meta property="og:description" content="@ICYMI_Law is a bot, originally created to help members of the legal community discover content on Mastodon. At first all it did was boost posts, but it quikly grew as I added new features. The ICYMI (Law) family now includes the bot, this website, and a podcast. This page explains how the data collected by this site are used."/>
+    <meta property="og:image" content="https://sb-esq-social.b-cdn.net/accounts/avatars/109/428/291/259/323/869/original/e525a8b28919a4f8.gif"/>
+
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <link rel="stylesheet" type="text/css" href="../style/style.css?v=2022-12-28">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for ICYMI Law's AI-Summarized Podcast" href="https://icymilaw.org/podcast/rss.xml" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RB08M9FHX6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-RB08M9FHX6');
+    </script>
+
+</head>
+<body>
+<div id="icon" onclick="window.location='/';"></div>
+<h1 class="title">Privacy For In Case You Missed It (Law)<br>
+<span class="subtitle">TLDR: We use anaytics &amp; you can sign up for a newsletter</span>
+</h1>
+<div class="choose_date">
+<duet-date-picker identifier="date" style="width:200px;"></duet-date-picker>
+</div>
+
+<div class="content">
+<div class="intro_too">
+
+  	<p>
+      <a href="https://mastodon.social/@colarusso" target="_blank">@Colarusso</a>, who runs this site, uses Google Analytics to track visitor statistics, this includes the use of cookies. See <a href="https://policies.google.com/technologies/partner-sites" target="_blank">How Google uses data when you use our partner's sites or apps</a> (e.g., this site). This site is hosted as a GitHub Page and presumably GitHub maintains associated server logs. Additionally, if you so choose, you can sign up to get a newsletter version of the daily digest (main page) via <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0JLlCg95yXLf0oBPjNaYJy1w6ZY6iUpr4dAkT7_Sl74bwcA/viewform?usp=sf_link" target="_blank">this google form</a>. It asks for your email address, and unless compelled by a court or okayed by its owner, I will not share it with anyone other than my email provider, to you know, direct your emails. Under no circumstance will I sell the emails I collect. You can unsubscribe from the newsletter by following the <i>unsubscribe</i> link at the bottom of said newsletter.
+    </p>
+
+<div class="footer" style="margin-top:35px;">
+&nbsp;<font size=-1>Last Updated January 3, 2023</font>
+
+<span style="float:right;">
+<a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a>
+</span>
+
+</div></div>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/themes/default.css" />
+</body>
+<script>
+  function isPresent(date) {
+    if ((new Date(date).getTime() < new Date("2022-12-20").getTime()) || (new Date(date).getTime() >= new Date().getTime())){
+        return true
+    } else {
+        return false
+    }
+  }
+
+  const pickerDisable = document.querySelector("duet-date-picker")
+  pickerDisable.isDateDisabled = isPresent
+
+  pickerDisable.addEventListener("duetChange", function(e) {
+    if (isWeekend(e.detail.valueAsDate)) {
+      alert("Please select a day in the past, but after 2022-12-19.")
+    }
+  })
+
+ document.addEventListener("duetChange", myFunction);
+
+ function myFunction() {
+  document.location.href = "../archive/" + document.getElementById("date").value + ".html";
+ }
+
+ new GreenAudioPlayer('.gap-example');
+ const audio_object = document.querySelector('.gap-example  audio');
+
+ function expand_sum(){
+   if (localStorage.getItem("summaries")==1) {
+     document.getElementById('more_text').style.display='block';
+     document.getElementById('show_more').style.display='none'
+   }
+ }
+
+expand_sum();
+
+</script>
+</html>
