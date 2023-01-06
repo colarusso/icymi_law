@@ -99,8 +99,10 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
     <b>Scheduled Posts</b>.
     <ol type="A">
       <li><b>Most-Shared</b>. Every day Monday through Saturday at around 9:05 AM (US/Eastern), the bot looks back at its timeline for the past 24 hours and collects all the links folks have shared. It filters out links to twitter.com, ssrn.com and a few other sites. It counts how may times these links were shared and post links to the five (5) most-shared after attempting to get the name of the page. On Sundays the bot goes through the same process except that instead of looking back over the last 24 hours, it looks back over the last seven (7) days. <i>Note: if the bot couldn't grab the title, I may edit the post to include some of the title. Also, given space constraints, full titles aren't included in these posts.</i></li>
+      <li><b>Hashtags</b>. Every day between 12:30 AM and 1 AM (US/Eastern), the bot looks back on the last 24 hours of its timeline and collecting and counting the hashtags it saw. It produces a post listing each hashtag along with a count of how many times it was used.</li>
       <li><b>Traffic</b>. Every day between 12:30 AM and 1 AM (US/Eastern), the bot looks back on the last 24 hours of its timeline and counts how many original posts it has seen. It produces a graph showing the number of posts per hour and posts this.</li>
       <li><b>That's All Folks</b>. Every day after posting its traffic post (see above), the bot closes with a good night post saying how many posts it saw and made over the day.</li>
+      <li><b>Follow Fridays</b> Every Friday after 10 AM (US/Eastern), the bot recomenations the eight (8) most reblogged accounts under the #followfriday hashtag, excluding accounts it has recently recomended. </li>
       <li><b>The Weekend!</b> Every Friday soon after 5 PM (US/Eastern), the bot makes with an animated GIF of Daniel Craig introducing "The Weekend." </li>
     </ol></li>
     <p style="text-align:center">
@@ -157,7 +159,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 <a name="pod" href="#pod" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
 <h2>3. The Podcast</h2>
 <p>
-  The podcast (available on digest pages) is a daily summary of two articles from the <i>Most-Shared Links</i> section and one paper from the <i>SSRN Roundup</i>. It is a combination of scripted and AI-generated text. The intro and outro are scripted, everything between them is the output of a Large Language Model (LLM). First, let's be clear. LLMs are bullshitters in that they producing plausible sounding assertions with no regard for accuracy, filtered through a set of problematic societal biases. The podcast is as much an exploration of LLMs as it is a summary of daily activity, and I want to see what I can learn from the daily process of editing an LLM in a low-stakes environment like a small one-person podcast and website.
+  The podcast (available on digest pages) is a daily summary of two articles from the <i>Most-Shared Links</i> section and one paper from the <i>SSRN Roundup</i>. It is a combination of scripted and AI-generated text. The intro and outro are scripted, everything between them is the output of a Large Language Model (LLM). First, let's be clear. LLMs are bullshitters in that they producing plausible sounding assertions with no regard for accuracy, filtered through a set of problematic societal biases. The podcast is as much an exploration of LLMs as it is a summary of daily activity, and I want to see what I can learn from the daily process of editing an LLM in a low-stakes environment like a small one-person podcast and website. For more on the limits and drawbacks of algos generally, see <a href="https://www.codingthelaw.org/Fall_2022/level/4/#intro_vid" target="_blank">Portland’s Precrime Experiment and the Limits of Algorithms</a>.
 </p>
 <p>
   I pick which of the top articles to summarize based upon my tastes and the available text (e.g., if an article is behind a paywall or on a site that populates the page via javascript it's "too hard" to get the text so I skip them). I also occasionally edit text for readability, and if I don't like a summary, I'll either re-run the LLM or pick a different article. I don't check everything the LLM says, but I try to keep my BS detector on high sensitivity. See e.g., <a href="https://mastodon.social/@Colarusso/109631522675176262" target="_blank">the time it didn't summarize the article and just made up a click-bait hellscape</a>.
@@ -169,7 +171,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 
 
 <div class="footer" style="margin-top:35px;">
-&nbsp;<font size=-1>Last Updated January 4, 2023</font>
+&nbsp;<font size=-1>Last Updated January 5, 2023</font>
 
 <span style="float:right;">
 <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a>
