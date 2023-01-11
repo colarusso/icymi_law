@@ -69,7 +69,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 <h2>1. The Bot</h2>
 <p>A conscious choice was made to pace the bot's boosts. The goal was to make them frequent enough that they could flesh out a sparse timeline, but not so frequent that you couldn't catch up on a day's activity in one sitting. Consequently, the bot aims to post somewhere between one and two hundred times a day. Below is how I've tried to make that happen while keeping the content relevant and interesting.</p>
 <ol>
-  <li><a name="boosts" href="#boosts" class="anchor" alt="deep link to this section" style="margin-top:-3px;"></a>
+  <li><a name="boosts" href="#boosts" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
     <b>Boosts</b>. Every 30 minutes, the bot does the following:
     <ol type="A">
       <li>It reads its <i>timeline</i> for the past 24 hours.</li>
@@ -81,22 +81,22 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
           <li>made by folks it doesn't follow (i.e., boosts made by folks it follows of folks it doesn't); OR</li>
           <li>it has already boosted;</li>
         </ul>
-      <li>It looks at how many reblogs and favorites each of the remaining posts have gotten and calculates a score based on their geometric mean. <i>Note: This is only a subset of the true counts as it primarily knows what its home server (<a href="https://esq.social/" target="_blank">esq.social</a>) knows. Consequently, esq.social's interactions with a post hold a special sway. This is why I decided to base a legal content aggregator on a legal-focused server. If we assume its users will more frequently interact with the target content, it ups the chances that the counts will be current. Additionally, the bot also knows the counts as they appear on mastodon.social for folks followed by <a href="https://mastodon.social/@colarusso" target="_blank">@colarusso</a> since it shares an infrastructure with  <a href="https://law.builders/@colarusso_algo" target="_blank">@colarusso_alo</a>. So, four communities strongly influence what the bot sees: (1) the folks it follows; (2) the folks who interact with their posts; (3) the members of esq.social who can give more insight into the actions of 2; and (4) the folks followed by Colarusso mediated by colarusso_algo who can give more insight into the actions of 2.</i></li>
+      <li>It looks at how many reblogs and favorites each of the remaining posts have gotten and calculates a score based on their geometric mean. <i>Note: This is only a subset of the true counts as it primarily knows what its home server (<a href="https://esq.social/" target="_blank">esq.social</a>) knows. Consequently, esq.social's interactions with a post hold a special sway. This is why I decided to base a legal content aggregator on a legal-focused server. If we assume its users will more frequently interact with the target content, it ups the chances that the counts will be current. Additionally, the bot also knows the counts as they appear on mastodon.social for folks followed by <a href="https://mastodon.social/@colarusso" target="_blank">@colarusso</a> since it shares an infrastructure with <a href="https://law.builders/@colarusso_algo" target="_blank">@colarusso_alo</a>. So, four communities strongly influence what the bot sees: (1) the folks it follows; (2) the folks who interact with their posts; (3) the members of esq.social who can give more insight into the actions of 2; and (4) the folks followed by Colarusso mediated by colarusso_algo who can give more insight into the actions of 2.</i></li>
       <li>It divides the score above by a number that increases with the author's follower count. That is, as the author's follower count goes up, their score goes down. As of this writing, this denominator is a sigmoid with values between 0.5 and 1, maxing out at a few thousand followers. However, I'm always fiddling with this.</li>
       <li>It sorts the timeline by this new score, from highest to lowest.</li>
       <li>It finds all the posts in the timeline that look like they came from Twitter (i.e., they include a link to twitter.com). If one of the last <i>n</i> boosts it has made looked like it was from Twitter, it removes all of the suspected Twitter posts from the timeline. Otherwise, it gets rid of all of the Twitter posts but the one with the highest score. As of this writing <i>n</i> was around 20, but I'm always playing with this value.</li>
       <li>It removes from the <i>timeline</i> posts from any author it has boosted in the last <i>n</i> boosts, where <i>n</i> again is a number subject to change but on the order of 10s.</li>
       <li>It makes sure it hasn't posted more than 200 times already. If it has, it stops. <i>You may be wondering why this or some of the following tests don't come earlier, and the answer has to do with the fact that while examining and constructing the <i>timeline</i> the bot is collecting info it will use elsewhere regardless of whether or not it reblogs anything.</i></li>
-      <li>It makes sure it's between 6 AM and and 1 AM US/Eastern, if it isn't it stops.</li>
+      <li>It makes sure it's between 6 AM and and 11:30 PM US/Eastern, if it isn't it stops.</li>
       <li>It looks to see how many posts were made in the original timeline over the last 24 hours and the last 20 minutes. It uses these two numbers to estimate the frequency of posts it would need to make to hit a target of roughly 150 posts a day. The assumptions are such that the estimate tends to underestimate.</li>
-      <li>It removes form the <i>timeline</i> all posts with a score below the median score of available posts. <i>Note: this can result in there not being enough posts to hit the target. See next.</i></li>
+      <li>It removes form the <i>timeline</i> all posts with a score below some multiple of the median score for available posts. <i>Note: this can result in there not being enough posts to hit the target. Also, the multiple is always being fiddled with. See next.</i></li>
       <li>Based on this frequency it calculated above, it figures out how many boosts it should make over the next 30 min. It chooses that number of posts from the top of the <i>timeline</i>, if available, and tries to boost them out over the next 30 minutes. If there's an error it tries to boost a post from lower in the <i>timeline</i>.</li>
 
     </ol></li>
     <p style="text-align:center">
       <a href="#">go to top</a>
     </p>
-<li><a name="scheduled" href="#scheduled" class="anchor" alt="deep link to this section" style="margin-top:-3px;"></a>
+<li><a name="scheduled" href="#scheduled" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
     <b>Scheduled Posts</b>.
     <ol type="A">
       <li><b>Most-Shared</b>. Every day Monday through Saturday at around 9:05 AM (US/Eastern), the bot looks back at its timeline for the past 24 hours and collects all the links folks have shared. It filters out links to twitter.com, ssrn.com and a few other sites. It counts how may times these links were shared and post links to the five (5) most-shared after attempting to get the name of the page. On Sundays the bot goes through the same process except that instead of looking back over the last 24 hours, it looks back over the last seven (7) days. <i>Note: if the bot couldn't grab the title, I may edit the post to include some of the title. Also, given space constraints, full titles aren't included in these posts.</i></li>
@@ -109,7 +109,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
     <p style="text-align:center">
       <a href="#">go to top</a>
     </p>
-  <li><a name="tiggered" href="#tiggered" class="anchor" alt="deep link to this section" style="margin-top:-3px;"></a>
+  <li><a name="tiggered" href="#tiggered" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
     <b>Triggered Posts</b>.
     <ol type="A">
       <li><b>SSRN Bundles</b>. Every time the bot runs, it keeps an eye out for links to SSRN. Once it collect five, it shares links to them in a post, assuming it is between 10 AM and 5 PM (US/Eastern). If it isn't, it will wait until 10 AM the following day.</li>
@@ -119,7 +119,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
     <p style="text-align:center">
       <a href="#">go to top</a>
     </p>
-<li><a name="intermitent" href="#intermitent" class="anchor" alt="deep link to this section" style="margin-top:-3px;"></a>
+<li><a name="intermitent" href="#intermitent" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
     <b>Intermittent Posts</b>.
     <ol type="A">
       <li><b>Links to Digest</b>. If you see a snappy post summarizing the content of the digest and providing a link to check it out, that was written by a Large Language Model (LLM) and cleared by me. I have a little script that points at the digest and produces the summary post with link. But as I will discuss more below, I'm not comfortable having the LLM posing on its own.</li>
@@ -130,7 +130,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 </p>
 </ol>
 
-<a name="web" href="#web" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
+<a name="web" href="#web" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
 <h2>2. The Website</h2>
 <p>
   This website provides a daily digest of the bot's <i>timeline</i>, including a list of top posts, most-shared links, SSRN papers shared, a list of hashtags along with their usage, and an hourly breakdown of the original posts it has seen. The current digest lives on the <a href="/">main page</a>, with each digest archived at a url of the following form: <i>https://icymilaw.org/archive/YYYY-MM-DD.html</i>
@@ -157,7 +157,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
   <a href="#">go to top</a>
 </p>
 
-<a name="pod" href="#pod" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
+<a name="pod" href="#pod" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
 <h2>3. The Podcast</h2>
 <p>
   The podcast (available on digest pages) is a daily summary of two articles from the Website's <i>Most-Shared Links</i> section and one paper from the <i>SSRN Roundup</i>. It is a combination of scripted and AI-generated text. The intro and outro are scripted, everything between them is the output of a Large Language Model (LLM). <span style="background:#fff3b5">First, let's be clear. LLMs are bullshitters in that they produce plausible sounding assertions with no regard for accuracy, filtered through a set of problematic societal biases.</span> This is why, as mentioned above, I review the podcast before hitting <i>publish</i>. But I could miss something. The podcast is as much an exploration of LLMs as it is a summary of daily activity, and I want to see what I can learn from the daily process of editing an LLM in a low-stakes environment like a small one-person podcast and website. For more on the limits and drawbacks of algos as well as my practice of learning/teaching by building, see <a href="https://www.codingthelaw.org/Fall_2022/level/4/#intro_vid" target="_blank">Portland’s Precrime Experiment and the Limits of Algorithms</a>.
@@ -172,7 +172,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
   <a href="#">go to top</a>
 </p>
 
-<a name="letter" href="#letter" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
+<a name="letter" href="#letter" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
 <h2>4. The Newsletter</h2>
 <p>
   The Newsletter is just an email repackaging of the podcast transcript with a slightly different lead in and outro. See <a href="#pod">The Podcast</a>.
@@ -185,7 +185,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 </p>
 
 <div class="footer" style="margin-top:35px;">
-&nbsp;<font size=-1>Last Updated January 7, 2023</font>
+&nbsp;<font size=-1>Last Updated January 11, 2023</font>
 
 <span style="float:right;">
 <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a>
