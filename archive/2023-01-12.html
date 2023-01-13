@@ -269,11 +269,32 @@ I like trying to create stories about the daily ups and downs. What is that bump
 
 <p style="text-align:center;"><a href="../plots/2023-01-11_end_of_day.png" target="_blank"><img src="../plots/2023-01-11_end_of_day.png" width="100%" ALT="Plot of yesterday's posts" border="0px" style="border-radius: 5px;"/></a></p>
 
+<h2>Search</h2>
+<p>Below you can use Google's site search to look through prior digests.</p>
+<table cellpadding="0px"><tr><td width="100%">
+<input id="q" style="width:100%">
+</td><td width="1%">&nbsp;&nbsp;&nbsp;</td><td width="1%">
+<input type="button" value="Search" onClick="open_search();">
+</td></tr></table>
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script>
+    function open_search(){
+        window.open('https://www.google.com/search?q='+$('#q').val()+'+site:icymilaw.org')
+    }
+    $("#q").on('keyup', function (e) {
+        if (e.key === 'Enter' || e.keyCode === 13) {
+            open_search()
+        }
+    });
+</script>
+</br>
+
 </div>
 
 <div class="footer" style="margin-top:35px;">
     <span style="float:right;">
-    <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a>
+    <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a> |
+    <a href="/archive/2023-01-11.html" class="menu">Yesterday</a>
     </span>
     <font size=-1>Created January 11, 2023 </br>@ 19:01 US/Eastern</font>
 </div>
