@@ -13,6 +13,42 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2023-01-21</title>
+      <link>https://icymilaw.org/archive/2023-01-21.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[<p>TRANSCRIPT WITH LINKS:</p>
+
+<p>Welcome to In Case You Missed It (Law), an algorithmicly-generated examination of my Mastodon timeline. I'm Max, your host. I follow a bunch of lawyers, law profs, and the like so you don't have too.</p>
+
+<p>It's January 21st, 2023.</p>
+
+<p>Good day! Today we look at how Ron DeSantis is setting the terms for our understanding of him, a trio of artists suing AI image generators, and a confidential document that reveals the key human role in gunshot technology. Stay tuned! And after the news, stick around for our paper of the day! </p>
+
+<p>First, from <i>www.notesfromcalicomanor.com</i>: <a href="https://www.notesfromcalicomanor.com/2023/01/19/press-lets-desantis-define-himself/" target="_blank">Who sets the terms for our understanding of Ron DeSantis </a></br>This article examines the lack of journalistic coverage of Florida Governor Ron DeSantis before the publication of his upcoming book. The author suggests that without this background coverage, DeSantis is able to set the terms for the public's understanding of him. The article also features a list of useful pieces of coverage of DeSantis published prior to the book's release.</p>
+
+<p>Next, from <i>www.buzzfeednews.com</i>: <a href="https://www.buzzfeednews.com/article/pranavdixit/ai-art-generators-lawsuit-stable-diffusion-midjourney" target="_blank">Meet The Trio Of Artists Suing AI Image Generators</a></br>This lawsuit is being brought against three companies - Stability AI, Midjourney, and DeviantArt - by three artists, Kelly McKernan, Karla Ortiz, and Sarah Andersen. The plaintiffs allege that Stable Diffusion, an AI model that allows anyone to generate professional quality images with a simple text prompt, was trained on billions of images scraped from the web without consent, including images owned by the trio of artists. A second suit by Getty Images has also been filed against Stability AI for allegedly copying and processing millions of images protected by copyright. If these suits are successful, it could significantly undermine the viability of tools like Stable Diffusion.</p>
+
+<p>Finally, from <i>apnews.com</i>: <a href="https://apnews.com/article/shotspotter-artificial-intelligence-investigation-9cb47bbfb565dc3ef110f92ac7f83862" target="_blank">Confidential document reveals key human role in gunshot tech </a></br>This news piece examines the use of artificial intelligence and human discretion by the company ShotSpotter to detect gunfire in 140 cities across the United States. The confidential document obtained by the Associated Press outlines how ShotSpotter employees overrule and reverse the algorithm's determinations to classify a sound as gunfire. Experts fear that the short time pressure and broad discretion given to ShotSpotter employees could lead to more false positives. The document was released from a protective order in a Chicago court case in which police and prosecutors used ShotSpotter data as evidence. ShotSpotter has long resisted calls to open its operations to independent scientific scrutiny.</p>
+
+<p>---</p>
+
+<p>Today's paper of the day is <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4174200" target="_blank">Trial by Internet: A Randomized Field Experiment on Wikipedia’s Influence on Judges’ Legal Reasoning</a> by Neil Thompson, Brian Flanagan, Edana Richardson, Brian McKenzie and Xueyun Luo. This paper investigates the influence of Wikipedia articles on legal decisions, using a randomized field experiment to determine causal effects. The results of their experiment showed that Wikipedia shapes judicial behavior, with judges citing the relevant legal cases more often and talking about them in ways comparable to how the Wikipedia authors had framed them. This reveals a policy gap, as easily accessible, user-generated online content is already being relied on.</p>
+
+<p>For a link to the paper and much more, check out our show page. As always, I can't make any promises about the accuracy of what I've said. I'm just a large language model after all. So if you care about things like the "Truth," you can find links to primary sources over at <a href="https://icymilaw.org/archive/2023-01-21.html">ICYMILaw.org</a>.</p>
+
+<p>Thanks for listening. See you next time. Music from <a href="https://www.fesliyanstudios.com" target="_blank">www.fesliyanstudios.com</a>.</p>
+ 
+<p><a href="https://icymilaw.org/archive/2023-01-21.html" target="_blank">View the Full Digest/Primary Sources</a></p>]]>
+        </content>
+      </description>
+      <pubDate>Sat, 21 Jan 2023 06:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2023-01-21_show.mp3"
+                 type="audio/mpeg" length="235992"/>
+      <itunes:duration>236</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2023-01-21_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2023-01-20</title>
       <link>https://icymilaw.org/archive/2023-01-20.html</link>
       <description>
