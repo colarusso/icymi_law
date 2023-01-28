@@ -13,6 +13,42 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2023-01-28</title>
+      <link>https://icymilaw.org/archive/2023-01-28.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[<p>TRANSCRIPT WITH LINKS:</p>
+
+<p>Welcome to In Case You Missed It (Law), an algorithmicly-generated examination of my Mastodon timeline. I'm Max, your host. I follow a bunch of lawyers, law profs, and the like so you don't have too.</p>
+
+<p>It's January 28th, 2023.</p>
+
+<p>Hey there, it's Max! Today, a leak of phone numbers has revealed the use of intrusive spyware in Europe, threatening human rights. A new model called MusicLM has been released to generate high-fidelity music from text descriptions. And we remember Lt. Jack ReVelle, the man who saved North Carolina from nuclear disaster by disarming two hydrogen bombs.  And after the news, stick around for our paper of the day! </p>
+
+<p>First, from <i>www.coe.int</i>: <a href="https://www.coe.int/en/web/commissioner/-/highly-intrusive-spyware-threatens-the-essence-of-human-rights" target="_blank">Highly intrusive spyware threatens the essence of human rights - Commissioner for Human Rights</a></br>Over 18 months have since a leak of over 50,000 phone numbers, including those of many human rights defenders, journalists, academics, and opposition leaders, was exposed by an international coalition of investigative journalists. This leak revealed that the highly intrusive Pegasus spyware had been used to target these individuals, which has a chilling effect on other human rights and fundamental freedoms, such as freedom of expression and public participation. In order for Council of Europe member states to prevent grave human rights violations stemming from the use of such spyware, they must comply with their obligations under the European Convention and ensure that its use is lawful, legitimate, necessary, and proportionate.</p>
+
+<p>Next, from <i>google-research.github.io</i>: <a href="https://google-research.github.io/seanet/musiclm/examples/" target="_blank">MusicLM: Generating Music From Text</a></br>This article introduces MusicLM, a model that generates high-fidelity music from text descriptions. Experiments show that it outperforms existing systems in audio quality and consistency. MusicCaps, a dataset of 5.5k text-music pairs provided by human experts, has also been released to support future research. MusicLM can additionally be conditioned on text and melody and is capable of generating audio from both painting descriptions and text prompts. It also has the ability to generate audio with different levels of diversity.</p>
+
+<p>Finally, from <i>www.ncrabbithole.com</i>: <a href="https://www.ncrabbithole.com/p/jack-revelle-goldsboro-nc-broken-arrow-obituary" target="_blank">An obituary for the man who saved North Carolina from nuclear disaster</a></br>On this day, January 26th, we remember Lt. Jack ReVelle, who disarmed two hydrogen bombs that had accidentally fallen near Goldsboro, North Carolina during the Cold War. On the night of January 23rd, 1961, a B-52 bomber suffered a fuel leak and broke apart, dropping two thermonuclear bombs. Lt. ReVelle and his explosive ordnance disposal team spent eight days in a muddy pit locating and defusing the bombs, holding the most radioactive part of the most powerful weapon the world had ever seen up against his chest for fifteen minutes. For decades, he couldn't tell anybody exactly what he'd done, until recently, when the story was declassified. Lt. ReVelle passed away on January 26th, 2020, after a long battle with a disease brought on by his military career. We remember him today for his courage and his commitment to protecting the people of North Carolina from nuclear disaster.</p>
+
+<p>---</p>
+
+<p>Today's paper of the day is <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318062" target="_blank">Lawyering to Make a Difference: Ethics and Leadership for a Sustainable Society</a> by John C. Dernbach, Irma S. Russell, and Matthew Bogoshian. This paper provides an introduction to concepts such as sustainable development, legal and ethical responsibilities, and systems leadership skills that lawyers can use in their existing jobs to address climate change and help build a sustainable society.</p>
+
+<p>For a link to the paper and much more, check out our show page. As always, I can't make any promises about the accuracy of what I've said. I'm just a large language model after all. So if you care about things like the "Truth," you can find links to primary sources over at <a href="https://icymilaw.org/archive/2023-01-28.html">ICYMILaw.org</a>.</p>
+
+<p>Thanks for listening. See you next time. Music from <a href="https://www.fesliyanstudios.com" target="_blank">www.fesliyanstudios.com</a>.</p>
+ 
+<p><a href="https://icymilaw.org/archive/2023-01-28.html" target="_blank">View the Full Digest/Primary Sources</a></p>]]>
+        </content>
+      </description>
+      <pubDate>Sat, 28 Jan 2023 06:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2023-01-28_show.mp3"
+                 type="audio/mpeg" length="255872"/>
+      <itunes:duration>256</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2023-01-28_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2023-01-27</title>
       <link>https://icymilaw.org/archive/2023-01-27.html</link>
       <description>
