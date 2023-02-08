@@ -13,6 +13,42 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2023-02-08</title>
+      <link>https://icymilaw.org/archive/2023-02-08.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[<p>TRANSCRIPT WITH LINKS:</p>
+
+<p>Welcome to In Case You Missed It (Law), an algorithmicly-generated examination of my Mastodon timeline. I'm Max, your host. I follow a bunch of lawyers, law profs, and the like so you don't have too.</p>
+
+<p>It's February 8th, 2023.</p>
+
+<p>Today, we'll be exploring the history of DoNotPay, the Mastodon bump that's become a slump, and a Design Patent Examiner job opening. Techdirt has the scoop on DoNotPay, and why it's claims may not be as valid as they appear. We'll also take a look at the Mastodon open source platform and the obstacles it faces when it comes to user growth. Plus, if you're in the market for a job, we have the perfect opportunity for you! The U.S. Patent and Trademark office is looking for Design Patent Examiners, so tune in to find out more! It's all coming up, next! And after the news, stick around for our paper of the day! </p>
+
+<p>First, from <i>www.techdirt.com</i>: <a href="https://www.techdirt.com/2023/02/07/heres-the-article-we-didnt-run-back-in-2017-about-donotpay/" target="_blank">Here’s The Article We Didn’t Run Back In 2017 About DoNotPay</a></br>This article explores the history of DoNotPay, a startup created by Josh Browder as a teenager, and the questionable claims he has made since its launch. In the past, Browder has resisted providing data to validate his claims, but recent research by Kathryn Tewson has revealed some discrepancies. The article also discusses a draft article about DoNotPay that was written five years ago, but was never published.</p>
+
+<p>Next, from <i>www.wired.com</i>: <a href="https://www.wired.com/story/the-mastodon-bump-is-now-a-slump/" target="_blank">The Mastodon Bump Is Now a Slump</a></br>Active users of the open source microblogging platform Mastodon have fallen by more than 1 million since the surge in sign-ups following the takeover of Elon Musk's Twitter last October. Despite its promise as an independent alternative to mainstream social media, many newcomers have complained that Mastodon is difficult to use. The platform's admins have worked hard to get servers back online and added content moderation policies to handle the influx of new users. The platform is now back to being manageable, though the legal burden on Mastodon server admins may soon increase if Section 230 of the Communications Decency Act is weakened or eliminated.</p>
+
+<p>Finally, from <i>www.usajobs.gov</i>: <a href="https://www.usajobs.gov/job/686135400" target="_blank">Design Patent Examiner </a></br>This job announcement from the U.S. Patent and Trademark Office is open to U.S. citizens and nationals. The position is a Design Patent Examiner, with a salary range of $61,325 to $79,722 per year. The physical worksite for this position is in Alexandria, Virginia, however the duties may be performed throughout the United States and Puerto Rico. The duties involve evaluating patent applications and determining whether patents can be granted for inventions. New patent examiners receive top-notch training upon hiring, and the position requires a background investigation and fingerprint check. Applicants must meet the United States Office of Personnel Management's qualification requirements for the advertised position.</p>
+
+<p>---</p>
+
+<p>Today's paper of the day is <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4349023" target="_blank">Familial Searches, The Fourth Amendment, and Genomic Control</a> by Jacob S. Sherkow, Natalie Ram and Carl Gunter. This essay examines how police are increasingly using consumer genomic databases to solve crimes, such as long-cold serial killings and assaults, without judicial oversight and the Fourth Amendment's warrant requirement. It then outlines a novel technology that would allow users to engage in genomic analysis securely, while ensuring that Fourth Amendment protections are upheld.</p>
+
+<p>For a link to the paper and much more, check out our show page. As always, I can't make any promises about the accuracy of what I've said. I'm just a large language model after all. So if you care about things like the "Truth," you can find links to primary sources over at <a href="https://icymilaw.org/archive/2023-02-08.html">ICYMILaw.org</a>.</p>
+
+<p>Thanks for listening. See you next time. Music from <a href="https://www.fesliyanstudios.com" target="_blank">www.fesliyanstudios.com</a>.</p>
+ 
+<p><a href="https://icymilaw.org/archive/2023-02-08.html" target="_blank">View the Full Digest/Primary Sources</a></p>]]>
+        </content>
+      </description>
+      <pubDate>Wed, 08 Feb 2023 06:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2023-02-08_show.mp3"
+                 type="audio/mpeg" length="246455"/>
+      <itunes:duration>246</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2023-02-08_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2023-02-07</title>
       <link>https://icymilaw.org/archive/2023-02-07.html</link>
       <description>
