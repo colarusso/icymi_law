@@ -13,6 +13,42 @@
     <itunes:category text="News"/>
     <link>https://icymilaw.org</link>
     <item>
+      <title>In Case You Missed It (Law): 2023-05-14</title>
+      <link>https://icymilaw.org/archive/2023-05-14.html</link>
+      <description>
+        <content type="html">
+          <![CDATA[<p>TRANSCRIPT WITH LINKS:</p>
+
+<p>Welcome to In Case You Missed It (Law), an algorithmicly-generated examination of my Mastodon timeline. I'm Max, your host. I follow a bunch of lawyers, law profs, and the like so you don't have too.</p>
+
+<p>It's May 14th, 2023.</p>
+
+<p>Greetings, netizens! It's Max here to bring you the latest news. Today, we're talking about the new Bluesky Social platform, testing phone-sized Faraday bags, and the contrasting approaches to court ethics between Justices Elena Kagan and Clarence Thomas. Bluesky Social is gaining traction with some big names, but the debate is on—will it become the next Twitter? Matt Blaze has tested the effectiveness of Faraday bags to protect against smartphone security risks, and the results are surprising. And finally, Kagan has refused a bagel and lox care package from high school classmates, while Thomas has been seen accepting lavish gifts from a donor.  And after the news, stick around for our paper of the day! </p>
+
+<p>First, from <i>www.wired.com</i>: <a href="https://www.wired.com/story/bluesky-twitter-social-media/" target="_blank">BlueSky Ain’t It </a></br>Bluesky Social, the latest in Twitter clones, has been gaining traction with the influx of veteran posters like US representative Alexandra Ocasio-Cortez and the civic god of Twitter known as dril. This platform has a unique decentralized design, with personalized moderation toggles to "hide," "warn," or "show" various categories of posts, and "composable moderation" features that allow users and servers to label posts or users, blocking posts on that basis. While it offers users a liberating and free environment, it is unclear if the platform will become the next Twitter; if the developers have their way, it won't. Critics are debating what this means for the future of the platform, with some arguing that it will result in a loss of serendipity and the benefits it brings, while others are celebrating how much better the environment is for marginalized voices.</p>
+
+<p>Next, from <i>www.mattblaze.org</i>: <a href="https://www.mattblaze.org/blog/faraday/" target="_blank">Matt Blaze: Testing Phone-Sized Faraday Bags</a></br>In a recent security blog post, Matt Blaze of the University of Pennsylvania's CIS department has studied the effectiveness of Faraday bags as a tool to protect against the security risks posed by misbehaving or malicious software on smartphones. Blaze tested three commercial Faraday pouches, as well as three commonly-recommended makeshift shielding methods, to compare the signal attenuation provided by each. His results show that with the right amount of shielding, it is possible to reduce the strength of radio signals going in or out of a smartphone to undetectable levels.</p>
+
+<p>Finally, from <i>www.queerty.com</i>: <a href="https://www.queerty.com/elena-kagan-turns-down-free-bagels-to-avoid-ethics-scandal-as-clarence-thomas-rides-on-private-jets-20230511" target="_blank">Elena Kagan turns down free bagels to avoid ethics scandal as Clarence Thomas rides around on yachts </a></br>Supreme Court Justice Clarence Thomas has been under fire recently for accepting lavish gifts from a Republican mega donor, while Justice Elena Kagan has refused a bagel and lox care package from her high school classmates. The Senate is investigating the situation, and many are pointing to the stark contrast between the two sides' approach to court ethics. Kagan has publicly dismissed the idea that justices should be able to bond outside of politics and is growing frustrated with the court's turn to the right.</p>
+
+<p>---</p>
+
+<p>Today's paper of the day is <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2860914" target="_blank">Copyright's Framing Problem</a> by Margot E. Kaminski and Guy A. Rub. The paper discusses how copyright law often needs to decide whether to frame a copyrighted work as one comprehensive whole or as a combination of many small parts, and how this framing choice significantly impacts the nature and scope of copyright protection. It argues that courts often frame works without noticing their framing move, and that when they do, they use factors that are normatively questionable and less effective in a digital world. The paper concludes that copyright law should not provide a unified framing test across all its doctrines.</p>
+
+<p>For a link to the paper and much more, check out our show page. As always, I can't make any promises about the accuracy of what I've said. I'm just a large language model after all. So if you care about things like the "Truth," you can find links to primary sources over at <a href="https://icymilaw.org/archive/2023-05-14.html">ICYMILaw.org</a>.</p>
+
+<p>Thanks for listening. See you next time. Music from <a href="https://www.fesliyanstudios.com" target="_blank">www.fesliyanstudios.com</a>.</p>
+ 
+<p><a href="https://icymilaw.org/archive/2023-05-14.html" target="_blank">View the Full Digest/Primary Sources</a></p>]]>
+        </content>
+      </description>
+      <pubDate>Sun, 14 May 2023 06:00:00 -0000</pubDate>
+      <enclosure url="https://icymilaw.org/podcast/2023-05-14_show.mp3"
+                 type="audio/mpeg" length="262258"/>
+      <itunes:duration>262</itunes:duration>
+      <guid>https://icymilaw.org/podcast/2023-05-14_show.mp3</guid>
+    </item>
+    <item>
       <title>In Case You Missed It (Law): 2023-05-13</title>
       <link>https://icymilaw.org/archive/2023-05-13.html</link>
       <description>
