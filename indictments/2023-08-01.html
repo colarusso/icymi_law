@@ -1,1 +1,196 @@
+<!DOCTYPE html>
+<HTML xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml"><html>
+<head>
+    <title>In Case You Missed It (Law)</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <link rel="apple-touch-icon" href="/icymi_law/images/icon_300.png"/>
+    
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="In Case You Missed It (Law) "/>
+    <meta property="og:description" content="Listen or read through the August 1, 2023 indictment of Donald Trump. The headers and footers have been removed for ease of listening. You can even speed up or slow down the reading."/>
+    <meta property="og:image" content="https://sb-esq-social.b-cdn.net/accounts/avatars/109/428/291/259/323/869/original/e525a8b28919a4f8.gif"/>
 
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <link rel="stylesheet" type="text/css" href="https://icymilaw.org/style/style.css?v=2023-04-30">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RB08M9FHX6"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-RB08M9FHX6');
+    </script>
+    
+    <style>
+
+        ul.cloud {
+          list-style: none;
+          padding-left: 0;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          justify-content: center;
+          line-height: 2.75rem;
+          width: 100%;
+        }
+
+        ul.cloud a {
+          /*   
+          Not supported by any browser at the moment :(
+          --size: attr(data-weight number); 
+          */
+          --size: 4;
+          --color: #a33;
+          color: var(--color);
+          font-size: calc(var(--size) * 0.25rem + 0.5rem);
+          display: block;
+          padding: 0.125rem 0.25rem;
+          position: relative;
+          text-decoration: none;
+          /* 
+          For different tones of a single color
+          opacity: calc((15 - (9 - var(--size))) / 15); 
+          */
+        }
+        
+        ul.cloud a[data-weight="1"] { --size: 1; }
+        ul.cloud a[data-weight="2"] { --size: 3; }
+        ul.cloud a[data-weight="3"] { --size: 4; }
+        ul.cloud a[data-weight="4"] { --size: 5; }
+        ul.cloud a[data-weight="5"] { --size: 6; }
+        ul.cloud a[data-weight="6"] { --size: 8; }
+        ul.cloud a[data-weight="7"] { --size: 9; }
+        ul.cloud a[data-weight="8"] { --size: 10; }
+        ul.cloud a[data-weight="9"] { --size: 12; }
+        ul.cloud a[data-weight="10"] { --size: 13; }
+
+
+        ul[data-show-value] a::after {
+          content: " (" attr(data-weight) ")";
+          font-size: 1rem;
+        }
+
+        ul.cloud li:nth-child(2n+1) a { --color: #181; }
+        ul.cloud li:nth-child(3n+1) a { --color: #33a; }
+        ul.cloud li:nth-child(4n+1) a { --color: #c38; }
+
+        ul.cloud a:focus {
+          outline: 1px dashed;
+        }
+
+        ul.cloud a::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 50%;
+          width: 0;
+          height: 100%;
+          background: var(--color);
+          transform: translate(-50%, 0);
+          opacity: 0.15;
+          transition: width 0.25s;
+        }
+
+        ul.cloud a:focus::before,
+        ul.cloud a:hover::before {
+          width: 100%;
+        }
+
+        @media (prefers-reduced-motion) {
+          ul.cloud * {
+            transition: none !important;
+          }
+        }
+
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://icymilaw.org/style/green-audio-player.css">
+    <script src="https://icymilaw.org/js/green-audio-player.js"></script>
+</head>
+<body>
+<div id="icon" onclick="window.location='/';"></div>
+<h1 class="title">In Case You Missed It (Law)<br>
+<span class="subtitle"><a href="/">Todays Dail Digest</a></span>
+</h1>
+<div class="choose_date">
+<duet-date-picker identifier="date" style="width:200px;"></duet-date-picker>
+</div>
+
+<div class="content">
+<div class="intro" style="border-bottom: 0px #fff;">
+  <div class="audio_container_container" style="display:block;">
+    <div class="audio_container">
+      <div class="pod_cover">
+        <img src="doj.jpg" style="width:100px" aligh="left" alt="Cover art for the podcast. An elephant in sunglasses."/>
+      </div>
+
+      <b>DC Indictmet in USA v Donald Trump</b>
+      <div class="gap-example player-accessible">
+        <audio>
+            <source src="Trump_DC_Indictment.mp3" type="audio/mpeg">
+        </audio>
+      </div>
+      <span class="playback">
+        Speed: <a href="javascript:void('')" onClick="set_speed(0.5)" class="playback" id="pb05">0.5x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(1)" class="playback" id="pb10" style="font-weight:900;">1x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(1.5)" class="playback" id="pb15">1.5x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(2)" class="playback" id="pb20">2x</a> &bull;
+               <a href="javascript:void('')" onClick="set_speed(3)" class="playback" id="pb30">3x</a>
+      </span>
+
+    </div>
+  </div>
+  <p>Listen or read through the August 1, 2023 indictment of Donald Trump. The headers and footers have been removed for ease of listening. You can even speed up or slow down the reading.</p>
+  <iframe src="2023-08-01_indictment.pdf" width="100%" height="1100px" style="border: 1px solid #888;margin-top: 15px;"></iframe>
+</div>
+
+<div class="footer" style="margin-top:35px;">
+    <span style="float:right;">
+    <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a> 
+    </span>
+    <font size=-1>Created August 7, 2023</font>
+</div>
+
+</div>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/duet.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@duetds/date-picker@1.4.0/dist/duet/themes/default.css" />
+</body>
+<script>
+  function isPresent(date) {
+    if ((new Date(date).getTime() < new Date("2022-12-20").getTime()) || (new Date(date).getTime() >= new Date().getTime())){
+        return true
+    } else {
+        return false
+    }
+  }
+
+  const pickerDisable = document.querySelector("duet-date-picker")
+  pickerDisable.isDateDisabled = isPresent
+
+  pickerDisable.addEventListener("duetChange", function(e) {
+    if (isWeekend(e.detail.valueAsDate)) {
+      alert("Please select a day in the past, but after 2022-12-19.")
+    }
+  })
+  
+ document.addEventListener("duetChange", myFunction);
+
+ function myFunction() {
+  document.location.href = "../archive/" + document.getElementById("date").value + ".html";
+ }   
+
+ new GreenAudioPlayer('.gap-example');
+ const audio_object = document.querySelector('.gap-example  audio');
+
+
+</script>
+</html>
