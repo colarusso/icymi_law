@@ -47,17 +47,17 @@
 <div class="vid_wrapper_right"><div class="profile_img" style="margin-bottom:0;">
   <iframe src="https://mastodon.social/@Colarusso/109501057811612843/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><br>
   <iframe src="https://esq.social/@jacobschumer/109564071651664256/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-  <script src="https://static-cdn.mastodon.social/embed.js" async="async"></script></div></div>
+  <script src="https://mastodon.social/embed.js" async="async"></script></div></div>
 
 <p>
-This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_law" target="_blank">@ICYMI_Law@esq.social</a>—created to help members of the legal community discover content on Mastodon. At first all it did was boost posts, but it quickly grew. The ICYMI (Law) family now includes the bot, this website, a podcast, and a newsletter. This page explains in plain language how each of these work so readers/listeners can decide how to fit them into their media diet.
+This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_law" target="_blank">@ICYMI_Law@esq.social</a>—created to help members of the legal community discover content on Mastodon. In the early days when I was experimenting, the ICYMI (Law) family now included the bot, this website, a podcast, and a newsletter. I have since retired the podcast and newsletter. This page explains in plain language how each of these work(ed) so readers/listeners can/could decide how to fit them into their media diet.
 </p>
 <p>Jump to a description of the algorithms/workflows behind each of the following:</p>
 <ol>
   <li><a href="#bot">The Bot</a></li>
   <li><a href="#web">The Website</a></li>
-  <li><a href="#pod">The Podcast</a></li>
-  <li><a href="#letter">The Newsletter</a></li>
+  <li style="color:#555"><a href="#pod" style="color:#555">The Podcast</a> (RETIRED)</li>
+  <li style="color:#555"><a href="#letter" style="color:#555">The Newsletter</a> (RETIRED)</li>
 </ol>
 
 <p>Before we talk automation, it's worth noting that ICYMI is at it's heart a community aggregator. It helps surface content from a specific community, namely the folks followed by the bot. I've leaned heavily on the wisdom of crowds to help with this discovery, but who the bot "listens" to / follows and what rules are used to surface content are editorial choices. Other folks might make different choices. Actually, <a href="https://mastodon.social/@Colarusso/109473124607539192" target="_blank">I hope</a> several someones will do just that, launching their own curated feeds. I think there's a big future for such feeds esp. if there's transparency into how they work. <i>"They're like a news editor choosing what to put in the paper. The trick is valuing their contribution while not mistaking them for the whole conversation."</i></p>
@@ -158,14 +158,15 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 </p>
 
 <a name="pod" href="#pod" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
-<h2>3. The Podcast</h2>
-<p>
+<h2 style="color:#555">3. The Podcast (RETIRED)</h2>
+<P><I><b>Note: the podcast has been retired. This explination remains for posterity. ;)</b></I></P>
+<p style="color:#555">
   The podcast (available on digest pages) is a daily summary of two articles from the Website's <i>Most-Shared Links</i> section and one paper from the <i>SSRN Roundup</i>. It is a combination of scripted and AI-generated text. The intro and outro are scripted, everything between them is the output of a Large Language Model (LLM). <span style="background:#fff3b5">First, let's be clear. LLMs are bullshitters in that they produce plausible sounding assertions with no regard for accuracy, filtered through a set of problematic societal biases.</span> This is why, as mentioned above, I review the podcast before hitting <i>publish</i>. But I could miss something. The podcast is as much an exploration of LLMs as it is a summary of daily activity, and I want to see what I can learn from the daily process of editing an LLM in a low-stakes environment like a small one-person podcast and website. For more on the limits and drawbacks of algos as well as my practice of learning/teaching by building, see <a href="https://www.codingthelaw.org/Fall_2022/level/4/#intro_vid" target="_blank">Portland’s Precrime Experiment and the Limits of Algorithms</a>.
 </p>
-<p>
+<p style="color:#555">
   I pick which of the top articles to summarize based upon my tastes and the available text (e.g., if an article is behind a paywall or on a site that populates the page via javascript it's "too hard" to get the text so I skip them). I also occasionally edit text for readability, and if I don't like a summary, I'll either re-run the LLM or pick a different article. I don't check everything the LLM says, but I try to keep my BS detector on high sensitivity. See e.g., <a href="https://mastodon.social/@Colarusso/109631522675176262" target="_blank">the time it didn't summarize the article and just made up a click-bait hellscape</a>.
 </p>
-<p>
+<p style="color:#555">
   You can find the podcast <a href="https://podcasts.apple.com/us/podcast/in-case-you-missed-it-law/id1661174664" target="_blank">on Apple Podcast</a>, via <a href="https://icymilaw.org/podcast/rss.xml" target="_blank">it's RSS feed</a>, or search for it in your podcatcher of choice.
 </p>
 <p style="text-align:center">
@@ -173,11 +174,12 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 </p>
 
 <a name="letter" href="#letter" class="anchor" alt="deep link to this section" style="margin-top:0px;"></a>
-<h2>4. The Newsletter</h2>
-<p>
+<h2 style="color:#555">4. The Newsletter (RETIRED)</h2>
+<P><I><b>Note: the newsletter has been retired. This explination remains for posterity. ;)</b></I></P>
+<p style="color:#555">
   The Newsletter is just an email repackaging of the podcast transcript with a slightly different lead in and outro. See <a href="#pod">The Podcast</a>.
 </p>
-<p>
+<p style="color:#555">
   You can sign up for the newsletter <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0JLlCg95yXLf0oBPjNaYJy1w6ZY6iUpr4dAkT7_Sl74bwcA/viewform?usp=sf_link" target="_blank">here</a>.
 </p>
 <p style="text-align:center">
@@ -185,7 +187,7 @@ This site exists because of a bot—<a rel="me" href="https://esq.social/@icymi_
 </p>
 
 <div class="footer" style="margin-top:35px;">
-&nbsp;<font size=-1>Last Updated January 11, 2023</font>
+&nbsp;<font size=-1>Last Updated August 7, 2023</font>
 
 <span style="float:right;">
 <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a>
