@@ -18,7 +18,7 @@
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
 
-    <link rel="stylesheet" type="text/css" href="style/style.css?v=2025-01-06">
+    <link rel="stylesheet" type="text/css" href="style/style.css?v=2025-05-27">
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for ICYMI Law's AI-Summarized Podcast" href="https://icymilaw.org/podcast/rss.xml" />
 
     <!-- Google tag (gtag.js) -->
@@ -30,94 +30,16 @@
 
       gtag('config', 'G-RB08M9FHX6');
     </script>
-    
-    <style>
-
-        ul.cloud {
-          list-style: none;
-          padding-left: 0;
-          display: flex;
-          flex-wrap: wrap;
-          align-items: center;
-          justify-content: center;
-          line-height: 2.75rem;
-          width: 100%;
-        }
-
-        ul.cloud a {
-          /*   
-          Not supported by any browser at the moment :(
-          --size: attr(data-weight number); 
-          */
-          --size: 4;
-          --color: #a33;
-          color: var(--color);
-          font-size: calc(var(--size) * 0.25rem + 0.5rem);
-          display: block;
-          padding: 0.125rem 0.25rem;
-          position: relative;
-          text-decoration: none;
-          /* 
-          For different tones of a single color
-          opacity: calc((15 - (9 - var(--size))) / 15); 
-          */
-        }
-        
-        ul.cloud a[data-weight="1"] { --size: 3; }
-        ul.cloud a[data-weight="2"] { --size: 5; }
-        ul.cloud a[data-weight="3"] { --size: 8; }
-        ul.cloud a[data-weight="4"] { --size: 10; }
-        ul.cloud a[data-weight="5"] { --size: 13; }
-
-
-        ul[data-show-value] a::after {
-          content: " (" attr(data-weight) ")";
-          font-size: 1rem;
-        }
-
-        ul.cloud li:nth-child(2n+1) a { --color: #181; }
-        ul.cloud li:nth-child(3n+1) a { --color: #33a; }
-        ul.cloud li:nth-child(4n+1) a { --color: #c38; }
-
-        ul.cloud a:focus {
-          outline: 1px dashed;
-        }
-
-        ul.cloud a::before {
-          content: "";
-          position: absolute;
-          top: 0;
-          left: 50%;
-          width: 0;
-          height: 100%;
-          background: var(--color);
-          transform: translate(-50%, 0);
-          opacity: 0.15;
-          transition: width 0.25s;
-        }
-
-        ul.cloud a:focus::before,
-        ul.cloud a:hover::before {
-          width: 100%;
-        }
-
-        @media (prefers-reduced-motion) {
-          ul.cloud * {
-            transition: none !important;
-          }
-        }
-
-    </style>
     <link rel="stylesheet" type="text/css" href="style/green-audio-player.css">
     <script src="js/green-audio-player.js"></script>
 </head>
 <body>
 <div id="icon" onclick="window.location='/';"></div>
 <h1 class="title">In Case You Missed It (Law)<br>
-<span class="subtitle">Digest for Monday January 6, 2025</span>
+<span class="subtitle">Digest for Tuesday May 27, 2025</span>
 </h1>
 <div class="choose_date">
-<duet-date-picker identifier="date" value="2025-01-06" style="width:200px;"></duet-date-picker>
+<duet-date-picker identifier="date" value="2025-05-27" style="width:200px;"></duet-date-picker>
 </div>
 
 <div class="content">
@@ -131,7 +53,7 @@
       <b>Today's AI-Generated Podcast<sup style="font-size:10px;"> &dagger;</sup></b>
       <div class="gap-example player-accessible">
         <audio>
-            <source src="podcast/2025-01-06_show.mp3" type="audio/mpeg">
+            <source src="podcast/2025-05-27_show.mp3" type="audio/mpeg">
         </audio>
       </div>
       <span class="playback">
@@ -150,65 +72,65 @@
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0JLlCg95yXLf0oBPjNaYJy1w6ZY6iUpr4dAkT7_Sl74bwcA/viewform?usp=sf_link" target="_blank" class="letterlink"><div class="newsletter">SUBSCRIBE TO THE NEWSLETTER</div></a>
   </div>
 <p>
-Greetings, my name is <a href="https://mastodon.social/@Colarusso" target="_blank">David Colarusso</a>.
-I'm the director of Suffolk University Law School's
+Greetings, my name is <a href="https://bsky.app/profile/davidcolarusso.com" target="_blank">David Colarusso</a>.
+I'm the co-director of Suffolk University Law School's
 <a href="https://suffolklitlab.org/" target="_blank">Legal Innovation &amp; Technology (LIT) Lab</a>.
-With one foot in law and the other in tech, I really want the open web to thrive, esp.
-<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a>. So
-I created <a rel="me" href="https://esq.social/@icymi_law" target="_blank">a bot</a> and this site to help folks discover great law-themed content. You can get a look at their algos/workflows <a href="/about">here</a>.
-</p>
-<p>
-If you like what you see, consider
-<a href="https://www.washingtonpost.com/technology/2022/12/17/how-to-join-mastodon/" target="_blank">joining Mastodon</a>
-and following <a rel="me" href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a>, the bot feeding this page content.
-<!--<span style="background:#fff3b5"><b><i>
-You may also enjoy 
-</i></b></span>-->
-</p>
-<p>
-FWIW, here are some law-flavored server suggestions:
-(1) <a href="https://esq.social" target="_blank">esq.social</a> (legal general interest); and
-(2) <a href="https://mastodon.lawprofs.org/" target="_blank">mastodon.lawprofs.org</a> (legal academics). 
-Also, here are <a href="https://www.techdirt.com/2022/12/29/some-tricks-to-making-mastodon-way-more-useful/" target="_blank">Some Tricks [For] Making Mastodon Way More Useful</a>.
+With one foot in law and the other in tech, I really want the open web to thrive. So
+I created <a href="https://bsky.app/profile/icymilaw.org" target="_blank">a bot</a> 
+and this site to help folks discover great law-themed content..
 </p>
 </div>
 
-<div class="toptoots">
-<h2>Top Posts<sup style="font-size:14px;">&nbsp;&nbsp;</sup></h2></h2>
-<div id="toots" class="toots"><iframe src="https://esq.social/@SuffolkLITLab/113776799820425020/embed" id="frame_2025-01-06_0" name="frame_2025-01-06_0" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://social.coop/@copystar/113776129295864124/embed" id="frame_2025-01-06_1" name="frame_2025-01-06_1" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://esq.social/@AustinB/113777500308397623/embed" id="frame_2025-01-06_2" name="frame_2025-01-06_2" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mas.to/@trabern/113773993674659038/embed" id="frame_2025-01-06_3" name="frame_2025-01-06_3" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@Colarusso/113778396827969745/embed" id="frame_2025-01-06_4" name="frame_2025-01-06_4" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.social/@FrankPasquale/113778901682736993/embed" id="frame_2025-01-06_5" name="frame_2025-01-06_5" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://mastodon.green/@IcooIey/113776417581313477/embed" id="frame_2025-01-06_6" name="frame_2025-01-06_6" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<iframe src="https://infosec.exchange/@SteveBellovin/113778139074375313/embed" id="frame_2025-01-06_7" name="frame_2025-01-06_7" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-<script src="https://mastodon.social/embed.js" async="async"></script>
-</div>
-</div>
 
-<h2>Most-Shared Links</h2><p>Here are yesterday's most-shared links from <a href="https://esq.social/tags/law" target="_blank">#Law</a>/<a href="https://esq.social/tags/lawfedi" target="_blank">#LawFedi</a> folks I follow.¹</p><ol>
-</ol><p class="footnote">¹ <i>Yesterday</i> includes yesterday plus anytime today before this page was published. See footer.</p>
 
-<h2>SSRN Roundup</h2><p>I keep an eye out for links to SSRN. Once I collect five, I share them. This is the most-recent bundle.²</p><ul>
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm" target="_blank">Page Cannot be Found </a></li>
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3707249" target="_blank">Indirect Investor Protection: The Investment Ecosystem and Its Legal Underpinnings by Holger Spamann  </a></li>
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5010954" target="_blank">Regulating LGBTQ Speech in the Classroom by Caroline Mala Corbin  </a></li>
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033627" target="_blank">Still Abandoned by Joseph Grundfest, Mohsen Manesh  </a></li>
-<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039867" target="_blank">RECOGNITION RULES: THE CASE FOR A NEW INTERNATIONAL LAW OF GOVERNMENT RECOGNITION by Oona A. Hathaway, Justin Cole  </a></li>
-</ul><p class="footnote">² Depending on how much folks are sharing, there could be more or less than one bundle per day, this is just the most-recent one.</p>
+<a name="news" href="#news" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
+<h2>News-like Links</h2><p>
+A collection of links shared recently by legal-type folks¹ 
+with URLs that look like they point to news articles,² 
+sorted by popularity.
+</p><ol>
+<li><a href="https://www.nytimes.com/2025/05/27/business/media/npr-trump-lawsuit-executive-order-funding.html?unlocked_article_code=1.KU8.Ro1A.mTcM2WijH0LQ" target="_blank">NPR Sues Trump Over Order to Cut Funding</a></li>
+<li><a href="https://www.nytimes.com/2025/05/26/us/politics/judge-deportations-south-sudan-trump.html" target="_blank">Judge Criticizes Government Inaction in Case of Migrants Held in Djibouti</a></li>
+<li><a href="https://www.npr.org/2025/04/22/nx-s1-5372681/trump-immigration-judges-fired" target="_blank">Trump fires more immigration judges even as he aims to increase deportations</a></li>
+<li><a href="https://www.theatlantic.com/ideas/archive/2025/05/trump-defund-schools-research-republicans/682742/" target="_blank">The New Dark Age</a></li>
+<li><a href="https://www.bloomberg.com/news/features/2025-05-26/meta-ceo-mark-zuckerberg-bets-on-trump-but-maga-is-skeptical" target="_blank">Mark Zuckerberg Loves MAGA Now. Will MAGA Ever Love Him Back?</a></li>
+</ol>
 
-<div class="hashtags"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul class="cloud" role="navigation" aria-label="Webdev word cloud"><li><a href="https://esq.social/tags/catsofmastodon" data-weight="3" target="_blank">catsofmastodon (3)</a></li><li><a href="https://esq.social/tags/trump" data-weight="3" target="_blank">trump (3)</a></li><li><a href="https://esq.social/tags/Cybersecurity" data-weight="5" target="_blank">Cybersecurity (5)</a></li><li><a href="https://esq.social/tags/law" data-weight="4" target="_blank">law (4)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="3" target="_blank">lawfedi (3)</a></li><li><a href="https://esq.social/tags/dailystats" data-weight="3" target="_blank">dailystats (3)</a></li><li><a href="https://esq.social/tags/familylaw" data-weight="3" target="_blank">familylaw (3)</a></li><li><a href="https://esq.social/tags/photography" data-weight="3" target="_blank">photography (3)</a></li></ul></div>
 
-<div class="hashtags_mobile"><h2>Hastags</h2>Mastodon is big on hashtags. Here's what folks I follow were using yesterday:<ul><li><a href="https://esq.social/tags/Cybersecurity" data-weight="5" target="_blank">Cybersecurity (5)</a></li><li><a href="https://esq.social/tags/law" data-weight="4" target="_blank">law (4)</a></li><li><a href="https://esq.social/tags/catsofmastodon" data-weight="3" target="_blank">catsofmastodon (3)</a></li><li><a href="https://esq.social/tags/trump" data-weight="3" target="_blank">trump (3)</a></li><li><a href="https://esq.social/tags/lawfedi" data-weight="3" target="_blank">lawfedi (3)</a></li><li><a href="https://esq.social/tags/dailystats" data-weight="3" target="_blank">dailystats (3)</a></li><li><a href="https://esq.social/tags/familylaw" data-weight="3" target="_blank">familylaw (3)</a></li><li><a href="https://esq.social/tags/photography" data-weight="3" target="_blank">photography (3)</a></li></ul></div>
+
+<a name="blogs" href="#blogs" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
+<h2>Blog-like Links</h2><p>
+A collection of links shared recently by legal-type folks³ 
+with URLs that look like they point to blogs/newsletters,⁴ 
+sorted by popularity.
+</p><ol>
+<li><a href="https://heathercoxrichardson.substack.com/p/may-26-2025" target="_blank">May 26, 2025</a></li>
+<li><a href="https://donmoynihan.substack.com/p/here-is-a-specific-thing-you-can" target="_blank">Here is a specific thing you can do to fight Trump's politicization of public services</a></li>
+<li><a href="https://emptycity.substack.com/p/explaining-a-31-month-sentence-for" target="_blank">Explaining a 31-month sentence for a tweet</a></li>
+<li><a href="https://open.substack.com/pub/allrisenews/p/ezra-levin-kings?r=kqv2&utm_medium=ios" target="_blank">How to Rain on Trump's Military Parade</a></li>
+<li><a href="https://open.substack.com/pub/jennifermercieca/p/lincoln-calls-to-us-its-our-time?r=3htvf&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false" target="_blank">Lincoln Calls to us. It's Our Time.</a></li>
+</ol>
+
+
+
+<a name="papers" href="#papers" class="anchor" alt="deep link to this section" style="margin-top:15px;"></a>
+<h2>Paper-like Links</h2><p>
+A collection of links shared recently that look like they point to papers in law journals or the like,⁵ 
+sorted by popularity.
+</p><ol>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4736882" target="_blank">Did <i>Shelby County v. Holder</i> Increase the Racial Turnout Gap?</a></li>
+<li><a href="https://www.uclalawreview.org/judges-lawyers-legal-theorists-and-the-law-in-nazi-germany/" target="_blank">Judges, Lawyers, Legal Theorists, and the Law in Nazi Germany (1933–1938); Kristallnacht; and My Parents’ Escapes from the Nazis - UCLA Law Review</a></li>
+<li><a href="https://harvardlawreview.org/print/vol-138/the-counterfeit-sham/" target="_blank">The Counterfeit Sham - Harvard Law Review</a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2008746" target="_blank">Habeas Corpus and Due Process</a></li>
+<li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4006106" target="_blank">Integrating Sustainable Value Creation in Corporate Governance: Company Law, Corporate Governance Codes and the Constitution of the Company</a></li>
+</ol>
+<p class="footnote" style="border-top: solid 1px #eee;margin-top:35px;padding-top:15px;">¹ <a href="https://bsky.app/profile/did:plc:tf3cuutfe2ukjvmimfljzptd/lists/3lok5i2h6mr2o" target="_blank">Attorneys, law profs, et al.</a></br>
+² <a href="https://bsky.app/profile/icymilaw.org/feed/aaale3zynu3k6" target="_blank">News-like links (law)</a></br>
+³ <i>Supra</i> note 1</br>
+⁴ <a href="https://bsky.app/profile/icymilaw.org/feed/aaale4tho7eee" target="_blank">Blog-like links (law)</a></br>
+⁵ <a href="https://bsky.app/profile/davidcolarusso.com/feed/aaagh4rop4k3e" target="_blank">Law Review-like</a></p>
 
 <div style="float:left;">
-<h2>Traffic</h2>
-Of course, these insights are all thanks to a community of users, namely the folks I follow over at <a href="https://esq.social/@icymi_law" target="_blank">@icymi_law@esq.social</a>. 
-For fun, here's a look at their posting traffic yesterday. 
-I like trying to create stories about the daily ups and downs. What is that bump? ;)
-
-<p style="text-align:center;"><a href="plots/2025-01-05_end_of_day.png" target="_blank"><img src="plots/2025-01-05_end_of_day.png" width="100%" ALT="Plot of yesterday's posts" border="0px" style="border-radius: 5px;"/></a></p>
 
 <h2>Search</h2>
 <p>Use Google's site search to look through prior digests.</p>
@@ -235,9 +157,9 @@ I like trying to create stories about the daily ups and downs. What is that bump
 <div class="footer" style="margin-top:35px;">
     <span style="float:right;">
     <a href="/about" class="menu">About</a> | <a href="/privacy" class="menu">Privacy</a> | 
-    <a href="/archive/2025-01-05.html" class="menu">Yesterday</a>
+    <a href="/archive/2025-05-26.html" class="menu">Yesterday</a>
     </span>
-    <font size=-1>Created January 6, 2025 </br>@ 00:01 US/Eastern</font>
+    <font size=-1>Created May 27, 2025 </br>@ 09:05 US/Eastern</font>
 </div>
 
 </div>
