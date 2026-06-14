@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>ICYMI Law — AI Paper-like Links</title>
+    <link>https://icymilaw.org/#aipapers</link>
+    <description>Popular AI paper-like links shared recently on Bluesky.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 14:44:08 -0400</lastBuildDate>
+    <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrieval Collapses When AI Pollutes the Web</title>
+      <link>https://arxiv.org/abs/2602.16136</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.16136</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v3kdlk64khpz3hezk55kmnm3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The rapid proliferation of AI-generated content on the Web presents a structural risk to information retrieval, as search engines and Retrieval-Augmented Generation (RAG) systems increasingly consume ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 14:44:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v3kdlk64khpz3hezk55kmnm3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v3kdlk64khpz3hezk55kmnm3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Students still think they write better than GenAI, but not equally: Disciplinary differences in usage, trust, and writing practices with artificial intelligence</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869641</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6869641</guid>
+      <description>This survey study (n=342) identifies undergraduates’ GenAI usage patterns, their attitudes of trust towards these technologies, and their self-reported positive&lt;br&gt;&lt;br&gt;&lt;small&gt;🔥🔥🔥🔥 · reposts: 15 · likes: 35&lt;/small&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 13:38:54 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646</guid>
+      <description>People increasingly consult generative artificial intelligence (AI) while reasoning. As AI becomes embedded in daily thought, what becomes of human judgment? We&lt;br&gt;&lt;br&gt;&lt;small&gt;🔥 · reposts: 6 · likes: 17&lt;/small&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 13:38:54 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>SatLM: Satisfiability-Aided Language Models Using Declarative Prompting</title>
+      <link>https://arxiv.org/abs/2305.09656</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2305.09656</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Prior work has combined chain-of-thought prompting in large language models (LLMs) with programmatic representations to perform effective and transparent reasoning. While such an approach works well f...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 13:38:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Critical Confabulation: Can LLMs Hallucinate for Social Good?</title>
+      <link>https://arxiv.org/abs/2511.07722</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.07722</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hwcwxrgklrgi4fzcldy2zxqf/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs hallucinate, yet some confabulations can have social affordances if carefully bounded. We propose critical confabulation (inspired by critical fabulation from literary and social theory), the use...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 13:38:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hwcwxrgklrgi4fzcldy2zxqf/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hwcwxrgklrgi4fzcldy2zxqf/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Mathematical perspective on genetic algorithms with optimization guided operators</title>
+      <link>https://arxiv.org/abs/2606.12279</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.12279</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidv2uog5muvuuhgfttq2axlikj6cmwnvkxfper7um5nowywg5pyga" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Mathematical perspective on genetic algorithms with optimization guided operators&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Sun, 14 Jun 2026 13:38:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidv2uog5muvuuhgfttq2axlikj6cmwnvkxfper7um5nowywg5pyga" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidv2uog5muvuuhgfttq2axlikj6cmwnvkxfper7um5nowywg5pyga" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+  </channel>
+</rss>
