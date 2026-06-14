@@ -405,11 +405,10 @@ a.rss_link {
 	float:left;
 	width:16px;
 	height:16px;
-	background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/330px-Feed-icon.svg.png");
+	background-image: url("../images/feed.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
-	margin-top:8px;
 	margin-right:8px;
 }
 
