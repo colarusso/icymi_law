@@ -166,240 +166,252 @@ color: #888;
 }
 
 
-	#rawmarkup{
-		display:none;
-	}
+#rawmarkup{
+	display:none;
+}
 
-	#QandA img{
-		width:100%;
-	}
+#QandA img{
+	width:100%;
+}
 
-	div.main{
-		min-width:300px;
-		max-width:650px;
-		margin: 0 auto;
-	padding:0 5px 0 5px;
-		}
-	div.frame{
-		float:left;
-		width:100%;
-		margin:5px 0 5px 0;
+div.main{
+	min-width:300px;
+	max-width:650px;
+	margin: 0 auto;
+padding:0 5px 0 5px;
 	}
-	div.full{
-		float:left;
-		width:100%;
-	}
-	.button{
-		padding:8px;
-		margin:8px 0 0px 0;
-		width:100%;
-	}
-	div.question_text{
-		float:left;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		color:#ffffff;
-		min-width:30px;
-		background:#5489eb;
-		border-radius: 15px;
-		padding:10px 15px 14px 15px;
-		margin-right:45px;
-	}
+div.frame{
+	float:left;
+	width:100%;
+	margin:5px 0 5px 0;
+}
+div.full{
+	float:left;
+	width:100%;
+}
+.button{
+	padding:8px;
+	margin:8px 0 0px 0;
+	width:100%;
+}
+div.question_text{
+	float:left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color:#ffffff;
+	min-width:30px;
+	background:#5489eb;
+	border-radius: 15px;
+	padding:10px 15px 14px 15px;
+	margin-right:45px;
+}
 
-	div.question_text a:link, div.question_text a:hover, div.question_text a:active, div.question_text a:visited{ color:#e3fbfc; }
+div.question_text a:link, div.question_text a:hover, div.question_text a:active, div.question_text a:visited{ color:#e3fbfc; }
 
-	div.question_arrow{
-		float:left;
-		width: 0;
-		height: 0;
-		border-left: 5px solid transparent;
-		border-right: 10px solid transparent;
-		border-top: 15px solid #5489eb;
-		margin:0 20px;
-	}
-	div.ans_text{
-		float:right;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		color:#000000;
-		min-width:30px;
-		background:#eeeeee;
-		border-radius: 15px;
-		padding:10px 15px 14px 15px;
-		margin-left:45px;
-	}
-	div.ans_arrow{
-		float:right;
-		width: 0;
-		height: 0;
-		border-left: 10px solid transparent;
-		border-right: 5px solid transparent;
-		border-top: 15px solid #eeeeee;
-		margin:0 20px;
-	}
-	div.choices{
-		float:left;
-		width:100%;
-		margin:15px 0 0 0;
-	}
-	div.standard_buttons{
-		float:left;
-		width:100%;
-		margin-top:5px;
-		border-top: 1px solid #ddd;
-		padding-top:12px;
-	}
-	div.credits{
-		float:left;
-		dispaly:none;
-		width:100%;
-		background:#eee;
-		margin:0px 0 15px 0;
-	}
-	div.credit_text{
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		padding:4px 15px 10px 15px;
-	}
-	li.error{
-		list-style-type: none;
-		background:#ffdddd;
-		margin: 10px 0 0 0;
-		padding: 5px;
-	}
+div.question_arrow{
+	float:left;
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 10px solid transparent;
+	border-top: 15px solid #5489eb;
+	margin:0 20px;
+}
+div.ans_text{
+	float:right;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	color:#000000;
+	min-width:30px;
+	background:#eeeeee;
+	border-radius: 15px;
+	padding:10px 15px 14px 15px;
+	margin-left:45px;
+}
+div.ans_arrow{
+	float:right;
+	width: 0;
+	height: 0;
+	border-left: 10px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 15px solid #eeeeee;
+	margin:0 20px;
+}
+div.choices{
+	float:left;
+	width:100%;
+	margin:15px 0 0 0;
+}
+div.standard_buttons{
+	float:left;
+	width:100%;
+	margin-top:5px;
+	border-top: 1px solid #ddd;
+	padding-top:12px;
+}
+div.credits{
+	float:left;
+	dispaly:none;
+	width:100%;
+	background:#eee;
+	margin:0px 0 15px 0;
+}
+div.credit_text{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	padding:4px 15px 10px 15px;
+}
+li.error{
+	list-style-type: none;
+	background:#ffdddd;
+	margin: 10px 0 0 0;
+	padding: 5px;
+}
 
-	.qpad {
-		float:left;
-		padding:0 15px;
-	}
+.qpad {
+	float:left;
+	padding:0 15px;
+}
 
-	a.sbutton {
-		float:left;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		width:48%;
-		background: #eee;
-		border-radius: 8px;
-		padding:10px 0px 12px 0;
-		margin: 0 0 3px 0;
-		border: solid 1px #888;
-		text-align:center;
-		color: #000000;
-		text-decoration: none;
-	}
+a.sbutton {
+	float:left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	width:48%;
+	background: #eee;
+	border-radius: 8px;
+	padding:10px 0px 12px 0;
+	margin: 0 0 3px 0;
+	border: solid 1px #888;
+	text-align:center;
+	color: #000000;
+	text-decoration: none;
+}
 
-	a.sbutton:hover, a.sbutton:active {
-		float:left;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		width:48%;
-		background: #ddd;
-		border-radius: 8px;
-		padding:10px 0px 12px 0;
-		margin: 0 0 3px 0;
-		border: solid 1px #888;
-		text-align:center;
-		color: #000000;
-		text-decoration: none;
-	}
+a.sbutton:hover, a.sbutton:active {
+	float:left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	width:48%;
+	background: #ddd;
+	border-radius: 8px;
+	padding:10px 0px 12px 0;
+	margin: 0 0 3px 0;
+	border: solid 1px #888;
+	text-align:center;
+	color: #000000;
+	text-decoration: none;
+}
 
-	a.qabutton {
-		float:left;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		width:100%;
-		background: #eee;
-		border-radius: 8px;
-		padding:10px 0px 12px 0;
-		margin: 0 0 8px 0;
-		border: solid 1px #888;
-		text-align:left;
-		color: #000000;
-		text-decoration: none;
-	}
+a.qabutton {
+	float:left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	width:100%;
+	background: #eee;
+	border-radius: 8px;
+	padding:10px 0px 12px 0;
+	margin: 0 0 8px 0;
+	border: solid 1px #888;
+	text-align:left;
+	color: #000000;
+	text-decoration: none;
+}
 
-	a.qabutton:hover, a.qabutton:active {
-		float:left;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		width:100%;
-		background: #ddd;
-		border-radius: 8px;
-		padding:10px 0px 12px 0;
-		margin: 0 0 8px 0;
-		border: solid 1px #888;
-		text-align:left;
-		color: #000000;
-		text-decoration: none;
-	}
+a.qabutton:hover, a.qabutton:active {
+	float:left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	width:100%;
+	background: #ddd;
+	border-radius: 8px;
+	padding:10px 0px 12px 0;
+	margin: 0 0 8px 0;
+	border: solid 1px #888;
+	text-align:left;
+	color: #000000;
+	text-decoration: none;
+}
 
 
-	div.xdiv {
-		float:left;
-		width:100%;
-		margin: 0 0 8px 0;
-		background: #eee;
-		border: solid 1px #888;
-		border-radius: 8px;
-	}
+div.xdiv {
+	float:left;
+	width:100%;
+	margin: 0 0 8px 0;
+	background: #eee;
+	border: solid 1px #888;
+	border-radius: 8px;
+}
 
-	input.xinput {
-		-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-		-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-		box-sizing: border-box;         /* Opera/IE 8+ */
-		float:left;
-		width:100%;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		background: #fff;
-		border-top-left-radius: 8px;
-		border-top-right-radius: 8px;
-		padding:10px 10px 12px 10px;
-		border: solid 0px #888;
-		border-bottom: solid 1px #888;
-		text-align:left;
-		color: #000000;
-		text-decoration: none;
-	}
+input.xinput {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box;         /* Opera/IE 8+ */
+	float:left;
+	width:100%;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	background: #fff;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	padding:10px 10px 12px 10px;
+	border: solid 0px #888;
+	border-bottom: solid 1px #888;
+	text-align:left;
+	color: #000000;
+	text-decoration: none;
+}
 
-	a.xbutton {
-		float:left;
-		width:100%;
-		text-align:left;
-		font-family: Verdana, Geneva, sans-serif;
-		font-size: 14px;
-		line-height: 20px;
-		background: #eee;
-		border-radius: 8px;
-		padding:10px 0px 12px 0px;
-		color: #000000;
-		text-decoration: none;
-	}
+a.xbutton {
+	float:left;
+	width:100%;
+	text-align:left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+	background: #eee;
+	border-radius: 8px;
+	padding:10px 0px 12px 0px;
+	color: #000000;
+	text-decoration: none;
+}
 
-	a.xbutton:hover, a.xbutton:active {
-		border-top-left-radius: 0px;
-		border-top-right-radius: 0px;
-		background: #ddd;
-	}
+a.xbutton:hover, a.xbutton:active {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	background: #ddd;
+}
 
-	a.anchor {
-		display:block;
-		float:right;
-		width:22px;
-		height:16px;
-		background-image: url("../images/link.png");
-		background-repeat: no-repeat;
-		background-position: center;
-	}
+a.anchor {
+	display:block;
+	float:right;
+	width:22px;
+	height:16px;
+	background-image: url("../images/link.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
 
+a.rss_link {
+	display:block;
+	float:left;
+	width:16px;
+	height:16px;
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Feed-icon.svg/330px-Feed-icon.svg.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top:8px;
+	margin-right:8px;
+}
 
 .vid_wrapper {
 	box-sizing: border-box;
