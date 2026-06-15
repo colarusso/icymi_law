@@ -2,82 +2,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Legal Tech News Feed</title>
-    <link>https://suffolklitlab.org/</link>
+    <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 15:43:37 -0400</lastBuildDate>
-    <atom:link href="https://suffolklitlab.org/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Amazon&amp;#8217;s Smart Thermostat is on sale for just $58</title>
-      <link>https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale</guid>
-      <description>If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It&amp;amp;#8217;s down to just $57.99 at Amazon as a part of Amazon’s early Prime Day sale, which is the best price we’ve seen since Black [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 19:33:28 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Supreme Court Declines To Review Pauline Newman’s Suspension</title>
-      <link>https://abovethelaw.com/2026/06/supreme-court-declines-to-review-pauline-newmans-suspension/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/supreme-court-declines-to-review-pauline-newmans-suspension/</guid>
-      <description>Rough. The post Supreme Court Declines To Review Pauline Newman&amp;amp;#8217;s Suspension appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 19:12:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021</title>
-      <link>https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/</guid>
-      <description>Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 19:07:02 +0000</pubDate>
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>All the news about Anthropic&amp;#8217;s new AI fight with the White House</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown</guid>
-      <description>Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI models, Fable 5 and Mythos 5. When they launched on June 9th, Anthropic said &amp;amp;#8220;Fable 5’s capabilities exceed those of any [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 19:04:53 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Meet the world’s top AI-pilled economists</title>
-      <link>https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists</link>
-      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/06/15/meet-the-worlds-top-ai-pilled-economists</guid>
-      <description>Most of them are not found in ivory towers&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.economist.com/finance-and-economics/rss.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 19:04:42 +0000</pubDate>
-      <source url="https://www.economist.com">www.economist.com</source>
-    </item>
-    <item>
-      <title>A Chinese rocket breaks apart dangerously close to the Starlink constellation</title>
-      <link>https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/</link>
-      <guid isPermaLink="true">https://arstechnica.com/space/2026/06/a-chinese-rocket-breaks-apart-dangerously-close-to-the-starlink-constellation/</guid>
-      <description>The rocket&amp;#x27;s breakup likely generated 100 to 150 new pieces of space junk.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:55:41 +0000</pubDate>
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Why do South Koreans love AI so much?</title>
-      <link>https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/</guid>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face and passport. On the subway home,&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:46:08 +0000</pubDate>
-      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
-    </item>
-    <item>
-      <title>Fox’s $22B Roku acquisition aims to expand its reach into smart TVs, advertising</title>
-      <link>https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/</guid>
-      <description>Fox plans to take over Roku&amp;#x27;s streaming hardware, OS, and FAST services.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 18:29:47 +0000</pubDate>
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Users cry foul after AMD stripped memory crypto from its consumer CPUs</title>
-      <link>https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/</guid>
-      <description>AMD&amp;#x27;s stripping of TSME from consumer CPUs appears to be a deliberate, covert move.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 17:55:46 +0000</pubDate>
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
+    <lastBuildDate>Mon, 15 Jun 2026 16:04:23 -0400</lastBuildDate>
+    <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
