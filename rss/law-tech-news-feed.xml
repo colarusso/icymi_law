@@ -1,11 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Legal Tech News Feed</title>
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:04:23 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:55:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why You’re A Hypocrite</title>
+      <link>https://abovethelaw.com/2026/06/why-youre-a-hypocrite/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/why-youre-a-hypocrite/</guid>
+      <description>What&amp;#x27;s a person to believe? The post Why You&amp;amp;#8217;re A Hypocrite appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 20:44:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>UK to ban social media for kids under 16, may impose overnight curfews</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/</guid>
+      <description>Critics say bans push kids to riskier alternatives and can be beaten with VPNs.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 20:14:04 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/social-apps-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/social-apps-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Trump DOJ Friday News Dumps Its Approval Of The Job-Killing Paramount, Warner Bros Merger</title>
+      <link>https://www.techdirt.com/2026/06/15/trump-doj-friday-news-dumps-its-approval-of-the-job-killing-paramount-warner-bros-merger/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/06/15/trump-doj-friday-news-dumps-its-approval-of-the-job-killing-paramount-warner-bros-merger/</guid>
+      <description>The Trump &amp;amp;#8220;Department of Justice&amp;amp;#8217;s&amp;amp;#8221; &amp;amp;#8220;antitrust division&amp;amp;#8221; dumped its unsurprising approval of the terrible Paramount Warner Brothers merger late on Friday in the hopes people wouldn&amp;amp;#8217;t notice it. As we&amp;amp;#8217;ve noted the $111 billion megadeal is a historically harmful mess. Backed by billions in Saudi and Chinese cash (raising all sorts of foreign media influence [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 20:05:26 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Fox wants to take over your TV — and the tech inside it</title>
+      <link>https://www.theverge.com/streaming/950116/fox-roku-takeover</link>
+      <guid isPermaLink="true">https://www.theverge.com/streaming/950116/fox-roku-takeover</guid>
+      <description>Fox is about to take over the TVs in more than 100 million homes worldwide. On Monday, Fox announced that it&amp;#x27;s acquiring Roku, the streaming middleman that serves as a portal for viewers to hop into services like Netflix, Disney Plus, Hulu, and more. The $22 billion deal may not change Roku&amp;#x27;s familiar purple interface, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 20:04:29 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>The ‘New’ Magic Circle Is Here, And U.S. Firms Dominate List</title>
+      <link>https://abovethelaw.com/2026/06/the-new-magic-circle-is-here-and-u-s-firms-dominate-list/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/the-new-magic-circle-is-here-and-u-s-firms-dominate-list/</guid>
+      <description>A fresh take on London&amp;#x27;s legal elite puts American firms firmly in the spotlight. The post The &amp;amp;#8216;New&amp;amp;#8217; Magic Circle Is Here, And U.S. Firms Dominate List appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 20:01:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
   </channel>
 </rss>
