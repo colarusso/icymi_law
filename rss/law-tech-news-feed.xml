@@ -1,12 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>Legal Tech News Feed</title>
+    <title>Suffolk's Law + Tech Feed</title>
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2026 16:55:44 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The US government’s Anthropic models ban was never about an AI jailbreak</title>
+      <link>https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/</guid>
+      <description>The Trump administration&amp;#x27;s decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn&amp;#x27;t immune from U.S. government interference.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 21:50:21 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Why You Should Choose Legal Ops Tools You Can Build On (Part 1)</title>
+      <link>https://abovethelaw.com/2026/06/why-you-should-choose-legal-ops-tools-you-can-build-on-part-1/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/why-you-should-choose-legal-ops-tools-you-can-build-on-part-1/</guid>
+      <description>A strong development surface addresses problems that have not materialized yet. The post Why You Should Choose Legal Ops Tools You Can Build On (Part 1) appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 21:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Facebook’s new AI Mode search gets its info from public posts</title>
+      <link>https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook</guid>
+      <description>Your public Facebook posts could help inform AI-generated results in Meta&amp;#x27;s new AI Mode. When you search on Facebook, the &amp;quot;AI Mode&amp;quot; option will appear alongside the usual search modes like &amp;quot;People&amp;quot; and &amp;quot;Marketplace.&amp;quot; It&amp;#x27;s one of several new AI features Meta is rolling out starting today, including photo presets that swap sports jerseys onto [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 21:15:08 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Xbox is closing down Hellblade creator Ninja Theory</title>
+      <link>https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua</guid>
+      <description>Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure, but they are hoping the studio will find a buyer. The closure comes as &amp;quot;several&amp;quot; Xbox studios at Microsoft, including Compulsion Games and Double Fine, are in [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 21:13:35 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>COVID vaccines still protect against heart problems, large study finds</title>
+      <link>https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/</link>
+      <guid isPermaLink="true">https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/</guid>
+      <description>Despite continued benefits, anti-vaccine rhetoric has driven down vaccination.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 15 Jun 2026 21:04:26 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1232060072-1152x648.jpeg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1232060072-1152x648.jpeg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Why You’re A Hypocrite</title>
       <link>https://abovethelaw.com/2026/06/why-youre-a-hypocrite/</link>
