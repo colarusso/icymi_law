@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 11:56:19 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word</title>
+      <link>https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html</guid>
+      <description>BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generative AI and an agentic, chat-based interface. Running directly inside a Microsoft Word add-in, Veris allows contract-review teams to negotiate and mark up agreements [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:54:23 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>How Law Firms And Law Schools Can Develop Talent In The AI Age</title>
+      <link>https://abovethelaw.com/2026/06/how-law-firms-and-law-schools-can-develop-talent-in-the-ai-age/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/how-law-firms-and-law-schools-can-develop-talent-in-the-ai-age/</guid>
+      <description>[Sponsored] Introducing ‘Envisioning Success: The 2026 Career Aspirations Survey from BARBRI and Above the Law.’ The post How Law Firms And Law Schools Can Develop Talent In The AI Age appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 16:12:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’</title>
       <link>https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/</link>
