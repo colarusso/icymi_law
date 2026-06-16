@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 19:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</guid>
+      <description>NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 22:22:44 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>The Biglaw Firm Tapped To Take SpaceX Public</title>
       <link>https://abovethelaw.com/2026/06/the-biglaw-firm-tapped-to-take-spacex-public/</link>
