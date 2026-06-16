@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 10:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:56:19 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’</title>
+      <link>https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/</guid>
+      <description>The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 15:05:03 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>How The Commerce Crackdown On Anthropic Could Impact The Pentagon: Experts</title>
+      <link>https://breakingdefense.com/2026/06/how-the-commerce-crackdown-on-anthropic-could-impact-the-pentagon-experts/</link>
+      <guid isPermaLink="true">https://breakingdefense.com/2026/06/how-the-commerce-crackdown-on-anthropic-could-impact-the-pentagon-experts/</guid>
+      <description>By imposing export controls on the bug-hunting AI Mythos/Fable 5, the Commerce Department has complicated the Pentagon’s already fraught relationship with Anthropic. The post How The Commerce Crackdown On Anthropic Could Impact The Pentagon: Experts appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 14:03:00 +0000</pubDate>
+      <source url="https://breakingdefense.com">breakingdefense.com</source>
+    </item>
     <item>
       <title>Morning Docket: 06.16.26</title>
       <link>https://abovethelaw.com/2026/06/morning-docket-06-16-26/</link>
