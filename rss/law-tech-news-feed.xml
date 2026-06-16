@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:56:17 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Adventures In Legal Tech’: How Small Firms Can Adopt AI At A Reasonable Pace</title>
+      <link>https://abovethelaw.com/2026/06/adventures-in-legal-tech-defeating-technology-overload-2/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/adventures-in-legal-tech-defeating-technology-overload-2/</guid>
+      <description>The new ‘junior associate’ for small firms takes the lead in this episode of ‘Adventures in Legal Tech.’ The post &amp;amp;#8216;Adventures In Legal Tech&amp;amp;#8217;: How Small Firms Can Adopt AI At A Reasonable Pace appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 18:49:50 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center</title>
+      <link>https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html</guid>
+      <description>The department cited national security concerns, saying Elon Musk’s company had played a crucial role in the Iran war. It also argued it has the authority to stop environmental lawsuits brought by citizens.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 17:57:56 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/16/multimedia/16cli-musk-doj-vjqt/16cli-musk-doj-vjqt-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/16/multimedia/16cli-musk-doj-vjqt/16cli-musk-doj-vjqt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’</title>
+      <link>https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians</guid>
+      <description>Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over the facilities powering an AI boomA controversial haunted house near Philadelphia, Pennsylvania, taps into its dark history every fall to scare tens of thousands of visitors. In 1968, a local news station documented appalling conditions for disabled people in the red brick buildings on the banks of Schuylkill River. Residents were found naked and emaciated at what was then known as the Pennhurst state school and hospital. The institution shut its doors permanently in 1987 after a lawsuit over inhumane conditions.By 2010, a Halloween attraction stood in its place, and Pennhurst asylum’s previous owner suggested during its early years that he wanted to spook guests by repurposing the hospital’s surgical lights and medical cabinets to use as props. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 16 Jun 2026 14:00:00 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/44ac79819d18b911c53cb6926918bd64ac4d6973/464_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70080639c1217663f712c96f2d1c95e3" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/44ac79819d18b911c53cb6926918bd64ac4d6973/464_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70080639c1217663f712c96f2d1c95e3" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word</title>
       <link>https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html</link>
