@@ -5,8 +5,42 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 09:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:56:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Waymo’s Driverless Taxis Won’t Be on Your Streets Anytime Soon</title>
+      <link>https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html</guid>
+      <description>The Silicon Valley company’s ambitions to roll out autonomous cars nationwide have hit political roadblocks in some of the country’s biggest markets.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 14:49:10 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/04/30/multimedia/WAYMO-politics-02-pvqz/WAYMO-politics-02-pvqz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/04/30/multimedia/WAYMO-politics-02-pvqz/WAYMO-politics-02-pvqz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Cyberattack Gives Biglaw Firm A New Return-To-Office Excuse</title>
+      <link>https://abovethelaw.com/2026/06/cyberattack-gives-biglaw-firm-a-new-return-to-office-excuse/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/cyberattack-gives-biglaw-firm-a-new-return-to-office-excuse/</guid>
+      <description>Employees have been instructed to return to the office or relocate their firm equipment while systems are secured. The post Cyberattack Gives Biglaw Firm A New Return-To-Office Excuse appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 14:42:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Ken Crutchfield: Is Kirkland’s $500 Million AI Investment Really A Bet On Data?</title>
+      <link>https://www.lawnext.com/2026/06/ken-crutchfield-is-kirklands-500-million-ai-investment-really-a-bet-on-data.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/06/ken-crutchfield-is-kirklands-500-million-ai-investment-really-a-bet-on-data.html</guid>
+      <description>When Kirkland &amp;amp;#38; Ellis announced a $500 million investment in AI, much of the reaction focused on the dollar amount. That much money commands attention in the legal industry. But the dollar amount may not be the most interesting part of the story. The more important questions are what is Kirkland actually buying and what [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 14:35:48 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI</title>
+      <link>https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/</guid>
+      <description>Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 14:15:22 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Crosby Starts Contract Benchmark, Launches Agent Research Group</title>
       <link>https://www.artificiallawyer.com/2026/06/17/crosby-starts-contract-benchmark-launches-agent-research-group/</link>
