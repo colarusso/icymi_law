@@ -1,12 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>ICYMI Law — Law Review-like Links</title>
     <link>https://icymilaw.org/#papers</link>
     <description>Popular law review-like and scholarly legal links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 06:08:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:08:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Empirical Study Of Malingering In Insanity Cases Across Twelve Decades</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6880545</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6880545</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pb2ppw7i6izh2k35a3cj6yx/bafkreidh56j7q5smfi634rie3actez3j6ffira5g6iu4o7pplsjpyulgne" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The last 120 years have seen a surge in the use of neuroscientific evidence in American criminal law cases, fueled by discoveries in brain science that&amp;amp;nbs&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 06:08:51 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pb2ppw7i6izh2k35a3cj6yx/bafkreidh56j7q5smfi634rie3actez3j6ffira5g6iu4o7pplsjpyulgne" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pb2ppw7i6izh2k35a3cj6yx/bafkreidh56j7q5smfi634rie3actez3j6ffira5g6iu4o7pplsjpyulgne" type="image/jpeg" length="0" />
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Data Privacy Federalism 3.0</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6902198</link>
