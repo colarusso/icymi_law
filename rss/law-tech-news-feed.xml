@@ -5,8 +5,40 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2026 20:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:56:41 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Digital Colonialism”: U.S. Demands to Access Africans’ Data Raise Privacy, Sovereignty Concerns</title>
+      <link>https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy</link>
+      <guid isPermaLink="true">https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy</guid>
+      <description>The post “Digital Colonialism”: U.S. Demands to Access Africans’ Data Raise Privacy, Sovereignty Concerns appeared first on ProPublica.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.propublica.org/feeds/propublica/main&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 09:00:00 +0000</pubDate>
+      <source url="https://www.propublica.org">www.propublica.org</source>
+    </item>
+    <item>
+      <title>The CoCounsel + DeepJudge Integration – AL Interview</title>
+      <link>https://www.artificiallawyer.com/2026/06/17/the-cocounsel-deepjudge-integration-al-interview/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/17/the-cocounsel-deepjudge-integration-al-interview/</guid>
+      <description>Thomson Reuters is today announcing the general availability of their DeepJudge-CoCounsel integration. To mark the occasion, Artificial Lawyer spoke to DeepJudge co-founder Paulina Grnarova at ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 08:41:31 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Syke Founder Alistair Maiden Joins Flank</title>
+      <link>https://www.artificiallawyer.com/2026/06/17/syke-founder-alistair-maiden-joins-flank/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/17/syke-founder-alistair-maiden-joins-flank/</guid>
+      <description>Alistair Maiden, who created the well-known legal engineering group Syke before selling it to Consilio, has joined legal agent maker Flank in a senior role. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 08:00:07 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Summize Buys Part Of InnoLaw Group</title>
+      <link>https://www.artificiallawyer.com/2026/06/17/summize-buys-part-of-innolaw-group/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/17/summize-buys-part-of-innolaw-group/</guid>
+      <description>AI-driven CLM company Summize is acquiring ‘key personnel and proprietary assets’ from InnoLaw Group (ILG), a legal tech consultancy focused on the inhouse world. The ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 06:43:48 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines</title>
       <link>https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/</link>
