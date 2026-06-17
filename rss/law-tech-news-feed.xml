@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 16:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Free and Open Web Is Under Attack at the IETF</title>
+      <link>https://www.eff.org/deeplinks/2026/06/free-and-open-web-under-attack-ietf</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/free-and-open-web-under-attack-ietf</guid>
+      <description>The ability to access publicly available information using automated tools is a central value and benefit of a free and open internet. Automated access—often called crawling or scraping—powers important, useful tools for locating, preserving, and analyzing online information. For example, crawling and scraping helps journalists, researchers, and watchdog organizations report the news, find security flaws, and investigate discrimination. Crawling the web allows non-profits like the Internet Archive to preserve historical copies of websites. Tools for automated comparison shopping allow consumers to find the best deals on items they want to buy. And so on. Yet the open internet access is increasingly under threat from publishers and Big Tech companies alike. Fearing lost advertising and licensing revenues, website operators increasingly claim that they need to lock down their sites from bots that crawl public web content to train or operate AI models. Some companies are even trying to embed their business models into internet standards by changing Internet Engineering Task Force (IETF) technical standards that shape much of the internet. Many of their economic anxieties are understandable. AI bots can strain websites’ infrastructure, in some cases, degrading site performance or taking them offline altogether. Upgrading systems costs money that some sites may not have. And AI is likely to disrupt the business models many publishers adopted in response to the rise of the internet, if users rely on AI overviews instead of visiting source websites. However reasonable these fears may be, the answer is not to change the IETF standards from neutral protocols that encourage openness to restrictive requirements designed to monetize internet access. The worst of these proposed standards would give websites far greater ability to automatically block legitimate, lawful scraping and crawling. For example, the AI Preferences working group is working on proposals to give publishers a way to express “preference signals” against crawling web data for AI-related purposes, including to train models, generate outputs, and help users search the web. These preference signals would be expressed through robots.txt and could potentially become legally binding in some jurisdictions. Another working group, called Web Bot Auth, is pursuing efforts to protect sites from overly-aggressive bots that strain website resources—a positive goal that could meaningfully improve the internet in the AI era. But Web Bot Auth is simultaneously pursuing a much more dangerous path as well: standards changes that would enable sites to cryptographically identify bots so that they can more easily block anyone they wish—not just “bad” actors, but competitors, dissidents, or anyone who hasn’t paid for the right to access sites using automated tools. If sites restrict crawling to a preapproved list of cryptographically authenticated bots, they could require licensing payments from those wishing to crawl their sites. This would close off the open web to researchers, archivists, and startups without the ability to pay for automated access. Websites may have legitimate reasons to worry about AI’s impacts on their traffic and advertising revenue, but those reasons must be weighed against the benefits of the open web. These proposals would effectively give website operators veto power over a wide range of important uses—from the investigations and archival works described above to accessibility tools for people with disabilities, to research efforts aimed at holding governments accountable. That is why we are fighting back against these threats to open access. EFF and our allies in the open internet community have successfully resisted some of the most dangerous IETF proposals thus far—and won’t stop working to protect the open web from efforts to manipulate internet standards to undermine the right to freely access the internet in any legal way, including with automated tools.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 21:26:08 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/open-access.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/open-access.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>California says AT&amp;T lied to FCC in attempt to shut off old phone network</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/</guid>
+      <description>FCC considers AT&amp;amp;#038;T petitions to preempt state rules and discontinue phone service.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 20:07:40 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/woman-dialing-phone-1152x648-1781724369.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/woman-dialing-phone-1152x648-1781724369.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”</title>
+      <link>https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</link>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</guid>
+      <description>Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 17 Jun 2026 19:43:13 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Ironclad + Legora Partner for Unusual ‘AI-to-AI Integration’</title>
       <link>https://www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration/</link>
