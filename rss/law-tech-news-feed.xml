@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 11:56:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:56:31 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says</title>
+      <link>https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html</guid>
+      <description>The employees encouraged limits on the complexes in a series of hearings in the tech giant’s hometown, Seattle.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:11:16 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/18/multimedia/18biz-amazon-retaliation-cgfb/18biz-amazon-retaliation-cgfb-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/18/multimedia/18biz-amazon-retaliation-cgfb/18biz-amazon-retaliation-cgfb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Amazon employees say they’re facing termination for backing data center limits</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action</guid>
+      <description>When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they&amp;#x27;re accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 16:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Clio Launches Two AI Initiatives: Free Tools for Florida Lawyers and a Pledge to Train 25,000 Professionals</title>
       <link>https://www.lawnext.com/2026/06/clio-launches-two-ai-initiatives-free-tools-for-florida-lawyers-and-a-pledge-to-train-25000-professionals.html</link>
