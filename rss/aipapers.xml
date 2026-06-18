@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:09:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:09:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large Language Models Hack Rewards, and Society</title>
+      <link>https://arxiv.org/abs/2606.04075</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.04075</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4r6pybalricew7qva5h7wyr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Reinforcement learning (RL) has become a dominant post-training paradigm, enabling large language models (LLMs) to learn from rewards. We observe that societal regulations are structurally similar to ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 15&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 06:09:59 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4r6pybalricew7qva5h7wyr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4r6pybalricew7qva5h7wyr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>arXiv.org e-Print archive</title>
+      <link>https://arxiv.org</link>
+      <guid isPermaLink="true">https://arxiv.org</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 11&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 06:09:59 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model</title>
       <link>https://arxiv.org/abs/2606.09770</link>
