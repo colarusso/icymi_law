@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 17:56:18 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:56:19 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canada Is Forging Ahead with Its Dangerous Surveillance Bill</title>
+      <link>https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/canada-forging-ahead-its-dangerous-surveillance-bill</guid>
+      <description>With no serious debate, including on proposed amendments, Canada is blazing full speed ahead with Bill C-22, which would threaten encryption and increase surveillance. Also known as the Lawful Access Bill, Bill C-22 is currently moving forward quickly to a vote despite the many, many criticisms civil liberty groups and the tech industry have hurled at it. As we’ve discussed before, Bill C-22 is dangerous on multiple levels. It pushes for requirements for metadata retention, expands information sharing with foreign governments, and establishes a mechanism that allows Canada’s Ministry of Public Safety to demand that companies create backdoors, effectively breaking encryption. That mechanism was a key facet of Part 2 in Bill C-22, and the government prevented it from being independently debated. In a deep analysis of the bill, Citizen Lab and the Canadian Civil Liberties Association detail every one of flaws of this proposal, concluding that most elements are unsalvageable. A wide range of tech companies agree. Signal, Apple, Google, and several VPN providers oppose the bill, and some have said they’d likely be forced to either cut Canadians off from certain features or shut down services in Canada altogether. The Canadian government wants this dangerous, complicated, overreaching bill passed before June 19. Bill C-22 is riddled with privacy problems that affect millions of people. It should be debated and studied fully, not jammed through on an arbitrary deadline. OpenMedia is offering a tool for Canadians to contact their elected representatives about the bill. Actions taken on OpenMedia&amp;#x27;s website are governed by OpenMedia&amp;#x27;s privacy policy, not EFF&amp;#x27;s.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 22:34:07 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/banner-encrypttheweb2.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/banner-encrypttheweb2.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>EFF Thanks SerpApi For Helping Us Protect Free Speech Online</title>
+      <link>https://www.eff.org/deeplinks/2026/06/eff-thanks-serpapi-helping-us-protect-free-speech-online</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/eff-thanks-serpapi-helping-us-protect-free-speech-online</guid>
+      <description>EFF is grateful for SerpApi’s generous support, helping us fight for your rights to speak and access information online. SerpApi has been giving to EFF every year since 2018, and alongside our 32,000 individual donors, their gift is critical to keeping up the fight. Whether in the courts, halls of power, or broader policy debates, we appreciate the work this support has made possible over the years. Some examples: We sued the U.S. Department of Homeland Security and Department of State to stop an unconstitutional social media surveillance program to identify and punish individuals who express viewpoints the government disagrees with. We helped develop the Santa Clara Principles, a framework to reign in overbroad content moderation so that all users are treated fairly and offered consistent tools for recourse if their speech is censored by tech companies. In the whitepaper Unfiltered: How YouTube’s Content ID Discourages Fair Use and Dictates What We See Online, we pushed back on YouTube for silencing individual creators in the interest of protecting a small number of giant copyright holders. We stood with whistleblowers and dissidents persecuted for their online speech. We continued the fight to protect Section 230. We live in an era when lawful speech and the right to access information are being targeted by Big Tech and governments around the world that are hostile to dissent. Free speech online is core to EFF’s mission, and SerpApi’s support will help us continue the fight to protect everyone’s right to free expression.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 21:56:22 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/free-speech-cat3.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/free-speech-cat3.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Call for Submissions: Digital Pride</title>
       <link>https://www.eff.org/deeplinks/2026/06/call-submissions-digital-pride</link>
