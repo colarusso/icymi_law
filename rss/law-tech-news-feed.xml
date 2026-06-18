@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 12:56:31 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building AI practice tools for law students: The pedagogy-first approach that works</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/technology/ai-tools-for-law-students/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/technology/ai-tools-for-law-students/</guid>
+      <description>A law professor with no coding background demonstrates how law school educators can build effective AI-powered tools for use by law students.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 18 Jun 2026 17:16:56 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/02/AdobeStock_729963257_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/02/AdobeStock_729963257_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says</title>
       <link>https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html</link>
