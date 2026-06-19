@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 06:08:43 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:08:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The White House Is Making Up Its Rules for AI in Real Time</title>
+      <link>https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fa3rwygrp2ebgwdiq6sjn2te/bafkreifwxoka7t7uipkgetx6ulaem43u7mnrywt7sdw4xmdi3sclzn2j7m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 42 · likes: 119&lt;/small&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 06:08:51 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fa3rwygrp2ebgwdiq6sjn2te/bafkreifwxoka7t7uipkgetx6ulaem43u7mnrywt7sdw4xmdi3sclzn2j7m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fa3rwygrp2ebgwdiq6sjn2te/bafkreifwxoka7t7uipkgetx6ulaem43u7mnrywt7sdw4xmdi3sclzn2j7m" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>D.O.J. Seeks to Halt Air Pollution Lawsuit Against xAI Data Center</title>
       <link>https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html</link>
