@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 09:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:56:23 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars</title>
+      <link>https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/</link>
+      <guid isPermaLink="true">https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/</guid>
+      <description>A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 13:36:53 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/relativity-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/relativity-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>The UK’s social media ban for under-16s has just empowered big tech | Taylor Lorenz</title>
+      <link>https://www.theguardian.com/commentisfree/2026/jun/19/uk-social-media-ban-under-16s-big-tech-age-verification</link>
+      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/jun/19/uk-social-media-ban-under-16s-big-tech-age-verification</guid>
+      <description>Age verification means that the sector’s biggest players will now have access to information that will only make them richer and more powerfulThis week, the UK announced a wide-ranging ban on social media that will soon block users from communicating or accessing information on apps such as X, Instagram, YouTube, Facebook, TikTok and Snapchat unless they prove that they’re over the age of 16.The prime minister, Keir Starmer, called the policy “a line in the sand”. “Tech giants had their chance and failed,” he said, “but we’re stepping in to protect children, back parents and set a new normal for future generations.” All internet users, especially children, should be protected from exploitative systems online, but this new law will only foster more harm and help the largest and most powerful tech companies consolidate power and influence over everyone’s lives.Taylor Lorenz is a technology journalist who writes the newsletter User Mag and is the author of the bestselling book Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 13:27:00 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/e5767b1dfcfb998314c5be9e47182db4d4310905/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d59ad871035e261604109598b3e2b43d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/e5767b1dfcfb998314c5be9e47182db4d4310905/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d59ad871035e261604109598b3e2b43d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Anthropic’s Fable and the State of AI</title>
       <link>https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html</link>
