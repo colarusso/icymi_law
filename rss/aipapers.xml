@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2026 06:09:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:10:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sorries Are Not the Hard Part: An Expert-Review Case Study of a Semi-Autonomous Formalization</title>
+      <link>https://arxiv.org/abs/2606.13925</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.13925</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models can often close proof gaps in interactive theorem provers, but a verified theorem is not the same thing as a reusable library contribution. We study this distinction through a…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 7 · likes: 15&lt;/small&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>If LLMs Have Human-Like Attributes, Then So Does Age of Empires II</title>
+      <link>https://arxiv.org/abs/2605.31514</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.31514</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Much research has been carried out on large language models (LLMs) and LLM-powered agentic workflows. However, many works within the field state emergence of, ascribe to, or assume, generalised anthropomorphic attributes to them (e.g., morality or understanding of natural language). Our goal is not to argue in favour or against the existence of these attributes, but to point out that these conclusions could be incorrect. For this we build and train a simple neural network on the videogame Age of Empires II, and note that any entity in a sufficiently-powerful substrate, such as LEGO or the Greater Boston Area, could also present such attributes. Hence, the purported anthropomorphic attributes of LLMs are empirically non-unique: although some properties (e.g., responses to prompts) could remain constant, others, such as the interpretation of their perceived behaviour, might change with the substrate. Thus, any empirically-grounded discussion requires explicit measurement criteria; otherwise the interpretation is left to the representation. We then show that assuming that these attributes exist or not in a system, independent of the substrate and in a generalised way, leads to either circular or uninformative conclusions, regardless of the experimenter&amp;#x27;s viewpoint on the subject. Finally we propose a &amp;#x27;null&amp;#x27; assumption, where one assumes LLM non-uniqueness instead of assuming anthropomorphic attributes to set up an experiment, along with examples of it. We also discuss potential objections to our work, briefly survey the field, and prove that Age of Empires II is functionally- and Turing-complete.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Position: Adversarial ML for LLMs Is Not Making Any Progress</title>
+      <link>https://arxiv.org/abs/2502.02260</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2502.02260</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dikhiqd7tklofvjrgzmsqlia/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In the past decade, considerable research effort has been devoted to securing machine learning (ML) models that operate in adversarial settings. Yet, progress has been slow even for simple &amp;quot;toy&amp;quot; problems (e.g., robustness to small adversarial perturbations) and is often hindered by non-rigorous evaluations. Today, adversarial ML research has shifted towards studying larger, general-purpose language models. In this position paper, we argue that the situation is now even worse: in the era of LLMs, the field of adversarial ML studies problems that are (1) less clearly defined, (2) harder to solve, and (3) even more challenging to evaluate. As a result, we caution that yet another decade of work on adversarial ML may be failing to produce meaningful progress.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dikhiqd7tklofvjrgzmsqlia/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dikhiqd7tklofvjrgzmsqlia/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Large Language Models Hack Rewards, and Society</title>
       <link>https://arxiv.org/abs/2606.04075</link>
