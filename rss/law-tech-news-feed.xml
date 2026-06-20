@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2026 20:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 08:56:32 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/</guid>
+      <description>Tests of age-verification technology show the risks of life-altering errors.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 11:15:09 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court</title>
+      <link>https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html</guid>
+      <description>A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 20 Jun 2026 09:00:10 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/15/multimedia/00toyota-lawsuit-5-cpmz/00toyota-lawsuit-5-cpmz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/15/multimedia/00toyota-lawsuit-5-cpmz/00toyota-lawsuit-5-cpmz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Pluralistic: The Big Con (19 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/19/too-big-to-fact-check/</link>
