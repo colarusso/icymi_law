@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jun 2026 20:56:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:56:41 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electric air taxis are stuck in the courtroom</title>
+      <link>https://www.theverge.com/column/950975/electric-air-taxis-lawsuits</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/950975/electric-air-taxis-lawsuits</guid>
+      <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Last year, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed</title>
       <link>https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/</link>
