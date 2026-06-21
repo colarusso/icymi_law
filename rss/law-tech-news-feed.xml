@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 14:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 15:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla Driver Using Autopilot Crashes Into Home, Killing a Woman, Officials Say</title>
+      <link>https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html</guid>
+      <description>The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 21 Jun 2026 19:49:15 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/21/multimedia/21xp-tesla-vtmq/21xp-tesla-vtmq-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/21/multimedia/21xp-tesla-vtmq/21xp-tesla-vtmq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Electric air taxis are stuck in the courtroom</title>
       <link>https://www.theverge.com/column/950975/electric-air-taxis-lawsuits</link>
