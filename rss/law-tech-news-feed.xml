@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 18:56:15 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 19:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Millions of iCloud users could claim share of £3bn after Apple case given UK green light</title>
+      <link>https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 23:02:33 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc6/live/f6156250-6e58-11f1-b9d0-a3be33cbfa13.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc6/live/f6156250-6e58-11f1-b9d0-a3be33cbfa13.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.com">www.bbc.com</source>
+    </item>
+    <item>
+      <title>Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators</title>
+      <link>https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html</guid>
+      <description>The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 22:53:42 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/22/multimedia/22biz-tesla-crash-1-cbhp/22biz-tesla-crash-1-cbhp-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/22/multimedia/22biz-tesla-crash-1-cbhp/22biz-tesla-crash-1-cbhp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Texas asks court to leave in place age-verification and parental-consent law on apps</title>
       <link>https://www.scotusblog.com/2026/06/texas-asks-court-to-leave-in-place-age-verification-and-parental-consent-law-on-apps/</link>
