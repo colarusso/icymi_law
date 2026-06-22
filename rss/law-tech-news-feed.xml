@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 08:56:41 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 09:56:24 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York City House primary emerges as key battleground in ‘AI civil war’</title>
+      <link>https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race</guid>
+      <description>AI-focused Super Pacs are spending heavily in midterms, and nearly half has gone to a single Manhattan district raceThe artificial intelligence industry is spending heavily in the 2026 midterms, hoping to secure influence over the technology’s first generation of legislation – and New York City’s primary has emerged as the key battleground.AI-focused Super Pacs have raised roughly $100m this cycle, of which $44m has been spent so far, in dozens of congressional races across the country. Nearly half of all spending has converged on a single Manhattan race: Tuesday’s Democratic primary in the district of NY-12.Will Craft and Andrew Witherspoon contributed reporting Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 13:00:25 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/7f0ea6cf3bf6dc3ca304267d1c353719e5cec2bc/346_0_3458_2767/master/3458.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cacd2304a4438010a2a1746f44c7f864" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/7f0ea6cf3bf6dc3ca304267d1c353719e5cec2bc/346_0_3458_2767/master/3458.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cacd2304a4438010a2a1746f44c7f864" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training</title>
       <link>https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html</link>
