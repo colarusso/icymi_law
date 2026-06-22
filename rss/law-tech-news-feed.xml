@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:56:19 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 14:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three things to watch amid Anthropic’s latest feud with the government</title>
+      <link>https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/</guid>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 18:00:00 +0000</pubDate>
+      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
+    </item>
     <item>
       <title>Doorbell cam filmed Tesla Autopilot crash that killed woman in her home</title>
       <link>https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/</link>
