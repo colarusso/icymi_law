@@ -5,8 +5,40 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 20:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 08:56:41 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training</title>
+      <link>https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html</guid>
+      <description>BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping legal professionals develop AI fluency through practical, experiential learning. Legal was founded by Christian Lang, the former president and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 11:57:28 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>The Legal AI Scaffold Changes Everything – Claude Study</title>
+      <link>https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/22/the-legal-ai-scaffold-changes-everything-claude-study/</guid>
+      <description>A study by consultancy Legal Nodes, which included MikeOSS, shows that no matter how good a general model appears to be, it’s the legal AI ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 08:21:10 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>What Legal AI Benchmarks Reveal That Model Names Don’t</title>
+      <link>https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/</guid>
+      <description>By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 07:29:45 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>BARBRI Buys Lega – Christian Lang Interview</title>
+      <link>https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/</guid>
+      <description>Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 07:00:09 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Tesla Driver Using Autopilot Crashes Into Home, Killing a Woman, Officials Say</title>
       <link>https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html</link>
