@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jun 2026 06:08:33 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 06:08:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Generative AI Learning Penalty: Evidence from Chinese Secondary Education</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</guid>
+      <description>Using 30 months of panel data on 26,811 Chinese students in grades 7-12, we study how generative AI affects homework productivity and learning. The data combine&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 39 · likes: 96&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>StoryScope: Investigating idiosyncrasies in AI fiction</title>
+      <link>https://arxiv.org/abs/2604.03136</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.03136</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sperqejga64yru4xh7ayhzjr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As AI-generated fiction becomes increasingly prevalent, questions of authorship and originality are becoming central to how written work is evaluated. While most existing work in this space focuses on...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sperqejga64yru4xh7ayhzjr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sperqejga64yru4xh7ayhzjr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Robust Planning for Multi-stage Forceful Manipulation</title>
+      <link>https://arxiv.org/abs/2208.00319</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2208.00319</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Multi-step forceful manipulation tasks, such as opening a push-and-twist childproof bottle, require a robot to make various planning choices that are substantially impacted by the requirement to exert...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems</title>
+      <link>https://arxiv.org/abs/2606.20493</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.20493</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When large language models serve as evaluators in multi-agent systems, their systematic evaluation biases propagate through the agent network. We introduce Contagion Networks, a formal framework for measuring how evaluator biases spread across interacting LLM agents. In a controlled 3-agent experime&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Deontic Policies for Runtime Governance of Agentic AI Systems</title>
       <link>https://arxiv.org/abs/2606.19464</link>
