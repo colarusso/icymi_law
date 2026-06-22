@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:56:26 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:56:19 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doorbell cam filmed Tesla Autopilot crash that killed woman in her home</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/</guid>
+      <description>Tesla touts Autopilot as lifesaving a day after grandmother died in crash.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 17:10:52 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-The-Office-of-Constable-Terry-Allbritton-on-Facebook-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>If Your AI Agent Sends An Email To A Regulator Tomorrow, Who Is Responsible?</title>
       <link>https://abovethelaw.com/2026/06/if-your-ai-agent-sends-an-email-to-a-regulator-tomorrow-who-is-responsible/</link>
