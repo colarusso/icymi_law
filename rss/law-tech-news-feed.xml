@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:56:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Texas asks court to leave in place age-verification and parental-consent law on apps</title>
+      <link>https://www.scotusblog.com/2026/06/texas-asks-court-to-leave-in-place-age-verification-and-parental-consent-law-on-apps/</link>
+      <guid isPermaLink="true">https://www.scotusblog.com/2026/06/texas-asks-court-to-leave-in-place-age-verification-and-parental-consent-law-on-apps/</guid>
+      <description>Texas asks court to leave in place age-verification and parental-consent law on apps&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 22:43:00 +0000</pubDate>
+      <media:content url="https://cdn.sanity.io/images/pito4za5/production/86845974615a8f76d8bf96bd2122ea16137b756f-1024x683.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/86845974615a8f76d8bf96bd2122ea16137b756f-1024x683.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
+      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
+    </item>
+    <item>
+      <title>The Other Side Of The Partner Pay Gap — See Also</title>
+      <link>https://abovethelaw.com/2026/06/the-other-side-of-the-partner-pay-gap-see-also/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/the-other-side-of-the-partner-pay-gap-see-also/</guid>
+      <description>Mid-Year Check Ins Are Coming: Time for some partners to double down or expect a pay cut. Mistaken AI Stenographer Almost Got A Suspect An Attorney: He came close to invoking the right to an attorney, yet landed so far. Attorney Turns In License After AI Errors: Kind of impressive how little he seemed to care about it all. Quinn Emmanuel Puts Their Money Where Their Pro-Bono Is: Up to 200 hours of pro bono work will count toward associates’ bonus hour totals! The post The Other Side Of The Partner Pay Gap &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 22 Jun 2026 22:30:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Attorney Turns In License After Lazy AI Lawyering</title>
       <link>https://abovethelaw.com/2026/06/attorney-turns-in-license-after-lazy-ai-lawyering/</link>
