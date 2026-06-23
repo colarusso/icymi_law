@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 10:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The courthouse gets smarter: How AI and reverse mentorship are modernizing the bench</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/government/reverse-mentorship/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/government/reverse-mentorship/</guid>
+      <description>A role reversal is underway in courts as new AI-savvy clerks are teaching judges technology, while judges teach the judgment to use it wisely.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 15:21:05 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2020/10/virtual-courts-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2020/10/virtual-courts-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>The Supreme Court is about to decide if children still have free speech rights</title>
       <link>https://www.vox.com/politics/492722/supreme-court-texas-app-store-free-speech-students-engaged</link>
