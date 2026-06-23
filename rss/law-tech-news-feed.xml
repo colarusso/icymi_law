@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:56:42 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Intelligence: A New Sheriff In Town For Legal AI?</title>
+      <link>https://abovethelaw.com/2026/06/apple-intelligence-a-new-sheriff-in-town-for-legal-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/apple-intelligence-a-new-sheriff-in-town-for-legal-ai/</guid>
+      <description>I’m not betting against Apple this time. The post Apple Intelligence: A New Sheriff In Town For Legal AI? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 20:31:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Why You Should Choose Legal Ops Tools You Can Build On (Part 2)</title>
       <link>https://abovethelaw.com/2026/06/why-you-should-choose-legal-ops-tools-you-can-build-on-part-1-2/</link>
