@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2026 06:08:02 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:09:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greed Is Learned: Visible Incentives as Reward-Hacking Triggers</title>
+      <link>https://arxiv.org/abs/2606.16914</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.16914</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ezp6hkpykqzyexh2kzjybij/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Deployed agents increasingly act with their reward proxy in view, such as a balance, score, or KPI dashboard. We show that reinforcement learning can make a policy \emph{addicted} to such a visible se...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 5 · likes: 27&lt;/small&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 06:09:05 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ezp6hkpykqzyexh2kzjybij/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3ezp6hkpykqzyexh2kzjybij/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>How Many Submissions May an Author Make? A Harmonic Quota for Submissions under Coauthorship</title>
+      <link>https://arxiv.org/abs/2606.10293</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.10293</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Research evaluation systems -- including journals, conferences, and funders -- are increasingly using author-level submission limits to manage growing submission loads. Most existing policies charge e...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 06:09:05 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Generative AI Learning Penalty: Evidence from Chinese Secondary Education</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</link>
