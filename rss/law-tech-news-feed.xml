@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jun 2026 20:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:57:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta pauses employee tracker for AI training amid privacy concerns</title>
+      <link>https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns</guid>
+      <description>About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen contentMark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a staff backlash.The owner of Facebook, Instagram and WhatsApp had introduced a tool that tracked staff keystrokes, mouse clicks and content displayed on computer screens in order to collect data for training its AI models. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 11:38:33 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/c402f0b1a58456ecab119945fa337da0e24f541b/372_5_4641_3712/master/4641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39e2deb1bacaacfeb1c16f97c1263855" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/c402f0b1a58456ecab119945fa337da0e24f541b/372_5_4641_3712/master/4641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39e2deb1bacaacfeb1c16f97c1263855" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>U.S. Presses Meta to Agree to A.I. Reviews</title>
+      <link>https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html</guid>
+      <description>Federal officials are urging the lone major tech company holdout to allow government safety evaluations, weeks after ordering Anthropic to pull its latest model.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 21:45:20 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/23/multimedia/23biz-meta-ai-1-wvhk/23biz-meta-ai-1-wvhk-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/23/multimedia/23biz-meta-ai-1-wvhk/23biz-meta-ai-1-wvhk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Google's YouTube settles social media addiction case with teen</title>
       <link>https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&amp;at_campaign=rss</link>
