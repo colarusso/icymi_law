@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:56:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:56:18 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🦅 Domestic Spying Takes an L | EFFector 38.12</title>
+      <link>https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/domestic-spying-takes-l-effector-3812</guid>
+      <description>Sold to the public as a foreign surveillance tool, Section 702 is the law has let intelligence agencies spy on millions of Americans’ private conversations without a warrant. Despite years of revelations about this law&amp;#x27;s misuse, Congress has repeatedly reauthorized Section 702 without meaningful reform. Until this month, that is, when it finally lapsed in a major victory for privacy. In our latest EFFector newsletter, we&amp;#x27;re covering the expiration of Section 702 and what happens next. JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers a disastrous plan to overhaul the U.S. Copyright Office, why the UK&amp;#x27;s social media ban will cause more harm than it prevents, and a new Senate bill taking aim at government pressure to silence lawful speech online. Prefer to listen in? EFFector is now available on all major podcast platforms. This time, we&amp;#x27;re chatting with EFF Senior Policy Analyst Matthew Guariglia on what the expiration of Section 702 means for warrantless domestic spying. You can find the episode and subscribe on your podcast platform of choice: %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Faa8b6660-bde6-466d-80e3-156cddad0e95%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your private conversations? Sign up for EFF&amp;#x27;s EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 24 Jun 2026 16:20:33 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/effector-green-web.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/effector-green-web.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Sapphire Legal Has Built A Legal Platform for a Market Almost No One Else Is Chasing: The Fractional GC</title>
       <link>https://www.lawnext.com/2026/06/sapphire-legal-has-built-a-legal-platform-for-a-market-almost-no-one-else-is-chasing-the-fractional-gc.html</link>
