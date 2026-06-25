@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 15:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic says Alibaba must be punished for largest Claude cloning attack</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/</guid>
+      <description>Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 18:01:48 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2271847932-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Polestar has been muscled out of the US market</title>
       <link>https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software</link>
