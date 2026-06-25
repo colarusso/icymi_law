@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:56:21 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI will delay GPT-5.6 after Trump administration request</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</guid>
+      <description>The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&amp;amp;#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 21:57:06 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>People, Prompts, And Product: The ‘Vibe Coding’ Revolution In Biglaw</title>
       <link>https://abovethelaw.com/2026/06/people-prompts-and-product-the-vibe-coding-revolution-in-biglaw/</link>
