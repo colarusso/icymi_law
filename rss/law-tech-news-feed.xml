@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 13:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polestar has been muscled out of the US market</title>
+      <link>https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software</guid>
+      <description>Polestar won&amp;#x27;t be allowed to sell its electric vehicles model year 2027 and beyond in the US after the federal government denied the company&amp;#x27;s request for authorization under a new rule banning vehicles with software from China. In a press release, the company says the decision to retreat from the US follows a recent decision [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 17:58:37 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>The FCC’s Spam Call Proposal Is Just a Data Collection Scheme</title>
       <link>https://www.eff.org/deeplinks/2026/06/fccs-spam-call-proposal-just-data-collection-scheme</link>
