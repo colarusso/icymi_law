@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 18:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:56:10 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.</title>
+      <link>https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html</guid>
+      <description>President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 23:25:18 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-doj-antitrust-Adam-Candeub-cphg/25biz-doj-antitrust-Adam-Candeub-cphg-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-doj-antitrust-Adam-Candeub-cphg/25biz-doj-antitrust-Adam-Candeub-cphg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Teens who hacked TfL were known to police years before cyber-attack</title>
+      <link>https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 23:19:48 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png" medium="image" type="image/png" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png" type="image/png" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Lawyers Aren’t Getting The Most Out Of AI</title>
+      <link>https://abovethelaw.com/2026/06/lawyers-arent-getting-the-most-out-of-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/06/lawyers-arent-getting-the-most-out-of-ai/</guid>
+      <description>Adoption is one thing... The post Lawyers Aren&amp;amp;#8217;t Getting The Most Out Of AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 23:04:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>OpenAI will delay GPT-5.6 after Trump administration request</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</link>
