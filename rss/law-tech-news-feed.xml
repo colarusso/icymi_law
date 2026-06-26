@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:56:51 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:56:31 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to evolve toward agentic AI in legal settings</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/ai-in-courts/agentic-ai-in-legal-settings/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/ai-in-courts/agentic-ai-in-legal-settings/</guid>
+      <description>Agentic AI is emerging as a tool that courtrooms can leverage, but it demands a different conversation about accountability and oversight.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 13:28:50 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/10/AdobeStock_890963890_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/10/AdobeStock_890963890_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool</title>
       <link>https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey</link>
