@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:56:10 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datacentres are growing target of global climate-related legal cases, report finds</title>
+      <link>https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds</link>
+      <guid isPermaLink="true">https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds</guid>
+      <description>LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world, from the US and UK to Chile to Ireland, a report has found.In an analysis of about 3,600 climate-related lawsuits filed since 2015, the latest annual review of climate litigation by the London School of Economics (LSE) found a growing number of cases challenging the energy sources, water consumption and air pollution of datacentres, all of which have related climate implications. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 10:03:54 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/2afc5aee674458b011367ab1b481dc030edca6bd/585_0_3712_2970/master/3712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=208413d52229cc3d7b3b389f1fbfa3ce" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/2afc5aee674458b011367ab1b481dc030edca6bd/585_0_3712_2970/master/3712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=208413d52229cc3d7b3b389f1fbfa3ce" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.</title>
       <link>https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html</link>
