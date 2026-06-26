@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2026 20:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 08:56:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool</title>
+      <link>https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey</link>
+      <guid isPermaLink="true">https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey</guid>
+      <description>‘It’s all just rendered useless’, Something For Kate’s Paul Dempsey says as AI scrapes millions of songs to learn how to make musicFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPaul Dempsey and Bernard Fanning are among big-name Australian musicians upset that their original songs have been found in datasets used to train artificial intelligence.A dataset search tool recently created by US publication The Atlantic reveals millions of creative works have been scraped from the internet to train the disruptive technology. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 26 Jun 2026 01:09:13 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/b3644223f4ee9caf843b242c3b2cb4cdae6a25ee/0_106_3703_2963/master/3703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e42a927acb2e39317420b3c59e99ca74" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/b3644223f4ee9caf843b242c3b2cb4cdae6a25ee/0_106_3703_2963/master/3703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e42a927acb2e39317420b3c59e99ca74" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her</title>
+      <link>https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people</guid>
+      <description>Former employee files complaint accusing company of ‘coercive surveillance’ and first amendment violationThe Meta whistleblower Sarah Wynn-Williams is suing the tech company over its efforts to “silence” her.A 57-page complaint filed to a US district court in California on Thursday argues that an interim arbitration ruling sought by Meta preventing Wynn-Williams from publicising her memoir, Careless People, was “improper and unlawful” and a “blatant violation of the first amendment”. It also accuses the company of “coercive surveillance”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 25 Jun 2026 17:25:32 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5b700ab6735f40ab5bb9b5dacdae319" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/master/6933.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5b700ab6735f40ab5bb9b5dacdae319" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Datacentres are growing target of global climate-related legal cases, report finds</title>
       <link>https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds</link>
