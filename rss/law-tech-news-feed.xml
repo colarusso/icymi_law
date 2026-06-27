@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 12:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple wants permission to buy memory from a blacklisted Chinese supplier</title>
+      <link>https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt</guid>
+      <description>Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People&amp;#x27;s Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 27 Jun 2026 17:28:18 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/27/zuckerstreisand-2/</link>
