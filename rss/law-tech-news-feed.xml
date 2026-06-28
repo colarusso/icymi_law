@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 20:56:10 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:56:36 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law</title>
+      <link>https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law</guid>
+      <description>Up to 4,000 community banks fear looming legislation to regulate digital cash will deprive rural firms and farmers of $850bn-worth of loansOn a quiet summer morning, above a small mid-western town, an American flag is waving in the breeze. The camera cuts to a father helping his son at the wheel of a tractor, and flits to a smiling couple on a grass-lined pavement, moments before flashing to grainy images of “crypto insiders” in suits.“American families don’t want experiments with their money,” a voice booms. “They want jobs, growth, and available credit. When crypto gets a free pass, communities pay the price.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 12:00:08 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/9a9e893089a561db98134a3dd8c891e798e96964/793_0_5446_4357/master/5446.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4a46114c5c8755e31a2c2e08cf340f" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/9a9e893089a561db98134a3dd8c891e798e96964/793_0_5446_4357/master/5446.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4a46114c5c8755e31a2c2e08cf340f" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Apple wants permission to buy memory from a blacklisted Chinese supplier</title>
       <link>https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt</link>
