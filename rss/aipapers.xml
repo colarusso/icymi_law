@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 06:09:41 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 06:09:10 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power to the People? Opportunities and Challenges for Participatory AI</title>
+      <link>https://arxiv.org/abs/2209.07572</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2209.07572</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Participatory approaches to artificial intelligence (AI) and machine learning (ML) are gaining momentum: the increased attention comes partly with the view that participation opens the gateway to an…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The Verification Horizon: No Silver Bullet for Coding Agent Rewards</title>
+      <link>https://arxiv.org/abs/2606.26300</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.26300</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjwos36ca2yiomczdqzeafv46klmye7bhahxok5dbecuj2xeq45e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for The Verification Horizon: No Silver Bullet for Coding Agent Rewards&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjwos36ca2yiomczdqzeafv46klmye7bhahxok5dbecuj2xeq45e" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjwos36ca2yiomczdqzeafv46klmye7bhahxok5dbecuj2xeq45e" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing</title>
+      <link>https://arxiv.org/abs/2606.26787</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.26787</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiga4xpjapgzawa4bvjefkdysixi7w7lwhz3lq3we3a6lizoj3qxym" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiga4xpjapgzawa4bvjefkdysixi7w7lwhz3lq3we3a6lizoj3qxym" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiga4xpjapgzawa4bvjefkdysixi7w7lwhz3lq3we3a6lizoj3qxym" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>A Cost-Benefit Analysis of On-Premise Large Language Model Deployment: Breaking Even with Commercial LLM Services</title>
       <link>https://arxiv.org/abs/2509.18101</link>
