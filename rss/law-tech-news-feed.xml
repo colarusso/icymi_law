@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2026 16:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California law targeting loud streaming ads takes effect on July 1</title>
+      <link>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</guid>
+      <description>Streaming ads might be getting a lot quieter.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 28 Jun 2026 21:34:14 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Cloudflare Defeats Lawsuit Over Nonconsensual Intimate Imagery (NCII) on Facebook–Doe v. Cloudflare</title>
       <link>https://blog.ericgoldman.org/archives/2026/06/cloudflare-defeats-lawsuit-over-nonconsensual-intimate-imagery-ncii-on-facebook-doe-v-cloudflare.htm</link>
