@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 17:56:23 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:56:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How And Why To Fight Back Against Social Media Bans</title>
+      <link>https://www.techdirt.com/2026/06/29/how-and-why-to-fight-back-against-social-media-bans/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/06/29/how-and-why-to-fight-back-against-social-media-bans/</guid>
+      <description>Several U.S. states are pushing to ban young people from social media entirely. This marks the latest wave of censorship bills masquerading as “children’s online safety” measures, with states like&amp;amp;#160;Massachusetts,&amp;amp;#160;Idaho,&amp;amp;#160;Minnesota,&amp;amp;#160;North Carolina,&amp;amp;#160;South Carolina,&amp;amp;#160;Illinois, and EFF’s home state of&amp;amp;#160;California&amp;amp;#160;leading the charge. Just a few years ago, lawmakers supporting age-gating laws&amp;amp;#160;insisted&amp;amp;#160;their efforts were narrowly targeted at limiting young [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 22:08:00 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Supreme Court ruling guts government’s use of geofence warrants</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/</guid>
+      <description>SCOTUS falls short of deeming geofence warrants unconstitutional, though.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 20:04:04 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2154885383-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2154885383-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Google warns EU's plans to weaken its monopoly could expose user data</title>
       <link>https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/</link>
