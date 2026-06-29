@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 13:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFF to Gov. Pritzker: Veto Illinois’ HB 5511</title>
+      <link>https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511</guid>
+      <description>The Illinois legislature recently passed House Bill 5511, which imposes a sweeping, device-level age-gating framework across nearly all internet-enabled hardware, operating systems, and online services. This well-intentioned but deeply flawed piece of legislation will harm young people who rely on the internet to access essential information and find community. That’s why we’re urging the Illinois governor to veto the measure. Under this new regime, digital platforms are forced to collect and share users&amp;#x27; ages to platforms and websites. It also strips away basic, everyday features like personalized content feeds and overnight notifications for young people unless they can secure &amp;quot;verifiable parental consent.&amp;quot; H.B. 5511 is a massive privacy and free speech nightmare. That’s why we sent a letter to formally urge Governor J.B. Pritzker to veto the bill. Much of H.B. 5511 is modeled after controversial legislation passed in California (A.B. 1043) and New York’s Stop Addictive Feeds Exploitation (SAFE) for Kids Act, both of which have already drawn immense blowback from open-source communities, privacy advocates, and tech stakeholders. For Illinois to copy this suspect age-bracketing regime before either law has even gone into effect, been tested in court, or proven functional is premature, economically risky, and legally wasteful. H.B. 5511 is a massive privacy and free speech nightmare. That’s why we sent a letter to formally urge Governor J.B. Pritzker to veto the bill. Far from protecting children, the bill will effectively dismantle online anonymity, jeopardize data security, and severely restrict access to constitutionally protected speech for young people and adults alike. Finally, these schemes cut off vital lifelines for vulnerable youth in non-traditional families and pose an existential threat to the open-source ecosystem that underpins the modern internet. For a deeper look at the constitutional, policy, and technological concerns with H.B. 5511, you can read our full letter here.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 18:23:38 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>PACER Fees Rising 20 Percent Because Screw You, That’s Why</title>
       <link>https://abovethelaw.com/2026/06/pacer-fees-rising-20-percent-because-screw-you-thats-why/</link>
