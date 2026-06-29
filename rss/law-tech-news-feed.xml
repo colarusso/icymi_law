@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google warns EU's plans to weaken its monopoly could expose user data</title>
+      <link>https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/</guid>
+      <description>The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 29 Jun 2026 18:21:31 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>EFF to Gov. Pritzker: Veto Illinois’ HB 5511</title>
       <link>https://www.eff.org/deeplinks/2026/06/eff-gov-pritzker-veto-illinois-hb-5511</link>
