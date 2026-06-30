@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2026 06:08:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:09:42 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Giải pháp được xác minh bằng máy cho Phỏng đoán QAOA Farhi-Goldstone-Gutmann</title>
+      <link>http://arxiv.org/abs/2606.29687v1</link>
+      <guid isPermaLink="true">http://arxiv.org/abs/2606.29687v1</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 06:09:42 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2606.28358</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.28358</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Retrieval-Augmented Generation (RAG) aims to enhance the trustworthiness of Large Language Models (LLMs) by grounding their outputs in external documents, often using inline citations for verifiabilit...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 06:09:42 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?</title>
       <link>https://arxiv.org/abs/2602.11988</link>
