@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dish files for bankruptcy, but not shutting down</title>
+      <link>https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy</guid>
+      <description>Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,&amp;quot; as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after &amp;quot;unforeseen delays&amp;quot; held back its sale of $23 billion worth of 5G spectrum to AT&amp;amp;#38;T. Dish TV, Sling [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 22:46:52 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>The twilight of the chatbots</title>
+      <link>https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots</link>
+      <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots</guid>
+      <description>How work changes along the exponential&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.oneusefulthing.org/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 30 Jun 2026 22:18:12 +0000</pubDate>
+      <media:content url="https://substackcdn.com/image/fetch/$s_!CQgP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8215c2ac-ba16-483d-a53d-2957f2add233_1376x864.png" medium="image" type="image/png" />
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!CQgP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8215c2ac-ba16-483d-a53d-2957f2add233_1376x864.png" type="image/png" length="0" />
+      <source url="https://www.oneusefulthing.org">www.oneusefulthing.org</source>
+    </item>
     <item>
       <title>‘Adventures In Legal Tech’: An Apt Analogy For Lawyer AI Use</title>
       <link>https://abovethelaw.com/2026/06/adventures-in-legal-tech-an-apt-analogy-for-lawyer-ai-use/</link>
