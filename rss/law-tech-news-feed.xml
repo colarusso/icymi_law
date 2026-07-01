@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 11:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:56:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Context is King</title>
+      <link>https://civic.io/2026/07/01/context-is-king/</link>
+      <guid isPermaLink="true">https://civic.io/2026/07/01/context-is-king/</guid>
+      <description>People that are new to AI coding often make the mistake of assuming it is just a new form of automation. The truth is that it&amp;#x27;s actually delegation, and that distinction is critically important.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://civic.io/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 16:47:15 +0000</pubDate>
+      <media:content url="https://civic.io/wp-content/uploads/2026/07/960px-charles_ii_of_england_in_coronation_robes.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://civic.io/wp-content/uploads/2026/07/960px-charles_ii_of_england_in_coronation_robes.jpg" type="image/jpeg" length="0" />
+      <source url="https://civic.io">civic.io</source>
+    </item>
     <item>
       <title>Trump accused of ‘disgusting’ crypto greed after earning over $1bn since return to office</title>
       <link>https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture</link>
