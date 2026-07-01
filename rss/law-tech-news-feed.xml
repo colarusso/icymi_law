@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 08:57:09 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 09:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership</title>
+      <link>https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html</guid>
+      <description>Last month, when Anthropic, developer of the popular AI assistant Claude, announced a major push into legal, much of the coverage in the media and the buzz on social media focused on what the announcement meant for law firms, in-house legal teams, and the legal tech ecosystem. But the less talked about side of the story [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 13:04:58 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Alarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025</title>
       <link>https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025</link>
