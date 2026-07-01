@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 16:56:26 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit</title>
+      <link>https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/</link>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/</guid>
+      <description>T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 21:21:21 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>This Biglaw Leader Thinks AI May Trigger Layoffs, But Not At His Firm</title>
       <link>https://abovethelaw.com/2026/07/this-biglaw-leader-thinks-ai-may-trigger-layoffs-but-not-at-his-firm/</link>
