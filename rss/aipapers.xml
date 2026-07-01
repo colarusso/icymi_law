@@ -5,8 +5,58 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2026 06:09:42 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 06:10:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping</title>
+      <link>https://arxiv.org/abs/2606.31200</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.31200</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generalizable robotic grasping in cluttered environments is essential for deploying manipulators in unstructured human spaces, yet existing VLM-based methods rely on visual similarity for object matching, neglecting physical affordances such as handle graspability and material fragility, and operat…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Insidious by Design: Implications of Large Language Model algorithmic bias for the Global South</title>
+      <link>https://arxiv.org/abs/2606.28333</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.28333</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;\begin{quote} The biases in Large Language Models&amp;#x27; (LLMs) outputs remain inadequately theorised, particularly from the perspective of the Global South. This article reports on a small-scale exploratory study in which identical prompts were submitted to four major LLMs (ChatGPT, Claude, Grok, and Co…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>SPADE-Bench: Evaluating Spontaneous Strategic Deception in Agents via Plan-Action Divergence</title>
+      <link>https://arxiv.org/abs/2606.02380</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.02380</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicnejphpci3fhqlnqna326qatsf5xjo3uinjvi7jxzlit6czhmavm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for SPADE-Bench: Evaluating Spontaneous Strategic Deception in Agents via Plan-Action Divergence&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicnejphpci3fhqlnqna326qatsf5xjo3uinjvi7jxzlit6czhmavm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicnejphpci3fhqlnqna326qatsf5xjo3uinjvi7jxzlit6czhmavm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Reward-Free Code Alignment from Pretrained or Fine-Tuned LLM: Unpacking the Trade-offs for Code Generation</title>
+      <link>https://arxiv.org/abs/2606.28998</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.28998</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Model (LLM) alignment trains an LLM using preference data to produce outputs that better meet established quality standards. While LLM alignment techniques are studied for non-coding tasks, we know little about their usefulness for coding tasks. It is unclear whether LLM code alignme…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>[2304.03271] Making AI Less "Thirsty": Uncovering and Addressing the Secret Water Footprint of AI Models</title>
+      <link>https://arxiv.org/abs/2304.03271</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2304.03271</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;[2304.03271] Making AI Less &amp;quot;Thirsty&amp;quot;: Uncovering and Addressing the Secret Water Footprint of AI Models Skip to main content Learn about arXiv becoming an&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Giải pháp được xác minh bằng máy cho Phỏng đoán QAOA Farhi-Goldstone-Gutmann</title>
       <link>http://arxiv.org/abs/2606.29687v1</link>
