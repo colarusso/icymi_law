@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 09:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:56:20 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump accused of ‘disgusting’ crypto greed after earning over $1bn since return to office</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture</guid>
+      <description>Elizabeth Warren and colleagues demanded tighter rules on political figures’ crypto dealings, citing disclosures of large-scale Trump family profitsUS politics live – latest updatesDonald Trump has again been accused of “brazen crypto corruption” after financial disclosures revealed his family’s cryptocurrency ventures generated more than $1bn in his first year back in the White House.Elizabeth Warren, the top Democrat on the Senate banking committee, said the figures showed why US Congress needed to act. “The crypto legislation heading to the Senate floor must prevent the President, Vice President, senior administration officials, members of Congress, and their families from profiting off the crypto industry,” she said. “If it does not, it will only turbocharge Donald Trump’s brazen crypto corruption.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 14:10:49 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/aa9aecdc0498c9cf2b51ac64b8c8a1a2c962cc5e/853_860_3390_2711/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10fb47a44402719bf3e571581db8d8be" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/aa9aecdc0498c9cf2b51ac64b8c8a1a2c962cc5e/853_860_3390_2711/master/3390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10fb47a44402719bf3e571581db8d8be" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>On LawNext: Legal Research for Everyone: Inside the CourtListener-Claude Partnership</title>
       <link>https://www.lawnext.com/2026/07/on-lawnext-legal-research-for-everyone-inside-the-courtlistener-claude-partnership.html</link>
