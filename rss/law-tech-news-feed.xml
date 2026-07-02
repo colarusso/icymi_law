@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 16:56:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:56:18 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter</title>
+      <link>https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html</guid>
+      <description>A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 21:24:21 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/07/02/multimedia/02XP-TESLA-hmgj/02XP-TESLA-hmgj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/07/02/multimedia/02XP-TESLA-hmgj/02XP-TESLA-hmgj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Now Is The Time of Facing Monsters</title>
+      <link>https://librarian.aedileworks.com/2026/07/02/now-is-the-time-of-facing-monsters/</link>
+      <guid isPermaLink="true">https://librarian.aedileworks.com/2026/07/02/now-is-the-time-of-facing-monsters/</guid>
+      <description>On June 22nd, I gave the opening keynote for the 2026 Canadian Association of Professional Academic Librarians (aka CAPAL-ACBES)...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://librarian.aedileworks.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 20:52:38 +0000</pubDate>
+      <source url="https://librarian.aedileworks.com">librarian.aedileworks.com</source>
+    </item>
     <item>
       <title>Solos And Small Law Firms: A Market Ripe For Disruption?</title>
       <link>https://abovethelaw.com/2026/07/solos-and-small-law-firms-a-market-ripe-for-disruption/</link>
