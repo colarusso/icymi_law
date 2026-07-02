@@ -5,8 +5,50 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2026 20:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:57:20 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More IPO Fluffing: Musk’s Starlink Hints At Becoming Full Wireless Phone Company</title>
+      <link>https://www.techdirt.com/2026/07/02/more-ipo-fluffing-musks-starlink-hints-at-becoming-full-wireless-phone-company/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/07/02/more-ipo-fluffing-musks-starlink-hints-at-becoming-full-wireless-phone-company/</guid>
+      <description>Last month, SpaceX began making lobbying filings in support of phone unlocking rules making it easier to switch your phone between wireless providers. You might recall that the Biden FCC was on the cusp of installing such rules before the Trump administration, hand in hand with giant telecoms, dismantled them (Trump&amp;amp;#8217;s FCC will have to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 12:30:10 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Cybersecurity Mission Creep in the US</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html</guid>
+      <description>Interesting paper: &amp;amp;#8220;Cybersecurity Mission Creep.&amp;amp;#8221; Abstract: Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from misinformation, to child social media safety laws, to antitrust regulations, to alleged journalist misconduct, to anti-sex trafficking statutes become what this Article calls &amp;amp;#8220;cybersecuritized.&amp;amp;#8221; Before this reframing, these issues present as important but not existential. But once cybersecuritization positions the issues as threats intensified by their technological nature, they gain access to the politics and law of urgency and exceptionalism and invite troubling governance responses...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:11:44 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>America should not imprison frontier AI</title>
+      <link>https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/07/02/america-should-not-imprison-frontier-ai</guid>
+      <description>Fable is free. But the technology desperately needs better regulations&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.economist.com/leaders/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:14:58 +0000</pubDate>
+      <source url="https://www.economist.com">www.economist.com</source>
+    </item>
+    <item>
+      <title>Google must pay €4.1bn fine for using Android to 'block' rivals</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>A Google spokesperson said the judgement &amp;quot;fails to recognise&amp;quot; the firm&amp;#x27;s &amp;quot;significant investment to ensure Android remains open.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 09:46:11 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9620/live/1da00990-75f9-11f1-8c3f-e37c76e39331.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9620/live/1da00990-75f9-11f1-8c3f-e37c76e39331.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Are stablecoins money?</title>
+      <link>https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money</link>
+      <guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/07/02/are-stablecoins-money</guid>
+      <description>Policymakers’ job is to make them safe as well as useful&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.economist.com/finance-and-economics/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 09:37:02 +0000</pubDate>
+      <source url="https://www.economist.com">www.economist.com</source>
+    </item>
     <item>
       <title>AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds</title>
       <link>https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints</link>
