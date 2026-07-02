@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:56:18 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Universal Migrator Now Supports Migrations From More Than 170 Applications</title>
+      <link>https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html</guid>
+      <description>Universal Migrator has expanded its migration library to support more than 170 legal and business applications, giving legal technology consultants access to one of the industry&amp;amp;#8217;s broadest collections of reusable migration scripts. The expanded library enables consultants to migrate data between a wide range of practice management, document management, CRM, billing, accounting, and other business [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 16:35:23 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/</guid>
+      <description>FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 14:39:17 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>LGBT Q&amp;A: How Can I Wipe Online Data That Points To My Queer Identity?</title>
       <link>https://www.eff.org/deeplinks/2026/07/lgbt-qa-how-can-i-wipe-online-data-points-my-queer-identity</link>
