@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 14:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 15:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAA proposal: Supersonic airliners can fly over US cities if they’re quiet</title>
+      <link>https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/</guid>
+      <description>New US rules would legalize quiet supersonic flights without the sonic boom.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:29:37 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-1152x648.png" medium="image" type="image/png" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-1152x648.png" type="image/png" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees</title>
       <link>https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/</link>
