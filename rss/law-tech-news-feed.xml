@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 12:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boeing-owned Wisk Aero accused of firing manager who raised safety concerns</title>
+      <link>https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/</guid>
+      <description>A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 17:30:04 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion</title>
+      <link>https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/</guid>
+      <description>The EU went after Google for the practice of bundling its search engine and browser with Android.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 16:15:41 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Universal Migrator Now Supports Migrations From More Than 170 Applications</title>
       <link>https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html</link>
