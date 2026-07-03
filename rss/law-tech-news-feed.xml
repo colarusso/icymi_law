@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 08:57:22 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:56:28 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jon Prosser responds to Apple lawsuit by blaming the other guy</title>
+      <link>https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak</guid>
+      <description>YouTuber Jon Prosser has finally filed a formal response to Apple&amp;#x27;s lawsuit made against him and another defendant over allegedly stealing iOS secrets. In his response, Prosser denied that he &amp;quot;planned or participated in any conspiracy or coordinated scheme&amp;quot; for the &amp;quot;purpose of injuring Apple.&amp;quot; However, Prosser admitted to recording a FaceTime call showing unreleased [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 13:12:35 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>UK parents warned over posting images of children amid AI sexual abuse fears</title>
       <link>https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency</link>
