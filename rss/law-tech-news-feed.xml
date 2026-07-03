@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:56:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI prey: why watchdogs are telling parents to protect children from nudification apps</title>
+      <link>https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps</link>
+      <guid isPermaLink="true">https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps</guid>
+      <description>As imaging tools become more sophisticated, online predators are using images of children to make extreme pornographyUK parents warned over posting images of children amid AI sexual abuse fearsThe two photos started out as typical teenage selfies: looking into the mirror, fully clothed. But once online predators had got hold of those pictures and ran them through an AI imaging tool, they had become the basis for extreme pornography videos.These examples come from the Report Remove service, which allows children who have had explicit pictures of themselves distributed without their consent to flag the image confidentially and have it blocked or taken down from social media. Due to breakthroughs in AI, and the wide availability of AI models and nudification apps, some under-18s are becoming victims without even being in contact with criminals. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 12:00:27 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/1f9c0cc57c4c935bf5cd55d56b56e48fb19606e0/733_349_3042_2433/master/3042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62a55b42aa1e8568d732f1e62e7b18e5" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/1f9c0cc57c4c935bf5cd55d56b56e48fb19606e0/733_349_3042_2433/master/3042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62a55b42aa1e8568d732f1e62e7b18e5" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>US residents angry at datacenters ‘being shoved down our throats’ are recalling officials</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jul/03/datacenter-recall-elections</guid>
+      <description>People across the country are pushing for moratoriums, and electeds who approve projects are being punishedLenoxdatacenter.com went live in May, promoting what it called a “proposed advanced technology and data center campus” in Michigan. The site did not state who wanted to build the center. Lenox Township officials denied anyone had applied to build one.Emails obtained by residents through an open records request showed, however, that developers had contacted the township supervisor and deputy supervisor asking for their support to build a datacenter. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 11:00:27 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/ae2f775703d83c556943f025dda1fd97bfe3b4e5/64_0_3001_2400/master/3001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6af13877359fce1ee70b9fe0dff9e9ab" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/ae2f775703d83c556943f025dda1fd97bfe3b4e5/64_0_3001_2400/master/3001.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6af13877359fce1ee70b9fe0dff9e9ab" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Jon Prosser responds to Apple lawsuit by blaming the other guy</title>
       <link>https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak</link>
