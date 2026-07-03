@@ -1,12 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>ICYMI Law — AI &amp; The Law Links</title>
+    <title>ICYMI Law — AI &amp; The Law Link Feed</title>
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 06:08:49 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:08:31 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Judicial Wake-Up Call on Government by AI</title>
+      <link>https://techpolicy.press/a-judicial-wakeup-call-on-government-by-ai</link>
+      <guid isPermaLink="true">https://techpolicy.press/a-judicial-wakeup-call-on-government-by-ai</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreidtdkdntatoqimzypmssbrwf5jxkglxa2xsio4ybni5yjuwscync4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As agencies craft best practices for LLM use, the Learned Societies decision should serve as a handbook of what not to do, writes Jordan Ascher.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 32 · likes: 82&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:08:31 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreidtdkdntatoqimzypmssbrwf5jxkglxa2xsio4ybni5yjuwscync4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreidtdkdntatoqimzypmssbrwf5jxkglxa2xsio4ybni5yjuwscync4" type="image/jpeg" length="0" />
+      <source url="https://techpolicy.press">techpolicy.press</source>
+    </item>
+    <item>
+      <title>Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/jul/01/australia-ai-copyright-laws-creatives-sound-alarm-albanese-government-datacentres</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yy26b5gakct6mfnzzp4pa4qn/bafkreiegx5gedcwoyx77qxe6eiqa4j2zashkrrll4pbk2ys2jmkfjeaozm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Proposal has been put to cabinet to allow AI companies to mine content, in exchange for investment and $350m fund to compensate artists, sources say&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 24 · likes: 61&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:08:31 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yy26b5gakct6mfnzzp4pa4qn/bafkreiegx5gedcwoyx77qxe6eiqa4j2zashkrrll4pbk2ys2jmkfjeaozm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yy26b5gakct6mfnzzp4pa4qn/bafkreiegx5gedcwoyx77qxe6eiqa4j2zashkrrll4pbk2ys2jmkfjeaozm" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>It reads your email, files your claims, and never asks permission — The privacy law of AI agents</title>
+      <link>https://reut.rs/4p1bp2M</link>
+      <guid isPermaLink="true">https://reut.rs/4p1bp2M</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreibsq5htgstevxypqhbhw6nbvi2io5dsjcung5x24nluq5avcjxymq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Sara H. Jodka of Dickinson Wright PLLC discusses the flow of information through AI agents often without human sign-off and the privacy risks and compliance issues raised.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 18 · likes: 26&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:08:31 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreibsq5htgstevxypqhbhw6nbvi2io5dsjcung5x24nluq5avcjxymq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreibsq5htgstevxypqhbhw6nbvi2io5dsjcung5x24nluq5avcjxymq" type="image/jpeg" length="0" />
+      <source url="https://reut.rs">reut.rs</source>
+    </item>
     <item>
       <title>US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows</title>
       <link>https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/</link>
@@ -476,36 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreicbwoyj7tczz2fbkcjs25jm3ai7uhhjf3fsdldw4oaz4vaygmxts4" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreicbwoyj7tczz2fbkcjs25jm3ai7uhhjf3fsdldw4oaz4vaygmxts4" type="image/jpeg" length="0" />
       <source url="https://www.404media.co">www.404media.co</source>
-    </item>
-    <item>
-      <title>The Real Cost Of Cooling GPUs In Space Might Shock You</title>
-      <link>https://spectrum.ieee.org/orbital-data-centers-heat</link>
-      <guid isPermaLink="true">https://spectrum.ieee.org/orbital-data-centers-heat</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddvus7otnqtlh7fdooxm6qat/bafkreih56gqdqwpgmo77ydljlmt2sts2f6qll7hnqns57z6amlx5pniw24" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Shedding heat will require ingenious new designs&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 73 · likes: 181&lt;/small&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 16:57:57 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddvus7otnqtlh7fdooxm6qat/bafkreih56gqdqwpgmo77ydljlmt2sts2f6qll7hnqns57z6amlx5pniw24" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddvus7otnqtlh7fdooxm6qat/bafkreih56gqdqwpgmo77ydljlmt2sts2f6qll7hnqns57z6amlx5pniw24" type="image/jpeg" length="0" />
-      <source url="https://spectrum.ieee.org">spectrum.ieee.org</source>
-    </item>
-    <item>
-      <title>Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok</title>
-      <link>https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vaznsq6z7zughxjapim2nazy/bafkreidmnku2kcgggxp7ngbcvhtjva5pvyuccwam7vyvd757ccrgavy4fq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 48 · likes: 159&lt;/small&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 16:57:57 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vaznsq6z7zughxjapim2nazy/bafkreidmnku2kcgggxp7ngbcvhtjva5pvyuccwam7vyvd757ccrgavy4fq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vaznsq6z7zughxjapim2nazy/bafkreidmnku2kcgggxp7ngbcvhtjva5pvyuccwam7vyvd757ccrgavy4fq" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>OpenAI hit with multistate probe into possible user harm as its IPO looms</title>
-      <link>https://apnews.com/article/openai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586</link>
-      <guid isPermaLink="true">https://apnews.com/article/openai-chatgpt-subpoena-attorneys-general-probe-a95894407773307fae8ae3ce9742b586</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s3qyahmcgpuu7tsnzloioaow/bafkreidewf5556ozuzdyqbkefazh46kiwiv24adalyv7yhcrneczaqf3ty" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;OpenAI received a subpoena from several states as part of a probe into the safety of customers using its chatbot as it prepares to offer stock to the public for the first time.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 40 · likes: 139&lt;/small&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 16:57:57 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s3qyahmcgpuu7tsnzloioaow/bafkreidewf5556ozuzdyqbkefazh46kiwiv24adalyv7yhcrneczaqf3ty" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s3qyahmcgpuu7tsnzloioaow/bafkreidewf5556ozuzdyqbkefazh46kiwiv24adalyv7yhcrneczaqf3ty" type="image/jpeg" length="0" />
-      <source url="https://apnews.com">apnews.com</source>
     </item>
   </channel>
 </rss>
