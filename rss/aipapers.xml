@@ -1,12 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
-    <title>ICYMI Law — AI Paper-like Links</title>
+    <title>ICYMI Law — AI Paper-like Link Feed</title>
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 06:11:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:10:33 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision</title>
+      <link>https://arxiv.org/abs/2606.32038</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.32038</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif4fvboeqiop25x3o7egkxknpdw4ddmokf4sxbzvogbjd47ibljnu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:10:33 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif4fvboeqiop25x3o7egkxknpdw4ddmokf4sxbzvogbjd47ibljnu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif4fvboeqiop25x3o7egkxknpdw4ddmokf4sxbzvogbjd47ibljnu" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI and Quantum Information: Bidirectional Integration in Computing and Learning</title>
+      <link>http://arxiv.org/abs/2607.00365v1</link>
+      <guid isPermaLink="true">http://arxiv.org/abs/2607.00365v1</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:10:33 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Towards Automating Scientific Review with Google's Paper Assistant Tool</title>
       <link>https://arxiv.org/abs/2606.28277</link>
@@ -476,24 +496,6 @@
       <description>This survey study (n=342) identifies undergraduates’ GenAI usage patterns, their attitudes of trust towards these technologies, and their self-reported positive&lt;br&gt;&lt;br&gt;&lt;small&gt;🔥🔥🔥🔥 · reposts: 15 · likes: 35&lt;/small&gt;</description>
       <pubDate>Sun, 14 Jun 2026 16:58:50 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Thinking—Fast, Slow, and Artificial: How AI is Reshaping Human Reasoning and the Rise of Cognitive Surrender</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646</guid>
-      <description>People increasingly consult generative artificial intelligence (AI) while reasoning. As AI becomes embedded in daily thought, what becomes of human judgment? We&lt;br&gt;&lt;br&gt;&lt;small&gt;🔥 · reposts: 6 · likes: 17&lt;/small&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 16:58:50 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>SatLM: Satisfiability-Aided Language Models Using Declarative Prompting</title>
-      <link>https://arxiv.org/abs/2305.09656</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2305.09656</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Prior work has combined chain-of-thought prompting in large language models (LLMs) with programmatic representations to perform effective and transparent reasoning. While such an approach works well f...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 8&lt;/small&gt;</description>
-      <pubDate>Sun, 14 Jun 2026 16:58:50 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
