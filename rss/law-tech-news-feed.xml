@@ -5,8 +5,70 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:56:16 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 08:57:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UK parents warned over posting images of children amid AI sexual abuse fears</title>
+      <link>https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency</link>
+      <guid isPermaLink="true">https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency</guid>
+      <description>Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material onlineAI prey: why watchdogs are telling parents to protect children from nudification appsThe UK National Crime Agency has recommended parents should not put photos of their children on public display online as part of landmark guidance to tackle the rise of AI-generated sexual abuse material.Advice issued by the NCA and the child safety watchdog the Internet Watch Foundation suggests parents and guardians make their social media accounts private or share pictures of their children through a “close friends” group. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 12:07:34 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/eea00b68769d7a021a17a3483c16303bdf402231/11_1037_1609_1287/master/1609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79769c8a5af8029d1ea6e082cc71c4bf" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/eea00b68769d7a021a17a3483c16303bdf402231/11_1037_1609_1287/master/1609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79769c8a5af8029d1ea6e082cc71c4bf" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Flock Cameras Can Surveil Cars Without License Plates</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html</guid>
+      <description>This is from a 2024 company presentation: Officers can also tap into data showing a car&amp;amp;#8217;s decals, bumper stickers, back and top racks&amp;amp;#8212;along with temporary and unique state tags. Flock calls it a &amp;amp;#8220;Vehicle Fingerprint&amp;amp;#8221; and it&amp;amp;#8217;s touted as a way for law enforcement officials to get more information &amp;amp;#8220;even when you don&amp;amp;#8217;t have full plate information,&amp;amp;#8221; the company&amp;amp;#8217;s presentation shows. The company gives police officers the ability to search that data as well, to &amp;amp;#8220;build stronger cases with less information upfront.&amp;amp;#8221; That includes being able to locate multiple vehicles law enforcement officials believe are moving together and what Flock calls a &amp;amp;#8220;multi geo search.&amp;amp;#8221;...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 11:15:25 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>Opening the Courthouse Door—or Just Lowering the Threshold?</title>
+      <link>https://feedpress.me/link/16850/17372196/opening-the-courthouse-door-or-just-lowering-the-threshold</link>
+      <guid isPermaLink="true">https://feedpress.me/link/16850/17372196/opening-the-courthouse-door-or-just-lowering-the-threshold</guid>
+      <description>Anand Shah &amp;amp;#38; Joshua Levy, Access to Justice in the Age of AI: Evidence from U.S. Federal Courts (Mar. 20, 2026) (unpublished manuscript). Nora Freeman Engstrom Aviv Caspi In Access to Justice in the Age of AI: Evidence from U.S. Federal Courts, Anand V. Shah and Joshua Y. Levy, document what may be a tectonic shift in the civil justice system. According to Shah and Levy, Generative AI is lowering the barriers to filing suit—and, as a result, more self-represented litigants [...] The post Opening the Courthouse Door—or Just Lowering the Threshold? appeared first on Legal Profession. The post Opening the Courthouse Door—or Just Lowering the Threshold? appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 10:30:54 +0000</pubDate>
+      <source url="https://feedpress.me">feedpress.me</source>
+    </item>
+    <item>
+      <title>Legal Innovators New York + UK, LexisNexis, Opus 2</title>
+      <link>https://www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2/</guid>
+      <description>Happy Independence Day to all of Artificial Lawyer’s readers in America! AI can be a tremendous force for personal liberty and growth, allowing an individual ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 06:59:31 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Politician who investigated spyware abuses had his phone hacked with Pegasus spyware</title>
+      <link>https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</guid>
+      <description>A government customer of NSO Group used the company&amp;#x27;s Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 05:05:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones</title>
+      <link>https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/</guid>
+      <description>“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 05:00:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a4666ebcb22d2a8724199f2/master/pass/GettyImages-128087200.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a4666ebcb22d2a8724199f2/master/pass/GettyImages-128087200.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom</title>
+      <link>https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom</guid>
+      <description>Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profitsWhen South Korea’s most high-profile divorce case returned to court last month, the lawyers were arguing not just about the breakdown of a relationship, but also the exact date at which to value shares in one specific company.The judges’ decision in Seoul could change the value of business tycoon Chey Tae-won’s assets by billions of dollars. The shares were in the holding company behind SK Hynix, the manufacturer of chips powering AI systems around the world. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 02:34:40 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/0b2f474379e682977c27a9b009b5d442d9accc63/78_799_3922_3138/master/3922.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03839024c1efef039bb22f7d0a939fdf" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/0b2f474379e682977c27a9b009b5d442d9accc63/78_799_3922_3138/master/3922.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03839024c1efef039bb22f7d0a939fdf" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Goodbye Ratings, Hello Benchmarks: If Legal Tech Can Benchmark Attorneys, Shouldn’t Attorneys Be Able To Ethically Benchmark Back?</title>
       <link>https://www.myshingle.com/2026/06/goodbye-ratings-hello-benchmarks-if-legal-tech-can-benchmark-attorneys-shouldnt-attorneys-be-able-to-ethically-benchmark-back/</link>
