@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:56:36 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:56:26 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Americans disgusted at Trump earning $1bn from crypto as president: ‘Obviously a grift’</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/03/americans-disgusted-trump-crypto</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jul/03/americans-disgusted-trump-crypto</guid>
+      <description>Hundreds of Guardian readers expressed concerns over greed in the White House and a billionaire president unconcerned with high gas and grocery pricesDonald Trump has earned more than $1bn from his crypto businesses since returning to the White House, according to recent financial disclosures.Amid questions of conflict of interest, more than 400 Americans expressed feelings of outrage, disgust and despair at their president. They answered a Guardian call for their views on Trump’s fortune. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 03 Jul 2026 16:55:53 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/ae420ed431e89ab2e71d8147398cade114fc962f/166_0_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9a6ec19042c12898bc1fd5373998e7f" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/ae420ed431e89ab2e71d8147398cade114fc962f/166_0_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9a6ec19042c12898bc1fd5373998e7f" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>AI prey: why watchdogs are telling parents to protect children from nudification apps</title>
       <link>https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps</link>
