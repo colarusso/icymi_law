@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 15:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 16:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doctors’ soaring use of AI scribes prompts Australian government warning over privacy</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning</guid>
+      <description>Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfallsGet our breaking news email, free app or daily news podcastThe federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology.AI scribe tools record, transcribe and summarise conversations between doctors and patients for medical notes, and have boomed in popularity in the past 18 months. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 04 Jul 2026 20:00:07 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/5338cbc67f70b23a5fdf94db237441d2c238cdfb/724_0_7240_5792/master/7240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8e1f97261028304d23fc5d11a866045" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/5338cbc67f70b23a5fdf94db237441d2c238cdfb/724_0_7240_5792/master/7240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8e1f97261028304d23fc5d11a866045" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Midjourney wants Hollywood studios to reveal the details of their AI usage</title>
       <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
