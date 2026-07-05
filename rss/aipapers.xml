@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 06:09:25 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 06:10:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WorldOdysseyBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models</title>
+      <link>https://arxiv.org/abs/2606.31672</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.31672</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreievjd6verj7p5fdr4uenikednjdwmzdm63mu2qo34v6camtz6uvay" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for WorldOdysseyBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 06:10:56 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreievjd6verj7p5fdr4uenikednjdwmzdm63mu2qo34v6camtz6uvay" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreievjd6verj7p5fdr4uenikednjdwmzdm63mu2qo34v6camtz6uvay" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>World Wide Models: Literary Tools for Cultural AI</title>
       <link>http://arxiv.org/abs/2607.02369</link>
@@ -487,16 +497,6 @@
       <pubDate>Tue, 16 Jun 2026 06:09:35 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI can help scientists publish less</title>
-      <link>https://arxiv.org/abs/2606.13829</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.13829</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a4feceawcvvxstg7pagxnryg/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We can do more than defend science from a flood of AI-assisted papers. Used well, AI offers a historic opportunity to correct distortions in the publication system, help us publish fewer and better pa...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 12&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 06:08:46 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a4feceawcvvxstg7pagxnryg/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a4feceawcvvxstg7pagxnryg/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
