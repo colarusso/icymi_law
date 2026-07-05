@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 18:56:53 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:56:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessons learned from an AI-first law firm and the future of legal practice</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/legal/ai-first-law-firm/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/ai-first-law-firm/</guid>
+      <description>AI-native law firms can lower the cost of legal services, but they also highlight deeper challenges around demand, attorney identity &amp;amp;#38; more.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 05 Jul 2026 22:58:05 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/12/AdobeStock_87704657_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/12/AdobeStock_87704657_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper</title>
       <link>https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper</link>
