@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 11:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 12:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whither The Court Reporters?</title>
+      <link>https://abovethelaw.com/2026/07/whither-the-court-reporters/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/whither-the-court-reporters/</guid>
+      <description>Like so many things with technology, the time and expense saved often trumps human accuracy and accountability. The post Whither The Court Reporters? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 16:12:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>UK regulator warns of "arms race" to keep up with AI use in financial services</title>
       <link>https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/</link>
