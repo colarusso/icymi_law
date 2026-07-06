@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 10:56:31 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:56:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UK regulator warns of "arms race" to keep up with AI use in financial services</title>
+      <link>https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/</guid>
+      <description>FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 14:17:42 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1-1152x648.jpeg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Fastcase And Alexi Head To Court This Week In High-Stakes Fight Over Legal AI, Caselaw Data And Clio’s $1B vLex Deal</title>
       <link>https://www.lawnext.com/2026/07/fastcase-and-alexi-head-to-court-this-week-in-high-stakes-fight-over-legal-ai-caselaw-data-and-clios-1b-vlex-deal.html</link>
