@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 06:10:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:09:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Position: Modular Memory is the Key to Continual Learning Agents</title>
+      <link>https://arxiv.org/abs/2603.01761</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.01761</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cfivy53weglzefgwljue5ikr/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Foundation models have transformed machine learning through large-scale pretraining and increased test-time compute. Despite surpassing human performance in several domains, these models remain fundam...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 15&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 06:09:51 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cfivy53weglzefgwljue5ikr/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cfivy53weglzefgwljue5ikr/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization</title>
+      <link>https://arxiv.org/abs/2606.25656</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.25656</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3z5zbwdbqmw2qobnb5zsfdbu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As advanced RAG variants like GraphRAG and Agentic RAG emerge, one leading question is when and how to use them. Here, we introduce a framework for different RAG scenarios evaluation and comparison on...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 06:09:51 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3z5zbwdbqmw2qobnb5zsfdbu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3z5zbwdbqmw2qobnb5zsfdbu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Active Inference as the Test-Time Scaling Law for Physical AI Agents</title>
+      <link>https://arxiv.org/abs/2606.22813</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.22813</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x5rv6tsxd5x3zyugh4v6rd5z/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In this paper, a novel test-time scaling law for physical artificial intelligence (AI) agents is introduced. This scaling law enables physical AI agents to reason with their world models to…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 06:09:51 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x5rv6tsxd5x3zyugh4v6rd5z/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x5rv6tsxd5x3zyugh4v6rd5z/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>WorldOdysseyBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models</title>
       <link>https://arxiv.org/abs/2606.31672</link>
@@ -467,36 +497,6 @@
       <pubDate>Wed, 17 Jun 2026 06:09:34 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The AI Fiction Paradox</title>
-      <link>https://arxiv.org/abs/2603.13545</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.13545</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI development has a fiction dependency problem: models are built on massive corpora of modern fiction and desperately need more of it, yet they struggle to generate it. I term this the AI-Fiction Par...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 9 · likes: 17&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 06:09:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Where's the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions</title>
-      <link>https://arxiv.org/abs/2605.07984</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.07984</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiftj5ako6uiz62t6ui6hnyuq7ez3tl62xm43cihdaswriqpaqeili" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Where&amp;#x27;s the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 06:09:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiftj5ako6uiz62t6ui6hnyuq7ez3tl62xm43cihdaswriqpaqeili" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiftj5ako6uiz62t6ui6hnyuq7ez3tl62xm43cihdaswriqpaqeili" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Playing With AI: How Do State-Of-The-Art Large Language Models Perform in the 1977 Text-Based Adventure Game Zork?</title>
-      <link>https://arxiv.org/abs/2602.15867</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.15867</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In this positioning paper, we evaluate the problem-solving and reasoning capabilities of contemporary Large Language Models (LLMs) through their performance in Zork, the seminal text-based adventure g...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 06:09:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
