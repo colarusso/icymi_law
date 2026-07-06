@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2026 20:56:49 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 08:56:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boost City regulator’s powers to help protect UK consumers from AI, says watchdog</title>
+      <link>https://www.theguardian.com/business/2026/jul/06/boost-city-regulators-powers-protect-uk-consumers-ai-cyber-crime-fraud-watchdog</link>
+      <guid isPermaLink="true">https://www.theguardian.com/business/2026/jul/06/boost-city-regulators-powers-protect-uk-consumers-ai-cyber-crime-fraud-watchdog</guid>
+      <description>FCA’s review into how tech will reshape financial services warns about amplified risks of cyber-crime and fraudBusiness live – latest updatesMinisters have been urged to toughen the City regulator’s powers to protect consumers against the potential risks of AI, according to a landmark review.The Mills review by the Financial Conduct Authority (FCA), which looked at how AI will reshape financial services from 2030 onward, found that companies are already starting to shift from human-led activities towards AI-enabled services for everyday consumers. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 11:11:05 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/7b8001ab28eca8ff15610743007f8390c37a725f/1005_287_1985_1588/master/1985.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dcb2ad861dd6a60f43b2fb051adc9e8" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/7b8001ab28eca8ff15610743007f8390c37a725f/1005_287_1985_1588/master/1985.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dcb2ad861dd6a60f43b2fb051adc9e8" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>France to Stop Certifying Non-Quantum-Safe Encryption</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html</guid>
+      <description>France is accelerating its transition to post-quantum encryption: France&amp;amp;#8217;s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies and critical operators to shift away from older systems. Samih Souissi, ANSSI&amp;amp;#8217;s chief of staff, said at the France Quantum conference that the agency would halt such certifications from 2027, and that businesses should be buying only quantum-safe products by 2030. ANSSI approval is required for use in French government agencies and critical infrastructure, making the policy a de facto phase-out of older encryption...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 10:45:44 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>The Legal AI Advantage Won’t Come From the Model Alone</title>
+      <link>https://www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/06/the-legal-ai-advantage-wont-come-from-the-model-alone/</guid>
+      <description>By Sam Kidd, CEO, LawVu. Every week in legal tech there’s a new AI announcement. A new drafting tool or legal agent. Another company claiming ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 06 Jul 2026 06:42:03 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Lessons learned from an AI-first law firm and the future of legal practice</title>
       <link>https://www.thomsonreuters.com/en-us/posts/legal/ai-first-law-firm/</link>
