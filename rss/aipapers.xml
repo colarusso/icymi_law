@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 06:09:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:11:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[2301.08727] Neural Architecture Search: Insights from 1000 Papers</title>
+      <link>https://arxiv.org/abs/2301.08727</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2301.08727</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreigymz5rqs7gu37g5qslvsyyzi4j5nvfa6hd76z2imobfeqlczj64u" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The survey &amp;#x27;Neural Architecture Search: Insights from 1000 Papers&amp;#x27; details the NAS field, highlighting advancements, algorithms, and resources. It analyzes trends from 1,000 papers, emphasizing NAS&amp;#x27;s&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 06:11:44 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreigymz5rqs7gu37g5qslvsyyzi4j5nvfa6hd76z2imobfeqlczj64u" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreigymz5rqs7gu37g5qslvsyyzi4j5nvfa6hd76z2imobfeqlczj64u" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Position: Modular Memory is the Key to Continual Learning Agents</title>
       <link>https://arxiv.org/abs/2603.01761</link>
@@ -487,16 +497,6 @@
       <guid isPermaLink="true">https://arxiv.org</guid>
       <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 11&lt;/small&gt;</description>
       <pubDate>Thu, 18 Jun 2026 06:09:59 -0400</pubDate>
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model</title>
-      <link>https://arxiv.org/abs/2606.09770</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.09770</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Nearby neurons in cortex share similar response profiles, producing systematic spatial organization across sensory and cognitive systems. Recent topographic models reproduce aspects of this structure but remain unimodal and spatially constrain each layer separately, yielding fragmented maps that capture neither the contiguity of cortical processing streams nor their integration across modalities. We introduce Topo-Omni, a topographic multimodal model in which visual, auditory, and language/cognitive processing share a single contiguous in-silico sheet. Built by fine-tuning a pretrained foundation model with a spatial smoothness objective, this architecture develops clusters across modalities that are consistent with human neuroimaging, from sensory to cognitive systems. Driving or suppressing a cluster selectively biases or impairs perception, paralleling human intervention studies. Finally, we use our model to screen for novel clusters in-silico and discover new natural landscape and animal networks which we validate in human data. A single spatial principle thus organizes representations across modalities and processing stages, yielding testable hypotheses about cortical organization.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 06:09:34 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
