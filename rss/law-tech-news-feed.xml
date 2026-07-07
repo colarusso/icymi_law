@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 08:57:16 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From UPL to consumer protection, a framework for tech-enabled legal services</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/technology/upl-consumer-protection-framework/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/technology/upl-consumer-protection-framework/</guid>
+      <description>AI-powered legal tools are forcing a regulatory reset, shifting the question to how to better protect consumers seeking access to justice.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 12:55:56 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/03/AdobeStock_1249130117_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/03/AdobeStock_1249130117_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>On LawNext: Inside Claude for Legal — Anthropic’s Mark Pike on AI’s Next Frontier in Law</title>
       <link>https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html</link>
