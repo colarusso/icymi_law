@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 13:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Courts’ Solution To Overpriced Court Records: Make Them More Expensive</title>
+      <link>https://www.techdirt.com/2026/07/07/the-courts-solution-to-overpriced-court-records-make-them-more-expensive/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/07/07/the-courts-solution-to-overpriced-court-records-make-them-more-expensive/</guid>
+      <description>For many, many years on Techdirt we&amp;amp;#8217;ve bemoaned the fact that federal court documents are not available for free as they should be. Instead, we have PACER, a bloated, expensive, difficult to use system that charges you for every &amp;amp;#8220;page&amp;amp;#8221; it loads up for you (including search results). The whole thing is a sham. Indeed, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 07 Jul 2026 17:57:47 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Harbor Acquires iTrain for Legal AI Education</title>
       <link>https://www.artificiallawyer.com/2026/07/07/harbor-acquires-itrain-for-legal-ai-education/</link>
