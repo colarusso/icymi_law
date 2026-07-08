@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jul 2026 06:11:44 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 06:11:29 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning</title>
+      <link>https://arxiv.org/abs/2603.29033</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.29033</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2m5onicwxhmcznnwxku7rtw/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Astrology has long been used to interpret human personality, estimate compatibility, and guide social decision-making. Zodiac-based systems in particular remain culturally influential across much of t...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 5 · likes: 31&lt;/small&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 06:11:29 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2m5onicwxhmcznnwxku7rtw/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2m5onicwxhmcznnwxku7rtw/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings</title>
+      <link>https://arxiv.org/abs/2606.09409</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.09409</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aahf2e3h3un3btcuumss2o5q/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Pairwise comparisons combined with aggregation methods like Elo have become central to evaluating generative models, yet concerns remain that they reward superficial stylistic cues or display judge bi...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 10&lt;/small&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 06:11:29 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aahf2e3h3un3btcuumss2o5q/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aahf2e3h3un3btcuumss2o5q/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Engineering Reliable Autonomous Systems: Challenges and Solutions</title>
+      <link>https://arxiv.org/html/2606.23760v2</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2606.23760v2</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 06:11:29 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>[2301.08727] Neural Architecture Search: Insights from 1000 Papers</title>
       <link>https://arxiv.org/abs/2301.08727</link>
@@ -469,34 +497,6 @@
       <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Position: Adversarial ML for LLMs Is Not Making Any Progress</title>
-      <link>https://arxiv.org/abs/2502.02260</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2502.02260</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dikhiqd7tklofvjrgzmsqlia/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In the past decade, considerable research effort has been devoted to securing machine learning (ML) models that operate in adversarial settings. Yet, progress has been slow even for simple &amp;quot;toy&amp;quot; problems (e.g., robustness to small adversarial perturbations) and is often hindered by non-rigorous evaluations. Today, adversarial ML research has shifted towards studying larger, general-purpose language models. In this position paper, we argue that the situation is now even worse: in the era of LLMs, the field of adversarial ML studies problems that are (1) less clearly defined, (2) harder to solve, and (3) even more challenging to evaluate. As a result, we caution that yet another decade of work on adversarial ML may be failing to produce meaningful progress.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dikhiqd7tklofvjrgzmsqlia/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dikhiqd7tklofvjrgzmsqlia/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Large Language Models Hack Rewards, and Society</title>
-      <link>https://arxiv.org/abs/2606.04075</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.04075</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4r6pybalricew7qva5h7wyr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Reinforcement learning (RL) has become a dominant post-training paradigm, enabling large language models (LLMs) to learn from rewards. We observe that societal regulations are structurally similar to ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 15&lt;/small&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 06:09:59 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4r6pybalricew7qva5h7wyr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r4r6pybalricew7qva5h7wyr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>arXiv.org e-Print archive</title>
-      <link>https://arxiv.org</link>
-      <guid isPermaLink="true">https://arxiv.org</guid>
-      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 06:09:59 -0400</pubDate>
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
