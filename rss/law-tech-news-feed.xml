@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 09:56:19 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers</title>
+      <link>https://abovethelaw.com/2026/07/fractional-general-counsel-a-win-win-proposition-for-certain-clients-and-certain-lawyers/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/fractional-general-counsel-a-win-win-proposition-for-certain-clients-and-certain-lawyers/</guid>
+      <description>With the advent of AI, it becomes much more realistic for a fractional GC concept to work. The post Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 14:51:37 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>The AI success pyramid for corporate legal departments</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/legal/ai-success-pyramid/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/ai-success-pyramid/</guid>
+      <description>AI success requires careful planning that includes understanding how advance technologies and innovation fits within your legal department.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 14:13:46 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_1029906840_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_1029906840_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
+    <item>
+      <title>A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway.</title>
+      <link>https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/</guid>
+      <description>Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “chat control” bill to find child abuse material online.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 13:55:08 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>MuskCorp Tries To Bribe Memphis With Cheaper Starlink So They’ll Ignore xAI Data Center Pollution</title>
       <link>https://www.techdirt.com/2026/07/09/muskcorp-tries-to-bribe-memphis-with-cheaper-starlink-so-theyll-ignore-xai-data-center-pollution/</link>
