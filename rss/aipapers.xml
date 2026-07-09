@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:11:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 06:11:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models</title>
+      <link>https://arxiv.org/abs/2602.14147</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.14147</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 06:11:52 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning</title>
       <link>https://arxiv.org/abs/2603.29033</link>
@@ -487,16 +497,6 @@
       <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>If LLMs Have Human-Like Attributes, Then So Does Age of Empires II</title>
-      <link>https://arxiv.org/abs/2605.31514</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.31514</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Much research has been carried out on large language models (LLMs) and LLM-powered agentic workflows. However, many works within the field state emergence of, ascribe to, or assume, generalised anthropomorphic attributes to them (e.g., morality or understanding of natural language). Our goal is not to argue in favour or against the existence of these attributes, but to point out that these conclusions could be incorrect. For this we build and train a simple neural network on the videogame Age of Empires II, and note that any entity in a sufficiently-powerful substrate, such as LEGO or the Greater Boston Area, could also present such attributes. Hence, the purported anthropomorphic attributes of LLMs are empirically non-unique: although some properties (e.g., responses to prompts) could remain constant, others, such as the interpretation of their perceived behaviour, might change with the substrate. Thus, any empirically-grounded discussion requires explicit measurement criteria; otherwise the interpretation is left to the representation. We then show that assuming that these attributes exist or not in a system, independent of the substrate and in a generalised way, leads to either circular or uninformative conclusions, regardless of the experimenter&amp;#x27;s viewpoint on the subject. Finally we propose a &amp;#x27;null&amp;#x27; assumption, where one assumes LLM non-uniqueness instead of assuming anthropomorphic attributes to set up an experiment, along with examples of it. We also discuss potential objections to our work, briefly survey the field, and prove that Age of Empires II is functionally- and Turing-complete.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nz6isqlkgkpdbsthefmfcz7g/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
