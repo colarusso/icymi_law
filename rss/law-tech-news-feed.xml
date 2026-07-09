@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 14:56:17 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York Times says OpenAI hid evidence in ChatGPT copyright trial</title>
+      <link>https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</guid>
+      <description>News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 19:05:58 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>OpenAI may have made a fatal misstep in copyright fight with news orgs</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/</guid>
+      <description>OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 18:57:53 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270682238-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270682238-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns</title>
+      <link>https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity</guid>
+      <description>Staggered release of ChatGPT 5.6 follows similar restrictions on rival firm Anthropic’s latest AI modelsOpenAI released its latest advanced AI model, called ChatGPT 5.6, on Thursday after earlier delaying the public rollout over US government concerns about cybersecurity. The Trump administration had requested last month that OpenAI limit the release to a small group of government-approved users.OpenAI complied with the White House’s request last month. The company stated in a blogpost that it had briefed government officials on ChatGPT 5.6’s capabilities and restricted the model to trusted partners at their behest. The product’s wider release came after additional testing by the government’s Center for AI Standards and Innovation agency, according to Axios. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 18:48:23 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/d9aa4c205d635431946c06fdc96e41b643f8bd5c/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c52996e0b6d8065d498a99282892a52" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/d9aa4c205d635431946c06fdc96e41b643f8bd5c/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c52996e0b6d8065d498a99282892a52" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>European Commission Chooses to Keep EU Users Locked Up Behind Big Tech’s Gates</title>
       <link>https://www.eff.org/deeplinks/2026/07/european-commission-chooses-keep-eu-users-locked-behind-big-techs-gates</link>
