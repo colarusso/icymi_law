@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instagram’s AI image generator alarms privacy experts</title>
+      <link>https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy</guid>
+      <description>Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warnMeta has sparked blowback from privacy advocates for allowing its new AI image maker to generate photos of users with public profiles by default.Users of Meta’s Muse Image AI tool, released Tuesday, can tag public Instagram profiles and generate pictures that pull from faces of people featured in these social media posts. Instagram users aren’t notified when their posts are integrated into what the company describes as its “most advanced image generation model yet”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 22:15:29 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d828e5e84b2d1dc3a978cf01b73a17bc" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d828e5e84b2d1dc3a978cf01b73a17bc" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)</title>
+      <link>https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/</link>
+      <guid isPermaLink="true">https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/</guid>
+      <description>Now with guidance from NYC Opinion 1270 on ethical issues related to attorneys using AI transcription, and more. The post Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update) appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 22:12:00 +0000</pubDate>
+      <source url="https://www.myshingle.com">www.myshingle.com</source>
+    </item>
     <item>
       <title>The House Passed The KIDS Act—The Senate Should Reject It</title>
       <link>https://www.eff.org/deeplinks/2026/07/house-passed-kids-act-senate-should-reject-it</link>
