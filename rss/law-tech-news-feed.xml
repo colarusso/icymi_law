@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 16:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The House Passed The KIDS Act—The Senate Should Reject It</title>
+      <link>https://www.eff.org/deeplinks/2026/07/house-passed-kids-act-senate-should-reject-it</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/07/house-passed-kids-act-senate-should-reject-it</guid>
+      <description>Last week, the House voted on the KIDS Act, a disjointed package of legislation that seeks to control Americans’ web browsing and private messaging. The package combines a revised version of the Kids Online Safety Act (KOSA), with several other internet bills, study bills, reporting requirements, and new regulations. Different parts of the bill pressure online services to impose different age-gating schemes, using different standards. EFF opposed this bill, along with many of our members and supporters. Take action Tell Congress: no internet age-gates The bill passed the House, 267-117. It now heads to the Senate, where its fate remains uncertain. But this fight is not over. Even if you took our earlier action to contact the House, we need you to reach out to your Senators today. The KIDS Act Will Lead to Mandatory Age Checks Many of the bills in the KIDS Act share the same premise: that children and teenagers should have different experiences online than adults. In practice, that requires websites and apps to determine who is under 18—and who isn’t. That’s where the problems with the KIDS Act start. EFF certainly supports giving all users better privacy and safety tools online. But those protections should not, and do not need to, come at the expense of privacy or free expression. Unfortunately, that’s exactly the tradeoff the KIDS Act makes. There is no way to determine a user’s age online that is both privacy protective and accurate. Some age verification processes may rely on collecting government-issued ID, while others may use biometric scans. Others will use algorithms to guess a user’s age based on facial images or online behavior. But no matter the method, every system demands users hand over sensitive personal information that links their offline identity to their online activity. And then, once that valuable data is collected, it can be leaked, hacked, or misused. In fact, we’ve already seen several breaches of age verification providers. The Bill Still Regulates Online Speech The revised KOSA language within the KIDS Act still pressures companies to police lawful speech online. Platforms must “establish, implement, maintain, and enforce” policies that address content like gambling or the use of alcohol or cannabis. This encourages platforms to broadly restrict speech on these topics, which could include a teen seeking advice on a parent’s gambling problem or searching for substance abuse recovery resources. When platforms are required to create and enforce content moderation policies that regulators can sue them over, they will often err on the side of deleting speech. Protect Privacy For Everyone There is a better way to protect young people online. Instead of encouraging a complicated system of age checks, more monitoring, and more restrictions on access to information, Congress could finally pass a strong, comprehensive privacy law that benefits all users. A great place to start would be to ban behavioral advertising that tracks us across the web—again, for users of all ages. We urge the Senate to oppose the KIDS Act and instead focus on a strong, bipartisan privacy package for all users. Take action Tell the senate to reject the kids act&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 20:58:33 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/ageverification-banner2-3a.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/ageverification-banner2-3a.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Allstate accuses Broadcom of auditing it because it quit VMware, CA</title>
+      <link>https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/</link>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/</guid>
+      <description>Broadcom accuses Allstate of dodging VMware audits.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 09 Jul 2026 20:28:55 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279315069-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>"We Want Texans to Know Their Rights": Q&amp;A with Mayday Health on the Impact of Surveillance on Abortion Care</title>
       <link>https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion</link>
