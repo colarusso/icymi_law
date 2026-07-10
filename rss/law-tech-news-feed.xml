@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 18:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Increased drone surveillance of illegal July 4th fireworks led to $100K fine</title>
+      <link>https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/</guid>
+      <description>More police and firefighters use drones to catch and deter illegal fireworks.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 22:37:22 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2282959319-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2282959319-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Apple sues OpenAI, its employees claiming theft of trade secrets</title>
       <link>https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&amp;at_campaign=rss</link>
