@@ -5,8 +5,68 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jul 2026 06:11:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 06:12:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The GDN-CC Dataset: Automatic Corpus Clarification for AI-enhanced Democratic Citizen Consultations</title>
+      <link>https://arxiv.org/abs/2601.14944</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.14944</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46upgkmjotoe5bcd3dgvgtlm/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs are ubiquitous in modern NLP, and while their applicability extends to texts produced for democratic activities such as online deliberations or large-scale citizen consultations, ethical question...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46upgkmjotoe5bcd3dgvgtlm/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46upgkmjotoe5bcd3dgvgtlm/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Auditing of Unlearning Algorithms</title>
+      <link>https://arxiv.org/abs/2607.05898</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.05898</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Auditing of Unlearning Algorithms&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>LLM-powered reasoning in agent-based modeling</title>
+      <link>https://arxiv.org/abs/2607.06757</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.06757</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to …&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Operationalizing Individual Fairness via Gradient Descent and Bradley-Terry Models</title>
+      <link>https://arxiv.org/abs/2605.23145</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.23145</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Operationalizing Individual Fairness via Gradient Descent and Bradley-Terry Models&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents</title>
+      <link>https://arxiv.org/abs/2607.06598</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.06598</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5hdknfxsay6gctnjbvgunfqhns6nyzbrdckqymcwu5b7ab3vzua" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5hdknfxsay6gctnjbvgunfqhns6nyzbrdckqymcwu5b7ab3vzua" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5hdknfxsay6gctnjbvgunfqhns6nyzbrdckqymcwu5b7ab3vzua" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>RubriQ : Synthèse de circuits quantiques pilotée par LLM avec des récompenses de rubrique programmatiques</title>
+      <link>http://arxiv.org/abs/2607.07554v1</link>
+      <guid isPermaLink="true">http://arxiv.org/abs/2607.07554v1</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models</title>
       <link>https://arxiv.org/abs/2602.14147</link>
@@ -439,64 +499,6 @@
       <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Deontic Policies for Runtime Governance of Agentic AI Systems</title>
-      <link>https://arxiv.org/abs/2606.19464</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.19464</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohibited from doing, what they areobliged to do after certain actions (e.g., notify the CISO), under what conditions a standing obligation may be waived, and which rules take precedence when policies conflict. This governance problem exceeds what current policy engines provide. Systems such as XACML, Rego, and Cedar address only the permit/prohibit subset of this governance structure. They do not provide obligation lifecycle management, meta-policy conflict resolution, dispensations that waive obligations in specific circumstances, and ontological reasoning over domain class hierarchies commonly found in applications such as healthcare, cybersecurity, or data privacy. We propose AgenticRei, which realizes key governance requirements such as obligations, dispensations, policy conflict resolutions, and reasoning over policies, as well as the basic permit/prohibit constraints. We use a deontic policy language built on the Rei framework, expressed as OWL (Web Ontology Language) and evaluated at runtime by a high-performance logic engine entirely outside the LLM. The same pipeline governs both tool invocations by the agent and agent-to-agent messages. We show through examples that deontic policies capture governance constraints around security and privacy that mostly cannot be expressed in current production engines. Our approach composes naturally with industry-standard frameworks like A2AS.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>MORTAR: Multi-turn Metamorphic Testing for LLM-based Dialogue Systems</title>
-      <link>https://arxiv.org/abs/2412.15557</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2412.15557</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiccte225ezvoohsffk7ewr2yzwz2cz2zhit3utxwsv6bqik6efhi4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for MORTAR: Multi-turn Metamorphic Testing for LLM-based Dialogue Systems&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiccte225ezvoohsffk7ewr2yzwz2cz2zhit3utxwsv6bqik6efhi4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiccte225ezvoohsffk7ewr2yzwz2cz2zhit3utxwsv6bqik6efhi4" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Fake Plastic Voters: When Political Parties Can Use AI-Simulated Focus Groups</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663559</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663559</guid>
-      <description>Political parties strive to understand their electorates, and focus groups are a vital tool in these efforts. AI-enhanced simulation technologies (AESTs) enable&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 06:08:33 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Empirical evidence of Large Language Model's influence on human spoken communication</title>
-      <link>https://arxiv.org/abs/2409.01754</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2409.01754</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5r4rm6z4s5feajeztd4pmsad/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;From the invention of writing and the printing press, to television and social media, human history is punctuated by major innovations in communication technology, which fundamentally altered how idea...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5r4rm6z4s5feajeztd4pmsad/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5r4rm6z4s5feajeztd4pmsad/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts</title>
-      <link>https://arxiv.org/abs/2606.19036</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.19036</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicew6hcmrchpvwxaazhxhgxzjgnalfdgfwlfdbt5aueqre7snh42y" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Geometric and Stochastic Analysis of Discontinuities in Sparse Mixture-of-Experts&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicew6hcmrchpvwxaazhxhgxzjgnalfdgfwlfdbt5aueqre7snh42y" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicew6hcmrchpvwxaazhxhgxzjgnalfdgfwlfdbt5aueqre7snh42y" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Sorries Are Not the Hard Part: An Expert-Review Case Study of a Semi-Autonomous Formalization</title>
-      <link>https://arxiv.org/abs/2606.13925</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.13925</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models can often close proof gaps in interactive theorem provers, but a verified theorem is not the same thing as a reusable library contribution. We study this distinction through a…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 7 · likes: 15&lt;/small&gt;</description>
-      <pubDate>Fri, 19 Jun 2026 06:10:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6wbgv6zkcslhx65gm7ceghml/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
