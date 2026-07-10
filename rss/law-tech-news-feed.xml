@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat</title>
+      <link>https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/</guid>
+      <description>Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 17:42:36 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Small Law Firms Billing More Hours Per Case — The Opposite Of What AI Promised — But At Least They’re Getting Paid!</title>
       <link>https://abovethelaw.com/2026/07/small-law-firms-billing-more-hours-per-case-the-opposite-of-what-ai-promised-but-at-least-theyre-getting-paid/</link>
