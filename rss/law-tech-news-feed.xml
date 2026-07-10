@@ -5,8 +5,54 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank of England handed powers to regulate key tech firms including Amazon and Google</title>
+      <link>https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google</link>
+      <guid isPermaLink="true">https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google</guid>
+      <description>Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economyThe Bank of England has been handed powers to regulate important tech firms including Amazon and Google from next week, amid fears that system failures could threaten financial stability and harm consumers.From Monday, the Bank and fellow City regulator the Financial Conduct Authority (FCA) will be in charge of ensuring that four large-scale providers of cloud and tech services to banks are resilient and actively reducing the risk of cyber-attacks and major outages that could disrupt services for millions of people and businesses across the UK. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:37:13 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/4b44af164fb2c45d87e28393348fdd45b984cc79/462_0_4616_3693/master/4616.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7369b38ba95096f741046f1bc0e0581b" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/4b44af164fb2c45d87e28393348fdd45b984cc79/462_0_4616_3693/master/4616.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7369b38ba95096f741046f1bc0e0581b" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>EU threatens Meta with fines over addictive features on Facebook and Instagram</title>
+      <link>https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/</guid>
+      <description>The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:19:40 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>When tools aren’t enough: Why understanding AI evidence metrics is now a courtroom requirement</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/ai-in-courts/understanding-ai-evidence-metrics/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/ai-in-courts/understanding-ai-evidence-metrics/</guid>
+      <description>The lawyers that courts will learn to trust will be the ones who can best explain how their AI tools work and why their results will hold up.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:14:49 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_1497119534_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_1497119534_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
+    <item>
+      <title>Florida ransomware negotiator convicted for helping ransomware gang extort US companies</title>
+      <link>https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/</guid>
+      <description>A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:11:03 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook</title>
+      <link>https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html</guid>
+      <description>European Union authorities said the company’s use of “addictive design” violated a digital safety law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:28:58 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Automated Moderation Is Here to Stay—Accountability Must Keep Pace</title>
       <link>https://www.eff.org/deeplinks/2026/07/part-2-automated-moderation-here-stay-accountability-must-keep-pace</link>
