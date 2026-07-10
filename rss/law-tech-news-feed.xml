@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 17:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 18:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple sues OpenAI, its employees claiming theft of trade secrets</title>
+      <link>https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 22:54:16 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>The FCC is cracking down on DJI tech that dodged the foreign drone ban</title>
+      <link>https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab</guid>
+      <description>Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They&amp;#x27;re just two of the many firms DJI is suspected of starting to skirt the United States&amp;#x27; foreign drone ban. But it appears the FCC is [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 22:35:18 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Apple sues OpenAI, alleging artificial intelligence company stole trade secrets</title>
+      <link>https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets</guid>
+      <description>Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardwareApple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create its own hardware device.The suit claims OpenAI poached Apple employees, coaxing them to hand over confidential material, product designs and other tightly held information. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 22:33:21 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa64ee448761ca6d18ea8b0841eec2e5" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aa64ee448761ca6d18ea8b0841eec2e5" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Apple sues OpenAI for allegedly stealing hardware secrets</title>
       <link>https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets</link>
