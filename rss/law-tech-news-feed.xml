@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 15:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple sues OpenAI over alleged trade secret theft</title>
+      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</guid>
+      <description>Apple alleges the misconduct was directed by OpenAi&amp;#x27;s senior leadership, including a long-time former employee.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 20:32:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Lawyers Do Not Need An AI Ban. They Need An AI Duty Of Care.</title>
+      <link>https://abovethelaw.com/2026/07/lawyers-do-not-need-an-ai-ban-they-need-an-ai-duty-of-care/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/lawyers-do-not-need-an-ai-ban-they-need-an-ai-duty-of-care/</guid>
+      <description>Lawyers must remember that ethical responsibility cannot be delegated to software. The post Lawyers Do Not Need An AI Ban. They Need An AI Duty Of Care. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 20:00:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Ransomware negotiator hired to represent victims was working for the attackers</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/</guid>
+      <description>Six years in prison for man who &amp;quot;sold out the very victims he was hired to represent.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 19:40:11 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat</title>
       <link>https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/</link>
