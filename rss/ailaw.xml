@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jul 2026 06:09:35 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:10:17 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Sues OpenAI, Accusing It of Stealing Company Secrets (Gift Article)</title>
+      <link>https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html?unlocked_article_code=1.wlA.iXci.8hlG9o_qQLSn&amp;smid=bs-share</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html?unlocked_article_code=1.wlA.iXci.8hlG9o_qQLSn&amp;smid=bs-share</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgti3jsgu3luif24tokvth3a/bafkreieetqkfcwugoa56ievsqy2kkdyrakxjlqckysvdn6pmmt7w22yd6u" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 39 · likes: 161&lt;/small&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 06:10:17 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgti3jsgu3luif24tokvth3a/bafkreieetqkfcwugoa56ievsqy2kkdyrakxjlqckysvdn6pmmt7w22yd6u" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgti3jsgu3luif24tokvth3a/bafkreieetqkfcwugoa56ievsqy2kkdyrakxjlqckysvdn6pmmt7w22yd6u" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Class action suit against AI makers over deepfake child sexual abuse material expands</title>
       <link>https://n.pr/4wu1xkr</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdj5pzurklijmlknynlpaora/bafkreibnz4otuzzon25fiqmpywt6kocy3jzn4fmm3z4snutveupf24squq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdj5pzurklijmlknynlpaora/bafkreibnz4otuzzon25fiqmpywt6kocy3jzn4fmm3z4snutveupf24squq" type="image/jpeg" length="0" />
       <source url="https://www.axios.com">www.axios.com</source>
-    </item>
-    <item>
-      <title>Why AI Billionaires Are Spending $8M Trying to Beat Alex Bores</title>
-      <link>https://youtube.com/shorts/ozKqwzjwN2Y?feature=share</link>
-      <guid isPermaLink="true">https://youtube.com/shorts/ozKqwzjwN2Y?feature=share</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yrjwxtjw2fmtmbaulddo7ec6/bafkreicol24eug4krcksb6il27wcgtm4jv2cvoh24qb6o3z72ymsjvgx6q" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;YouTube video by Eliza Orlins&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 22 · likes: 91&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 06:08:02 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yrjwxtjw2fmtmbaulddo7ec6/bafkreicol24eug4krcksb6il27wcgtm4jv2cvoh24qb6o3z72ymsjvgx6q" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yrjwxtjw2fmtmbaulddo7ec6/bafkreicol24eug4krcksb6il27wcgtm4jv2cvoh24qb6o3z72ymsjvgx6q" type="image/jpeg" length="0" />
-      <source url="https://youtube.com">youtube.com</source>
     </item>
   </channel>
 </rss>
