@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 18:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Safe from AI: which jobs will help you thrive in the future?</title>
+      <link>https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law</link>
+      <guid isPermaLink="true">https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law</guid>
+      <description>Experts say there will still be opportunities ahead in everything from teaching to hotels and the lawEntering the world of work often brings some uncertainty, but now there is another question: how can I AI-proof my career?We asked people from across various industries what they think the impact of AI will be on careers, and which jobs may be less affected. While it is still early days for the tech, many had ideas about&amp;amp;nbsp;how you can best prepare yourself for a successful career in this new world. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 11:00:47 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/5a3983d88fce9aed3b93c1f0042fe0ca573df746/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b58841fb735bdaf6210808e0809f5896" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/5a3983d88fce9aed3b93c1f0042fe0ca573df746/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b58841fb735bdaf6210808e0809f5896" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Meta Removes A.I. Feature on Instagram After Days of Backlash</title>
       <link>https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html</link>
