@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:12:16 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 06:11:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Collusion by Large Language Models</title>
+      <link>https://arxiv.org/abs/2404.00806</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2404.00806</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3cv7b7vhrkjotj7nf7eymbac/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We conduct experiments with algorithmic pricing agents based on Large Language Models (LLMs). In oligopoly settings, LLM-based pricing agents quickly and autonomously reach supracompetitive prices and...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 06:11:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3cv7b7vhrkjotj7nf7eymbac/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3cv7b7vhrkjotj7nf7eymbac/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>ConRad: Efficient Conformal Prediction for Radiomics</title>
+      <link>https://arxiv.org/abs/2607.08084v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.08084v1</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Radiomic features derived from medical images and segmentation masks are used to support decision making in clinical imaging pipelines. In practice, these features are often computed from predicted masks, but segmentation models can be overconfident or poorly calibrated, making derived measurements appear more reliable than they are. Conformal prediction (CP) provides distribution-free prediction intervals with finite-sample marginal coverage guarantees, but black-box intervals for segmentation-derived radiomics can be inefficient because they ignore test-time information about image appearance, mask geometry, and segmentation uncertainty. We propose ConRad, a conformal framework for scalar radiomic targets that uses covariates derived from the predicted mask, input image, predicted radiomics, and boundary uncertainty to construct adaptive intervals while maintaining coverage. Across five 2D medical imaging datasets and 171 retained radiomic targets, we show that ConRad improves featur&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 06:11:58 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models</title>
       <link>https://arxiv.org/abs/2607.02914</link>
@@ -481,24 +501,6 @@
       <pubDate>Tue, 23 Jun 2026 06:09:05 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Generative AI Learning Penalty: Evidence from Chinese Secondary Education</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</guid>
-      <description>Using 30 months of panel data on 26,811 Chinese students in grades 7-12, we study how generative AI affects homework productivity and learning. The data combine&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 39 · likes: 96&lt;/small&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>StoryScope: Investigating idiosyncrasies in AI fiction</title>
-      <link>https://arxiv.org/abs/2604.03136</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.03136</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sperqejga64yru4xh7ayhzjr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As AI-generated fiction becomes increasingly prevalent, questions of authorship and originality are becoming central to how written work is evaluated. While most existing work in this space focuses on...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 06:08:02 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sperqejga64yru4xh7ayhzjr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sperqejga64yru4xh7ayhzjr/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
