@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 14:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 15:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Percipient Launches Certera.AI, A Blind Head-to-Head Testing Ground for Legal AI, with a Lawyer-Voted Leaderboard On the Way</title>
+      <link>https://www.lawnext.com/2026/07/percipient-launches-certera-ai-a-blind-head-to-head-testing-ground-for-legal-ai-with-a-lawyer-voted-leaderboard-on-the-way.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/07/percipient-launches-certera-ai-a-blind-head-to-head-testing-ground-for-legal-ai-with-a-lawyer-voted-leaderboard-on-the-way.html</guid>
+      <description>Which AI models are actually best at legal work? A new platform launched in beta by the alternative legal services provider Percipient aims to answer that question by letting legal professionals put the models to the test themselves, in blind, head-to-head comparisons, and all at no cost. The platform, Certera.AI, lets a user submit a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 19:02:18 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</title>
       <link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
