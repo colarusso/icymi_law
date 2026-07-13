@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 17:56:16 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents</title>
+      <link>https://www.techdirt.com/2026/07/13/the-uks-new-under-16-social-media-ban-will-cause-more-harm-than-it-prevents/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/07/13/the-uks-new-under-16-social-media-ban-will-cause-more-harm-than-it-prevents/</guid>
+      <description>Recently, politicians in the UK pushed forward with plans to eviscerate privacy and free speech on the internet by&amp;amp;#160;announcing a ban on social media&amp;amp;#160;for users under 16 that is set to take effect in Spring 2027.&amp;amp;#160; The UK government continues to falsely characterize this policy as a necessary response to growing concerns about online harms [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 22:25:08 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets</title>
       <link>https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/</link>
