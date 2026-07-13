@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2026 06:09:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 06:08:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets</title>
+      <link>https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets</link>
+      <guid isPermaLink="true">https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtwphuxvtvimwtra5yh4ujt4/bafkreigifek62zevri3ywnn22nscfqf3ddsyqs5r7rzbbeidfvdkfr7lxu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence co...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 33 · likes: 92&lt;/small&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 06:08:13 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtwphuxvtvimwtra5yh4ujt4/bafkreigifek62zevri3ywnn22nscfqf3ddsyqs5r7rzbbeidfvdkfr7lxu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dtwphuxvtvimwtra5yh4ujt4/bafkreigifek62zevri3ywnn22nscfqf3ddsyqs5r7rzbbeidfvdkfr7lxu" type="image/jpeg" length="0" />
+      <source url="https://www.pbs.org">www.pbs.org</source>
+    </item>
     <item>
       <title>Apple Claims OpenAI Stole Trade Secrets In New Lawsuit</title>
       <link>http://www.forbes.com/sites/madhulika-pathak/2026/07/10/apple-claims-openai-stole-trade-secrets-in-new-lawsuit/?utm_campaign=forbes&amp;utm_medium=social&amp;utm_source=bluesky</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreidwb4sryziocrcljddh5jwkxmvk77auhviaz5q5dqu4rqqmoaoe7e" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreidwb4sryziocrcljddh5jwkxmvk77auhviaz5q5dqu4rqqmoaoe7e" type="image/jpeg" length="0" />
       <source url="https://www.forbes.com">www.forbes.com</source>
-    </item>
-    <item>
-      <title>Workday must face California lawsuit over AI bias in job screening tools</title>
-      <link>https://reut.rs/3QWM7pO</link>
-      <guid isPermaLink="true">https://reut.rs/3QWM7pO</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreicn6kmc6pd74uz4b22epzjc5ec7ouqiiquh2nux6bfv7d432h7lpu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Workday must face claims that its popular AI-powered human resources software weeded out job applicants at other companies in ways that violated California law and a ​federal ban on discrimination against workers with disabilities, a federal judge ruled on ‌Monday.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 20 · likes: 45&lt;/small&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 06:08:28 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreicn6kmc6pd74uz4b22epzjc5ec7ouqiiquh2nux6bfv7d432h7lpu" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreicn6kmc6pd74uz4b22epzjc5ec7ouqiiquh2nux6bfv7d432h7lpu" type="image/jpeg" length="0" />
-      <source url="https://reut.rs">reut.rs</source>
     </item>
   </channel>
 </rss>
