@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 11:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:56:27 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The prepared judge: How responsible AI use sets the standard</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/ai-in-courts/responsible-ai-use/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/ai-in-courts/responsible-ai-use/</guid>
+      <description>Judges who engage thoughtfully with AI don&amp;#x27;t just work more efficiently, they model the careful, accountable use that the legal system needs.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:55:37 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_462415053_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_462415053_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
+    <item>
+      <title>Legal Operations Was Built For The AI Era</title>
+      <link>https://abovethelaw.com/2026/07/the-moment-legal-found-out-what-ready-really-means-2/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-moment-legal-found-out-what-ready-really-means-2/</guid>
+      <description>The technology is different, but the conversations aren&amp;#x27;t. The post Legal Operations Was Built For The AI Era appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>New York bans data center construction for a year, rattling AI industry</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/</guid>
+      <description>New York’s data center moratorium may become the blueprint for anti-AI movement.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 15:06:28 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276391767-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Ed Husic says weakening copyright to benefit AI companies would betray Labor party’s ethos</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail</guid>
+      <description>Labor MP says ‘a fair day’s pay for a fair day’s work’ was a founding principle of the ALP as media union calls for tougher new rules on AI use of creative workFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Labor MP Ed Husic says any moves to water down copyright law to benefit AI companies would be “going against the ethos” of the party and undermining the principle of “a fair day’s pay for a fair day’s work”.Husic also urged his colleagues to place stricter rules on the big tech firms or be “doomed to failure”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 05:40:52 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/2c7ccfbdcea2f1e22bf16be7169b417717aa59cc/375_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b38d059caa53f1a8bba3cfa1a25b1c" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/2c7ccfbdcea2f1e22bf16be7169b417717aa59cc/375_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b38d059caa53f1a8bba3cfa1a25b1c" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know</title>
       <link>https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/</link>
