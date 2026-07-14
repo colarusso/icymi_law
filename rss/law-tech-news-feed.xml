@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 17:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI pushes back on Apple trade secret lawsuit</title>
+      <link>https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/</guid>
+      <description>OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 22:07:42 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>OpenAI may announce a ChatGPT smart speaker this year</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device</link>
