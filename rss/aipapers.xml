@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:10:39 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:10:26 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models</title>
+      <link>https://arxiv.org/abs/2601.10387</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.10387</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models can represent a variety of personas but typically default to a helpful Assistant identity cultivated during post-training. We investigate the structure of the space of model pers...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 06:10:26 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Can LLMs Introspect? A Reality Check</title>
+      <link>https://arxiv.org/html/2605.26242v1</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2605.26242v1</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 06:10:26 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Automatically Attacking Software Reverse Engineering AI Agents</title>
       <link>https://arxiv.org/abs/2605.30667</link>
@@ -481,26 +499,6 @@
       <pubDate>Thu, 25 Jun 2026 06:09:45 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4l7jovzzewz25apwi23iu7t/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4l7jovzzewz25apwi23iu7t/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Informing AI Policy Assessment using Large-Scale Simulation of Interventions</title>
-      <link>https://arxiv.org/abs/2605.27395</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.27395</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:65krso44il64qt7a4khzt5dm/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As the rapid proliferation of AI systems and harms spurs efforts in AI governance around the world, prioritizing among competing policy options has become increasingly challenging for policymakers and...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 8&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 06:09:58 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:65krso44il64qt7a4khzt5dm/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:65krso44il64qt7a4khzt5dm/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>UltraQuant: 4-bit KV Caching for Context-Heavy Agents</title>
-      <link>https://arxiv.org/abs/2606.20474</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.20474</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidmzjwf47gsycp5l5vgbyfnbeszpgutgkwo6bvuhrtpwgep3bpmva" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for UltraQuant: 4-bit KV Caching for Context-Heavy Agents&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 06:09:58 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidmzjwf47gsycp5l5vgbyfnbeszpgutgkwo6bvuhrtpwgep3bpmva" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidmzjwf47gsycp5l5vgbyfnbeszpgutgkwo6bvuhrtpwgep3bpmva" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
