@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 12:56:27 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta accused of using biased AI targeting for mass layoffs</title>
+      <link>https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs</guid>
+      <description>A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a &amp;quot;constellation&amp;quot; of internal AI tools, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 17:18:11 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>The prepared judge: How responsible AI use sets the standard</title>
       <link>https://www.thomsonreuters.com/en-us/posts/ai-in-courts/responsible-ai-use/</link>
