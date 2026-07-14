@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 19:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:56:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The loudest warning about AI and jobs yet</title>
+      <link>https://www.platformer.news/ai-jobs-warning-brynjolfsson-acemoglu/</link>
+      <guid isPermaLink="true">https://www.platformer.news/ai-jobs-warning-brynjolfsson-acemoglu/</guid>
+      <description>200 economists and AI leaders say something big is happening. What should we do about it? Plus: Apple sues OpenAI&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.platformer.news/rss/&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:37 +0000</pubDate>
+      <source url="https://www.platformer.news">www.platformer.news</source>
+    </item>
     <item>
       <title>The UK’s New Under-16 Social Media Ban Will Cause More Harm Than It Prevents</title>
       <link>https://www.techdirt.com/2026/07/13/the-uks-new-under-16-social-media-ban-will-cause-more-harm-than-it-prevents/</link>
