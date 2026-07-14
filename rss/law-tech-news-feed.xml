@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:56:15 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:56:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let’s build a children’s public internet</title>
+      <link>https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal</link>
+      <guid isPermaLink="true">https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal</guid>
+      <description>An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent age verification or outright bans for minors. At the end of June in the US, the House of Representatives passed [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 11:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>New York becomes the first state to enact a data center moratorium</title>
+      <link>https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium</guid>
+      <description>New hyperscale data centers can&amp;#x27;t set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation&amp;#x27;s first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence</guid>
+      <description>Labor sources say the PM will discuss safety concerns in speech this week but will not provide an update on copyright reforms to protect artistsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAnthony Albanese will describe the progress of AI as an inflection point for society on par with the renewable energy transition, but is not expected to detail progress on copyright reforms to protect creative industries.The prime minister will deliver a highly anticipated speech in Sydney on Wednesday to address growing concerns around social licence and the necessary policy guardrails for AI, datacentres and the ability of big tech to profit from Australian intellectual property. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 15:00:50 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/778c3afae1e524e9139bab0a9258c753c6fa822f/382_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00ad82a2bbfd1886c1a8bc62a78380e0" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/778c3afae1e524e9139bab0a9258c753c6fa822f/382_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00ad82a2bbfd1886c1a8bc62a78380e0" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>The loudest warning about AI and jobs yet</title>
       <link>https://www.platformer.news/ai-jobs-warning-brynjolfsson-acemoglu/</link>
