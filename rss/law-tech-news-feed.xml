@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 12:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:56:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Suno snatched millions of songs from YouTube, Genius, and Deezer</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</guid>
+      <description>Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what&amp;#x27;s in its training datasets and how they were acquired, this a rare [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 17:48:01 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>🚫 Don't Let Congress Age-Gate the Internet | EFFector 38.13</title>
+      <link>https://www.eff.org/deeplinks/2026/07/dont-let-congress-age-gate-internet-effector-3813</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/07/dont-let-congress-age-gate-internet-effector-3813</guid>
+      <description>The effort to age gate the internet is back in Washington—and now it has a new name. Recently passed by the House of Representatives, the KIDS Act is a sprawling package of proposals to control what we can see and say online. Supporters claim the KIDS Act is needed to protect minors online. But if lawmakers really want to make the internet safer, why are they encouraging more surveillance instead of protecting our privacy? We dive into this question with our EFFector newsletter. JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers a victory for location privacy in the Supreme Court, disturbing developments in the militarization of domestic drones, and a controversial Congressional bill to control what we can see and say online. Prefer to listen in? EFFector is now available on all major podcast platforms. This time, we&amp;#x27;re chatting with EFF Senior Policy Analyst Joe Mullin on what would happen to the open internet if the KIDS Act becomes law. You can find the episode and subscribe on your podcast platform of choice: %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F4e65dc91-33af-4dd4-ae88-1c8626b39537%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your right to online anonymity and access to the open web? Sign up for EFF&amp;#x27;s EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 17:02:02 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/effector-green-web.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/effector-green-web.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>‘I Couldn’t Get It Out of My Mind’: Chris Cartrett on Why He Is Leaving Aderant and Legal Tech</title>
       <link>https://www.lawnext.com/2026/07/i-couldnt-get-it-out-of-my-mind-chris-cartrett-on-why-he-is-leaving-aderant-and-legal-tech.html</link>
