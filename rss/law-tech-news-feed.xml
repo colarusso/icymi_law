@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 09:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims</title>
+      <link>https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/</guid>
+      <description>The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 14:21:49 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>AI moves from curiosity to capacity-builder in government legal departments, new report shows</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/government/government-legal-department-report-2026/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/government/government-legal-department-report-2026/</guid>
+      <description>Government legal departments are increasingly adopting AI to help manage growing workloads and staffing shortages, a new report demonstrates.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 14:10:36 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/GLD-Image_resize-400x225.png" medium="image" type="image/png" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/GLD-Image_resize-400x225.png" type="image/png" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>Legal Decoder Introduces Aperture, A Natural Language Interface for Querying Legal Billing Data</title>
       <link>https://www.lawnext.com/2026/07/legal-decoder-introduces-aperture-a-natural-language-interface-for-querying-legal-billing-data.html</link>
