@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:56:22 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FBI Has Looked at Using Questionable AI Tech to Review Signatures on Seized Mail-In Ballots</title>
+      <link>https://www.propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi</link>
+      <guid isPermaLink="true">https://www.propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi</guid>
+      <description>The post FBI Has Looked at Using Questionable AI Tech to Review Signatures on Seized Mail-In Ballots appeared first on ProPublica.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.propublica.org/feeds/propublica/main&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 17:55:00 +0000</pubDate>
+      <source url="https://www.propublica.org">www.propublica.org</source>
+    </item>
     <item>
       <title>Suno snatched millions of songs from YouTube, Genius, and Deezer</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</link>
