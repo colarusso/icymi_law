@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:10:26 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 06:10:26 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics</title>
+      <link>https://arxiv.org/abs/2605.13171</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.13171</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As automated reasoning systems advance rapidly, there is a growing need for research-level formal mathematical problems to accurately evaluate their capabilities. To address this, we present Formal Co...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 3 · likes: 37&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 06:10:26 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning</title>
+      <link>https://arxiv.org/abs/2606.13607</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.13607</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lllawdfris2txwt4h6c5fmei/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When large language models (LLMs) fail to generalize or make haphazard errors in reasoning, it is often taken as evidence that LLMs are not truly reasoning, but rather performing a kind of pattern mat...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Wed, 15 Jul 2026 06:10:26 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lllawdfris2txwt4h6c5fmei/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lllawdfris2txwt4h6c5fmei/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models</title>
       <link>https://arxiv.org/abs/2601.10387</link>
@@ -480,26 +500,6 @@
       <description>Online speech governance stands at an inflexion point. Platforms are emerging from the state of emergency invoked during the pandemic and lawmakers are poised t&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 18&lt;/small&gt;</description>
       <pubDate>Fri, 26 Jun 2026 06:10:24 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>AI Fiction in the Wild</title>
-      <link>https://arxiv.org/abs/2606.22748</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.22748</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wfdgpddhkgmgegorvfexb2fc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Some professional authors are beginning to use AI tools to help produce their fiction writing. Are readers using AI to generate fiction, too? Drawing on over 500,000 anonymized, English-language ChatG...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 10 · likes: 31&lt;/small&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 06:09:45 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wfdgpddhkgmgegorvfexb2fc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wfdgpddhkgmgegorvfexb2fc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Sexualised synthetic personas encode and amplify gendered power asymmetries through voice</title>
-      <link>https://arxiv.org/abs/2606.21366</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.21366</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4l7jovzzewz25apwi23iu7t/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;This work examines sexualised AI-generated English-speaking voices offered by a popular commercial platform. New technologies may enable sexual empowerment and greater diversity in gender expression, ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 06:09:45 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4l7jovzzewz25apwi23iu7t/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:b4l7jovzzewz25apwi23iu7t/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
