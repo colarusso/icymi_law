@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI in legal education: How to leverage AI to build change agility in law schools</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/technology/leverage-ai-in-legal-education/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/technology/leverage-ai-in-legal-education/</guid>
+      <description>USF law school dean led her institution&amp;#x27;s practical integration of AI into legal education by engaging students and encouraging collaboration.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 18:30:06 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/03/249737_339686061_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/03/249737_339686061_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>Google is better at playing the AI regulations game</title>
       <link>https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai</link>
