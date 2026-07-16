@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 09:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protecting Privacy in an AI Era</title>
+      <link>https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html</guid>
+      <description>Daniel Solove argues in the Wall Street Journal (alternate link) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to what we do with food and drug companies. Measures such as rigorous data minimization, fiduciary duties, liability for negligent or reckless technological design, liability for algorithms that cause harm, and multi-stakeholder review of technologies will be far more effective. Paper.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 14:34:31 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>Congress is finally taxing crypto-assets: Here’s what your tax clients need to know</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/tax-and-accounting/taxing-crypto-assets/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/tax-and-accounting/taxing-crypto-assets/</guid>
+      <description>The US government is considering taxing crypto assets, so what would that mean for the tax bills of those Americans who own cryptocurrency?&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 14:30:25 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/03/249734_314759601_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/03/249734_314759601_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
+    <item>
+      <title>Google Ordered to Give A.I. Rivals More Access on Android Smartphones</title>
+      <link>https://www.nytimes.com/2026/07/16/technology/google-android-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/technology/google-android-ai.html</guid>
+      <description>The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 13:56:58 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>TikTok facing UK investigation amid fears over age checks and harm to children</title>
       <link>https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide</link>
