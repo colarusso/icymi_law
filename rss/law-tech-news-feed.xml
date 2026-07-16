@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does Your Legal Team Actually Need From AI?</title>
+      <link>https://abovethelaw.com/2026/07/what-does-your-legal-team-actually-need-from-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/what-does-your-legal-team-actually-need-from-ai/</guid>
+      <description>[Sponsored] AI keeps failing the law department. Here’s why. The post What Does Your Legal Team Actually Need From AI? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:17:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material</title>
+      <link>https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam</guid>
+      <description>Case is one of first brought by an AI company against a user ⁠for allegedly using a tool to generate child abuse materialElon Musk’s artificial-intelligence startup xAI has sued a South Carolina man arrested ⁠earlier this year on charges of sexually exploiting minors, alleging he misused the company’s AI system Grok to ⁠create child sexual abuse ⁠material.xAI ​alleged in the lawsuit, filed in federal court in Texas on Tuesday, that Terry Harwood violated the company’s ⁠terms of service. The case is one of the first brought by an AI company against one of its users ⁠for allegedly using an AI system to generate child sexual abuse material. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 15:19:27 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/695c4be297c86ad19e3720bc7dee15e4b96dd8d7/655_382_2803_2242/master/2803.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f37344b1c817652e9aaa2292c8ccc6d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/695c4be297c86ad19e3720bc7dee15e4b96dd8d7/655_382_2803_2242/master/2803.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f37344b1c817652e9aaa2292c8ccc6d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group</title>
       <link>https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/</link>
