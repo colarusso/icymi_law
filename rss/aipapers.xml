@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:10:26 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 06:10:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas</title>
+      <link>https://arxiv.org/abs/2604.15267</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.15267</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;It is increasingly important that LLM agents interact effectively and safely with other goal-pursuing agents, yet, recent works report the opposite trend: LLMs with stronger reasoning capabilities beh...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 06:10:50 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics</title>
       <link>https://arxiv.org/abs/2605.13171</link>
@@ -492,14 +502,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sly5dgdm3fr5xsz7gduq37ai/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sly5dgdm3fr5xsz7gduq37ai/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Governing Online Speech: From 'Posts-As-Trumps' to Proportionality and Probability</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3679607</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3679607</guid>
-      <description>Online speech governance stands at an inflexion point. Platforms are emerging from the state of emergency invoked during the pandemic and lawmakers are poised t&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 18&lt;/small&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 06:10:24 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
