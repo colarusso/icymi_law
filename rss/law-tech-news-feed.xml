@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 16:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:56:37 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The One About Passing AI Costs Through To Clients</title>
+      <link>https://www.myshingle.com/2026/07/the-one-about-passing-ai-costs-through-to-clients/</link>
+      <guid isPermaLink="true">https://www.myshingle.com/2026/07/the-one-about-passing-ai-costs-through-to-clients/</guid>
+      <description>Regulators aren’t providing guidance quickly enough, and while large firms have access to in-house ethics advisors, solos and smalls don’t. The post The One About Passing AI Costs Through To Clients appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 21:33:00 +0000</pubDate>
+      <source url="https://www.myshingle.com">www.myshingle.com</source>
+    </item>
+    <item>
+      <title>In-House Lawyers Are The Biggest AI Users</title>
+      <link>https://abovethelaw.com/2026/07/in-house-lawyers-are-the-biggest-ai-users/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/in-house-lawyers-are-the-biggest-ai-users/</guid>
+      <description>Turns out the profession&amp;#x27;s technophobia gets left at the in-house door. The post In-House Lawyers Are The Biggest AI Users appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 20:44:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>xAI can’t deny Grok makes CSAM anymore. So it’s suing users.</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</guid>
+      <description>Elon Musk&amp;#x27;s xAI files first lawsuit against Grok user accused of making child sex images.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>AI in legal education: How to leverage AI to build change agility in law schools</title>
       <link>https://www.thomsonreuters.com/en-us/posts/technology/leverage-ai-in-legal-education/</link>
