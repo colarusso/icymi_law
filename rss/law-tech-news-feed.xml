@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google is better at playing the AI regulations game</title>
+      <link>https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai</guid>
+      <description>Today, the European Union ordered Google to give its AI rivals greater access to Android, the open-source operating system that powers billions of devices worldwide. The demand is hardly surprising. It may look like a defeat on paper for Google, which has spent years resisting exactly this kind of access, but it is a regulatory [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 16 Jul 2026 16:55:54 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>What Does Your Legal Team Actually Need From AI?</title>
       <link>https://abovethelaw.com/2026/07/what-does-your-legal-team-actually-need-from-ai/</link>
