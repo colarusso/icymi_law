@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:57:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI</title>
+      <link>https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html</guid>
+      <description>Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly as open-source alternatives take root. Let’s start with a Hershey bar. You pay for the chocolate, right? [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 12:56:30 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Screen time guidelines for kids and adolescents have shifted as research paints a more nuanced picture</title>
       <link>https://theconversation.com/screen-time-guidelines-for-kids-and-adolescents-have-shifted-as-research-paints-a-more-nuanced-picture-281300</link>
