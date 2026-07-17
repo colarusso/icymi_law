@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 14:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 15:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple and Google ordered to purge ‘nudify’ apps from App Stores</title>
+      <link>https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</guid>
+      <description>In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 19:49:53 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>How Apple’s big lawsuit could disrupt OpenAI’s IPO plans</title>
       <link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
