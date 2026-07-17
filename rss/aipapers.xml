@@ -5,8 +5,58 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2026 06:10:50 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:10:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paradoxes of Game Theoretic Equilibria and Price of Anarchy</title>
+      <link>https://arxiv.org/abs/2607.11752</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.11752</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;For decades, static solution concepts (Nash, Correlated, and Coarse Correlated Equilibria) and the Price of Anarchy (PoA) have formed the bedrock of algorithmic game theory, with no-regret learning pr...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 5 · likes: 30&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results</title>
+      <link>https://arxiv.org/abs/2607.11183</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.11183</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>LLM-Driven Approach to Modeling Tool Interoperability in Automotive Domain</title>
+      <link>https://arxiv.org/abs/2607.14659</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.14659</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Interoperability between heterogeneous modeling tools remains a significant challenge in Model-Driven Engineering (MDE), particularly in the automotive domain where multiple modeling languages, as well as defacto standard proprietary and open-source tools coexist. This paper presents an LLM-driven …&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>MCPEvol-Bench: Benchmarking LLM Agent Performance Across Dynamic Evolutions of MCP Servers</title>
+      <link>https://arxiv.org/abs/2607.14642</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.14642</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As Model Context Protocol (MCP) servers emerge as the core infrastructure for connecting LLMs with external tools, existing benchmarks leverage real-world MCP servers to evaluate LLM agents&amp;#x27; tool-using capabilities. However, these benchmarks overlook the continuous evolution of tool interfaces and …&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors</title>
+      <link>https://arxiv.org/abs/2607.13411</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.13411</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Clinical AI models can expose patients to harm when adversarial vulnerabilities go undetected, yet formal security auditing requires statistical expertise, specialized tools, and significant time. We present an open evaluation task, built on METR Task Standard v0.3.0, that tests whether frontier AI…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas</title>
       <link>https://arxiv.org/abs/2604.15267</link>
@@ -451,56 +501,6 @@
       <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Verification Horizon: No Silver Bullet for Coding Agent Rewards</title>
-      <link>https://arxiv.org/abs/2606.26300</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.26300</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjwos36ca2yiomczdqzeafv46klmye7bhahxok5dbecuj2xeq45e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for The Verification Horizon: No Silver Bullet for Coding Agent Rewards&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjwos36ca2yiomczdqzeafv46klmye7bhahxok5dbecuj2xeq45e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjwos36ca2yiomczdqzeafv46klmye7bhahxok5dbecuj2xeq45e" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing</title>
-      <link>https://arxiv.org/abs/2606.26787</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.26787</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiga4xpjapgzawa4bvjefkdysixi7w7lwhz3lq3we3a6lizoj3qxym" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiga4xpjapgzawa4bvjefkdysixi7w7lwhz3lq3we3a6lizoj3qxym" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiga4xpjapgzawa4bvjefkdysixi7w7lwhz3lq3we3a6lizoj3qxym" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>A Cost-Benefit Analysis of On-Premise Large Language Model Deployment: Breaking Even with Commercial LLM Services</title>
-      <link>https://arxiv.org/abs/2509.18101</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.18101</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are becoming increasingly widespread. Organizations that want to use AI for productivity now face an important decision. They can subscribe to commercial LLM services or d...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 3 · likes: 22&lt;/small&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 06:09:41 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Societal Alignment Frameworks Can Improve LLM Alignment</title>
-      <link>https://arxiv.org/abs/2503.00069</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2503.00069</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gedr2mru6fjbfkr26t4ywbfz/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recent progress in large language models (LLMs) has focused on producing responses that meet human expectations and align with shared values - a process coined alignment. However, aligning LLMs…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 06:09:41 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gedr2mru6fjbfkr26t4ywbfz/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gedr2mru6fjbfkr26t4ywbfz/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Who Gets the Kidney? Human-AI Alignment, Indecision, and Moral Values</title>
-      <link>https://arxiv.org/abs/2506.00079</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2506.00079</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sly5dgdm3fr5xsz7gduq37ai/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The rapid integration of Large Language Models (LLMs) in high-stakes decision-making -- such as allocating scarce resources like donor organs -- raises critical questions about their alignment with hu...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 06:09:41 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sly5dgdm3fr5xsz7gduq37ai/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sly5dgdm3fr5xsz7gduq37ai/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
