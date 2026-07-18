@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 08:56:39 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:56:28 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will AI fix prior authorization—or make it worse?</title>
+      <link>https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</guid>
+      <description>The government is piloting a program that uses AI for insurance-coverage decisions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 11:18:25 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Voice Search For Lawyers: Why Your Firm May Already Be Losing Clients</title>
       <link>https://abovethelaw.com/2026/07/voice-search-for-lawyers-why-your-firm-may-already-be-losing-clients/</link>
