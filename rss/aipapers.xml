@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jul 2026 06:10:52 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:12:28 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tricking an AI system &amp; the Cybercrime Convention</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584116</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584116</guid>
+      <description>In a 2018 paper that was only now brought to my attention, Calo et al. discuss whether “tricking a robot” constitutes hacking. They focus on five scenarios tha&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Sat, 18 Jul 2026 06:12:28 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Paradoxes of Game Theoretic Equilibria and Price of Anarchy</title>
       <link>https://arxiv.org/abs/2607.11752</link>
@@ -491,16 +499,6 @@
       <pubDate>Mon, 29 Jun 2026 06:08:51 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Power to the People? Opportunities and Challenges for Participatory AI</title>
-      <link>https://arxiv.org/abs/2209.07572</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2209.07572</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Participatory approaches to artificial intelligence (AI) and machine learning (ML) are gaining momentum: the increased attention comes partly with the view that participation opens the gateway to an…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 06:09:10 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:usruxech7rn3cwzxpzohkcgo/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
