@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 14:55:47 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can an Apple lawsuit derail OpenAI’s hardware plans?</title>
+      <link>https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</guid>
+      <description>On the latest episode of Equity, we debate whether Apple&amp;#x27;s lawsuit will cast over OpenAi&amp;#x27;s much-discussed plans to get into hardware and go public.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 19:24:45 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>TechCrunch Mobility: The battle over robotaxi rules</title>
       <link>https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/</link>
