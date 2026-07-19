@@ -1,12 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>ICYMI Law — Law Review-like Link Feed</title>
     <link>https://icymilaw.org/#papers</link>
     <description>Popular law review-like and scholarly legal links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 06:11:12 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 06:09:17 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Originalism, Living Constitutionalism, and Our Current Constitutional Moment</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7118922</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7118922</guid>
+      <description>This essay serves as an introduction to the Santa Clara Law Review’s 2026 symposium, “The Changing Landscape of Constitutional Interpretation and I&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:09:17 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>The Ex Post Facto Clause: Its History and Role in a Punitive Society</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300578</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300578</guid>
+      <description>The Ex Post Facto Clause, one of the few civil liberty protections found in the body of the U.S. Constitution, reflects the Framers&amp;#x27; acute concern over the tend&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:09:17 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Amicus Brief of Civil Procedure, Aggregate Litigation, Class Action, Legal Ethics, and Consumer Law Scholars in Opposition to Final Approval of Proposed Class Settlement (Roundup)</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7128998</link>
@@ -389,24 +405,6 @@
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6960820</guid>
       <description>The Twenty-Second Amendment provides that “[n]o person shall be elected to the office of the President more than twice.” Although this prohibition on u&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
       <pubDate>Fri, 19 Jun 2026 06:09:19 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Artificial Intelligence and Human Legal Reasoning</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6525800</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6525800</guid>
-      <description>Empirical evidence increasingly demonstrates that generative artificial intelligence has the capacity to improve the speed and quality of legal work, yet many l&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 06:09:12 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>An Empirical Study Of Malingering In Insanity Cases Across Twelve Decades</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6880545</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6880545</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pb2ppw7i6izh2k35a3cj6yx/bafkreidh56j7q5smfi634rie3actez3j6ffira5g6iu4o7pplsjpyulgne" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The last 120 years have seen a surge in the use of neuroscientific evidence in American criminal law cases, fueled by discoveries in brain science that&amp;amp;nbs&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 06:08:51 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pb2ppw7i6izh2k35a3cj6yx/bafkreidh56j7q5smfi634rie3actez3j6ffira5g6iu4o7pplsjpyulgne" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6pb2ppw7i6izh2k35a3cj6yx/bafkreidh56j7q5smfi634rie3actez3j6ffira5g6iu4o7pplsjpyulgne" type="image/jpeg" length="0" />
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
