@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 12:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TechCrunch Mobility: The battle over robotaxi rules</title>
+      <link>https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/</guid>
+      <description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 16:05:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Government use of automated AI decision-making to be curbed under new Australian rules</title>
       <link>https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton</link>
