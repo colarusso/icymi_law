@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 06:12:28 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 06:09:40 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MathCoPilot: An Interactive System for Human-AI Symbiotic Paradigm of Mathematical Research</title>
+      <link>https://arxiv.org/abs/2607.14582</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.14582</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Existing LLM-based theorem provers have achieved impressive results on formal mathematics benchmarks, yet they remain confined to acting as autonomous agents that prove a stated proposition. In this paper, we propose MathCoPilot, a human-in-the-loop system that embodies a new human--AI symbiotic pa…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The Seriality Gap in Video Diffusion Models</title>
+      <link>https://arxiv.org/abs/2607.13031</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.13031</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Traccia: An OpenTelemetry-Based Governance Platform for AI Systems</title>
+      <link>https://arxiv.org/abs/2607.14309</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.14309</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international framewo…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI Agents Do Not Fail Alone:The Context Fails First</title>
+      <link>https://arxiv.org/abs/2607.14275</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.14275</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moz2fuya3ey46x6tic7s6ner/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Context engineering has become central to building reliable AI agents, yet it remains largely unmeasured. Agents do not fail in isolation: their behavior is shaped by the instructions, tools, memory, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moz2fuya3ey46x6tic7s6ner/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moz2fuya3ey46x6tic7s6ner/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Tricking an AI system &amp; the Cybercrime Convention</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584116</link>
@@ -457,46 +497,6 @@
       <guid isPermaLink="true">http://arxiv.org/abs/2606.29687v1</guid>
       <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
       <pubDate>Tue, 30 Jun 2026 06:09:42 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>How Do LLMs Cite? A Mechanistic Interpretation of Attribution in Retrieval-Augmented Generation</title>
-      <link>https://arxiv.org/abs/2606.28358</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.28358</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Retrieval-Augmented Generation (RAG) aims to enhance the trustworthiness of Large Language Models (LLMs) by grounding their outputs in external documents, often using inline citations for verifiabilit...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 06:09:42 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?</title>
-      <link>https://arxiv.org/abs/2602.11988</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.11988</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nevxkulynwc5m2sk4jalv4c7/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A widespread practice in software development is to tailor coding agents to repositories using context files, such as AGENTS.md. Although this practice is strongly encouraged by agent developers, ther...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 06:08:51 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nevxkulynwc5m2sk4jalv4c7/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nevxkulynwc5m2sk4jalv4c7/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>GEOALIGN: Geometric Rollout Curation for Robust LLM Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2606.26917</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.26917</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjgitjtv6fh3pznrcnxr2a5zpxr5p3nasemjwwai7mlfhtjoprsa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for GEOALIGN: Geometric Rollout Curation for Robust LLM Reinforcement Learning&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 06:08:51 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjgitjtv6fh3pznrcnxr2a5zpxr5p3nasemjwwai7mlfhtjoprsa" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicjgitjtv6fh3pznrcnxr2a5zpxr5p3nasemjwwai7mlfhtjoprsa" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>CEO-Bench: Can Agents Play the Long Game?</title>
-      <link>https://arxiv.org/abs/2606.18543</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.18543</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) adapting to a changing world; (4) orchestrating multiple moving parts toward a coherent goal. We introduce CEO-Bench, which evaluates these capabilities together by simulating a representative real-world task: operating a startup for 500 days. An agent manages pricing, marketing, budgeting, and many other aspects of a fictional company through a programmable Python interface, operating in the same environment and facing the same challenges as a human CEO. Success demands analyzing noisy, interconnected business databases, translating signals into sound strategy, and coordinating many decisions with programming. The strongest agents write so&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 06:08:51 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
