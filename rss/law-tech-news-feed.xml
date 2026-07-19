@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jul 2026 20:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:56:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Government use of automated AI decision-making to be curbed under new Australian rules</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton</guid>
+      <description>New national plan accompanied by Labor push for digital duty of care legislationGet our breaking news email, free app or daily news podcastThe use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy.As the Albanese government grapples with the rapid growth in the use of artificial intelligence and a boom in datacentre construction, senior ministers have begun work to draw up new rules to ensure safety is built into AI processes inside government, prioritising fairness, accuracy and transparency. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 12:00:27 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/213b6ba9fc618a2fc4c1b946923f5d144338581f/181_345_3943_3154/master/3943.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c576310ab9ee7d0d86a74446e9d6b46" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/213b6ba9fc618a2fc4c1b946923f5d144338581f/181_345_3943_3154/master/3943.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c576310ab9ee7d0d86a74446e9d6b46" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Victoria announces new social media ‘demasking’ powers for accounts accused of vilification</title>
+      <link>https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers</guid>
+      <description>New laws would give Vcat power to force social and AI platforms to identify anonymous users in move premier says will protect childrenGet our breaking news email, free app or daily news podcastSocial media companies could be forced to identify anonymous accounts accused of online vilification, under new laws being proposed in Victoria.The Victorian premier, Jacinta Allan, announced a suite of social media reforms on Sunday, saying families needed new ways to protect their children online. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 07:22:01 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/996728756455f65338ff7981cbc106003ad68ae5/654_0_6013_4811/master/6013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e517b27ebfadef219bba1f982cc52c71" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/996728756455f65338ff7981cbc106003ad68ae5/654_0_6013_4811/master/6013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e517b27ebfadef219bba1f982cc52c71" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Court Upholds Instagram’s TOS–Feds for Freedom v. Meta</title>
       <link>https://blog.ericgoldman.org/archives/2026/07/court-upholds-instagrams-tos-feds-for-freedom-v-meta.htm</link>
