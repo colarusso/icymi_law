@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commerciality becomes a differentiating trait for successful UK law firms</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/legal/commerciality-uk-law-firms/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/commerciality-uk-law-firms/</guid>
+      <description>As UK GCs place greater value on business knowledge &amp;amp;#38; commercial advice, law firms need to find a way to a standout in an AI-driven market.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 15:01:27 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/04/AdobeStock_265089031_resizeUK-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/04/AdobeStock_265089031_resizeUK-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
     <item>
       <title>Pay up or not? Ransomware surge has victims facing tough choices</title>
       <link>https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/</link>
