@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 17:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 18:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Defeats Liability for Not Scanning iCloud for CSAM, But the Judge Was Not Pleased–Amy v. Apple</title>
+      <link>https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm</guid>
+      <description>This case involves Apple’s handling of user-uploaded files hosted in private iCloud storage. Instead of adopting PhotoDNA to scan hosted files for CSAM, Apple created its own proprietary alternative, NeuralHash, which apparently wasn’t as good. So Apple U-turned on its... The post Apple Defeats Liability for Not Scanning iCloud for CSAM, But the Judge Was Not Pleased&amp;amp;#8211;Amy v. Apple appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:21:19 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
+    <item>
+      <title>Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over</title>
+      <link>https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright</guid>
+      <description>Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley&amp;#x27;s Hound Dog to Beyonc&amp;amp;#233;&amp;#x27;s Say My Name, and Harry Styles&amp;#x27; As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:19:12 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>The FCC is planning to retroactively ban disguised DJI gadgets</title>
+      <link>https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra</guid>
+      <description>Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC&amp;#x27;s getting ready to wield that power for the first time, by cracking down on the &amp;quot;DJI front companies&amp;quot; suspected of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 22:16:14 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Protect Your Privacy with California's DROP Tool</title>
       <link>https://www.eff.org/deeplinks/2026/07/what-you-need-know-about-californias-drop-tool</link>
