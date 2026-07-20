@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jul 2026 20:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:56:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AliExpress fined almost $630 million over illegal product sales</title>
+      <link>https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products</guid>
+      <description>AliExpress has been hit with a &amp;amp;#8364;550 million (about $629 million) fine for violating Europe&amp;#x27;s Digital Services Act (DSA) rules by failing to prevent illegal, unsafe, or counterfeit products from being sold on the e-commerce platform. The European Commission ruled that AliExpress didn&amp;#x27;t take effective measures to reduce the dissemination of illegal products, noting the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 11:16:32 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>The ACLU Is Arming Lawyers to Expose State Surveillance Secrets</title>
+      <link>https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/</guid>
+      <description>A new toolkit for attorneys in Massachusetts targets the technologies police use—and conceal—to build criminal cases, from facial recognition to AI-written police reports.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 10:00:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a5acafd563e2d24f14f6f9a/master/pass/GettyImages-2265184860.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a5acafd563e2d24f14f6f9a/master/pass/GettyImages-2265184860.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>New Associate Hiring is Flat – Is AI The Cause?</title>
+      <link>https://www.artificiallawyer.com/2026/07/20/new-associate-hiring-is-flat-is-ai-the-cause/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/20/new-associate-hiring-is-flat-is-ai-the-cause/</guid>
+      <description>New data shows that entry-level associate hiring in the US has been flat for four years – despite overall legal market growth. Is this the ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 06:49:12 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Can an Apple lawsuit derail OpenAI’s hardware plans?</title>
       <link>https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</link>
