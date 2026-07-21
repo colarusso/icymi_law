@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 19:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic’s landmark $1.5B copyright settlement is approved</title>
+      <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</guid>
+      <description>The final approval settles one case, but it doesn&amp;#x27;t resolve the broader issue of using copyrighted works to train AI models.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 00:12:24 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Apple Defeats Liability for Not Scanning iCloud for CSAM, But the Judge Was Not Pleased–Amy v. Apple</title>
       <link>https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm</link>
@@ -4410,16 +4418,6 @@
       <media:content url="https://www.eff.org/files/banner_library/effecting_change_banner_pride2026.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/effecting_change_banner_pride2026.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Justices urged to stop Texas from enforcing age-verification and parental-consent law on apps</title>
-      <link>https://www.scotusblog.com/2026/06/justices-urged-to-stop-texas-from-enforcing-age-verification-and-parental-consent-law-on-apps/</link>
-      <guid isPermaLink="true">https://www.scotusblog.com/2026/06/justices-urged-to-stop-texas-from-enforcing-age-verification-and-parental-consent-law-on-apps/</guid>
-      <description>Justices urged to stop Texas from enforcing age-verification and parental-consent law on apps&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 15 Jun 2026 22:43:45 +0000</pubDate>
-      <media:content url="https://cdn.sanity.io/images/pito4za5/production/59eb73583eb5b9af9f98e44d9851e3c864fae8d4-1024x683.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/59eb73583eb5b9af9f98e44d9851e3c864fae8d4-1024x683.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
-      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
     </item>
   </channel>
 </rss>
