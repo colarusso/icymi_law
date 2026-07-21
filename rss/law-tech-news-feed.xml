@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:56:22 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic’s $1.5 billion book piracy settlement approved by judge</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved</guid>
+      <description>A federal judge has signed off on Anthropic&amp;#x27;s $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&amp;amp;#237;nez-Olgu&amp;amp;#237;n writes that the settlement will provide &amp;quot;meaningful relief,&amp;quot; offering authors around $3,000 for each book [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 16:53:37 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>What the “2026 Future of Professionals Report” says law firm leaders should be doing now</title>
+      <link>https://www.thomsonreuters.com/en-us/posts/legal/future-of-professionals-law-firms-paper-2026/</link>
+      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/future-of-professionals-law-firms-paper-2026/</guid>
+      <description>In a new paper, law firm leaders can gain clear guidance to manage the challenges of evolving AI advancement within today&amp;#x27;s legal industry.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 16:31:17 +0000</pubDate>
+      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/Law-Firm-FoP-paper_resize-400x225.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/Law-Firm-FoP-paper_resize-400x225.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
+    </item>
+    <item>
+      <title>The Legal Tech-To-English Dictionary (2.0): Working With AI In A Professional Environment</title>
+      <link>https://abovethelaw.com/2026/07/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past-3-2/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past-3-2/</guid>
+      <description>[Sponsored] In this series of definitions, we’ll explore what it looks like for AI to run unchecked in a business and how managers can establish control. The post The Legal Tech-To-English Dictionary (2.0): Working With AI In A Professional Environment appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 16:16:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>US threatens sanctions against Chinese AI models over IP theft</title>
       <link>https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/</link>
@@ -4392,34 +4418,6 @@
       <description>The new ‘junior associate’ for small firms takes the lead in this episode of ‘Adventures in Legal Tech.’ The post &amp;amp;#8216;Adventures In Legal Tech&amp;amp;#8217;: How Small Firms Can Adopt AI At A Reasonable Pace appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 16 Jun 2026 18:49:50 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>D.O.J. Seeks to Halt Pollution Lawsuit Against Elon Musk’s Data Center</title>
-      <link>https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/16/climate/xai-musk-mississippi-grok-turbine-lawsuit-naacp.html</guid>
-      <description>The department cited national security concerns, saying Elon Musk’s company had played a crucial role in the Iran war. It also argued it has the authority to stop environmental lawsuits brought by citizens.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 17:57:56 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/06/16/multimedia/16cli-musk-doj-vjqt/16cli-musk-doj-vjqt-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/06/16/multimedia/16cli-musk-doj-vjqt/16cli-musk-doj-vjqt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’</title>
-      <link>https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians</guid>
-      <description>Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over the facilities powering an AI boomA controversial haunted house near Philadelphia, Pennsylvania, taps into its dark history every fall to scare tens of thousands of visitors. In 1968, a local news station documented appalling conditions for disabled people in the red brick buildings on the banks of Schuylkill River. Residents were found naked and emaciated at what was then known as the Pennhurst state school and hospital. The institution shut its doors permanently in 1987 after a lawsuit over inhumane conditions.By 2010, a Halloween attraction stood in its place, and Pennhurst asylum’s previous owner suggested during its early years that he wanted to spook guests by repurposing the hospital’s surgical lights and medical cabinets to use as props. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 14:00:00 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/44ac79819d18b911c53cb6926918bd64ac4d6973/464_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70080639c1217663f712c96f2d1c95e3" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/44ac79819d18b911c53cb6926918bd64ac4d6973/464_0_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70080639c1217663f712c96f2d1c95e3" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>BlackBoiler Launches Veris, Pairing Its Deterministic Redlining With Generative AI in Microsoft Word</title>
-      <link>https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/06/blackboiler-launches-veris-pairing-its-deterministic-redlining-with-generative-ai-in-microsoft-word.html</guid>
-      <description>BlackBoiler, a company that has spent over a decade building automated redlining technology, this week launched Veris, a new platform that takes its original deterministic editing engine and supercharges it with generative AI and an agentic, chat-based interface. Running directly inside a Microsoft Word add-in, Veris allows contract-review teams to negotiate and mark up agreements [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 16:54:23 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
