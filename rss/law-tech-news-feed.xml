@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 09:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:56:37 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>After TikTok, Snap settles social media addiction case</title>
+      <link>https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/</guid>
+      <description>Snap is the latest big tech company to settle a lawsuit that claimed social media platforms are harmful to children and young adults. The company has reached a &amp;amp;#8220;tentative&amp;amp;#8221; agreement in a case that was set to go to trial later this month. TikTok recently settled its portion of the case with the plaintiff, known [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 14:54:19 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints</title>
+      <link>https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/</link>
+      <guid isPermaLink="true">https://medcitynews.com/2026/07/the-ai-tension-in-healthcare-patent-strategy-fda-reality-and-hipaa-constraints/</guid>
+      <description>These three legal regimes are pulling in different directions, and the developers that navigate them well will be the ones that plan for all three from the start. The post The AI Tension In Healthcare: Patent Strategy, FDA Reality, And HIPAA Constraints appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 14:03:00 +0000</pubDate>
+      <source url="https://medcitynews.com">medcitynews.com</source>
+    </item>
     <item>
       <title>Legally or not, the US government is controlling global access to the world’s most powerful AI</title>
       <link>https://theconversation.com/legally-or-not-the-us-government-is-controlling-global-access-to-the-worlds-most-powerful-ai-286118</link>
@@ -4402,24 +4418,6 @@
       <description>By imposing export controls on the bug-hunting AI Mythos/Fable 5, the Commerce Department has complicated the Pentagon’s already fraught relationship with Anthropic. The post How The Commerce Crackdown On Anthropic Could Impact The Pentagon: Experts appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 16 Jun 2026 14:03:00 +0000</pubDate>
       <source url="https://breakingdefense.com">breakingdefense.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 06.16.26</title>
-      <link>https://abovethelaw.com/2026/06/morning-docket-06-16-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/morning-docket-06-16-26/</guid>
-      <description>* Sullivan &amp;amp;#38; Cromwell tops the rankings as Donald Trump&amp;#x27;s favorite law firm. Congratulations! [American Lawyer] * Kirkland&amp;#x27;s bid to build its own half billion-dollar AI requires a hefty headcount. [Bloomberg Law News] * DOJ argues that xAI is vital for national security. Trump administration scorecard: Anthropic&amp;#x27;s gold standard AI = banned... Elon&amp;#x27;s upskirt image generator = critical to national security. [WIRED] * &amp;quot;What Is Habeas Corpus, the Basic Right That Trump Officials Have Discussed Suspending?&amp;quot; A headline that is definitely the sign of a healthy legal system. [New York Times] * Attorney joins Food Network competition. [ABA Journal] * As SpaceX still gains share value based on... well, nothing... xAI lost its lawsuit against OpenAI. [Law360] * Florida sues TikTok. [Reuters] The post Morning Docket: 06.16.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 12:56:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Five big questions about the UK's under-16s social media ban</title>
-      <link>https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>A ban is coming - but it&amp;#x27;s still not clear what it will mean for sites including Roblox, YouTube and WhatsApp.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 12:09:57 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f489/live/f8af2a90-6977-11f1-a610-610c6ec6d3a5.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f489/live/f8af2a90-6977-11f1-a610-610c6ec6d3a5.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.com">www.bbc.com</source>
     </item>
   </channel>
 </rss>
