@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:56:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The One Thing You Didn’t Think To Look For In Legal AI</title>
+      <link>https://abovethelaw.com/2026/07/the-one-thing-you-didnt-think-to-look-for-in-legal-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-one-thing-you-didnt-think-to-look-for-in-legal-ai/</guid>
+      <description>Accuracy isn’t just about pinpointing the correct answer. It’s also about being able to acknowledge when there is no answer to be found. The post The One Thing You Didn’t Think To Look For In Legal AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 19:14:42 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</guid>
+      <description>Anthropic blocks authors from opting out of $1.5B settlement at last minute.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 17:33:14 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials</title>
       <link>https://abovethelaw.com/2026/07/courtroom-view-network-learning-trial-skills-by-watching-real-lawyers-in-real-trials/</link>
@@ -4402,22 +4420,6 @@
       <description>The complex deal included many novel issues the firm had to tackle. The post The Biglaw Firm Tapped To Take SpaceX Public appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 16 Jun 2026 21:44:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The Legal Tech-To-English Dictionary (2.0): The Ghosts Of Artificial Intelligence Past</title>
-      <link>https://abovethelaw.com/2026/06/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past/</guid>
-      <description>[Sponsored] AI — perhaps ironically — is part of the Silent Generation. The post The Legal Tech-To-English Dictionary (2.0): The Ghosts Of Artificial Intelligence Past appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 20:21:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Onward, Friends</title>
-      <link>https://www.eff.org/deeplinks/2026/06/farewell-now-friends</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/farewell-now-friends</guid>
-      <description>After 26 years, today is my last day at EFF. It&amp;#x27;s been a terrific and wild ride — the organization has grown from a tiny band of fighty people trying to plant a flag for freedom and justice in the coming digital world into a large, established band of fighty people doing, well, much the same. The world around us has changed enormously. Our core values haven&amp;#x27;t budged. I&amp;#x27;m proud of what we&amp;#x27;ve achieved: freeing encryption, defending coders, pushing to rein in government and corporate surveillance and ensure the right to have a private conversation online, standing up for free speech and anonymous speech, fighting for network neutrality and safe voting machines, busting stupid patents, and making sure copyright didn&amp;#x27;t become the one law that rules the internet. That&amp;#x27;s only the start. We&amp;#x27;ve stopped more bad legislative, regulatory, and legal ideas than I can count, built tools that millions rely on to protect their privacy, and helped encrypt the web. I&amp;#x27;ve long said EFF is the plumber of the internet — finding the clogs and barriers that prevent technology from serving freedom, justice, and innovation for everyone. In addition to presenting cases in courts across the land, testifying in Congress and in California, in the European Parliament and at the United Nations, I went onto the internet with Stephen Colbert and engaged in a healthy disagreement with Jon Stewart. I wrote a lot of it down in a book, hoping to recruit others to the cause. The work has been hard and often frustrating at times. But looking back, the fun parts are what I remember most. None of it would have been possible without EFF’s stalwart members. More than 30,000 people, some with big wallets and some with small ones, give us what we need to stand up to bullies and fight for the long haul. EFF has always served as a beacon for people who know that for technology to support freedom, justice, and innovation for all the people of the world, we need a dedicated band of folks working overtime on behalf of users, innovators, and creators. There&amp;#x27;s still plenty left to do. We haven&amp;#x27;t killed the third-party doctrine, tamed the surveillance business model, or gotten metadata the constitutional protection it deserves. Stupid patents persist as does the overreach of DMCA section 1201 and the Computer Fraud and Abuse Act. The government is now the largest purchaser of data from shady brokers, communities everywhere are fighting license plate readers and other street-level surveillance, and we haven&amp;#x27;t reined in NSA and FBI spying nearly enough. Meanwhile, the rise of AI is supercharging problems we&amp;#x27;ve fought against for years. But I&amp;#x27;m proud of what we&amp;#x27;ve built together. I&amp;#x27;m grateful to every EFFer — past, present, and future — who threw in with us when the odds were long and the pay was much better elsewhere. I&amp;#x27;m grateful to the EFF Board and especially to my mentors and friends Pam Samuelson and Shari Steele, along with my longtime partner in justice, Lee Tien, who has been working with me since the Bernstein case. Fighting for justice is easier when you have a posse: coworkers, co-counsel, coalitions, interns, volunteers, and the heroic clients who trusted us to steward their cases in ways that bent the law toward everyone&amp;#x27;s benefit. Twenty-six years later, EFF is part of a global diaspora of organizations defending internet freedom — and I&amp;#x27;m proud of that too. I&amp;#x27;m stepping down because good leaders should make way for new ones, and the time feels right. EFF is strong and full of fight. My successor Nicole Ozer — a longtime friend and collaborator — is exactly the right person for this moment. She understands EFF&amp;#x27;s role and values at a deep level and will protect them while helping the organization rise to meet what&amp;#x27;s coming. As for me, I&amp;#x27;m not going far. After a few months off to reflect and walk dogs, I plan to get back into the fight for justice — likely heading back into the courtroom. And I&amp;#x27;ll be watching, cheering, donating, and wearing the merch from EFF, just like the rest of you.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 16 Jun 2026 18:56:00 +0000</pubDate>
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
