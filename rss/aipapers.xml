@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2026 06:10:58 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:10:23 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI for fossil fuel production: Can 'enabled emissions' be contested under EU law?</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7146879</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7146879</guid>
+      <description>Legal and policy discussions on the environmental impacts of AI have drawn attention to the industry&amp;#x27;s climate impacts, pollution and resource consumption. In c&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 4 · likes: 12&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 06:10:23 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Making Agent-Mediated Contributions Governable: A Project-Level Governance Manifest for Open-Source AI Collaboration</title>
+      <link>https://arxiv.org/abs/2607.15769</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.15769</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative AI and coding agents are intensifying a central governance tension in open-source software (OSS): they scale contribution generation faster than maintainers can assess risk, evidence, and accountability. Existing responses improve agent-readability and traceability, but project rules mus…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 06:10:23 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The False Promise of Imitating Proprietary LLMs</title>
       <link>https://arxiv.org/abs/2305.15717</link>
@@ -477,26 +495,6 @@
       <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Insidious by Design: Implications of Large Language Model algorithmic bias for the Global South</title>
-      <link>https://arxiv.org/abs/2606.28333</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.28333</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;\begin{quote} The biases in Large Language Models&amp;#x27; (LLMs) outputs remain inadequately theorised, particularly from the perspective of the Global South. This article reports on a small-scale exploratory study in which identical prompts were submitted to four major LLMs (ChatGPT, Claude, Grok, and Co…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>SPADE-Bench: Evaluating Spontaneous Strategic Deception in Agents via Plan-Action Divergence</title>
-      <link>https://arxiv.org/abs/2606.02380</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.02380</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicnejphpci3fhqlnqna326qatsf5xjo3uinjvi7jxzlit6czhmavm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for SPADE-Bench: Evaluating Spontaneous Strategic Deception in Agents via Plan-Action Divergence&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 06:10:44 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicnejphpci3fhqlnqna326qatsf5xjo3uinjvi7jxzlit6czhmavm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicnejphpci3fhqlnqna326qatsf5xjo3uinjvi7jxzlit6czhmavm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
