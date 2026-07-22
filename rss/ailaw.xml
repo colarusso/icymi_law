@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 06:08:54 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 06:09:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Privacy for Profits”: ACLU Warns Flock Building a Nationwide Surveillance Network</title>
+      <link>https://www.democracynow.org/2026/7/21/flock_aclu_chad_marlow</link>
+      <guid isPermaLink="true">https://www.democracynow.org/2026/7/21/flock_aclu_chad_marlow</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yosojsta3nm5qiod5zqixzur/bafkreihic56g3zb2dkcp6pne24bfrevjgzubwiivju2gh4fpmjd53a6o5u" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The tech company Flock, makers of traffic cameras that automatically record and log car license plates for law enforcement agencies, is facing increasing scrutiny over accusations that its vast, AI-so...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 103 · likes: 218&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 06:09:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yosojsta3nm5qiod5zqixzur/bafkreihic56g3zb2dkcp6pne24bfrevjgzubwiivju2gh4fpmjd53a6o5u" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yosojsta3nm5qiod5zqixzur/bafkreihic56g3zb2dkcp6pne24bfrevjgzubwiivju2gh4fpmjd53a6o5u" type="image/jpeg" length="0" />
+      <source url="https://www.democracynow.org">www.democracynow.org</source>
+    </item>
+    <item>
+      <title>Bessent Says US Will Scrutinize Chinese AI Models for IP Theft</title>
+      <link>https://www.bloomberg.com/news/articles/2026-07-21/bessent-says-us-will-scrutinize-chinese-ai-models-for-ip-theft?srnd=homepage-americas</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-21/bessent-says-us-will-scrutinize-chinese-ai-models-for-ip-theft?srnd=homepage-americas</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddvus7otnqtlh7fdooxm6qat/bafkreiajrt5efdhuiu2g2elncvfwp3ax2vg6ogo7yaydrvw37jod5mhcqe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Treasury Secretary Scott Bessent said the US will carefully examine open source artificial intelligence models from China for signs of intellectual property theft, amid concerns that a new wave of low...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 30 · likes: 153&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 06:09:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddvus7otnqtlh7fdooxm6qat/bafkreiajrt5efdhuiu2g2elncvfwp3ax2vg6ogo7yaydrvw37jod5mhcqe" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddvus7otnqtlh7fdooxm6qat/bafkreiajrt5efdhuiu2g2elncvfwp3ax2vg6ogo7yaydrvw37jod5mhcqe" type="image/jpeg" length="0" />
+      <source url="https://www.bloomberg.com">www.bloomberg.com</source>
+    </item>
+    <item>
+      <title>AI and the Commercial Data Loophole</title>
+      <link>https://www.justsecurity.org/148430/ai-surveillance-commercial-data-loophole/</link>
+      <guid isPermaLink="true">https://www.justsecurity.org/148430/ai-surveillance-commercial-data-loophole/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gx2mw5w2tfcwnlkkhpe6gp4x/bafkreiau5aehm3pihmjklstcaoknwu4fecqsdhozokh37pvtdb2czf5gwa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The Pentagon’s access to commercial LLMs give it a powerful surveillance tool that could be turned on Americans.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 61 · likes: 86&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 06:09:00 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gx2mw5w2tfcwnlkkhpe6gp4x/bafkreiau5aehm3pihmjklstcaoknwu4fecqsdhozokh37pvtdb2czf5gwa" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gx2mw5w2tfcwnlkkhpe6gp4x/bafkreiau5aehm3pihmjklstcaoknwu4fecqsdhozokh37pvtdb2czf5gwa" type="image/jpeg" length="0" />
+      <source url="https://www.justsecurity.org">www.justsecurity.org</source>
+    </item>
     <item>
       <title>The ACLU Is Arming Lawyers to Expose State Surveillance Secrets</title>
       <link>https://www.wired.com/story/the-aclu-is-arming-lawyers-to-expose-state-surveillance-secrets/</link>
@@ -476,36 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreich4mzrwj232vd33ushxsbpoms7flg5twzx7r4eqlb4vbwktbzxrm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreich4mzrwj232vd33ushxsbpoms7flg5twzx7r4eqlb4vbwktbzxrm" type="image/jpeg" length="0" />
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>A Judicial Wake-Up Call on Government by AI</title>
-      <link>https://buff.ly/1zdmFgp</link>
-      <guid isPermaLink="true">https://buff.ly/1zdmFgp</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreial5yn6x7ewwvd5izb2xxoe6cu46zifghxrc726txeafa23wfpii4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As agencies craft best practices for LLM use, the Learned Societies decision should serve as a handbook of what not to do, writes Jordan Ascher.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 6 · likes: 16&lt;/small&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 06:08:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreial5yn6x7ewwvd5izb2xxoe6cu46zifghxrc726txeafa23wfpii4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreial5yn6x7ewwvd5izb2xxoe6cu46zifghxrc726txeafa23wfpii4" type="image/jpeg" length="0" />
-      <source url="https://buff.ly">buff.ly</source>
-    </item>
-    <item>
-      <title>Read the Tense Emails Between the Pentagon (Former Uber Exec) and Anthropic (Dario Amodei)</title>
-      <link>https://gizmodo.com/read-the-tense-emails-between-the-pentagon-former-uber-exec-and-anthropic-dario-amodei-2000780849</link>
-      <guid isPermaLink="true">https://gizmodo.com/read-the-tense-emails-between-the-pentagon-former-uber-exec-and-anthropic-dario-amodei-2000780849</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f3ph3ymzcnhpchwqiu4u37g2/bafkreidnkkgtjm4kbysz7ggd776clla6mfncowy2bo62qlhyahyjix66da" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Here&amp;#x27;s the full court document showing what went on behind the scenes before the Pentagon turned on Anthropic.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 06:08:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f3ph3ymzcnhpchwqiu4u37g2/bafkreidnkkgtjm4kbysz7ggd776clla6mfncowy2bo62qlhyahyjix66da" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:f3ph3ymzcnhpchwqiu4u37g2/bafkreidnkkgtjm4kbysz7ggd776clla6mfncowy2bo62qlhyahyjix66da" type="image/jpeg" length="0" />
-      <source url="https://gizmodo.com">gizmodo.com</source>
-    </item>
-    <item>
-      <title>Is This The New Normal?</title>
-      <link>https://youtu.be/ie3skZnsCMI</link>
-      <guid isPermaLink="true">https://youtu.be/ie3skZnsCMI</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreicl7otqussiueow37wgn34dh4gesr4xi4lgbmidrycorzsoraqx3m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;YouTube video by Rhett Shull&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 72 · likes: 490&lt;/small&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 06:09:49 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreicl7otqussiueow37wgn34dh4gesr4xi4lgbmidrycorzsoraqx3m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreicl7otqussiueow37wgn34dh4gesr4xi4lgbmidrycorzsoraqx3m" type="image/jpeg" length="0" />
-      <source url="https://youtu.be">youtu.be</source>
     </item>
   </channel>
 </rss>
