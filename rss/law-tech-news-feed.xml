@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 15:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable</title>
+      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</guid>
+      <description>Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic&amp;#x27;s Fable model to develop Kimi K3.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 20:49:03 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Social media addiction lawsuit against Meta is dropped</title>
+      <link>https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/</guid>
+      <description>A closely watched social media addiction lawsuit that had been set to go to trial next week has been dropped after the plaintiff voluntarily dismissed his claims against Meta, leaving none of the major tech companies facing trial in the case.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 20:36:41 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump</title>
+      <link>https://abovethelaw.com/2026/07/willkie-farr-and-openai-building-proprietary-ai-named-after-guy-who-would-not-have-cut-a-deal-with-trump/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/willkie-farr-and-openai-building-proprietary-ai-named-after-guy-who-would-not-have-cut-a-deal-with-trump/</guid>
+      <description>The firm&amp;#x27;s AI platform is called Wendell after Wendell Willkie. They could do with some of his advice. The post Willkie Farr And OpenAI Building Proprietary AI Named After Guy Who Would Not Have Cut A Deal With Trump appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 20:00:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Hyundai claims humanoid robot plan is not part of talks with striking workers</title>
       <link>https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/</link>
@@ -4400,30 +4424,6 @@
       <description>Just like with the advent of interstates, an entire culture may be lost. The post Lessons From Interstate Highways: AI’s Impact On Legal Is A Known Unknown appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 17 Jun 2026 20:04:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>FTC lawsuit reveals how subscription scam networks evade app store enforcement</title>
-      <link>https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/</guid>
-      <description>A new FTC lawsuit reveals how sophisticated subscription app operators can allegedly use shell companies and payment infrastructure to stay active on app stores despite mounting consumer complaints.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 19:46:16 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Does AI Give Male Lawyers Better Resumes?</title>
-      <link>https://abovethelaw.com/2026/06/does-ai-give-male-lawyers-better-resumes/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/does-ai-give-male-lawyers-better-resumes/</guid>
-      <description>Updating resumes is one of AI&amp;#x27;s most popular use cases. The post Does AI Give Male Lawyers Better Resumes? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 18:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Anthropic got hit by export rules nobody understands</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls</guid>
-      <description>Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. &amp;quot;To my [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 18:28:50 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
