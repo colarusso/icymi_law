@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 19:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto</title>
+      <link>https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</guid>
+      <description>Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 22 Jul 2026 23:01:47 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/07/23/multimedia/23trump-ethics-bkhv/23trump-ethics-bkhv-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/07/23/multimedia/23trump-ethics-bkhv/23trump-ethics-bkhv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>The Fourth Circuit Says Border Agents Can Search Your Phone By Hand, No Suspicion Required</title>
       <link>https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required</link>
@@ -4418,14 +4428,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Ironclad + Legora Partner for Unusual ‘AI-to-AI Integration’</title>
-      <link>https://www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/17/ironclad-legora-partner-for-unusual-ai-to-ai-integration/</guid>
-      <description>In a surprising move, Ironclad, the CLM pioneer whose former founder Jason Boehmig has joined OpenAI to launch its legal vertical team, is forming what ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 20:20:28 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
