@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 12:58:41 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:57:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI’s New Model Hacked A Website On Its Own… Humans Would Go To Prison For That</title>
+      <link>https://abovethelaw.com/2026/07/openais-new-model-hacked-a-website-on-its-own-humans-would-go-to-prison-for-that/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/openais-new-model-hacked-a-website-on-its-own-humans-would-go-to-prison-for-that/</guid>
+      <description>Every element of a Computer Fraud and Abuse Act violation seems to be sitting right there in OpenAI&amp;#x27;s own announcement. The post OpenAI&amp;amp;#8217;s New Model Hacked A Website On Its Own&amp;amp;#8230; Humans Would Go To Prison For That appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 17:45:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Issue 107 – An unserious offer</title>
       <link>https://www.citationneeded.news/issue-107/</link>
@@ -4411,16 +4419,6 @@
       <pubDate>Thu, 18 Jun 2026 19:46:02 +0000</pubDate>
       <media:content url="https://www.eff.org/files/banner_library/09_pride.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/09_pride.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech</title>
-      <link>https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech</guid>
-      <description>Last week, Senators Ted Cruz and Ron Wyden introduced the Justice Against Weaponized Bureaucratic Overreach to Networked Expression, or JAWBONE Act. The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression. We thank the Senators for their leadership on this important issue. Jawboning occurs when the government pressures private companies to censor speech protected by the First Amendment, and it’s not always obvious to the public or to the victims what has actually happened. Deleting posts or cancelling accounts because a government official or agency demanded it or even made threats in making those demands—just like spying on people’s communications on behalf of the government—raises serious free speech concerns. Among other things, this bill would provide a new legal right to bring claims against the government in federal court, in addition to what the First Amendment provides. At EFF, we’re continuing to fight back on behalf of those censored by government coercion. One recent example: we represent the creator of ICEBlock, an app that allows the public to report immigration enforcement activity in their communities. In June 2025, high-ranking federal officials began threatening to investigate and prosecute the creator of ICEBlock, Joshua Aaron. In October 2025, the U.S. Attorney General demanded Apple remove ICEBlock from the App Store, and the company complied. The government’s coercion violated Aaron’s First Amendment rights. We’ve also filed a Freedom of Information Act lawsuit against the same government agencies that threatened Aaron and other services that provided forums to report ICE activity. The lawsuit seeks the disclosure of the government’s communications with Apple, Google, and Meta that forced the services to remove lawful speech. When federal officials pressure private companies into censoring protected speech, it can violate the First Amendment. But, not every communication from a government agency to a platform is unconstitutionally coercive. Treating legitimate communication and information-sharing between the government and private actors as though it were always unconstitutional would chill the valuable, good-faith engagement that supports a healthier and safer internet and nation for all Americans. This is a complex issue, and one that is important for Congress and the courts to get right. Finally, contrary to what many in Congress have been saying, social media platforms and other internet intermediaries have their own First Amendment rights to decide how they moderate users’ speech. They are not “state actors” and do not have an obligation under the First Amendment to allow all user speech on their platforms. EFF filed an amicus brief setting out our position in 2018, and we’ve said it in many cases since. The Supreme Court recognized again in the Netchoice cases that these services have a right to curate and edit their users’ speech, whether or not it aligns with the government’s position. And, it’s important to defend that First Amendment right so that governments cannot dictate how to edit a company’s site according to the government’s wishes and desires. To prevent jawboning by default, companies must be free to curate their platforms as they wish. EFF applauds Senators Cruz and Wyden for taking this critical issue seriously, and we look forward to working with Congress on this bipartisan bill as it moves through the process. We hope it lands on the right balance to provide additional protections for everyday users around freedom of expression.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 19:38:21 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/intermediary-4.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://www.eff.org/files/banner_library/intermediary-4.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
