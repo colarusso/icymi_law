@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China's Moonshot AI stole from Anthropic, Trump tech advisor says</title>
+      <link>https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The allegations come as Chinese AI companies are facing increased US government scrutiny.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 00:52:25 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto</title>
       <link>https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</link>
@@ -4417,16 +4427,6 @@
       <pubDate>Wed, 17 Jun 2026 20:07:40 +0000</pubDate>
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/woman-dialing-phone-1152x648-1781724369.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/woman-dialing-phone-1152x648-1781724369.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”</title>
-      <link>https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</link>
-      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</guid>
-      <description>Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 17 Jun 2026 19:43:13 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1265241057-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
