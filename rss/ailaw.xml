@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 06:09:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 06:09:25 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice</title>
+      <link>https://nyti.ms/4wjEGbR</link>
+      <guid isPermaLink="true">https://nyti.ms/4wjEGbR</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreiggwi5bnb3tgqejz3o6yd5j4p43wnnyxy3laagg6rs7kmqhiq2fya" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The case appears to be the first to argue that a chatbot’s advice harmed someone seeking guidance about a medical condition.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 65 · likes: 208&lt;/small&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 06:09:25 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreiggwi5bnb3tgqejz3o6yd5j4p43wnnyxy3laagg6rs7kmqhiq2fya" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreiggwi5bnb3tgqejz3o6yd5j4p43wnnyxy3laagg6rs7kmqhiq2fya" type="image/jpeg" length="0" />
+      <source url="https://nyti.ms">nyti.ms</source>
+    </item>
+    <item>
+      <title>I Got Trapped in the AI Ouroboros</title>
+      <link>https://open.substack.com/pub/wiczipedia/p/i-got-trapped-in-the-ai-ouroboros?r=u1cd&amp;utm_medium=ios</link>
+      <guid isPermaLink="true">https://open.substack.com/pub/wiczipedia/p/i-got-trapped-in-the-ai-ouroboros?r=u1cd&amp;utm_medium=ios</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jush7662cbei73jiiaddxc72/bafkreifwudrtiyvtuodyiankznvmg7fn3afjbsdg2tfx3mqy7bbpjs35zu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A foreign news outlet fabricated a quote from me. LLMs have already picked it up.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 35 · likes: 113&lt;/small&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 06:09:25 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jush7662cbei73jiiaddxc72/bafkreifwudrtiyvtuodyiankznvmg7fn3afjbsdg2tfx3mqy7bbpjs35zu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jush7662cbei73jiiaddxc72/bafkreifwudrtiyvtuodyiankznvmg7fn3afjbsdg2tfx3mqy7bbpjs35zu" type="image/jpeg" length="0" />
+      <source url="https://open.substack.com">open.substack.com</source>
+    </item>
+    <item>
+      <title>Top American AI Execs Sound Alarm on Chinese Models</title>
+      <link>https://on.wsj.com/4wgZ4KE</link>
+      <guid isPermaLink="true">https://on.wsj.com/4wgZ4KE</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3fhjvvkbmirhyu4aeihhrnv/bafkreiawhl6defjfpyjx4fiqlchtijlznihu3by5r3534vfyoj27bjgcxe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The White House is divided on how to respond to recent advances in Chinese AI and has weighed crackdown measures.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 19 · likes: 73&lt;/small&gt;</description>
+      <pubDate>Thu, 23 Jul 2026 06:09:25 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3fhjvvkbmirhyu4aeihhrnv/bafkreiawhl6defjfpyjx4fiqlchtijlznihu3by5r3534vfyoj27bjgcxe" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3fhjvvkbmirhyu4aeihhrnv/bafkreiawhl6defjfpyjx4fiqlchtijlznihu3by5r3534vfyoj27bjgcxe" type="image/jpeg" length="0" />
+      <source url="https://on.wsj.com">on.wsj.com</source>
+    </item>
     <item>
       <title>“Privacy for Profits”: ACLU Warns Flock Building a Nationwide Surveillance Network</title>
       <link>https://www.democracynow.org/2026/7/21/flock_aclu_chad_marlow</link>
@@ -476,36 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreibduaoncr2cmf3uaeubga7oo4dsyjy4uyfpzabtmeltjf3yprgoua" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreibduaoncr2cmf3uaeubga7oo4dsyjy4uyfpzabtmeltjf3yprgoua" type="image/jpeg" length="0" />
       <source url="https://buff.ly">buff.ly</source>
-    </item>
-    <item>
-      <title>‘Killer Robots’ Must Be Banned, U.N. Secretary-General Says</title>
-      <link>https://on.wsj.com/44e4uK8</link>
-      <guid isPermaLink="true">https://on.wsj.com/44e4uK8</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3fhjvvkbmirhyu4aeihhrnv/bafkreidchjjptljefaudkqjm3f2o3saq5jzc5yoeb2g53fbvlxdzzwe7lq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;António Guterres labels lethal autonomous weapons “morally repugnant,” resurfacing issue that was central to Anthropic’s clash with the Pentagon.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 17 · likes: 52&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 06:10:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3fhjvvkbmirhyu4aeihhrnv/bafkreidchjjptljefaudkqjm3f2o3saq5jzc5yoeb2g53fbvlxdzzwe7lq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i3fhjvvkbmirhyu4aeihhrnv/bafkreidchjjptljefaudkqjm3f2o3saq5jzc5yoeb2g53fbvlxdzzwe7lq" type="image/jpeg" length="0" />
-      <source url="https://on.wsj.com">on.wsj.com</source>
-    </item>
-    <item>
-      <title>Wildfires rage across southern Europe, forcing thousands to flee homes</title>
-      <link>https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rzug5jxal4snlewudks3efsf/bafkreiacfrjbtssgyqtnnmwjdyydslmo3bqfmwyv3nuhd4hiibzq2ghpzu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwave&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 17 · likes: 30&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 06:10:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rzug5jxal4snlewudks3efsf/bafkreiacfrjbtssgyqtnnmwjdyydslmo3bqfmwyv3nuhd4hiibzq2ghpzu" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rzug5jxal4snlewudks3efsf/bafkreiacfrjbtssgyqtnnmwjdyydslmo3bqfmwyv3nuhd4hiibzq2ghpzu" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Midjourney wants Hollywood studios to reveal the details of their AI usage | TechCrunch</title>
-      <link>https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreich4mzrwj232vd33ushxsbpoms7flg5twzx7r4eqlb4vbwktbzxrm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 8 · likes: 58&lt;/small&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 06:08:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreich4mzrwj232vd33ushxsbpoms7flg5twzx7r4eqlb4vbwktbzxrm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreich4mzrwj232vd33ushxsbpoms7flg5twzx7r4eqlb4vbwktbzxrm" type="image/jpeg" length="0" />
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
