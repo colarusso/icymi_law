@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 13:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:56:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump vows to investigate EU over fining of US tech companies</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The US president says fines against Google, as well as Apple, Meta and Amazon, should be &amp;quot;entirely reversed.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 18:35:15 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>India’s move against Jack Dorsey’s Bitchat sparks legal debate</title>
       <link>https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/</link>
@@ -4402,16 +4412,6 @@
       <description>Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 22 Jun 2026 07:00:09 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Tesla Driver Using Autopilot Crashes Into Home, Killing a Woman, Officials Say</title>
-      <link>https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html</guid>
-      <description>The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Sun, 21 Jun 2026 19:49:15 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/06/21/multimedia/21xp-tesla-vtmq/21xp-tesla-vtmq-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/06/21/multimedia/21xp-tesla-vtmq/21xp-tesla-vtmq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
