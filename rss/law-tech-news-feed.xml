@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Did Jim Jordan Outsource This Jack Smith Criminal Referral To ChatGPT?</title>
+      <link>https://abovethelaw.com/2026/07/did-jim-jordan-outsource-this-jack-smith-criminal-referral-to-chatgpt/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/did-jim-jordan-outsource-this-jack-smith-criminal-referral-to-chatgpt/</guid>
+      <description>What even is this shit? The post Did Jim Jordan Outsource This Jack Smith Criminal Referral To ChatGPT? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 20:44:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Trump vows to investigate EU over fining of US tech companies</title>
       <link>https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4403,14 +4411,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/22/what-legal-ai-benchmarks-reveal-that-model-names-dont/</guid>
       <description>By Daniel Lewis, CEO, LegalOn. Foundation models are improving quickly. One useful measure is software engineering: the length of coding tasks that frontier models can ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 22 Jun 2026 07:29:45 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>BARBRI Buys Lega – Christian Lang Interview</title>
-      <link>https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/22/barbri-buys-lega-christian-lang-interview/</guid>
-      <description>Legal education business BARBRI has bought legal AI startup Lega as part of a strategy to provide ‘experiential AI workshops, simulations, hackathons, and lab-style learning ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 07:00:09 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
