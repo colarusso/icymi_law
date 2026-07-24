@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 06:12:08 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 06:10:38 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Ethics of Autonomous AI Agents for Offensive Security</title>
+      <link>https://arxiv.org/abs/2607.20255</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.20255</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic securi...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 06:10:38 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI Entanglement: Accounting for dependencies in general-purpose AI policy, regulation, and practice</title>
+      <link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=7151718</link>
+      <guid isPermaLink="true">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=7151718</guid>
+      <description>AI artifacts like models, datasets, and web platforms increasingly help build other AI artifacts. Developers rely on existing models to generat&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 06:10:38 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Harness Engineering for LLM-Driven GPU Kernel Generation</title>
+      <link>https://arxiv.org/abs/2607.17979</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.17979</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibfbwc3adchyjd7asemi4aoz6qqfyjoaxkdrvwz47i6ctrefmkxwa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Harness Engineering for LLM-Driven GPU Kernel Generation&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 06:10:38 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibfbwc3adchyjd7asemi4aoz6qqfyjoaxkdrvwz47i6ctrefmkxwa" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibfbwc3adchyjd7asemi4aoz6qqfyjoaxkdrvwz47i6ctrefmkxwa" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Are Emergent Abilities of Large Language Models a Mirage?</title>
       <link>https://arxiv.org/abs/2304.15004?hl=de-DE</link>
@@ -465,36 +493,6 @@
       <pubDate>Sat, 04 Jul 2026 06:09:25 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pewk7mugwxmih6tjhfynrbej/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pewk7mugwxmih6tjhfynrbej/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision</title>
-      <link>https://arxiv.org/abs/2606.32038</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.32038</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif4fvboeqiop25x3o7egkxknpdw4ddmokf4sxbzvogbjd47ibljnu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 06:10:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif4fvboeqiop25x3o7egkxknpdw4ddmokf4sxbzvogbjd47ibljnu" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif4fvboeqiop25x3o7egkxknpdw4ddmokf4sxbzvogbjd47ibljnu" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI and Quantum Information: Bidirectional Integration in Computing and Learning</title>
-      <link>http://arxiv.org/abs/2607.00365v1</link>
-      <guid isPermaLink="true">http://arxiv.org/abs/2607.00365v1</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 06:10:33 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Towards Automating Scientific Review with Google's Paper Assistant Tool</title>
-      <link>https://arxiv.org/abs/2606.28277</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.28277</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yl5zjkidrbf5fs5ganaasqqh/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Artificial intelligence is driving a revolution in scientific discovery, accelerating everything from hypothesis generation to mathematical theorem proving. However, this rapid acceleration is creatin...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 7 · likes: 12&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 06:11:01 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yl5zjkidrbf5fs5ganaasqqh/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yl5zjkidrbf5fs5ganaasqqh/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
