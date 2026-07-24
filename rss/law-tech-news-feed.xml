@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:58:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla’s car door defect could lead to tougher rules for everyone</title>
+      <link>https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules</guid>
+      <description>Tesla&amp;#x27;s electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safety Administration said that complaints about Tesla&amp;#x27;s mechanical door release don&amp;#x27;t warrant a defect investigation. Instead, the issue is better addressed through a broader [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 15:14:04 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>AI firms want more data centers; Trump's EPA may give neighbors less say</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</guid>
+      <description>Rule would allow states to decide how much—if any—public input there can be.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 13:49:38 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>TikTok&amp;#8217;s protection of minors should not be opt-in, warns EU</title>
       <link>https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy</link>
@@ -4394,26 +4412,6 @@
       <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on aviation, air taxis, and Wi-Fi speeds at 30,000 feet, follow Andrew J. Hawkins. The Stepback arrives in our subscribers&amp;#x27; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Last year, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/</guid>
-      <description>Tests of age-verification technology show the risks of life-altering errors.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 11:15:09 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2234043771-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court</title>
-      <link>https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html</guid>
-      <description>A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Sat, 20 Jun 2026 09:00:10 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/06/15/multimedia/00toyota-lawsuit-5-cpmz/00toyota-lawsuit-5-cpmz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/06/15/multimedia/00toyota-lawsuit-5-cpmz/00toyota-lawsuit-5-cpmz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
