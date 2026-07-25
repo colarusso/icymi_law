@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 06:10:38 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:09:10 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI systems out-persuade expert humans</title>
+      <link>https://arxiv.org/abs/2606.16475</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.16475</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Many societal decisions are settled by contests of persuasion. Conversational AI is a powerful new entrant in these contests, but whether it can out-persuade skilled and highly incentivized humans has...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 31 · likes: 128&lt;/small&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 09:09:10 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>3D-Aware VLMs with Implicit and Explicit Geometries</title>
+      <link>https://arxiv.org/abs/2607.21595</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.21595</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif56ubxo5euijkzr4jszouftfceppol3ia2tekrqrz2twjhxcriba" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for 3D-Aware VLMs with Implicit and Explicit Geometries&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 09:09:10 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif56ubxo5euijkzr4jszouftfceppol3ia2tekrqrz2twjhxcriba" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif56ubxo5euijkzr4jszouftfceppol3ia2tekrqrz2twjhxcriba" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Kimi Linear: An Expressive, Efficient Attention Architecture</title>
+      <link>https://arxiv.org/abs/2510.26692?utm_campaign=The%20Batch&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8KAuEYp4RL56msN-qThdZgIy3lXiIqGLL6swFd0mZ9ti_Y_h6ryr0UQiNhgWFwcbBe9uDOtYL2ypZq5jWi8QHgnUAdeenf81xGN56C8to9entIIb4&amp;_hsmi=429858740&amp;utm_content=429859766&amp;utm_source=hs_email</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.26692?utm_campaign=The%20Batch&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8KAuEYp4RL56msN-qThdZgIy3lXiIqGLL6swFd0mZ9ti_Y_h6ryr0UQiNhgWFwcbBe9uDOtYL2ypZq5jWi8QHgnUAdeenf81xGN56C8to9entIIb4&amp;_hsmi=429858740&amp;utm_content=429859766&amp;utm_source=hs_email</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qninmqhyuqoi3qiaipmtqcoy/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We introduce Kimi Linear, a hybrid linear attention architecture that, for the first time, outperforms full attention under fair comparisons across various scenarios -- including short-context, long-c...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 09:09:10 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qninmqhyuqoi3qiaipmtqcoy/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qninmqhyuqoi3qiaipmtqcoy/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Ethics of Autonomous AI Agents for Offensive Security</title>
       <link>https://arxiv.org/abs/2607.20255</link>
@@ -463,36 +493,6 @@
       <pubDate>Mon, 06 Jul 2026 06:09:51 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x5rv6tsxd5x3zyugh4v6rd5z/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:x5rv6tsxd5x3zyugh4v6rd5z/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>WorldOdysseyBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models</title>
-      <link>https://arxiv.org/abs/2606.31672</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.31672</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreievjd6verj7p5fdr4uenikednjdwmzdm63mu2qo34v6camtz6uvay" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for WorldOdysseyBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 06:10:56 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreievjd6verj7p5fdr4uenikednjdwmzdm63mu2qo34v6camtz6uvay" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreievjd6verj7p5fdr4uenikednjdwmzdm63mu2qo34v6camtz6uvay" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>World Wide Models: Literary Tools for Cultural AI</title>
-      <link>http://arxiv.org/abs/2607.02369</link>
-      <guid isPermaLink="true">http://arxiv.org/abs/2607.02369</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ecj5x252fmjemctrveyqypv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs stage a new form of cultural encounter that is massive, automated, and monolingual. Literary disciplines have always negotiated cultural struggles with comparative reading of literature, narratol...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 6 · likes: 22&lt;/small&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 06:09:25 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ecj5x252fmjemctrveyqypv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4ecj5x252fmjemctrveyqypv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing</title>
-      <link>https://arxiv.org/abs/2607.02416</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.02416</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pewk7mugwxmih6tjhfynrbej/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Natural Language Processing (NLP) has traditionally been published in its core disciplinary venues like ACL. However, advances in Large Language Models (LLMs) has led to a blurring of the disciplinary...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Sat, 04 Jul 2026 06:09:25 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pewk7mugwxmih6tjhfynrbej/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pewk7mugwxmih6tjhfynrbej/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
