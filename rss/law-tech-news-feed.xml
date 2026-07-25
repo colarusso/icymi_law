@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 08:56:14 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Tech accused of stonewalling European social media researchers</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/</guid>
+      <description>Researchers say TikTok, X, and Meta aren&amp;#x27;t providing data they&amp;#x27;re legally required to.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 10:45:32 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-security-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-security-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Pluralistic: Apple's robo-repo (25 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/</link>
@@ -4404,14 +4414,6 @@
       <media:content url="https://i.guim.co.uk/img/media/7f0ea6cf3bf6dc3ca304267d1c353719e5cec2bc/346_0_3458_2767/master/3458.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cacd2304a4438010a2a1746f44c7f864" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/7f0ea6cf3bf6dc3ca304267d1c353719e5cec2bc/346_0_3458_2767/master/3458.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cacd2304a4438010a2a1746f44c7f864" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>BARBRI Acquires Lega, Completing the Startup’s Pivot From AI Governance to Experiential AI Training</title>
-      <link>https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/06/barbri-acquires-lega-completing-the-startups-pivot-from-ai-governance-to-experiential-ai-training.html</guid>
-      <description>BARBRI, the legal education company best known for bar exam preparation, has acquired Lega, the AI startup that launched in 2023 with a focus on large language model governance but which has been evolving into helping legal professionals develop AI fluency through practical, experiential learning. Legal was founded by Christian Lang, the former president and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 11:57:28 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
