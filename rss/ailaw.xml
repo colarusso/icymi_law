@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2026 09:07:54 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 06:07:36 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon cracks down on use of AI images by sellers after New York law</title>
+      <link>https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreidyfp3etgaizcgt2idwbnbqlqkfy37m522qq4paeyv2u7rmzg7wpy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A recently enacted New York law mandates that companies disclose when an ad includes a &amp;quot;synthetic performer&amp;quot; in place of a human actor.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 37 · likes: 192&lt;/small&gt;</description>
+      <pubDate>Sun, 26 Jul 2026 06:07:36 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreidyfp3etgaizcgt2idwbnbqlqkfy37m522qq4paeyv2u7rmzg7wpy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreidyfp3etgaizcgt2idwbnbqlqkfy37m522qq4paeyv2u7rmzg7wpy" type="image/jpeg" length="0" />
+      <source url="https://www.cnbc.com">www.cnbc.com</source>
+    </item>
     <item>
       <title>AI Companies Are Funding the AGs Investigating Them</title>
       <link>https://readsludge.com/2026/07/17/ai-companies-are-funding-the-ags-investigating-them/</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreih4y2huiissq2tt5hfcxk4zdvx7jx2sszxxy7zwx52it7gukrk6eq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreih4y2huiissq2tt5hfcxk4zdvx7jx2sszxxy7zwx52it7gukrk6eq" type="image/jpeg" length="0" />
       <source url="https://abc7chicago.com">abc7chicago.com</source>
-    </item>
-    <item>
-      <title>Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreigcnm6ajtl3yp7sxmleyuln3rk6wtlf3sjwdurnsgps64g34lmzrm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;More young girls sue X over Grok CSAM; X accused of shielding child predators.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 596 · likes: 1598&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 06:09:23 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreigcnm6ajtl3yp7sxmleyuln3rk6wtlf3sjwdurnsgps64g34lmzrm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreigcnm6ajtl3yp7sxmleyuln3rk6wtlf3sjwdurnsgps64g34lmzrm" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
