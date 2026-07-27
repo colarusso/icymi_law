@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lawyer Who Helped Build Kirkland Thinks AI Will Build Its Successor</title>
+      <link>https://abovethelaw.com/2026/07/the-lawyer-who-helped-build-kirkland-thinks-ai-will-build-its-successor/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-lawyer-who-helped-build-kirkland-thinks-ai-will-build-its-successor/</guid>
+      <description>Former Kirkland partner David Fox believes AI-powered firms could reshape the entire legal industry. The post The Lawyer Who Helped Build Kirkland Thinks AI Will Build Its Successor appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 21:00:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>ChatGPT starts blocking direct requests to copy an author's style</title>
       <link>https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</link>
@@ -4402,14 +4410,6 @@
       <media:content url="https://i.guim.co.uk/img/media/c7c8159b07a65b350e3bd3762b150f65c4ac897f/646_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a9c254b0a9c006404ed180c23135606" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/c7c8159b07a65b350e3bd3762b150f65c4ac897f/646_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a9c254b0a9c006404ed180c23135606" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>LexisNexis Webinar: AI Risk, Governance + Adoption</title>
-      <link>https://www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/23/lexisnexis-webinar-ai-risk-governance-adoption/</guid>
-      <description>On July 9th, LexisNexis in partnership with Artificial Lawyer, will be holding a panel-format webinar to explore ‘AI Risk, Governance + Adoption’. Panellists: To reserve ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 07:28:37 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
