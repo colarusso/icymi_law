@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 14:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 15:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT starts blocking direct requests to copy an author's style</title>
+      <link>https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</guid>
+      <description>New behavior capturing a writer&amp;#x27;s &amp;quot;broad qualities&amp;quot; could have legal implications.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 16:58:46 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264560291-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>LawNext: From Product to Practice – Why Casetext’s Former CTO Founded General Legal, An AI Native Law Firm</title>
       <link>https://www.lawnext.com/2026/07/lawnext-from-product-to-practice-why-casetexts-former-cto-founded-general-legal-an-ai-native-law-firm.html</link>
@@ -4400,14 +4410,6 @@
       <description>On July 9th, LexisNexis in partnership with Artificial Lawyer, will be holding a panel-format webinar to explore ‘AI Risk, Governance + Adoption’. Panellists: To reserve ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 23 Jun 2026 07:28:37 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Stop Killing Games Legislation Rejected By EU</title>
-      <link>https://www.techdirt.com/2026/06/22/stop-killing-games-legislation-rejected-by-eu/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/06/22/stop-killing-games-legislation-rejected-by-eu/</guid>
-      <description>Well, this is very disappointing. Over the first half of this year, we&amp;amp;#8217;ve talked about the resurgence of the Stop Killing Games movement, which aims to push various governments to legislate out the practice of video game publishers sunsetting their games and making them unplayable afterwards. The aims of the movement are simple: publishers can [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 03:30:00 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
