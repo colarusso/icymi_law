@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:56:24 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:57:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Announcing the 2026 Edition of My Internet Law Casebook</title>
+      <link>https://blog.ericgoldman.org/archives/2026/07/announcing-the-2026-edition-of-my-internet-law-casebook.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/07/announcing-the-2026-edition-of-my-internet-law-casebook.htm</guid>
+      <description>I’m pleased to announce the 2026 edition (17th edition) of my Internet Law casebook, Internet Law: Cases &amp;amp;#38; Materials. The book is available in multiple formats: a PDF for $10, a Kindle ebook for $10, a softcover version for $20,... The post Announcing the 2026 Edition of My Internet Law Casebook appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 14:29:34 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>Mapping Trump’s crypto empire on Last Week Tonight</title>
       <link>https://www.citationneeded.news/mapping-trumps-crypto-empire/</link>
@@ -4408,14 +4416,6 @@
       <media:content url="https://cdn.sanity.io/images/pito4za5/production/86845974615a8f76d8bf96bd2122ea16137b756f-1024x683.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.sanity.io/images/pito4za5/production/86845974615a8f76d8bf96bd2122ea16137b756f-1024x683.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
       <source url="https://www.scotusblog.com">www.scotusblog.com</source>
-    </item>
-    <item>
-      <title>The Other Side Of The Partner Pay Gap — See Also</title>
-      <link>https://abovethelaw.com/2026/06/the-other-side-of-the-partner-pay-gap-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/the-other-side-of-the-partner-pay-gap-see-also/</guid>
-      <description>Mid-Year Check Ins Are Coming: Time for some partners to double down or expect a pay cut. Mistaken AI Stenographer Almost Got A Suspect An Attorney: He came close to invoking the right to an attorney, yet landed so far. Attorney Turns In License After AI Errors: Kind of impressive how little he seemed to care about it all. Quinn Emmanuel Puts Their Money Where Their Pro-Bono Is: Up to 200 hours of pro bono work will count toward associates’ bonus hour totals! The post The Other Side Of The Partner Pay Gap &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 22:30:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
