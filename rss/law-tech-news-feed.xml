@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 09:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:56:24 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Trump’s crypto empire on Last Week Tonight</title>
+      <link>https://www.citationneeded.news/mapping-trumps-crypto-empire/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/mapping-trumps-crypto-empire/</guid>
+      <description>A new Citation Needed data project maps the Trump family’s web of cryptocurrency ventures, which have been generating billions in income for the president.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Mon, 27 Jul 2026 14:22:04 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/07/Screenshot-2026-07-27-at-9.41.37---AM.png" medium="image" type="image/png" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/07/Screenshot-2026-07-27-at-9.41.37---AM.png" type="image/png" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
     <item>
       <title>Court Partially Reverses Trump Attacks On Law That Tried To Make Sure Broadband Deployment Isn’t Racist</title>
       <link>https://www.techdirt.com/2026/07/27/court-partially-reverses-trump-attacks-on-law-that-tried-to-make-sure-broadband-deployment-isnt-racist/</link>
@@ -4405,14 +4415,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/06/the-other-side-of-the-partner-pay-gap-see-also/</guid>
       <description>Mid-Year Check Ins Are Coming: Time for some partners to double down or expect a pay cut. Mistaken AI Stenographer Almost Got A Suspect An Attorney: He came close to invoking the right to an attorney, yet landed so far. Attorney Turns In License After AI Errors: Kind of impressive how little he seemed to care about it all. Quinn Emmanuel Puts Their Money Where Their Pro-Bono Is: Up to 200 hours of pro bono work will count toward associates’ bonus hour totals! The post The Other Side Of The Partner Pay Gap &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 22 Jun 2026 22:30:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Attorney Turns In License After Lazy AI Lawyering</title>
-      <link>https://abovethelaw.com/2026/06/attorney-turns-in-license-after-lazy-ai-lawyering/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/attorney-turns-in-license-after-lazy-ai-lawyering/</guid>
-      <description>Taking AI shortcuts? Take the long way home. The post Attorney Turns In License After Lazy AI Lawyering appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 20:33:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
