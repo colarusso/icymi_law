@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 06:07:53 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:08:35 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Randomness in large language models: What researchers need to know (and report)</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7191580</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7191580</guid>
+      <description>Large language models (LLMs) are increasingly used to generate data for research. Typical use cases are classifications, annotations, information extraction, an&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 4 · likes: 25&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 06:08:35 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Elias in the Lighthouse, Again? Diagnosing Low Diversity in LLM Stories</title>
+      <link>https://arxiv.org/abs/2605.26492</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.26492</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLM-generated stories are a popular use case, but they show very low variability. We sample 20,000 total stories from four current models using five prompts. We find that 11 words occur in 88.3% of ge...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 06:08:35 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?</title>
       <link>https://arxiv.org/abs/2607.20695</link>
@@ -475,26 +493,6 @@
       <pubDate>Thu, 09 Jul 2026 06:11:52 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning</title>
-      <link>https://arxiv.org/abs/2603.29033</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.29033</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2m5onicwxhmcznnwxku7rtw/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Astrology has long been used to interpret human personality, estimate compatibility, and guide social decision-making. Zodiac-based systems in particular remain culturally influential across much of t...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 5 · likes: 31&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 06:11:29 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2m5onicwxhmcznnwxku7rtw/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t2m5onicwxhmcznnwxku7rtw/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Correct Looks Better: Pairwise Comparisons Reveal Accuracy Rankings</title>
-      <link>https://arxiv.org/abs/2606.09409</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.09409</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aahf2e3h3un3btcuumss2o5q/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Pairwise comparisons combined with aggregation methods like Elo have become central to evaluating generative models, yet concerns remain that they reward superficial stylistic cues or display judge bi...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 10&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 06:11:29 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aahf2e3h3un3btcuumss2o5q/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aahf2e3h3un3btcuumss2o5q/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
