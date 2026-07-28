@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 13:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The FTC Would Like To Decide Which AI Answers Are Too Woke, And Is Calling That Consumer Protection</title>
+      <link>https://www.techdirt.com/2026/07/28/the-ftc-would-like-to-decide-which-ai-answers-are-too-woke-and-is-calling-that-consumer-protection/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/07/28/the-ftc-would-like-to-decide-which-ai-answers-are-too-woke-and-is-calling-that-consumer-protection/</guid>
+      <description>On Friday this week the FTC&amp;amp;#8217;s open comment period regarding its &amp;amp;#8220;Policy Statement Addressing AI Accuracy&amp;amp;#8221; will close, which means that a bunch of very smart, very busy people are wasting a ton of time this week writing up comments that will mostly be ignored by the FTC — but still matter for the record. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 18:13:33 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>New Yorkers will soon need to verify their age to access algorithmic feeds</title>
+      <link>https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/972007/new-york-safe-for-kids-act-age-verification</guid>
+      <description>New Yorkers who want to see their Instagram or TikTok feed curated by an algorithm, or receive notification after midnight, will soon have to verify their ages to access those features. New York Attorney General Letitia James (D) released a set of final rules on how to implement the SAFE for Kids Act, signed into [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 18:09:32 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content</title>
       <link>https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content</link>
@@ -4400,22 +4416,6 @@
       <description>Recently I sat through a demo of a product unlike anything I’d seen before, aimed at a segment of the legal profession that legal tech companies have largely ignored – the fractional general counsel, lawyers who serve as outside in-house counsel for multiple companies too small to have their own legal departments. The product is [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Wed, 24 Jun 2026 14:56:28 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Abstract Extends Its Legislative Intelligence into Agentic Workflow Automation with Launch of ‘Abstract Workers’</title>
-      <link>https://www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/06/abstract-extends-its-legislative-intelligence-into-agentic-workflow-automation-with-launch-of-abstract-workers.html</guid>
-      <description>When I wrote about Abstract in April, I reported on how the New York-based startup was making a push into the market for legislative and regulatory monitoring, alerting law firms and corporate legal teams to the bills and rules that matter to a client, even when they never mention that client&amp;amp;#8217;s industry by name. Now [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 13:19:41 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 06.24.26</title>
-      <link>https://abovethelaw.com/2026/06/morning-docket-06-24-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/morning-docket-06-24-26/</guid>
-      <description>* Law school betting on Socratic method to combat AI &amp;quot;deskilling.&amp;quot; [ABA Journal] * Foley Hoag embracing role as anti-Trump Biglaw firm. [American Lawyer] * Stephen Miller drove new executive decision to allow states to institutionalize people with disabilities. No legislation, just vibes. [Bloomberg Law News] * Legal tech firm sues over government&amp;#x27;s Anthropic restrictions. [Reuters] * ICE decided it could extend its period of temporary detention from 12 to 72 hours. Federal judge reminded them that the Administrative Procedures Act still exists. [The Recorder] * Amazon ordered to negotiate with union. [Reuters] * Kirkland bankruptcy giant heading to Paul Weiss. [Financial Times] The post Morning Docket: 06.24.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 13:09:45 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
