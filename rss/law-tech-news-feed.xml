@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 15:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MCP startup Runlayer accuses Rippling of stealing its product idea</title>
+      <link>https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</guid>
+      <description>Runlayer is suing Rippling after Rippling evaluated the startup&amp;#x27;s MCP gateway product and then opted to build one itself.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 20:45:12 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Couple Stalked by eBay Settle for $56 Million</title>
+      <link>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</guid>
+      <description>Two Massachusetts journalists were harassed by a Silicon Valley security team in a case that raised questions about when executives should be held responsible.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 20:37:29 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-ebay-settlement-01-bvkh/27biz-ebay-settlement-01-bvkh-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-ebay-settlement-01-bvkh/27biz-ebay-settlement-01-bvkh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Logitech will pull a Nintendo — only European mice will come with replaceable batteries</title>
       <link>https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe</link>
@@ -4394,26 +4412,6 @@
       <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/01/AdobeStock_719437894_resize-400x225.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/01/AdobeStock_719437894_resize-400x225.jpg" type="image/jpeg" length="0" />
       <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>Google starts lowering Play Store fees, making good on Epic Games settlement</title>
-      <link>https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/</link>
-      <guid isPermaLink="true">https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/</guid>
-      <description>A few additional markets will get the lower fees this year ahead of a global rollout in 2027.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 17:00:17 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/</guid>
-      <description>Tesla, accused of failing to fix design flaws, blames driver pressing accelerator.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 16:40:32 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/via-Barbour-complaint-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
