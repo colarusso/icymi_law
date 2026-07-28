@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 08:57:02 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:56:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debate over AI’s future divides Silicon Valley as China gains ground</title>
+      <link>https://www.theguardian.com/technology/2026/jul/27/silicon-valley-ai-open-source-china</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/27/silicon-valley-ai-open-source-china</guid>
+      <description>Open-source questions stir frank discussion – and both sides have clear economic incentives for where they landHello, and welcome to TechScape. This week we’ll be looking at a debate over the future of artificial intelligence that’s dividing the tech industry, as well as how the European Union gave Google a slap on the wrist for anti-competitive behavior. And we’ll also catch you up on the avalanche of lawsuits accusing social media companies of getting young people addicted to their products. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 13:04:31 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/417_0_4666_3734/master/4666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b1a8c3e824aebe6fdfcac7cccc0f2d1" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/417_0_4666_3734/master/4666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b1a8c3e824aebe6fdfcac7cccc0f2d1" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Home Office used ‘AI hallucinated’ information to refuse asylum claim, judge suggests</title>
       <link>https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests</link>
@@ -4407,14 +4417,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/06/apple-intelligence-a-new-sheriff-in-town-for-legal-ai/</guid>
       <description>I’m not betting against Apple this time. The post Apple Intelligence: A New Sheriff In Town For Legal AI? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 23 Jun 2026 20:31:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Why You Should Choose Legal Ops Tools You Can Build On (Part 2)</title>
-      <link>https://abovethelaw.com/2026/06/why-you-should-choose-legal-ops-tools-you-can-build-on-part-1-2/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/why-you-should-choose-legal-ops-tools-you-can-build-on-part-1-2/</guid>
-      <description>The implementation process layer is where Legal Operations captures lasting value, and it is the work no vendor will deliver in finished form. The post Why You Should Choose Legal Ops Tools You Can Build On (Part 2) appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 19:10:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
