@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content</title>
+      <link>https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content</guid>
+      <description>Jess Asato’s particulars of claim states Grok added explicit sexual material users had not asked forA Labour MP who is taking legal action against Elon Musk’s xAI company over fake sexualised images created by Grok says the AI tool was instructed to operate with “no restrictions on adult sexual content or offensive content”.Jess Asato’s lawyers published her particulars of claim in the case on Tuesday, which included details of publicly posted instructions that the claim says illustrate how Grok was trained to generate harmful sexualised content. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 17:18:17 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/70bc50ceb27166cf3cd4eef10b49c2306f379e21/370_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f56a1f6f57f85771a29cacd784d3362e" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/70bc50ceb27166cf3cd4eef10b49c2306f379e21/370_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f56a1f6f57f85771a29cacd784d3362e" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Q2 Report On Legal Tech Advertising Finds Q1’s Buying Surge Was Largely Seasonal, But Reveals Where Demand Is Now Concentrated</title>
+      <link>https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/07/q2-report-on-legal-tech-advertising-finds-q1s-buying-surge-was-largely-seasonal-but-reveals-where-demand-is-now-concentrated.html</guid>
+      <description>In April, I reported here on a dramatic first-quarter 2026 increase in the numbers of legal tech demos law firms were scheduling, with the numbers going up across nearly every major practice area by as much as 40% to 50%. Now, it appears that trend has reversed, according to a newly released report on legal [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 17:04:51 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Why Are Gay Bars Building Databases of Their Patrons?</title>
       <link>https://www.eff.org/deeplinks/2026/07/why-are-gay-bars-building-databases-their-patrons</link>
@@ -4398,26 +4416,6 @@
       <description>* Law school betting on Socratic method to combat AI &amp;quot;deskilling.&amp;quot; [ABA Journal] * Foley Hoag embracing role as anti-Trump Biglaw firm. [American Lawyer] * Stephen Miller drove new executive decision to allow states to institutionalize people with disabilities. No legislation, just vibes. [Bloomberg Law News] * Legal tech firm sues over government&amp;#x27;s Anthropic restrictions. [Reuters] * ICE decided it could extend its period of temporary detention from 12 to 72 hours. Federal judge reminded them that the Administrative Procedures Act still exists. [The Recorder] * Amazon ordered to negotiate with union. [Reuters] * Kirkland bankruptcy giant heading to Paul Weiss. [Financial Times] The post Morning Docket: 06.24.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 24 Jun 2026 13:09:45 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Meta pauses employee tracker for AI training amid privacy concerns</title>
-      <link>https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns</guid>
-      <description>About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen contentMark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a staff backlash.The owner of Facebook, Instagram and WhatsApp had introduced a tool that tracked staff keystrokes, mouse clicks and content displayed on computer screens in order to collect data for training its AI models. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 24 Jun 2026 11:38:33 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/c402f0b1a58456ecab119945fa337da0e24f541b/372_5_4641_3712/master/4641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39e2deb1bacaacfeb1c16f97c1263855" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/c402f0b1a58456ecab119945fa337da0e24f541b/372_5_4641_3712/master/4641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39e2deb1bacaacfeb1c16f97c1263855" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>U.S. Presses Meta to Agree to A.I. Reviews</title>
-      <link>https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html</guid>
-      <description>Federal officials are urging the lone major tech company holdout to allow government safety evaluations, weeks after ordering Anthropic to pull its latest model.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 21:45:20 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/06/23/multimedia/23biz-meta-ai-1-wvhk/23biz-meta-ai-1-wvhk-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/06/23/multimedia/23biz-meta-ai-1-wvhk/23biz-meta-ai-1-wvhk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
