@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:08:35 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:10:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Persuasion Index: A Theory-Guided Framework for Persuasion Analysis</title>
+      <link>https://arxiv.org/abs/2606.14580</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.14580</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6xpwzearwjjlfyb7l2oon2gp/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Identifying persuasive rhetorical cues is critical across domains, from detecting information manipulation and improving AI safety to advancing public health communication. We propose Persuasion Index...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 06:10:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6xpwzearwjjlfyb7l2oon2gp/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6xpwzearwjjlfyb7l2oon2gp/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Lost in Context: Addressing Context Anxiety in Large Language Models</title>
+      <link>https://arxiv.org/abs/2607.21616</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.21616</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiacpe7g7hmthno3ll5wksotepeawjcvmpymovbmlrwckzkd53t34y" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Lost in Context: Addressing Context Anxiety in Large Language Models&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 06:10:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiacpe7g7hmthno3ll5wksotepeawjcvmpymovbmlrwckzkd53t34y" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiacpe7g7hmthno3ll5wksotepeawjcvmpymovbmlrwckzkd53t34y" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>From peer review nuances to best practices</title>
+      <link>https://arxiv.org/abs/2607.22681</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.22681</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mnly77ciucowvudu2dw6w56z/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;This report studies three nuances in peer review data: paper version, score version, and input format. We characterize how the variants differ, and measure their impact on downstream tasks. Based on o...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 06:10:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mnly77ciucowvudu2dw6w56z/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mnly77ciucowvudu2dw6w56z/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Randomness in large language models: What researchers need to know (and report)</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7191580</link>
@@ -463,36 +493,6 @@
       <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents</title>
-      <link>https://arxiv.org/abs/2607.06598</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.06598</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5hdknfxsay6gctnjbvgunfqhns6nyzbrdckqymcwu5b7ab3vzua" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Non-contact, Real-time, Heart-rate Measurement using Image Processing with Commodity Cameras and AI Agents&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5hdknfxsay6gctnjbvgunfqhns6nyzbrdckqymcwu5b7ab3vzua" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5hdknfxsay6gctnjbvgunfqhns6nyzbrdckqymcwu5b7ab3vzua" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>RubriQ : Synthèse de circuits quantiques pilotée par LLM avec des récompenses de rubrique programmatiques</title>
-      <link>http://arxiv.org/abs/2607.07554v1</link>
-      <guid isPermaLink="true">http://arxiv.org/abs/2607.07554v1</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models</title>
-      <link>https://arxiv.org/abs/2602.14147</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.14147</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 06:11:52 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidvumyo3eu6uemhokgyfv6fvoexvqvnve52vask6qeawck3diskju" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
