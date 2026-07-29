@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:56:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers</title>
+      <link>https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/</guid>
+      <description>X sued the WFA in 2024 for conducting what it called a &amp;quot;systematic illegal boycott&amp;quot; of the platform after it saw a decline in advertising revenue following Musk&amp;#x27;s $44 billion takeover of the social network&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 29 Jul 2026 15:36:48 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>DoorDash is going airborne with new drone delivery division</title>
       <link>https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa</link>
@@ -4402,14 +4410,6 @@
       <description>* Minority representation among the legal profession up slightly, despite the hostile pressures of the last couple years. [American Lawyer] * Powerful lawyers expect AI to disrupt the traditional law firm. Or at least that&amp;#x27;s what AI is telling them to say. [Bloomberg Law News] * This disruption has already hit China, where some young lawyers are seeking new careers as AI replaces junior jobs. [South China Morning Post] * Former judge settles case against judiciary alleging she was harassed for dressing too fancy. [ABA Journal] * Ghislaine Maxwell argues that her rights were violated because accuser suits functioned as de facto prosecutions. [Reuters] * This may come as a shock, but Trump&amp;#x27;s pick for top IRS lawyer is one of his personal lawyers. [New York Times] * State bar offering complimentary AI access to members. [Florida Bar] The post Morning Docket: 06.25.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 25 Jun 2026 12:52:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Perplexity Makes Its Move Into Legal, Unveiling Industry Features at ‘Computer for Counsel’ Event</title>
-      <link>https://www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/06/perplexity-makes-its-move-into-legal-unveiling-industry-features-at-computer-for-counsel-event.html</guid>
-      <description>Perplexity, the AI search engine known for delivering sourced answers to user queries, is making an explicit move into the legal market, rolling out legal-specific features within its agentic platform, Perplexity Computer, and positioning the product as what it calls “Computer for Counsel.” The company highlighted the legal push yesterday at an invitation-only event in [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 12:43:52 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
