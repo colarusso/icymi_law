@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 10:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Evidence: Blurring The Line Between Reality And Fiction</title>
+      <link>https://abovethelaw.com/2026/07/ai-evidence-blurring-the-line-between-reality-and-fiction/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/ai-evidence-blurring-the-line-between-reality-and-fiction/</guid>
+      <description>It’s easier than ever to manufacture evidence -- and get away with it. The post AI Evidence: Blurring The Line Between Reality And Fiction appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 15:30:40 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Zoox can now charge for rides in its steering-wheel-free robotaxis</title>
       <link>https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval</link>
@@ -4398,14 +4406,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png" medium="image" type="image/png" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a3/live/85237e00-6e54-11f1-b648-1b56797cb133.png" type="image/png" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Lawyers Aren’t Getting The Most Out Of AI</title>
-      <link>https://abovethelaw.com/2026/06/lawyers-arent-getting-the-most-out-of-ai/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/lawyers-arent-getting-the-most-out-of-ai/</guid>
-      <description>Adoption is one thing... The post Lawyers Aren&amp;amp;#8217;t Getting The Most Out Of AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 25 Jun 2026 23:04:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
