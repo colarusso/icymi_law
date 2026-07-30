@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:07:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:07:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New lawsuit alleges Tesla's Houston test fleet was unsafe | Automotive World</title>
+      <link>https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/</link>
+      <guid isPermaLink="true">https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yn75hmwkitdshnylue6d3grk/bafkreifwio2jcrin2rggzf446xfcb55hxvq3luxtpxdhsipf3rvlq7v6pa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;If Medrano&amp;#x27;s account holds up, Tesla&amp;#x27;s safety validation numbers may understate the severity of its deployment woes. By Stewart Burnett&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 107 · likes: 284&lt;/small&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 06:07:16 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yn75hmwkitdshnylue6d3grk/bafkreifwio2jcrin2rggzf446xfcb55hxvq3luxtpxdhsipf3rvlq7v6pa" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yn75hmwkitdshnylue6d3grk/bafkreifwio2jcrin2rggzf446xfcb55hxvq3luxtpxdhsipf3rvlq7v6pa" type="image/jpeg" length="0" />
+      <source url="https://www.automotiveworld.com">www.automotiveworld.com</source>
+    </item>
     <item>
       <title>Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps</title>
       <link>https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7exlcsle4mjfhu3wnhcgizz6/bafkreiggyztp6nay44xjphxvslln3gwjsq2uljacx7nluf2eeicalt6hsm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7exlcsle4mjfhu3wnhcgizz6/bafkreiggyztp6nay44xjphxvslln3gwjsq2uljacx7nluf2eeicalt6hsm" type="image/jpeg" length="0" />
       <source url="https://buff.ly">buff.ly</source>
-    </item>
-    <item>
-      <title>Senator Warner Makes a First Foray into Agentic AI Regulation</title>
-      <link>https://www.techpolicy.press/senator-warner-makes-a-first-foray-into-agentic-ai-regulation/</link>
-      <guid isPermaLink="true">https://www.techpolicy.press/senator-warner-makes-a-first-foray-into-agentic-ai-regulation/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreic4qgmpjfmh2wossdij5pqjbgtkerksgyq23656lb4jwb7dl6doqe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The AI AGENT Act is the first draft federal law to deal with agentic AI power, writes Rutgers legal scholar Ellen P. Goodman.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 9 · likes: 23&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 06:09:09 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreic4qgmpjfmh2wossdij5pqjbgtkerksgyq23656lb4jwb7dl6doqe" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreic4qgmpjfmh2wossdij5pqjbgtkerksgyq23656lb4jwb7dl6doqe" type="image/jpeg" length="0" />
-      <source url="https://www.techpolicy.press">www.techpolicy.press</source>
     </item>
   </channel>
 </rss>
