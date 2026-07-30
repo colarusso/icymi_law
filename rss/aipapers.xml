@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2026 06:10:22 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:10:25 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constraining the lives and times of exoplanets through evolutionary Bayesian retrievals</title>
+      <link>https://arxiv.org/abs/2607.25845</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.25845</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcgn7kpbsidnhq55gdfnm3a/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Static retrieval frameworks are leading tools for interpreting exoplanet observations, yet time-independent modelling leaves them prone to degeneracy and unable to resolve exoplanets&amp;#x27; histories. The c...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 8 · likes: 19&lt;/small&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 06:10:25 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcgn7kpbsidnhq55gdfnm3a/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcgn7kpbsidnhq55gdfnm3a/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>HANDBOOK.md: A Benchmark for Long-Context Agentic Instruction Following</title>
+      <link>https://arxiv.org/abs/2607.25398</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.25398</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Language-model agents are increasingly deployed under standing instructions: a system prompt, a policy file, or a skills document is placed in context, and the agent is trusted to let it govern every action that follows. Existing benchmarks rarely test this deployment pattern directly; they measure whether an agent can complete a task, not whether a long, binding policy document actually constrains its behavior over an extended tool-use horizon. We present HANDBOOK.md, a benchmark of 65 agentic tasks modeled on how enterprise employees follow company handbooks. Each task places an agent in a self-contained company environment, a file workspace together with mock email, chat, calendar, issue-tracking, and commerce services exposed over the Model Context Protocol, and instructs it to carry out routine professional work governed by an expert-written standard operating procedure of 20 to 124 pages. Tasks span five domains (finance, medical billing, insurance, logistics, and HR) and ten fictional companies. To resist memorization, every task modifies one of ten base handbooks, altering the specific rules and thresholds on which grading turns, so no two tasks share a policy. Grading is fully deterministic: each task carries a rubric of programmatic criteria (824 in total) that check both that required actions occurred and that prohibited actions did not. Under strict grading, where a trial passes only if every criterion is satisfied, the best of thirty evaluated model configurations passes 36.2% of trials, and most frontier configurations remain below 25%. Failures follow consistent patterns: agents let a plausible in-environment request override the standing policy, perform a required check and then act against its result, lose rule details over long horizons, and report compliance they did not achieve. We release all tasks, environments, and the evaluation harness.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 06:10:25 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Persuasion Index: A Theory-Guided Framework for Persuasion Analysis</title>
       <link>https://arxiv.org/abs/2606.14580</link>
@@ -473,26 +493,6 @@
       <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>LLM-powered reasoning in agent-based modeling</title>
-      <link>https://arxiv.org/abs/2607.06757</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.06757</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to …&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Operationalizing Individual Fairness via Gradient Descent and Bradley-Terry Models</title>
-      <link>https://arxiv.org/abs/2605.23145</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.23145</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Operationalizing Individual Fairness via Gradient Descent and Bradley-Terry Models&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifsxtcqieuanopu32vnheml2ewrqpmq763un2gd34na55nfl2x6my" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
