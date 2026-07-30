@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple says gaming slowdown and App Store changes hurt services growth</title>
+      <link>https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/</guid>
+      <description>Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 22:37:06 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>AI Security Isn’t In The Price Tag</title>
+      <link>https://www.myshingle.com/2026/07/ai-security-isnt-in-the-price-tag/</link>
+      <guid isPermaLink="true">https://www.myshingle.com/2026/07/ai-security-isnt-in-the-price-tag/</guid>
+      <description>Courts are beginning to impose &amp;#x27;enterprise-grade&amp;#x27; AI requirements that may do little more than price solos and small firms out of using the technology. The post AI Security Isn’t In The Price Tag appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 22:02:00 +0000</pubDate>
+      <source url="https://www.myshingle.com">www.myshingle.com</source>
+    </item>
     <item>
       <title>Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label</title>
       <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
@@ -4378,26 +4394,6 @@
       <description>It&amp;#x27;s been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 26 Jun 2026 14:07:03 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>How to evolve toward agentic AI in legal settings</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/ai-in-courts/agentic-ai-in-legal-settings/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/ai-in-courts/agentic-ai-in-legal-settings/</guid>
-      <description>Agentic AI is emerging as a tool that courtrooms can leverage, but it demands a different conversation about accountability and oversight.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 13:28:50 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/10/AdobeStock_890963890_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/10/AdobeStock_890963890_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool</title>
-      <link>https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey</link>
-      <guid isPermaLink="true">https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey</guid>
-      <description>‘It’s all just rendered useless’, Something For Kate’s Paul Dempsey says as AI scrapes millions of songs to learn how to make musicFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPaul Dempsey and Bernard Fanning are among big-name Australian musicians upset that their original songs have been found in datasets used to train artificial intelligence.A dataset search tool recently created by US publication The Atlantic reveals millions of creative works have been scraped from the internet to train the disruptive technology. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 01:09:13 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/b3644223f4ee9caf843b242c3b2cb4cdae6a25ee/0_106_3703_2963/master/3703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e42a927acb2e39317420b3c59e99ca74" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/b3644223f4ee9caf843b242c3b2cb4cdae6a25ee/0_106_3703_2963/master/3703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e42a927acb2e39317420b3c59e99ca74" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
