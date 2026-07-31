@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:10:25 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:09:27 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Maxwell Conjecture is False</title>
+      <link>https://arxiv.org/abs/2607.27197</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.27197</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We exhibit a configuration of five point charges in Euclidean space whose electrostatic potential admits at least 24 critical points all of which are non-degenerate. Maxwell&amp;#x27;s conjecture that the fiel...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 2 · likes: 24&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:09:27 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Amici Curiae Brief of Intellectual Property Scholars in Support of Appellee in xAI v. Bonta, No. 26-1591 (9th Cir.)</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7192378</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7192378</guid>
+      <description>Amici curiae are scholars of intellectual property. Amici have no personal interest in the outcome of this litigation but share a professional interest in seein&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:09:27 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Constraining the lives and times of exoplanets through evolutionary Bayesian retrievals</title>
       <link>https://arxiv.org/abs/2607.25845</link>
@@ -473,26 +491,6 @@
       <pubDate>Sat, 11 Jul 2026 06:12:16 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The GDN-CC Dataset: Automatic Corpus Clarification for AI-enhanced Democratic Citizen Consultations</title>
-      <link>https://arxiv.org/abs/2601.14944</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.14944</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46upgkmjotoe5bcd3dgvgtlm/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs are ubiquitous in modern NLP, and while their applicability extends to texts produced for democratic activities such as online deliberations or large-scale citizen consultations, ethical question...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46upgkmjotoe5bcd3dgvgtlm/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:46upgkmjotoe5bcd3dgvgtlm/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Auditing of Unlearning Algorithms</title>
-      <link>https://arxiv.org/abs/2607.05898</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.05898</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Auditing of Unlearning Algorithms&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 06:12:00 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicivmnwxicjbosg275dbvgzjo5yydg3yjq5wbznnz2uyoichi4i2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
