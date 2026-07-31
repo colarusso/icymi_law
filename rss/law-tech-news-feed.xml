@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:56:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFF Guide to Recording Law Enforcement</title>
+      <link>https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/07/eff-guide-recording-law-enforcement</guid>
+      <description>This post is available as a printable one page handout in English and Spanish. Recordings of law enforcement, whether by bystanders or by those directly encountering officers, can be powerful tools of government accountability and can support movements for social change. But recording officers can come with risks. Below are important legal and practical considerations related to recording the police and other law enforcement officers. Can I legally record the police or immigration officers? Yes. All Americans have a First Amendment right to record law enforcement. This includes local police and federal officers such as those from Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). Although the Supreme Court has not squarely ruled on the issue, nine different federal appellate courts have recognized and affirmed this right, relying on decades of Supreme Court precedent. Courts typically frame the right to record law enforcement as the right to record officers exercising their official duties in public. This right extends to bystanders as well as people recording their own interactions with law enforcement, such as livestreaming their own traffic stops. The right also applies to private places where the recorder has a legal right to be, such as in their own home. You may take photos, or record video and audio. Courts have held that wiretap laws, which generally protect private conversations, do not prohibit civilians from audio recording law enforcement. That’s because officers exercising their official duties, particularly in public, do not have a reasonable expectation of privacy. Neither do civilians in public places who speak to law enforcement in a manner audible to passersby. What are some limitations on the right to record law enforcement? Courts have been clear that behavior that obstructs or interferes with effective law enforcement or the protection of public safety is not protected. Officers can&amp;#x27;t order you to move because you are recording, but they may order you to move for public safety reasons even if you are recording. If the law enforcement officer is off-duty or is in a private space that you don’t also have a right to be in, your right to record the officer may be limited. For example, a Los Angeles jury in 2026 found two women guilty of felony stalking after they followed an ICE agent to his home and livestreamed the pursuit. What are some other considerations when recording officers? Even if you believe you are appropriately exercising your First Amendment right to record law enforcement, officers may nevertheless escalate the situation and/or retaliate against you. Below are some things to keep in mind. Stay calm and courteous. If you are a bystander, stand at a safe distance from the scene that you are recording. But note that officers may approach and confront you, closing that distance in an effort to accuse you of interfering with and possibly also assaulting a federal officer. Be alert and mindful of the possibility that officers may illegally retaliate against you in a number of ways, including arrest, destruction of your device, and bodily harm. They may also try to retaliate by harming the person being arrested. Consider the sensitive nature of recording in the context of an arrest. For example, the person being arrested or their loved ones may be concerned about exposing their immigration status, so think about obtaining consent or blurring out faces in any version you publish to focus on ICE/CBP conduct (while still retaining the original video). Law enforcement may not search your cell phone or other device without a warrant based on probable cause from a judge, even if you are under arrest. Thus, you may refuse a request from an officer to review or delete what you recorded. You also may refuse to unlock your phone or provide your passcode. What can I do to protect my footage? How well protected your photos or video footage are depends on both the device and the way you’re recording. If you’re uploading video to a livestreaming service, it can save that video to the cloud if you enable that setting. But what if you want to protect your recordings stored locally? Modern smartphones generally protect data, including videos, using encryption. This means if your phone is locked and protected by a strong passphrase, it is more difficult for an officer to delete what you’ve stored on the device. Removing biometrics such as face and fingerprint unlock can protect your device contents further. You can check your settings by following the steps in our Surveillance Self-Defense guides (see below) to ensure device encryption is turned on. Want more information? Read more about your right to record law enforcement: https://www.eff.org/issues/right-record Read EFF’s Surveillance Self-Defense technical guide: https://ssd.eff.org&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 14:11:24 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>How a Yale AI-cheating dispute became a 13-count federal lawsuit</title>
+      <link>https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</guid>
+      <description>A disputed exam, an unreliable detector, and one very late Apple Pages file.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 11:00:52 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Morning Docket: 07.31.26</title>
       <link>https://abovethelaw.com/2026/07/morning-docket-07-31-26/</link>
@@ -4378,22 +4398,6 @@
       <description>Just a couple weeks ago, the European Commission put out its plan for &amp;amp;#8220;European tech sovereignty.&amp;amp;#8221; It&amp;amp;#8217;s not surprising that Europeans are looking at their internet platform options and seeing a choice between US companies and Chinese companies as something that isn&amp;amp;#8217;t that appealing. Of course, Europe has mostly itself to blame for this mess. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 26 Jun 2026 18:05:00 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>At 3rd Circuit, Judges Press ROSS and Thomson Reuters on Fair Use, AI Training and Market Harm</title>
-      <link>https://www.lawnext.com/2026/06/at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-training-and-market-harm.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/06/at-3rd-circuit-judges-press-ross-and-thomson-reuters-on-fair-use-ai-training-and-market-harm.html</guid>
-      <description>The closely watched copyright litigation between Thomson Reuters and ROSS Intelligence returned to the spotlight this month as a three-judge panel of the 3rd U.S. Circuit Court of Appeals heard arguments over whether ROSS’s use of Westlaw headnotes to train its legal research system was protected by fair use. At oral argument June 11 in [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 17:22:43 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Tesla settles FSD crash lawsuit as federal investigations continue</title>
-      <link>https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/</guid>
-      <description>The lawsuit was connected to a fatal 2023 crash involving a vehicle using the company&amp;#x27;s advanced driver assistance system known as Full Self-Driving.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 16:32:55 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
