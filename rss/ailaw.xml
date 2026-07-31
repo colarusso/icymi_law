@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 06:07:16 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:06:45 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic says Claude AI hacked three companies during cyber tests</title>
+      <link>https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtg6uhgsy2j7k2a6qtcood2w/bafkreihls4hqoub5mjy3jowqfr2n45hmbunbym5wjk6cgxs4qaltf7azim" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Anthropic said on Thursday its AI model Claude hacked into the systems of three companies during testing after a ​configuration error gave it internet access, days after rival OpenAI disclosed a rogue...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 79 · likes: 331&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:06:45 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtg6uhgsy2j7k2a6qtcood2w/bafkreihls4hqoub5mjy3jowqfr2n45hmbunbym5wjk6cgxs4qaltf7azim" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtg6uhgsy2j7k2a6qtcood2w/bafkreihls4hqoub5mjy3jowqfr2n45hmbunbym5wjk6cgxs4qaltf7azim" type="image/jpeg" length="0" />
+      <source url="https://www.reuters.com">www.reuters.com</source>
+    </item>
+    <item>
+      <title>Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests</title>
+      <link>https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jskd23hpbyfv4hrjrwpjh6j/bafkreib5lg4j3yalxe2dtmxg3anexd7tphuo2ewbjx5wwcbmwnkpb2zo7e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 44 · likes: 114&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:06:45 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jskd23hpbyfv4hrjrwpjh6j/bafkreib5lg4j3yalxe2dtmxg3anexd7tphuo2ewbjx5wwcbmwnkpb2zo7e" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jskd23hpbyfv4hrjrwpjh6j/bafkreib5lg4j3yalxe2dtmxg3anexd7tphuo2ewbjx5wwcbmwnkpb2zo7e" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>New lawsuit alleges Tesla's Houston test fleet was unsafe | Automotive World</title>
       <link>https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/</link>
@@ -486,26 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreihzjeiv4hduoftdpkbkjajo2w2dsbrcz5fw3dudojvvu4hmbq7isq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jbvnehrrdqoulco4rf5gxg5r/bafkreihzjeiv4hduoftdpkbkjajo2w2dsbrcz5fw3dudojvvu4hmbq7isq" type="image/jpeg" length="0" />
       <source url="https://reut.rs">reut.rs</source>
-    </item>
-    <item>
-      <title>A new Illinois law will prohibit the use of AI in teacher evaluations</title>
-      <link>https://www.nbcchicago.com/news/local/chicago-politics/a-new-illinois-law-will-prohibit-the-use-of-ai-in-teacher-evaluations/3961026/</link>
-      <guid isPermaLink="true">https://www.nbcchicago.com/news/local/chicago-politics/a-new-illinois-law-will-prohibit-the-use-of-ai-in-teacher-evaluations/3961026/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreicldtl5mik6rhbcptqx6xfdb2v2wyjqkrgu7j7uoyzcgjzxdyryty" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A new Illinois law will prohibit administrators from using artificial intelligence when performing teacher evaluations.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 9 · likes: 52&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 06:09:09 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreicldtl5mik6rhbcptqx6xfdb2v2wyjqkrgu7j7uoyzcgjzxdyryty" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreicldtl5mik6rhbcptqx6xfdb2v2wyjqkrgu7j7uoyzcgjzxdyryty" type="image/jpeg" length="0" />
-      <source url="https://www.nbcchicago.com">www.nbcchicago.com</source>
-    </item>
-    <item>
-      <title>The 6 wildest claims in Apple’s lawsuit against OpenAI</title>
-      <link>https://buff.ly/rE4PkqK</link>
-      <guid isPermaLink="true">https://buff.ly/rE4PkqK</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7exlcsle4mjfhu3wnhcgizz6/bafkreiggyztp6nay44xjphxvslln3gwjsq2uljacx7nluf2eeicalt6hsm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Apple makes several scathing claims against its former employees and OpenAI.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 7 · likes: 33&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 06:09:09 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7exlcsle4mjfhu3wnhcgizz6/bafkreiggyztp6nay44xjphxvslln3gwjsq2uljacx7nluf2eeicalt6hsm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7exlcsle4mjfhu3wnhcgizz6/bafkreiggyztp6nay44xjphxvslln3gwjsq2uljacx7nluf2eeicalt6hsm" type="image/jpeg" length="0" />
-      <source url="https://buff.ly">buff.ly</source>
     </item>
   </channel>
 </rss>
