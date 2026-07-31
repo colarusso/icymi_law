@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 16:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Gain Visibility Through Featured Snippets</title>
+      <link>https://abovethelaw.com/2026/07/how-to-gain-visibility-through-featured-snippets/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/07/how-to-gain-visibility-through-featured-snippets/</guid>
+      <description>Understanding how Google selects pages and content for these featured snippets is the first step toward making sure your law firm appears in the top spot with greater frequency. The post How To Gain Visibility Through Featured Snippets appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 21:35:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?</title>
       <link>https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</link>
@@ -4394,14 +4402,6 @@
       <media:content url="https://i.guim.co.uk/img/media/457ae9432504849099aa4f23c6c62307d78d51ff/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0690d2cb166e53bde753a9816876329e" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/457ae9432504849099aa4f23c6c62307d78d51ff/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0690d2cb166e53bde753a9816876329e" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>The KIDS Act Would Require Age Checks To Get Online</title>
-      <link>https://www.techdirt.com/2026/06/26/the-kids-act-would-require-age-checks-to-get-online/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/06/26/the-kids-act-would-require-age-checks-to-get-online/</guid>
-      <description>Within the next week, Congress is preparing to vote on the&amp;amp;#160;KIDS Act, a sprawling package of legislation that seeks to control Americans’ web browsing and private messaging. The package includes a revised version of the&amp;amp;#160;Kids Online Safety Act, or KOSA, combined with a collection of other internet bills, study bills, reporting requirements, and new regulations. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 26 Jun 2026 22:07:00 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
