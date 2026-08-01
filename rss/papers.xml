@@ -1,12 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>ICYMI Law — Law Review-like Link Feed</title>
     <link>https://icymilaw.org/#papers</link>
     <description>Popular law review-like and scholarly legal links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 06:07:27 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:07:32 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rethinking Utility Wildfire Risk in California</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119759</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119759</guid>
+      <description>Many of the most deadly and destructive fires in California history have been started by electric utilities, and the state&amp;#x27;s unique inverse condemnation&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:07:32 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Chinese Sputnik Moments?</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7114818</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7114818</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbvhtaaxas3ankttmshyjgpt/bafkreigpxejguzuq5go5uugcbx3lqsclduuqpfod5foptcuvcgfyt57cv4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;China&amp;#x27;s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:07:32 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbvhtaaxas3ankttmshyjgpt/bafkreigpxejguzuq5go5uugcbx3lqsclduuqpfod5foptcuvcgfyt57cv4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbvhtaaxas3ankttmshyjgpt/bafkreigpxejguzuq5go5uugcbx3lqsclduuqpfod5foptcuvcgfyt57cv4" type="image/jpeg" length="0" />
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Immigration is Not Invasion</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5712442</link>
@@ -389,22 +407,6 @@
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7031738</guid>
       <description>American constitutional development has long followed cycles of crisis and restoration, resisting linear narratives of progress. This pattern is especially e&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 4&lt;/small&gt;</description>
       <pubDate>Wed, 01 Jul 2026 06:10:18 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>The Unitary Theorists' Appointments Clause Problems</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6070008&amp;__cf_chl_f_tk=Vmt5Q_YPp8AEUsOKkFv9L0_IVlyYSWpTbtGPsnauBbY-1782747447-1.0.1.1-mrgkRjHD1oUfABjqaogIN7Cz8CV9rujCrqM1h4WMrgA</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6070008&amp;__cf_chl_f_tk=Vmt5Q_YPp8AEUsOKkFv9L0_IVlyYSWpTbtGPsnauBbY-1782747447-1.0.1.1-mrgkRjHD1oUfABjqaogIN7Cz8CV9rujCrqM1h4WMrgA</guid>
-      <description>The unitary executive theorists’ recent retreat to the Appointments Clause as a basis for unconditional presidential removal power is contradicted by the text a&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 23 · likes: 95&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 06:09:25 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Quasi-Judicial: A History and Tradition</title>
-      <link>https://papers.ssrn.com/abstract=5858002</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/abstract=5858002</guid>
-      <description>The Supreme Court’s recent removal cases have revived a foundational question in constitutional law: whether all administration must be controlled by&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 7 · likes: 33&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 06:09:25 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
