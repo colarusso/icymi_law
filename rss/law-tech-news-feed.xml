@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:55:47 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps</title>
+      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</guid>
+      <description>Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 20:26:04 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica</title>
       <link>https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/</link>
@@ -4396,14 +4404,6 @@
       <media:content url="https://i.guim.co.uk/img/media/9a9e893089a561db98134a3dd8c891e798e96964/793_0_5446_4357/master/5446.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4a46114c5c8755e31a2c2e08cf340f" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/9a9e893089a561db98134a3dd8c891e798e96964/793_0_5446_4357/master/5446.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4a46114c5c8755e31a2c2e08cf340f" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Apple wants permission to buy memory from a blacklisted Chinese supplier</title>
-      <link>https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/958707/apple-ram-buy-memory-blacklisted-china-cxmt</guid>
-      <description>Apple is looking to alleviate some of the pressure on its supply chain by seeking an exception from the Trump administration to buy RAM chips from CXMT, a company blacklisted by the Pentagon over ties to the People&amp;#x27;s Liberation Army, according to the Financial Times. The skyrocketing prices of RAM and storage have driven Apple [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sat, 27 Jun 2026 17:28:18 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
