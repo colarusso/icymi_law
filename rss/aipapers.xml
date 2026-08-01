@@ -5,8 +5,58 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 06:09:27 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:08:39 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How LLMs Distort Our Written Language</title>
+      <link>https://arxiv.org/abs/2603.18161</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.18161</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are used by over a billion people globally, most often to assist with writing. In this work, we demonstrate that LLMs not only alter the voice and tone of human writing, b...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 44 · likes: 146&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Prompt Injection as Role Confusion</title>
+      <link>https://arxiv.org/abs/2603.12277</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.12277</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p72jkscm4rt4xuep3lzv6doh/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs see the world as a single stream of text, partitioned into roles like or . We trace prompt injection to role confusion: models perceive the source of text from how it sounds, not its...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 16 · likes: 60&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p72jkscm4rt4xuep3lzv6doh/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p72jkscm4rt4xuep3lzv6doh/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>What exam scores can and cannot prove about unauthorized AI assistance: Evidence from a highly public classroom episode</title>
+      <link>https://arxiv.org/abs/2607.27978</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.27978</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqqmph3m6umv5p5jlmudro3k/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In spring 2026, an economics professor at Brown University gave a take-home midterm and, after unusually high scores, made the final exam proctored. Among the 59 students who completed the course, ave...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 14 · likes: 37&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqqmph3m6umv5p5jlmudro3k/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqqmph3m6umv5p5jlmudro3k/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents</title>
+      <link>https://arxiv.org/abs/2607.28227</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.28227</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:27ivzcszryxp6mehutodmcxo/bafkreicl7bxvv7xxihrk4m2vj6tfjlnrpqlw4yr6asfl4z3olalfmtlhe4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;GUI agents have the potential to become a general purpose executor over existing digital devices. To advance them toward real-world use, we envision agents that operate reliably on real devices, execu...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 7 · likes: 30&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:27ivzcszryxp6mehutodmcxo/bafkreicl7bxvv7xxihrk4m2vj6tfjlnrpqlw4yr6asfl4z3olalfmtlhe4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:27ivzcszryxp6mehutodmcxo/bafkreicl7bxvv7xxihrk4m2vj6tfjlnrpqlw4yr6asfl4z3olalfmtlhe4" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The unintended consequences of large language models as a labor-augmenting technology in science</title>
+      <link>https://arxiv.org/abs/2607.17397</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.17397</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As a labor-augmenting technology, large language models (LLMs) have the potential to accelerate scientific activity across the research pipeline. But even if LLMs perform on par with human experts at ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 27&lt;/small&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Maxwell Conjecture is False</title>
       <link>https://arxiv.org/abs/2607.27197</link>
@@ -441,56 +491,6 @@
       <pubDate>Mon, 13 Jul 2026 06:10:39 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nhudqe7uplgqvnt72p2vxnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nhudqe7uplgqvnt72p2vxnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents</title>
-      <link>https://arxiv.org/abs/2607.09653</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.09653</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testing approaches. While recent adoptions of Large Language Model (LLM) agents have demonstrated promis…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 06:10:39 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Algorithmic Collusion by Large Language Models</title>
-      <link>https://arxiv.org/abs/2404.00806</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2404.00806</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3cv7b7vhrkjotj7nf7eymbac/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We conduct experiments with algorithmic pricing agents based on Large Language Models (LLMs). In oligopoly settings, LLM-based pricing agents quickly and autonomously reach supracompetitive prices and...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 06:11:58 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3cv7b7vhrkjotj7nf7eymbac/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3cv7b7vhrkjotj7nf7eymbac/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>ConRad: Efficient Conformal Prediction for Radiomics</title>
-      <link>https://arxiv.org/abs/2607.08084v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.08084v1</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Radiomic features derived from medical images and segmentation masks are used to support decision making in clinical imaging pipelines. In practice, these features are often computed from predicted masks, but segmentation models can be overconfident or poorly calibrated, making derived measurements appear more reliable than they are. Conformal prediction (CP) provides distribution-free prediction intervals with finite-sample marginal coverage guarantees, but black-box intervals for segmentation-derived radiomics can be inefficient because they ignore test-time information about image appearance, mask geometry, and segmentation uncertainty. We propose ConRad, a conformal framework for scalar radiomic targets that uses covariates derived from the predicted mask, input image, predicted radiomics, and boundary uncertainty to construct adaptive intervals while maintaining coverage. Across five 2D medical imaging datasets and 171 retained radiomic targets, we show that ConRad improves featur&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Sun, 12 Jul 2026 06:11:58 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models</title>
-      <link>https://arxiv.org/abs/2607.02914</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.02914</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) have demonstrated remarkable capabilities across diverse applications, yet ensuring their simultaneous safety, helpfulness, and trustworthiness remains a persistent challenge. Conventional refusal-oriented alignment strategies mitigate harmful content generation but systematically fail to serve legitimate user needs, often withholding information that could safely and constructively address the underlying intent of sensitive queries. Building upon the constructive safety paradigm pioneered by Oyster-I, which moves beyond blanket refusal toward thoughtful, response-oriented safety alignment, we identify two critical limitations of its Supervised Fine-Tuning (SFT)-based scheme: insufficient safety generalization to out-of-distribution scenarios and a phenomenon we term safety chain-of-thought (CoT) over-generalization, wherein safety-oriented reasoning patterns are excessively applied to benign queries, degrading helpfulness and user experience. To address these limitations, we propose Oyster-II, a reinforcement learning (RL)-based constructive safety alignment framework that adopts a Zero-RL paradigm combined with a multi-stage reinforcement learning strategy.Evaluated across extensive benchmarks, Oyster-II comprehensively surpasses both Qwen3-14B and its predecessor Oyster-I on safety dimensions, achieving cross-scale performance comparable to Qwen3-Max and Qwen3.5-397B.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 06:12:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI</title>
-      <link>https://arxiv.org/abs/2607.06906</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.06906</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Agentic AI development today runs on token maxing: buying capability with tokens -- longer reasoning traces, more turns, wider tool payloads, bigger replayed contexts -- so tokens per task grow faster than task value. Falling per-token prices mask the pattern; total spend rises anyway. We argue the decisive lever against token maxing is the harness: the orchestration layer that assembles context, exposes tools, sequences turns, delegates work, and carries enterprise observability and governance. We isolate it with a controlled swap: 22 locked evaluation tasks, six foundation models (Claude Sonnet 4.6, Gemini 3.1, Gemini Flash 3.5, Qwen 3.6, GLM 5.1, Palmyra X6), changing only the orchestration layer -- a frozen conventional production loop versus the Writer Agent Harness. Holding models constant, the harness cuts blended cost per task 41% ($0.21-&amp;amp;gt;$0.12), median wall-clock 44% (48s-&amp;amp;gt;27s), and tokens per task 38% (14.2k-&amp;amp;gt;8.8k), with task-completion quality at parity (0.78-&amp;amp;gt;0.81, directional at this sample size). Efficiency is model-invariant -- every model gets cheaper (33-61%) -- while quality gains are capability-dependent: a model&amp;amp;#39;s gain correlates almost perfectly with its baseline strength (r=0.99, n=6), a phenomenon we term harness leverage. Quality per dollar rises 82%; task-completions per million tokens rise from 54.9 to 92.0. On this workload the orchestration layer moved cost per task more than the full spread of the model menu did. We formalize token economics at the orchestration layer (including effective input price under prompt caching), detail the six mechanism families behind the effect -- cache-shape discipline to failure-spend governance -- compare six widely used agent systems on the same axes, and argue the harness is the one component whose efficiency multiplies across every model an organization runs -- present and future.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 06:12:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cxbkmnuhy6pjnjfxheyze4em/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
