@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 06:10:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:08:29 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rethinking the Illusion of Thinking</title>
+      <link>https://arxiv.org/abs/2507.01231</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2507.01231</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Earlier this year, Apple ignited controversy by publishing &amp;quot;The Illusion of Thinking,&amp;quot; prompting heated debate within the AI community. Critics seized upon the findings as conclusive evidence that Lar...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 06:08:29 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>How LLMs Distort Our Written Language</title>
       <link>https://arxiv.org/abs/2603.18161</link>
@@ -481,16 +491,6 @@
       <guid isPermaLink="true">https://arxiv.org/html/2605.26242v1</guid>
       <description>&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
       <pubDate>Tue, 14 Jul 2026 06:10:26 -0400</pubDate>
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Automatically Attacking Software Reverse Engineering AI Agents</title>
-      <link>https://arxiv.org/abs/2605.30667</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.30667</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nhudqe7uplgqvnt72p2vxnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Software tools for reverse engineering executable binary files, such as Ghidra, enable malware analysts to safely conduct robust static analysis without having access to original source code. Coupled ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 8 · likes: 27&lt;/small&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 06:10:39 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nhudqe7uplgqvnt72p2vxnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2nhudqe7uplgqvnt72p2vxnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
