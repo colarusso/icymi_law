@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 13:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple challenges UK government’s latest demand for iCloud backdoor: report</title>
+      <link>https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/</guid>
+      <description>Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 18:54:09 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Matthew Thomas Is Right: Good Legal Judgment Can’t Be Automated</title>
+      <link>https://abovethelaw.com/2026/08/matthew-thomas-is-right-good-legal-judgment-cant-be-automated/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/matthew-thomas-is-right-good-legal-judgment-cant-be-automated/</guid>
+      <description>The future of in-house law isn&amp;#x27;t about competing with AI on speed. The post Matthew Thomas Is Right: Good Legal Judgment Can&amp;amp;#8217;t Be Automated appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 18:36:43 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>New Site From Suffolk Law Dean Andrew Perlman Catalogs AI Policies at 128 Law Schools</title>
       <link>https://www.lawnext.com/2026/08/new-site-from-suffolk-law-dean-andrew-perlman-catalogs-ai-policies-at-128-law-schools.html</link>
@@ -4384,22 +4400,6 @@
       <description>Dbrand announced Monday that it&amp;#x27;s refunding everyone who bought its Steam Machine Companion Cube, which it said it made &amp;quot;without a license from Valve.&amp;quot; Dbrand announced the Portal-themed Steam Machine accessory in November and took preorders for it last Monday. But a few days later, the product had disappeared from the company&amp;#x27;s website and the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 29 Jun 2026 15:59:45 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Kirkland Partners With Syllo For Secret Sauce Litigation</title>
-      <link>https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/29/kirkland-partners-with-syllo-for-secret-sauce-litigation/</guid>
-      <description>Fresh from signing a massive deal with Palantir and going on a legal AI hiring spree, Kirkland &amp;amp;#38; Ellis has inked a deal with Syllo, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 15:44:05 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Legal AI And The ‘New And Improved Detergent’ Problem</title>
-      <link>https://abovethelaw.com/2026/06/legal-ai-and-the-new-and-improved-detergent-problem/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/legal-ai-and-the-new-and-improved-detergent-problem/</guid>
-      <description>Thomson Reuters made significant advances to CoCounsel... but it&amp;#x27;s hard to explain. The post Legal AI And The &amp;amp;#8216;New And Improved Detergent&amp;amp;#8217; Problem appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 14:47:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
