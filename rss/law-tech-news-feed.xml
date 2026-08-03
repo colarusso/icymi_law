@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 14:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated</title>
+      <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</guid>
+      <description>OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 19:45:35 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Apple challenges UK government’s latest demand for iCloud backdoor: report</title>
       <link>https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/</link>
@@ -4391,14 +4399,6 @@
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</guid>
       <description>A new proposal would ban the sale of Americans&amp;#x27; health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Dbrand cancels Companion Cube because it didn&amp;#8217;t actually ask Valve for permission</title>
-      <link>https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled</guid>
-      <description>Dbrand announced Monday that it&amp;#x27;s refunding everyone who bought its Steam Machine Companion Cube, which it said it made &amp;quot;without a license from Valve.&amp;quot; Dbrand announced the Portal-themed Steam Machine accessory in November and took preorders for it last Monday. But a few days later, the product had disappeared from the company&amp;#x27;s website and the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 15:59:45 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
