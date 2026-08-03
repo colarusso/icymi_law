@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 20:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 08:56:33 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The End of Legal Scholarship?</title>
+      <link>https://feedpress.me/link/16850/17402330/the-end-of-legal-scholarship</link>
+      <guid isPermaLink="true">https://feedpress.me/link/16850/17402330/the-end-of-legal-scholarship</guid>
+      <description>Andrew Perlman, Generative AI and the Future of Legal Scholarship (June 2026 edition), available at SSRN (June 9, 2026). Eli Wald Crisis claims, especially around disruptive technological innovation, tend to sell well, but are often overstated. This is true in general (the e-reader, which used to be a thing, before tablets and smart phones, was not the end of printed books), and in the practice of law (AI has not ended lawyering and the legal profession), notwithstanding popular assertions to the [...] The post The End of Legal Scholarship? appeared first on Legal Profession. The post The End of Legal Scholarship? appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 10:30:42 +0000</pubDate>
+      <source url="https://feedpress.me">feedpress.me</source>
+    </item>
     <item>
       <title>Funniest/Most Insightful Comments Of The Week At Techdirt</title>
       <link>https://www.techdirt.com/2026/08/02/funniest-most-insightful-comments-of-the-week-at-techdirt-219/</link>
@@ -4394,14 +4402,6 @@
       <description>Streaming ads might be getting a lot quieter.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Sun, 28 Jun 2026 21:34:14 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Cloudflare Defeats Lawsuit Over Nonconsensual Intimate Imagery (NCII) on Facebook–Doe v. Cloudflare</title>
-      <link>https://blog.ericgoldman.org/archives/2026/06/cloudflare-defeats-lawsuit-over-nonconsensual-intimate-imagery-ncii-on-facebook-doe-v-cloudflare.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/06/cloudflare-defeats-lawsuit-over-nonconsensual-intimate-imagery-ncii-on-facebook-doe-v-cloudflare.htm</guid>
-      <description>This is a putative class action lawsuit. The named plaintiff provided intimate images to her then-fiance, who (after the breakup) created fake Facebook profiles of the plaintiff and uploaded her intimate images without consent (turning the images into NCII). She... The post Cloudflare Defeats Lawsuit Over Nonconsensual Intimate Imagery (NCII) on Facebook&amp;amp;#8211;Doe v. Cloudflare appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Sun, 28 Jun 2026 14:51:37 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
