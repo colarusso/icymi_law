@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>As AI Legal Research Tools Race to Give Answers, This New Product Gives Only Cases — And That’s the Point</title>
+      <link>https://www.lawnext.com/2026/08/as-ai-legal-research-tools-race-to-give-answers-this-new-product-gives-only-cases-and-thats-the-point.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/as-ai-legal-research-tools-race-to-give-answers-this-new-product-gives-only-cases-and-thats-the-point.html</guid>
+      <description>At a time when virtually every major AI legal research product is moving toward delivering a single, synthesized answer to your research question, a new product launching today is based on the premise that many litigators want something that sounds almost old school – just the cases. Align Research, released to general availability this morning [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 16:08:49 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>How To Avoid Hallucinations: A Legal Research AI That Works Like A Junior Lawyer</title>
       <link>https://abovethelaw.com/2026/08/how-to-avoid-hallucinations-a-legal-research-ai-that-works-like-a-junior-lawyer/</link>
@@ -4394,14 +4402,6 @@
       <media:content url="https://i.guim.co.uk/img/media/1add90c88021cf3d4b523a702a90429866f18076/265_33_7084_5668/master/7084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eaea342d6411246a9abc06a0f267c48e" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/1add90c88021cf3d4b523a702a90429866f18076/265_33_7084_5668/master/7084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eaea342d6411246a9abc06a0f267c48e" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>AI Sovereignty: Taking Control of Your Legal Tech Future</title>
-      <link>https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/06/29/ai-sovereignty-taking-control-of-your-legal-tech-future/</guid>
-      <description>Think of all the things you need to do your job that you have little control over. What happens when those things are suddenly unavailable, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 06:52:42 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
