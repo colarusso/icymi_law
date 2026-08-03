@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 15:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 16:55:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The SCREEN Act Threatens Privacy Far Beyond Adult Websites</title>
+      <link>https://www.techdirt.com/2026/08/03/the-screen-act-threatens-privacy-far-beyond-adult-websites/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/03/the-screen-act-threatens-privacy-far-beyond-adult-websites/</guid>
+      <description>The Senate Commerce Committee is set to consider&amp;amp;#160;S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up their anonymity, privacy, and security before they [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 20:07:35 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated</title>
       <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
@@ -4392,14 +4400,6 @@
       <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/12/AdobeStock_1437699504_resize-400x225.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/12/AdobeStock_1437699504_resize-400x225.jpg" type="image/jpeg" length="0" />
       <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>Lawmakers want to ban AI companies from selling your health data</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</guid>
-      <description>A new proposal would ban the sale of Americans&amp;#x27; health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
