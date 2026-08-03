@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2026 06:08:11 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 06:07:19 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced AI Is Ultrahazardous. Let’s Treat It That Way</title>
+      <link>https://buff.ly/Kg60Y1v</link>
+      <guid isPermaLink="true">https://buff.ly/Kg60Y1v</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreifoc7wtettquthlhz5i5vhtsgperq5mj2vondvxsmg3agxielieyq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Advanced AI creates some degree of risk to digital infrastructure that cannot be fully mitigated, writes Keith Porcaro.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 25 · likes: 67&lt;/small&gt;</description>
+      <pubDate>Mon, 03 Aug 2026 06:07:19 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreifoc7wtettquthlhz5i5vhtsgperq5mj2vondvxsmg3agxielieyq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreifoc7wtettquthlhz5i5vhtsgperq5mj2vondvxsmg3agxielieyq" type="image/jpeg" length="0" />
+      <source url="https://buff.ly">buff.ly</source>
+    </item>
     <item>
       <title>Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal</title>
       <link>https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rzug5jxal4snlewudks3efsf/bafkreibqzatu2iern2kzyuu2dhwwqpplhe63ojym6loxxek7qcnbmxhnfe" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rzug5jxal4snlewudks3efsf/bafkreibqzatu2iern2kzyuu2dhwwqpplhe63ojym6loxxek7qcnbmxhnfe" type="image/jpeg" length="0" />
       <source url="https://publishingperspectives.com">publishingperspectives.com</source>
-    </item>
-    <item>
-      <title>Meta used AI to target workers with medical conditions for layoffs, lawsuit claims</title>
-      <link>https://reut.rs/4wIlFQa</link>
-      <guid isPermaLink="true">https://reut.rs/4wIlFQa</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreigenegl2d3zdmr7efrymi66oeom7refpl7w723dyjocmi2ezbzvoq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Twenty-six employees of Meta ‌Platforms have filed a novel lawsuit accusing the tech giant of using AI-powered software that disproportionately targeted people with disabilities or who took medical le...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 159 · likes: 264&lt;/small&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 06:08:37 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreigenegl2d3zdmr7efrymi66oeom7refpl7w723dyjocmi2ezbzvoq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreigenegl2d3zdmr7efrymi66oeom7refpl7w723dyjocmi2ezbzvoq" type="image/jpeg" length="0" />
-      <source url="https://reut.rs">reut.rs</source>
     </item>
   </channel>
 </rss>
