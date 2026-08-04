@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 06:08:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:09:31 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can AI agents conduct open-ended AI research? Early evidence from two case studies</title>
+      <link>https://arxiv.org/abs/2607.27191</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.27191</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3igkkqe5nkm66olc4y2syzpy/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 23 · likes: 95&lt;/small&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 06:09:31 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3igkkqe5nkm66olc4y2syzpy/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3igkkqe5nkm66olc4y2syzpy/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Rethinking the Illusion of Thinking</title>
       <link>https://arxiv.org/abs/2507.01231</link>
@@ -483,14 +493,6 @@
       <pubDate>Tue, 14 Jul 2026 06:10:26 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Can LLMs Introspect? A Reality Check</title>
-      <link>https://arxiv.org/html/2605.26242v1</link>
-      <guid isPermaLink="true">https://arxiv.org/html/2605.26242v1</guid>
-      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 06:10:26 -0400</pubDate>
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
