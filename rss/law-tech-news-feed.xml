@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Trust &amp; Safety Tycoon In The Classroom</title>
+      <link>https://www.techdirt.com/2026/08/04/using-trust-safety-tycoon-in-the-classroom/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/04/using-trust-safety-tycoon-in-the-classroom/</guid>
+      <description>Early in the media law and ethics course I teach, as I shift gears from the ethics section to the law and core free speech issues, I try to build a foundation by introducing the many kinds of legal issues they may face as communicators. By this time, we have already discussed social media platforms [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 22:38:52 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Appeals Court Agrees with EFF that Building a Web Browser Doesn’t Violate the CFAA</title>
+      <link>https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/appeals-court-agrees-eff-building-web-browser-doesnt-violate-cfaa</guid>
+      <description>The Ninth Circuit Court of Appeals has endorsed a commonsense technical interpretation of the Computer Fraud and Abuse Act (CFAA), a law not usually given to such interpretation. Amazon had sued Perplexity AI to try to shut down its Comet browser, claiming the browser’s optional agentic AI “Assistant” that can browse websites like Amazon for comparison shopping purposes, violated the CFAA because Amazon did not “authorize” Perplexity to access Amazon users’ accounts. Rejecting that theory, the Ninth Circuit held that Perplexity was unlikely to be liable because users operate the tool, not Perplexity. That’s the right conclusion, as both a legal and technical matter. As we explained to the court in our amicus brief, the CFAA requires unauthorized “access,” and Perplexity itself does not access Amazon’s servers—users of the Comet browser do. The court agreed, noting that EFF’s explanation “articulates the nature of the system most clearly.” The court noted that agentic AI may present novel legal issues, and there is “little to no existing caselaw directly dealing with how to ascribe responsibility for AI agents like the Assistant, let alone caselaw specifically dealing with agentic AI in the CFAA context.” Ultimately, though, thorny questions of AI “intent” were irrelevant to this case, because the Assistant “is a tool, not a person for statutory purposes.” And, the court concluded, it is a tool operated by users, not Perplexity. Even where Perplexity received information from users about their Amazon accounts and used this information to instruct the Assistant, the court found that that did not constitute the sort of control needed to find access by Perplexity. As the court noted, Amazon might have other viable claims against Perplexity, but invoking the CFAA was both legally baseless and bad policy that “could expose users themselves to criminal liability. This is a gratifying decision because all too often, big players use the CFAA to bully upstarts and innovators who offer potentially helpful user tools. When we counsel clients as part of EFF’s Coders Rights Project, CFAA risk is a frequent topic of conversation, even for developers who merely create tools that allow others to access websites in new or different ways. We’ve stood up for these creators before, and we’ll do it again, but it’s helpful to have back up from one of the most influential appellate courts in the country. Related Cases:&amp;amp;nbsp;Facebook v. Power Ventures&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 22:32:39 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/coder-cat-2.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/coder-cat-2.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Trump killed the Digital Equity Act, but US was forced to bring part of it back</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/</guid>
+      <description>$1.25 billion program restored, but judge ruled race provision unconstitutional.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 04 Aug 2026 21:27:05 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Lawyer Laterals: Free Agents With No Comp Caps</title>
       <link>https://abovethelaw.com/2026/08/lawyer-laterals-free-agents-with-no-comp-caps/</link>
@@ -4380,32 +4408,6 @@
       <media:content url="https://substackcdn.com/image/fetch/$s_!CQgP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8215c2ac-ba16-483d-a53d-2957f2add233_1376x864.png" medium="image" type="image/png" />
       <enclosure url="https://substackcdn.com/image/fetch/$s_!CQgP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8215c2ac-ba16-483d-a53d-2957f2add233_1376x864.png" type="image/png" length="0" />
       <source url="https://www.oneusefulthing.org">www.oneusefulthing.org</source>
-    </item>
-    <item>
-      <title>‘Adventures In Legal Tech’: An Apt Analogy For Lawyer AI Use</title>
-      <link>https://abovethelaw.com/2026/06/adventures-in-legal-tech-an-apt-analogy-for-lawyer-ai-use/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/06/adventures-in-legal-tech-an-apt-analogy-for-lawyer-ai-use/</guid>
-      <description>Teo Doremus, CEO and co-founder of Advocacy, joins host Jared Correia to discuss lawyer pay in an AI world. The post &amp;amp;#8216;Adventures In Legal Tech&amp;amp;#8217;: An Apt Analogy For Lawyer AI Use appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 21:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Apple takes Epic fight over app store fees to the Supreme Court</title>
-      <link>https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/</guid>
-      <description>Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 20:20:29 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1208692911-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1208692911-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>It’s Not the AI. It’s the Lawyer: We Don’t Have a Hallucination Problem, We Have a Serious Ethics Problem</title>
-      <link>https://www.ailawlibrarians.com/2026/06/30/its-not-the-ai-its-the-lawyer-we-dont-have-a-hallucination-problem-we-have-a-serious-ethics-problem/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=its-not-the-ai-its-the-lawyer-we-dont-have-a-hallucination-problem-we-have-a-serious-ethics-problem</link>
-      <guid isPermaLink="true">https://www.ailawlibrarians.com/2026/06/30/its-not-the-ai-its-the-lawyer-we-dont-have-a-hallucination-problem-we-have-a-serious-ethics-problem/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=its-not-the-ai-its-the-lawyer-we-dont-have-a-hallucination-problem-we-have-a-serious-ethics-problem</guid>
-      <description>Guest Post: Charlie Amiot I. How We Got Here Recently I was chatting with a friend from law school who has been a practicing lawyer for seven-plus years and whom I&amp;amp;#8217;ve known for 11+ years. I have a great amount &amp;amp;#8230; Continue reading &amp;amp;#8594; The post It’s Not the AI. It’s the Lawyer: We Don’t Have a Hallucination Problem, We Have a Serious Ethics Problem first appeared on AI Law Librarians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.ailawlibrarians.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 20:21:39 +0000</pubDate>
-      <source url="https://www.ailawlibrarians.com">www.ailawlibrarians.com</source>
     </item>
   </channel>
 </rss>
