@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 08:56:36 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 09:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thomson Reuters Partners With Laurel</title>
+      <link>https://www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/05/thomson-reuters-partners-with-laurel/</guid>
+      <description>Thomson Reuters is adding to its long list of legal tech partners with the addition of Laurel, the time recording system. The move follows TR’s ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 13:15:03 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Pluralistic: Google is a scammer's paradise (05 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/05/absentee-landlord/</link>
@@ -4398,14 +4406,6 @@
       <media:content url="https://i.guim.co.uk/img/media/a77663c7e54af51f036a107194bf5624490d2d69/259_0_2492_1993/master/2492.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e772a8212f9a9032ac8c498d9ac73b93" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/a77663c7e54af51f036a107194bf5624490d2d69/259_0_2492_1993/master/2492.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e772a8212f9a9032ac8c498d9ac73b93" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed</title>
-      <link>https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on</guid>
-      <description>Dbrand is the company that shipped a product that told Nintendo&amp;#x27;s legal team to &amp;quot;go fuck yourself,&amp;quot; and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling its Portal-themed Companion Cube [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
