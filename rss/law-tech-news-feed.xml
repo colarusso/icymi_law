@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From ‘Vendor’ To ‘Partner’: How LexisNexis Is Deepening Law Firm Relationships</title>
+      <link>https://abovethelaw.com/2026/08/white-glove-service-in-ai-era/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/white-glove-service-in-ai-era/</guid>
+      <description>[Sponsored] The company is emphasizing ‘white glove service’ in the AI era. Here’s what the initiative is delivering for clients. The post From ‘Vendor’ To ‘Partner’: How LexisNexis Is Deepening Law Firm Relationships appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 16:18:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>DISCO Moves Beyond E-Discovery with ‘Unified Litigation Solution’ that Combines Case Facts and Case Law</title>
       <link>https://www.lawnext.com/2026/08/disco-moves-beyond-e-discovery-with-unified-litigation-solution-that-combines-case-facts-and-case-law.html</link>
@@ -4396,14 +4404,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>This Biglaw Leader Thinks AI May Trigger Layoffs, But Not At His Firm</title>
-      <link>https://abovethelaw.com/2026/07/this-biglaw-leader-thinks-ai-may-trigger-layoffs-but-not-at-his-firm/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/this-biglaw-leader-thinks-ai-may-trigger-layoffs-but-not-at-his-firm/</guid>
-      <description>Baker Botts&amp;#x27; leader says other firms may cut associates as AI reshapes legal work, but insists his firm won&amp;#x27;t be one of them. The post This Biglaw Leader Thinks AI May Trigger Layoffs, But Not At His Firm appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
