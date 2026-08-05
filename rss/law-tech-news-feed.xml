@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 19:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tomorrow’s U.S. Senate Vote: Four Internet Bills, One Wrong Direction</title>
+      <link>https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/senate-vote-tomorrow-four-internet-bills-one-wrong-direction</guid>
+      <description>The Senate Commerce Committee will vote this week on several censorious and privacy invasive bills: KOSA, the SCREEN Act, Youth AI Privacy Act, and CHATBOT Act. While we appreciate that the Committee is taking the time to look at these bills separately, it’s still impossible to ignore the message Congress is sending to the world: Age-gate the internet and block young people from speaking and accessing lawful speech online. Or else. Take action Tell Congress: don&amp;#x27;t age-gate the internet Each of these bills claims to be trying to protect children and teenagers from dangerous situations on and offline—certainly a worthy goal. But the proposed solutions in these bills are unlikely to make children and teenagers safer at all. Rather, they would create sweeping new privacy and data security problems, and force platforms to adopt unconstitutional restrictions on the content they host, for both adults and teenagers. There is a better way. Instead of considering these bills, the Senate Commerce Committee should be focusing on a national consumer privacy bill that would protect ALL internet users, or on banning behavioral advertising that tracks us across the web—again, for users of all ages. But the bills being considered this week move in the other direction—more information being collected, more surveillance, and less privacy for internet users of all ages. Take action help eff oppose these bills EFF sent a letter to the Committee with our concerns about these bills. We look forward to continuing to work with them to find a way forward that protects all users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 00:15:11 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/congress-action_0_0.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/congress-action_0_0.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Romantic Scandal Ends In Multimillion-Dollar Payout — See Also</title>
       <link>https://abovethelaw.com/2026/08/romantic-scandal-ends-in-multimillion-dollar-payout-see-also/</link>
@@ -4398,16 +4408,6 @@
       <description>After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We&amp;#x27;ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 01 Jul 2026 00:03:55 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>E-scooters being advertised for commuting despite UK road ban</title>
-      <link>https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>A Press Association investigation found major retailers advertising e-scooters for &amp;quot;commuting&amp;quot; and &amp;quot;urban riding&amp;quot;.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 30 Jun 2026 23:05:08 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0355/live/78145a40-74ad-11f1-8546-8f19e4fe30f4.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0355/live/78145a40-74ad-11f1-8546-8f19e4fe30f4.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
