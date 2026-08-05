@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SurePoint’s New CEO Jeff Steinberg on His Mandate for Change</title>
+      <link>https://www.lawnext.com/2026/08/surepoints-new-ceo-jeff-steinberg-on-his-mandate-for-change.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/surepoints-new-ceo-jeff-steinberg-on-his-mandate-for-change.html</guid>
+      <description>SurePoint Technologies, a company that provides practice-management, finance and growth technology products for mid-sized law firms, named Jeff Steinberg its chief executive officer on July 23, elevating Eric Thurston, who had led the company since 2023, to executive chairman. Two weeks into the job, Steinberg joins LawNext to speak with host Bob Ambrogi about what [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 18:43:46 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Ninth Circuit: Your AI Agent Can’t Violate Hacking Law. But You Might.</title>
+      <link>https://www.techdirt.com/2026/08/05/ninth-circuit-your-ai-agent-cant-violate-hacking-law-but-you-might/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/05/ninth-circuit-your-ai-agent-cant-violate-hacking-law-but-you-might/</guid>
+      <description>The rise of AI is bringing a bunch of fascinating legal questions that are harder to answer than many expect. The latest one: who is liable if an agentic system running on its own hacks someone? That&amp;amp;#8217;s the question a bunch of people have been asking this past week in the wake of multiple stories [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 18:23:37 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>From ‘Vendor’ To ‘Partner’: How LexisNexis Is Deepening Law Firm Relationships</title>
       <link>https://abovethelaw.com/2026/08/white-glove-service-in-ai-era/</link>
@@ -4386,24 +4402,6 @@
       <description>Legal systems have always struggled to keep up with rapid technological change, and things are no different in the world of generative AI. There are still relatively few rulings on the new issues that the roll-out of AI-based services is raising. That makes a ground-breaking judgment from a court in Germany particularly important. It concerns [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 01 Jul 2026 21:55:49 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>‘Adventures In Legal Tech’: Why You Need Structured Intelligence Before Artificial Intelligence</title>
-      <link>https://abovethelaw.com/2026/07/adventures-in-legal-tech-why-you-need-structured-intelligence-before-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/adventures-in-legal-tech-why-you-need-structured-intelligence-before-artificial-intelligence/</guid>
-      <description>Unpacking one of the most overlooked yet critical challenges in legal work: structural complexity. The post &amp;amp;#8216;Adventures In Legal Tech&amp;amp;#8217;: Why You Need Structured Intelligence Before Artificial Intelligence appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:31:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit</title>
-      <link>https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/</link>
-      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/</guid>
-      <description>T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 21:21:21 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
