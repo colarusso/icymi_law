@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:09:31 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:11:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hallucination is Inevitable: An Innate Limitation of Large Language Models</title>
+      <link>https://arxiv.org/abs/2401.11817</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2401.11817</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Hallucination has been widely recognized to be a significant drawback for large language models (LLMs). There have been many works that attempt to reduce the extent of hallucination. These efforts hav...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 19 · likes: 47&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Individual-level interventions against sycophantic AI reduce its appeal but not its persuasiveness</title>
+      <link>https://arxiv.org/abs/2607.25166</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.25166</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI chatbots can be &amp;quot;sycophantic,&amp;quot; or overly agreeable and flattering toward users. Sycophantic AI has been shown to entrench attitudes, yet users frequently fail to recognize it (a phenomenon we call ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 12 · likes: 17&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Challenges and Research Directions for Large Language Model Inference Hardware</title>
+      <link>https://arxiv.org/abs/2601.05047</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.05047</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Model (LLM) inference is hard. The autoregressive Decode phase of the underlying Transformer model makes LLM inference fundamentally different from training. Exacerbated by recent AI tr...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 24&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>A mathematical perspective on Transformers</title>
+      <link>https://arxiv.org/abs/2312.10794</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2312.10794</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnidwtbadagrgztdyrwz7rtu/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Transformers play a central role in the inner workings of large language models. We develop a mathematical framework for analyzing Transformers based on their interpretation as interacting particle sy...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 12&lt;/small&gt;</description>
+      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnidwtbadagrgztdyrwz7rtu/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnidwtbadagrgztdyrwz7rtu/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Can AI agents conduct open-ended AI research? Early evidence from two case studies</title>
       <link>https://arxiv.org/abs/2607.27191</link>
@@ -453,46 +493,6 @@
       <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>CoopEval: Benchmarking Cooperation-Sustaining Mechanisms and LLM Agents in Social Dilemmas</title>
-      <link>https://arxiv.org/abs/2604.15267</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.15267</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;It is increasingly important that LLM agents interact effectively and safely with other goal-pursuing agents, yet, recent works report the opposite trend: LLMs with stronger reasoning capabilities beh...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 06:10:50 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Formal Conjectures: An Open and Evolving Benchmark for Verified Discovery in Mathematics</title>
-      <link>https://arxiv.org/abs/2605.13171</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.13171</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As automated reasoning systems advance rapidly, there is a growing need for research-level formal mathematical problems to accurately evaluate their capabilities. To address this, we present Formal Co...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 3 · likes: 37&lt;/small&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 06:10:26 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:l7jt5jcd75bwlcuqngatxzl2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning</title>
-      <link>https://arxiv.org/abs/2606.13607</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.13607</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lllawdfris2txwt4h6c5fmei/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When large language models (LLMs) fail to generalize or make haphazard errors in reasoning, it is often taken as evidence that LLMs are not truly reasoning, but rather performing a kind of pattern mat...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 06:10:26 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lllawdfris2txwt4h6c5fmei/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lllawdfris2txwt4h6c5fmei/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Assistant Axis: Situating and Stabilizing the Default Persona of Language Models</title>
-      <link>https://arxiv.org/abs/2601.10387</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.10387</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models can represent a variety of personas but typically default to a helpful Assistant identity cultivated during post-training. We investigate the structure of the space of model pers...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 06:10:26 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
