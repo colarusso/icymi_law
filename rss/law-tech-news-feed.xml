@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘I’m not spying’: how Meta’s smartglasses have divided opinion</title>
+      <link>https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy</guid>
+      <description>While some users say the wearables have changed their lives, critics voice fears over safety and privacyWith more than 7m pairs reportedly sold in 2025, Meta’s Ray-Ban smartglasses are fast becoming one of the world’s most popular gadgets.While supporters say they are transforming photography and accessibility, critics have raised concerns about nonconsensual filming, privacy and data collection. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 04:00:37 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/fad5c45a11f3ade164524f15eed6c4c3f260aa88/497_0_4711_3769/master/4711.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcef2de5c4f78a6634c7db55febe20a9" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/fad5c45a11f3ade164524f15eed6c4c3f260aa88/497_0_4711_3769/master/4711.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcef2de5c4f78a6634c7db55febe20a9" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Exclusive: Coming Out of Stealth, Paravo Launches What It Calls the First AI ‘Revenue Engine’ for Law Firms</title>
       <link>https://www.lawnext.com/2026/08/exclusive-coming-out-of-stealth-paravo-launches-what-it-calls-the-first-ai-revenue-engine-for-law-firms.html</link>
@@ -4388,16 +4398,6 @@
       <description>Universal Migrator has expanded its migration library to support more than 170 legal and business applications, giving legal technology consultants access to one of the industry&amp;amp;#8217;s broadest collections of reusable migration scripts. The expanded library enables consultants to migrate data between a wide range of practice management, document management, CRM, billing, accounting, and other business [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 02 Jul 2026 16:35:23 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Musk’s X poses “serious risk to Americans’ privacy,” advocates warn FTC</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/</guid>
-      <description>FTC urged to reject Elon Musk’s bid to end X monitoring amid AI concerns.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 14:39:17 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2280413039-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
