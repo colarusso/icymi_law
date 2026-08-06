@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 13:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How SmartAdvocate™ Manages A Case From First Call To Final Settlement</title>
+      <link>https://abovethelaw.com/2026/08/how-smartadvocate-manages-a-case-from-first-call-to-final-settlement/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/how-smartadvocate-manages-a-case-from-first-call-to-final-settlement/</guid>
+      <description>[Sponsored] An in-depth look at ways your firm can be more efficient and organized. The post How SmartAdvocate™ Manages A Case From First Call To Final Settlement appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 17:48:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Hacker pleads guilty to stealing data from more than 165 Snowflake customers</title>
       <link>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</link>
@@ -4388,16 +4396,6 @@
       <description>A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 02 Jul 2026 17:30:04 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Google loses long-running appeal of record EU fine, will have to cough up $4.7 billion</title>
-      <link>https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/</guid>
-      <description>The EU went after Google for the practice of bundling its search engine and browser with Android.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 16:15:41 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
