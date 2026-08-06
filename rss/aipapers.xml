@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 06:11:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:09:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows</title>
+      <link>https://arxiv.org/abs/2608.02642</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.02642</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lykmonumufb32zwuv25rfnku/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Accelerating scientific discovery is among the most consequential applications of AI, and computational biomolecular simulation stands out as a particularly promising target within this broader effort...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lykmonumufb32zwuv25rfnku/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lykmonumufb32zwuv25rfnku/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Amicus Brief of Antitrust Law, Economics, and Business Professors in Support of Plaintiffs - US v. Google D.C Circuit</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234698</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234698</guid>
+      <description>Amici curiae are dozens of professors of law, economics, and business who have researched and published extensively on antitrust issue&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Grounded world models in biological organisms and future embodied AI</title>
+      <link>https://arxiv.org/abs/2607.13560</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.13560</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:llojyojekfb3vzxl44txm65v/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recent advances in generative and embodied AI have been driven by large-scale predictive learning over multimodal data. However, the resulting systems remain largely based on passive training regimes ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 14&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:llojyojekfb3vzxl44txm65v/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:llojyojekfb3vzxl44txm65v/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Hallucination is Inevitable: An Innate Limitation of Large Language Models</title>
       <link>https://arxiv.org/abs/2401.11817</link>
@@ -463,36 +491,6 @@
       <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>LLM-Driven Approach to Modeling Tool Interoperability in Automotive Domain</title>
-      <link>https://arxiv.org/abs/2607.14659</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.14659</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Interoperability between heterogeneous modeling tools remains a significant challenge in Model-Driven Engineering (MDE), particularly in the automotive domain where multiple modeling languages, as well as defacto standard proprietary and open-source tools coexist. This paper presents an LLM-driven …&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>MCPEvol-Bench: Benchmarking LLM Agent Performance Across Dynamic Evolutions of MCP Servers</title>
-      <link>https://arxiv.org/abs/2607.14642</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.14642</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As Model Context Protocol (MCP) servers emerge as the core infrastructure for connecting LLMs with external tools, existing benchmarks leverage real-world MCP servers to evaluate LLM agents&amp;#x27; tool-using capabilities. However, these benchmarks overlook the continuous evolution of tool interfaces and …&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Evaluating Frontier AI Agents as Autonomous Clinical Security Auditors</title>
-      <link>https://arxiv.org/abs/2607.13411</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.13411</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Clinical AI models can expose patients to harm when adversarial vulnerabilities go undetected, yet formal security auditing requires statistical expertise, specialized tools, and significant time. We present an open evaluation task, built on METR Task Standard v0.3.0, that tests whether frontier AI…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
