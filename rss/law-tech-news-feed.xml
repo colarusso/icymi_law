@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ninth Circuit Lifts Restrictions on Agentic AI Accessing Amazon</title>
+      <link>https://blog.ericgoldman.org/archives/2026/08/ninth-circuit-lifts-restrictions-on-agentic-ai-accessing-amazon.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/08/ninth-circuit-lifts-restrictions-on-agentic-ai-accessing-amazon.htm</guid>
+      <description>by guest blogger Kieran McCarthy I recently described the district court’s decision in the case of Amazon v. Perplexity as “a shockingly poor effort to grapple with CFAA applicability to agentic AI technology.” The Ninth Circuit appears to have agreed.... The post Ninth Circuit Lifts Restrictions on Agentic AI Accessing Amazon appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 19:15:02 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>How SmartAdvocate™ Manages A Case From First Call To Final Settlement</title>
       <link>https://abovethelaw.com/2026/08/how-smartadvocate-manages-a-case-from-first-call-to-final-settlement/</link>
@@ -4388,14 +4396,6 @@
       <description>Earlier this year we wrote about the ridiculous thin-skinned executives at Palantir suing a small independent Swiss online magazine, Republik, that had reported on the great lengths the company had gone to, trying to get the Swiss government to purchase Palantir&amp;amp;#8217;s surveillance technology. Palantir knew they couldn&amp;amp;#8217;t sue for defamation because, you know, everything Republik [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 02 Jul 2026 17:59:10 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Boeing-owned Wisk Aero accused of firing manager who raised safety concerns</title>
-      <link>https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/</guid>
-      <description>A former software manager claims Wisk rushed software testing ahead of a crucial 2025 flight test.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 17:30:04 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
