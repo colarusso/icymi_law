@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 17:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NetDocuments For Plaintiffs’ Lawyers: It’s Pretty Cool</title>
+      <link>https://abovethelaw.com/2026/08/netdocuments-for-plaintiffs-lawyers-its-pretty-cool/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/netdocuments-for-plaintiffs-lawyers-its-pretty-cool/</guid>
+      <description>It will be interesting to see where NetDocuments goes in the plaintiffs’ market The post NetDocuments For Plaintiffs’ Lawyers: It’s Pretty Cool appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 22:15:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Why Are Gay Bars Building Databases Of Their Patrons?</title>
       <link>https://www.techdirt.com/2026/08/06/why-are-gay-bars-building-databases-of-their-patrons/</link>
@@ -4388,14 +4396,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-1152x648.png" medium="image" type="image/png" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-1152x648.png" type="image/png" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees</title>
-      <link>https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/</guid>
-      <description>Hopper will pay $35 million to settle FTC allegations that it used deceptive “dark patterns” to hide fees and mislead travelers about the cost and benefits of services.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 18:39:14 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
