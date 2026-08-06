@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:56:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amid legal battles, Suno says it will start watermarking songs</title>
+      <link>https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</guid>
+      <description>Suno&amp;#x27;s watermarking feature comes as the company is fighting legal battles on several fronts.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 13:31:57 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo</title>
       <link>https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo</link>
@@ -4394,16 +4402,6 @@
       <media:content url="https://www.eff.org/files/banner_library/twitter-elon.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/twitter-elon.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Red cards and red flags: What AML professionals need to know during the World Cup’s final weeks</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/corporates/world-cup-aml-professionals/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/corporates/world-cup-aml-professionals/</guid>
-      <description>The World Cup is a risky financial crime event in which banks’ AML teams must act now, using FinCEN&amp;#x27;s updated guidance &amp;amp;#38; cross-sector tools.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 13:50:09 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/04/AdobeStock_546106417_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/04/AdobeStock_546106417_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
     </item>
   </channel>
 </rss>
