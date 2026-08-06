@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacker pleads guilty to stealing data from more than 165 Snowflake customers</title>
+      <link>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</guid>
+      <description>Connor Moucka pled guilty to hacking and stealing data from more than 165 Snowflake customers, which net him and his accomplices more than $2.5 million in ransom payments.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 06 Aug 2026 16:42:40 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>‘I’m not spying’: how Meta’s smartglasses have divided opinion</title>
       <link>https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy</link>
@@ -4390,14 +4398,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/06/GettyImages-1005907962-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Universal Migrator Now Supports Migrations From More Than 170 Applications</title>
-      <link>https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/07/universal-migrator-now-supports-migrations-from-more-than-170-applications.html</guid>
-      <description>Universal Migrator has expanded its migration library to support more than 170 legal and business applications, giving legal technology consultants access to one of the industry&amp;amp;#8217;s broadest collections of reusable migration scripts. The expanded library enables consultants to migrate data between a wide range of practice management, document management, CRM, billing, accounting, and other business [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 02 Jul 2026 16:35:23 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
