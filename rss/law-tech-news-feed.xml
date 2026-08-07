@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:56:32 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ninth Circuit: Your AI Agent Can’t Violate Hacking Law. But You Might.</title>
+      <link>https://abovethelaw.com/2026/08/ninth-circuit-your-ai-agent-cant-violate-hacking-law-but-you-might/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/ninth-circuit-your-ai-agent-cant-violate-hacking-law-but-you-might/</guid>
+      <description>From the agentic-law dept The post Ninth Circuit: Your AI Agent Can’t Violate Hacking Law. But You Might. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 14:47:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>16 Groups Warn FCC’s New ‘Robocall Plan’ Is Really About Dramatically Undermining Privacy</title>
       <link>https://www.techdirt.com/2026/08/07/16-groups-warn-fccs-new-robocall-plan-is-really-about-dramatically-undermining-privacy/</link>
@@ -4386,16 +4394,6 @@
       <description>A government customer of NSO Group used the company&amp;#x27;s Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 03 Jul 2026 05:05:00 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones</title>
-      <link>https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/</guid>
-      <description>“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 05:00:00 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a4666ebcb22d2a8724199f2/master/pass/GettyImages-128087200.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a4666ebcb22d2a8724199f2/master/pass/GettyImages-128087200.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
