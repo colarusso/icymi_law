@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks</title>
+      <link>https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/</guid>
+      <description>Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 21:00:08 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Law Firm Website Conversions In The Age Of AI Chatbots</title>
       <link>https://abovethelaw.com/2026/08/law-firm-website-conversions-in-the-age-of-ai-chatbots/</link>
@@ -4386,14 +4394,6 @@
       <description>Anand Shah &amp;amp;#38; Joshua Levy, Access to Justice in the Age of AI: Evidence from U.S. Federal Courts (Mar. 20, 2026) (unpublished manuscript). Nora Freeman Engstrom Aviv Caspi In Access to Justice in the Age of AI: Evidence from U.S. Federal Courts, Anand V. Shah and Joshua Y. Levy, document what may be a tectonic shift in the civil justice system. According to Shah and Levy, Generative AI is lowering the barriers to filing suit—and, as a result, more self-represented litigants [...] The post Opening the Courthouse Door—or Just Lowering the Threshold? appeared first on Legal Profession. The post Opening the Courthouse Door—or Just Lowering the Threshold? appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
       <pubDate>Fri, 03 Jul 2026 10:30:54 +0000</pubDate>
       <source url="https://feedpress.me">feedpress.me</source>
-    </item>
-    <item>
-      <title>Legal Innovators New York + UK, LexisNexis, Opus 2</title>
-      <link>https://www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/03/legal-innovators-new-york-uk-lexisnexis-opus-2/</guid>
-      <description>Happy Independence Day to all of Artificial Lawyer’s readers in America! AI can be a tremendous force for personal liberty and growth, allowing an individual ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 06:59:31 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
