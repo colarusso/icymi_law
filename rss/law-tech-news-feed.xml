@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 12:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law Firm Website Conversions In The Age Of AI Chatbots</title>
+      <link>https://abovethelaw.com/2026/08/law-firm-website-conversions-in-the-age-of-ai-chatbots/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/law-firm-website-conversions-in-the-age-of-ai-chatbots/</guid>
+      <description>When deployed effectively, AI chatbots can reduce bounce rate, increase law firm website conversion, and enhance your reputation with prospective clients. The post Law Firm Website Conversions In The Age Of AI Chatbots appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 16:18:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Ninth Circuit: Your AI Agent Can’t Violate Hacking Law. But You Might.</title>
       <link>https://abovethelaw.com/2026/08/ninth-circuit-your-ai-agent-cant-violate-hacking-law-but-you-might/</link>
@@ -4386,14 +4394,6 @@
       <description>Happy Independence Day to all of Artificial Lawyer’s readers in America! AI can be a tremendous force for personal liberty and growth, allowing an individual ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 03 Jul 2026 06:59:31 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Politician who investigated spyware abuses had his phone hacked with Pegasus spyware</title>
-      <link>https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</guid>
-      <description>A government customer of NSO Group used the company&amp;#x27;s Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 05:05:00 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
