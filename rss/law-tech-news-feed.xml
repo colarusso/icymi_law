@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:55:49 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed</title>
+      <link>https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/</guid>
+      <description>Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 10:30:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a761d7874fba122f8d7a913/master/pass/Security-News-Flock-Rideshare-Spies-Security.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a761d7874fba122f8d7a913/master/pass/Security-News-Flock-Rideshare-Spies-Security.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>This man was secretly snapped by someone with smartglasses. He’s not alone in calling that a violation of privacy</title>
+      <link>https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent</guid>
+      <description>The backlash to what some dub ‘pervert glasses’ is growing – but people living with disabilities point out the new tech can also be life-changingGet our breaking news email, free app or daily news podcastOne summer day earlier this year, Rhys left a cafe in Melbourne where he had been working remotely, when his phone pinged with a message on the dating app Grindr.The message was a photo of him sitting at a table outside the cafe on his laptop, with his dog seated on the ground next to him. In the foreground, in a man’s hand was an iPhone unlocked. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 07 Aug 2026 15:00:20 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/fbf959ad6238a0fb4743a400b755c7834110ec22/0_477_1600_1279/master/1600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ee1451ab2fe116cfcd61f4f3e404dcb" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/fbf959ad6238a0fb4743a400b755c7834110ec22/0_477_1600_1279/master/1600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ee1451ab2fe116cfcd61f4f3e404dcb" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks</title>
       <link>https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/</link>
@@ -4378,22 +4398,6 @@
       <media:content url="https://i.guim.co.uk/img/media/eea00b68769d7a021a17a3483c16303bdf402231/11_1037_1609_1287/master/1609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79769c8a5af8029d1ea6e082cc71c4bf" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/eea00b68769d7a021a17a3483c16303bdf402231/11_1037_1609_1287/master/1609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79769c8a5af8029d1ea6e082cc71c4bf" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Flock Cameras Can Surveil Cars Without License Plates</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html</link>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html</guid>
-      <description>This is from a 2024 company presentation: Officers can also tap into data showing a car&amp;amp;#8217;s decals, bumper stickers, back and top racks&amp;amp;#8212;along with temporary and unique state tags. Flock calls it a &amp;amp;#8220;Vehicle Fingerprint&amp;amp;#8221; and it&amp;amp;#8217;s touted as a way for law enforcement officials to get more information &amp;amp;#8220;even when you don&amp;amp;#8217;t have full plate information,&amp;amp;#8221; the company&amp;amp;#8217;s presentation shows. The company gives police officers the ability to search that data as well, to &amp;amp;#8220;build stronger cases with less information upfront.&amp;amp;#8221; That includes being able to locate multiple vehicles law enforcement officials believe are moving together and what Flock calls a &amp;amp;#8220;multi geo search.&amp;amp;#8221;...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 11:15:25 +0000</pubDate>
-      <source url="https://www.schneier.com">www.schneier.com</source>
-    </item>
-    <item>
-      <title>Opening the Courthouse Door—or Just Lowering the Threshold?</title>
-      <link>https://feedpress.me/link/16850/17372196/opening-the-courthouse-door-or-just-lowering-the-threshold</link>
-      <guid isPermaLink="true">https://feedpress.me/link/16850/17372196/opening-the-courthouse-door-or-just-lowering-the-threshold</guid>
-      <description>Anand Shah &amp;amp;#38; Joshua Levy, Access to Justice in the Age of AI: Evidence from U.S. Federal Courts (Mar. 20, 2026) (unpublished manuscript). Nora Freeman Engstrom Aviv Caspi In Access to Justice in the Age of AI: Evidence from U.S. Federal Courts, Anand V. Shah and Joshua Y. Levy, document what may be a tectonic shift in the civil justice system. According to Shah and Levy, Generative AI is lowering the barriers to filing suit—and, as a result, more self-represented litigants [...] The post Opening the Courthouse Door—or Just Lowering the Threshold? appeared first on Legal Profession. The post Opening the Courthouse Door—or Just Lowering the Threshold? appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
-      <pubDate>Fri, 03 Jul 2026 10:30:54 +0000</pubDate>
-      <source url="https://feedpress.me">feedpress.me</source>
     </item>
   </channel>
 </rss>
