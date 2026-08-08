@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:09:31 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:10:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Early Warning of Emerging Biosecurity Risks in Frontier LLMs</title>
+      <link>https://arxiv.org/abs/2607.18056</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.18056</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Frontier large language models (LLMs) are increasingly integrated into scientific workflows, yet their growing biological capabilities may outpace current safeguards. To assess the biological risks of...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 4 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 06:10:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback</title>
+      <link>https://arxiv.org/abs/2603.12471</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.12471</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nmoaombfcftmgt6emgcapyh5/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Effective personalized feedback is critical to students&amp;#x27; literacy development. Though LLM-powered tools now promise to automate such feedback at scale, LLMs are not language-neutral: they privilege st...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 06:10:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nmoaombfcftmgt6emgcapyh5/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nmoaombfcftmgt6emgcapyh5/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows</title>
       <link>https://arxiv.org/abs/2608.02642</link>
@@ -472,26 +492,6 @@
       <description>In a 2018 paper that was only now brought to my attention, Calo et al. discuss whether “tricking a robot” constitutes hacking. They focus on five scenarios tha&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
       <pubDate>Sat, 18 Jul 2026 06:12:28 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Paradoxes of Game Theoretic Equilibria and Price of Anarchy</title>
-      <link>https://arxiv.org/abs/2607.11752</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.11752</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;For decades, static solution concepts (Nash, Correlated, and Coarse Correlated Equilibria) and the Price of Anarchy (PoA) have formed the bedrock of algorithmic game theory, with no-regret learning pr...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 5 · likes: 30&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results</title>
-      <link>https://arxiv.org/abs/2607.11183</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.11183</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Amplitude-Only FFN Intervention for Tool-Structured LLM Inference Method: Gated Evaluation Protocol, and Cross-Model Empirical Results&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 06:10:52 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaw4rb5hwsidr7ycsddxotqgynkx53ci2g4dahbh7kdukfq4dqpvy" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
