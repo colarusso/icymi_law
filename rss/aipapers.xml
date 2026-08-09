@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:10:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:09:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Environmental Impacts of Machine Learning Training Keep Rising Evidencing Rebound Effect</title>
+      <link>https://arxiv.org/abs/2510.09022</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.09022</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recent Machine Learning (ML) approaches have shown increased performance on benchmarks but at the cost of escalating computational demands. Hardware, algorithmic and carbon optimizations have been pro...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 4 · likes: 19&lt;/small&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The crisis of AI-generated mathematics</title>
+      <link>https://arxiv.org/abs/2608.02859</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.02859</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In this essay, I present the case for total opposition to the use of artificial intelligence in mathematics. I offer proposals for how individuals, departments, journals, and institutions can act in c...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning</title>
+      <link>https://arxiv.org/abs/2608.05245</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.05245</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>An Early Warning of Emerging Biosecurity Risks in Frontier LLMs</title>
       <link>https://arxiv.org/abs/2607.18056</link>
@@ -464,34 +494,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Traccia: An OpenTelemetry-Based Governance Platform for AI Systems</title>
-      <link>https://arxiv.org/abs/2607.14309</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.14309</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international framewo…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI Agents Do Not Fail Alone:The Context Fails First</title>
-      <link>https://arxiv.org/abs/2607.14275</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.14275</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moz2fuya3ey46x6tic7s6ner/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Context engineering has become central to building reliable AI agents, yet it remains largely unmeasured. Agents do not fail in isolation: their behavior is shaped by the instructions, tools, memory, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moz2fuya3ey46x6tic7s6ner/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:moz2fuya3ey46x6tic7s6ner/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Tricking an AI system &amp; the Cybercrime Convention</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584116</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4584116</guid>
-      <description>In a 2018 paper that was only now brought to my attention, Calo et al. discuss whether “tricking a robot” constitutes hacking. They focus on five scenarios tha&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sat, 18 Jul 2026 06:12:28 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
