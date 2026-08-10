@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:55:49 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cherryn-Paige Bissett Says AI Didn’t Replace Lawyers. It Repriced Judgment.</title>
+      <link>https://abovethelaw.com/2026/08/cherryn-paige-bissett-says-ai-didnt-replace-lawyers-it-repriced-judgment/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/cherryn-paige-bissett-says-ai-didnt-replace-lawyers-it-repriced-judgment/</guid>
+      <description>The future isn&amp;#x27;t about redlining faster. The post Cherryn-Paige Bissett Says AI Didn&amp;amp;#8217;t Replace Lawyers. It Repriced Judgment. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 15:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Archer buys former rival Wisk Aero</title>
+      <link>https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/</guid>
+      <description>The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 15:09:39 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain</title>
       <link>https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/</link>
@@ -4368,26 +4384,6 @@
       <description>By Sam Kidd, CEO, LawVu. Every week in legal tech there’s a new AI announcement. A new drafting tool or legal agent. Another company claiming ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 06 Jul 2026 06:42:03 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Lessons learned from an AI-first law firm and the future of legal practice</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/legal/ai-first-law-firm/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/ai-first-law-firm/</guid>
-      <description>AI-native law firms can lower the cost of legal services, but they also highlight deeper challenges around demand, attorney identity &amp;amp;#38; more.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 22:58:05 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/12/AdobeStock_87704657_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/12/AdobeStock_87704657_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper</title>
-      <link>https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper</link>
-      <guid isPermaLink="true">https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper</guid>
-      <description>Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interferenceArtificial intelligence poses a “Hiroshima”-style risk to humanity if governments do not agree to curb how it is developed, the foreign secretary has warned.Yvette Cooper urged countries, including the US and China, to agree international rules for AI, telling the Guardian she believes the issue will dominate foreign policy over the next two years. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 19:00:34 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/58eb5683fd870afe098aa0ea0fc182a651ee9634/698_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4af59e48c8b68685c21dfe57630526a3" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/58eb5683fd870afe098aa0ea0fc182a651ee9634/698_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4af59e48c8b68685c21dfe57630526a3" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
