@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 08:56:34 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harbor Seeks To Counter General LLM FDEs</title>
+      <link>https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/</guid>
+      <description>Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 13:00:43 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Why Are So Many People Upset About Flock Cameras?</title>
       <link>https://www.nytimes.com/article/flock-safety-camera-technology.html</link>
@@ -4380,14 +4388,6 @@
       <description>This week, both our winners on the insightful side come in response to the German court ruling that Google is liable for false claims in its AI overviews. In first place, it&amp;amp;#8217;s an anonymous comment about Bruce Schneier&amp;amp;#8217;s reaction to the ruling: In second place, it&amp;amp;#8217;s A Guy with the first comment on the post: [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Sun, 05 Jul 2026 19:00:00 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>YouTube Exits Copyright Lawsuit Over YouTubers’ Videos–Barnes v. Sanchez</title>
-      <link>https://blog.ericgoldman.org/archives/2026/07/youtube-exits-copyright-lawsuit-over-youtubers-videos-barnes-v-sanchez.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/07/youtube-exits-copyright-lawsuit-over-youtubers-videos-barnes-v-sanchez.htm</guid>
-      <description>This is a copyright infringement lawsuit among pro se litigants. The dispute sideswipes YouTube, but YouTube is able to exit on a motion to dismiss. The plaintiff claims a copyright in a book, Drug Lords of Oakland. The defendants operate... The post YouTube Exits Copyright Lawsuit Over YouTubers&amp;amp;#8217; Videos&amp;amp;#8211;Barnes v. Sanchez appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Sun, 05 Jul 2026 15:11:05 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
