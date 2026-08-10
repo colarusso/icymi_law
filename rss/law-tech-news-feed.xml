@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Practical Framework For Optimizing Your Firm’s Content For AI Answer Engines</title>
+      <link>https://abovethelaw.com/2026/08/a-practical-framework-for-optimizing-your-firms-content-for-ai-answer-engines/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/a-practical-framework-for-optimizing-your-firms-content-for-ai-answer-engines/</guid>
+      <description>If your bios, practice pages, and thought leadership aren&amp;#x27;t structured for AI to read, cite, and recommend, you&amp;#x27;re invisible at the moment of consideration. The post A Practical Framework For Optimizing Your Firm&amp;amp;#8217;s Content For AI Answer Engines appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 21:33:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Aptoide becomes the first rival app store to return to Google Play in the US</title>
       <link>https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/</link>
@@ -4374,14 +4382,6 @@
       <media:content url="https://cdn.sanity.io/images/pito4za5/production/b76338e9b208ddbf4220e26cc1687109dc21dad6-1024x683.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.sanity.io/images/pito4za5/production/b76338e9b208ddbf4220e26cc1687109dc21dad6-1024x683.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
       <source url="https://www.scotusblog.com">www.scotusblog.com</source>
-    </item>
-    <item>
-      <title>Legal Ethics Roundup: Lawyers Moonlight To Train AI, Immigration Attorney Scam, Partnership Pain, Ethical Listening Is ‘Secret Superpower’ &amp; More</title>
-      <link>https://abovethelaw.com/2026/07/legal-ethics-roundup-lawyers-moonlight-to-train-ai-immigration-attorney-scam-partnership-pain-ethical-listening-is-secret-superpower-more/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/legal-ethics-roundup-lawyers-moonlight-to-train-ai-immigration-attorney-scam-partnership-pain-ethical-listening-is-secret-superpower-more/</guid>
-      <description>Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Lawyers Moonlight To Train AI, Immigration Attorney Scam, Partnership Pain, Ethical Listening Is &amp;amp;#8216;Secret Superpower&amp;amp;#8217; &amp;amp;amp; More appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 06 Jul 2026 17:03:42 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
