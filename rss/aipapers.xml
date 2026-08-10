@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 06:09:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:08:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People construct simplified mental representations to plan</title>
+      <link>https://arxiv.org/abs/2105.06948</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2105.06948</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;One of the most striking features of human cognition is the capacity to plan. Two aspects of human planning stand out: its efficiency and flexibility. Efficiency is especially impressive because plans...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 3 · likes: 20&lt;/small&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 06:08:11 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Environmental Impacts of Machine Learning Training Keep Rising Evidencing Rebound Effect</title>
       <link>https://arxiv.org/abs/2510.09022</link>
@@ -483,16 +493,6 @@
       <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Seriality Gap in Video Diffusion Models</title>
-      <link>https://arxiv.org/abs/2607.13031</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.13031</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m7u5nn5rhx4gfx3vpbq3msfk/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
