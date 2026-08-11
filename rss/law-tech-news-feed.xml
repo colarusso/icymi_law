@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 13:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law Firms Don’t Have One AI Visibility Problem. They Have Three.</title>
+      <link>https://abovethelaw.com/2026/08/law-firms-dont-have-one-ai-visibility-problem-they-have-three/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/law-firms-dont-have-one-ai-visibility-problem-they-have-three/</guid>
+      <description>AI visibility is typically seen as a content problem. But that only helps with a third of the hurdles law firms face in how legal service buyers are using AI search. The post Law Firms Don’t Have One AI Visibility Problem. They Have Three. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>3 Takeaways From The Lex Machina 2026 Patent Report</title>
       <link>https://abovethelaw.com/2026/08/3-takeaways-from-the-lex-machina-2026-patent-report/</link>
@@ -4372,14 +4380,6 @@
       <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/03/AdobeStock_1249130117_resize-400x225.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/03/AdobeStock_1249130117_resize-400x225.jpg" type="image/jpeg" length="0" />
       <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>On LawNext: Inside Claude for Legal — Anthropic’s Mark Pike on AI’s Next Frontier in Law</title>
-      <link>https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/07/on-lawnext-inside-claude-for-legal-anthropics-mark-pike-on-ais-next-frontier-in-law.html</guid>
-      <description>When Anthropic launched Claude for Legal in May – more than 20 MCP connectors and a dozen practice-area plugins built specifically for legal work – it marked the company&amp;amp;#8217;s biggest and most explicit commitment yet to the legal industry. It also reignited a debate that&amp;amp;#8217;s been simmering since Anthropic&amp;amp;#8217;s first legal plugin briefly rattled the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 12:30:59 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
