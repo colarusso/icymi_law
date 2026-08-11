@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 14:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Cyber Insurance May Not Be Ready For Autonomous AI</title>
+      <link>https://abovethelaw.com/2026/08/your-cyber-insurance-may-not-be-ready-for-autonomous-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/your-cyber-insurance-may-not-be-ready-for-autonomous-ai/</guid>
+      <description>The concern isn&amp;#x27;t simply that AI creates new cyber threats. It&amp;#x27;s that organizations may unknowingly introduce risks that fall outside the assumptions underlying their insurance policies. The post Your Cyber Insurance May Not Be Ready For Autonomous AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 19:18:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Law Firms Don’t Have One AI Visibility Problem. They Have Three.</title>
       <link>https://abovethelaw.com/2026/08/law-firms-dont-have-one-ai-visibility-problem-they-have-three/</link>
@@ -4370,16 +4378,6 @@
       <description>AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 07 Jul 2026 14:35:42 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>From UPL to consumer protection, a framework for tech-enabled legal services</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/technology/upl-consumer-protection-framework/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/technology/upl-consumer-protection-framework/</guid>
-      <description>AI-powered legal tools are forcing a regulatory reset, shifting the question to how to better protect consumers seeking access to justice.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 12:55:56 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/03/AdobeStock_1249130117_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/03/AdobeStock_1249130117_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
     </item>
   </channel>
 </rss>
