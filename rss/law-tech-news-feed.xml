@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 16:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techdirt Podcast Episode 453: Meet The EFF’s New Executive Director</title>
+      <link>https://www.techdirt.com/2026/08/11/techdirt-podcast-episode-453-meet-the-effs-new-executive-director/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/11/techdirt-podcast-episode-453-meet-the-effs-new-executive-director/</guid>
+      <description>Support us on Patreon&amp;amp;#160;&amp;amp;#187; If you know anything about Techdirt, you know we&amp;amp;#8217;re big fans of the EFF and its decades of advocacy for digital rights and the open internet. Recently, the organization went through a big change in the form of a new executive director: legal expert and long-time leader in the space Nicole [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 20:30:00 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Meta can't stop states' $1.4 trillion lawsuit from going to trial</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/</guid>
+      <description>Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 20:27:16 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Who (or What) Generates Images for EFF?</title>
+      <link>https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/who-or-what-generates-images-eff</guid>
+      <description>We’ve had a few questions from EFF supporters lately, asking whether the images we use on our blog posts, or on donation and shop items, have been created with AI image generators. We’d like to answer these questions and clarify our internal policy regarding image creation. EFF images are all made by human beings, not by automated image generators, with very rare exceptions. This is an internal decision made by our small design team, for the following reasons: Our designers bring knowledge and expertise to the images we create, informed by years of consultation with EFF’s lawyers, technologists and activists. We find that this informed perspective helps make the issues we cover more clear, and more engaging, for our supporters. The content on our sites is written by human beings, not by bots, and we feel that the images illustrating these posts should be human-made as well. Our supporters come to EFF for honest, trustworthy information from expert human beings, and we want our images to communicate that authenticity as well. Aesthetic preference: our designers prefer the look, as well as the process, of images made “by hand.” It also gives us more control over the images, including producing multiple versions for different posts. While it can sometimes take a bit longer, we feel the results are more satisfactory and long-lasting. While it is rare, it is possible for image generators to create images that are under copyright, or understood by some to be under copyright. This could conflict with our use of a Creative Commons Attribution license for all our images. By generating our own images, we avoid any risk of a dispute about copyright infringement, so that we can continue our work promoting digital rights (including the right to fair use of copyrighted materials) without fear of a lawsuit. An example of EFF artwork process: sketch and final art To be as clear as possible, we are now adding a small credit in the lower righthand area of each banner image that will read “Image created by EFF.” As mentioned earlier, there may be rare exceptions, when an EFF designer uses an automatically generated image as a small element in a larger illustration. In these cases, we will indicate that use with additional text, specifying the elements involved, and naming the image generator used. We hope that by describing our internal design thinking, we are answering the questions we are getting without confusing anyone about EFF&amp;#x27;s various and nuanced positions on the issues raised by image generators. As with past technological developments, we continue to defend the rights of technologists to develop these powerful tools, as well as the right of the public to make legal and legitimate use of them. Ultimately, EFF&amp;#x27;s design team has made a choice we feel is consistent with EFF&amp;#x27;s brand and look, and it&amp;#x27;s a decision we think every user gets to make for themselves. And don&amp;#x27;t forget: because all of our images are CC-By, you are free to use, share or remix our any image we create (we ask that you include a credit to EFF). If you need hi-res versions, you can find some on our Flickr page, or you can email us directly with any requests. And you can enjoy some of the art we create on gifts you receive when you donate to EFF! Donate to EFF Get awesome human-generated art as a thank you gift!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 20:24:25 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Your Cyber Insurance May Not Be Ready For Autonomous AI</title>
       <link>https://abovethelaw.com/2026/08/your-cyber-insurance-may-not-be-ready-for-autonomous-ai/</link>
@@ -4354,30 +4382,6 @@
       <media:content url="https://www.eff.org/files/banner_library/icon-2026-ai-robot-v2.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/icon-2026-ai-robot-v2.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>How Best Lawyers Is Helping Small Firms Get Found In The Age Of AI Search</title>
-      <link>https://abovethelaw.com/2026/07/how-best-lawyers-is-helping-small-firms-get-found-in-the-age-of-ai-search/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/how-best-lawyers-is-helping-small-firms-get-found-in-the-age-of-ai-search/</guid>
-      <description>[Sponsored] For a solo practitioner or small firm, competing online can feel like bringing a knife to a gunfight. The post How Best Lawyers Is Helping Small Firms Get Found In The Age Of AI Search appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 15:33:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Norm Ai Hits Unicorn Status with $120M Series C at $1.2 Billion Valuation</title>
-      <link>https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/07/norm-ai-hits-unicorn-status-with-120m-series-c-at-1-2-billion-valuation.html</guid>
-      <description>Norm Ai, the New York-based legal and compliance AI company, today announced a $120 million Series C round at a $1.2 billion valuation, crossing the unicorn threshold and joining a growing but still select club of legal AI companies valued at $1 billion or more. Khosla Ventures led the round, in its first investment in [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 14:35:46 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>AI law startup Norm raises $120M, hits unicorn valuation</title>
-      <link>https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/</guid>
-      <description>AI law startup Norm has raised a $120 million Series C round led by Khosla Ventures, valuing the startup at $1.2 billion.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 14:35:42 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
