@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 17:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 108 – In a word, applesauce</title>
+      <link>https://www.citationneeded.news/issue-108/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/issue-108/</guid>
+      <description>Firms close up shop amid a continued crypto winter, a Trump venture ditches its crypto plans, and the Clarity Act fails to reach a vote before August recess&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 21:58:24 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/08/applesauce.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/08/applesauce.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
     <item>
       <title>Teaching Judgment In The Age Of AI: Building Legal Professionals Who Rely On AI Responsibly</title>
       <link>https://abovethelaw.com/2026/08/teaching-judgment-in-the-age-of-ai-building-legal-professionals-who-rely-on-ai-responsibly/</link>
@@ -4371,14 +4381,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/07/blank-rome-hit-with-two-class-actions-after-data-breach-exposes-57000-clients/</guid>
       <description>The FBI warned law firms about this exact scam. The post Blank Rome Hit With Two Class Actions After Data Breach Exposes 57,000 Clients appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 07 Jul 2026 18:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The Legal Tech-To-English Dictionary (2.0): The Current State Of AI</title>
-      <link>https://abovethelaw.com/2026/07/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past-3/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-legal-tech-to-english-dictionary-2-0-the-ghosts-of-artificial-intelligence-past-3/</guid>
-      <description>[Sponsored] There is much to learn about how modern AI functions. The post The Legal Tech-To-English Dictionary (2.0): The Current State Of AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 07 Jul 2026 17:48:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
