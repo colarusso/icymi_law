@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 12:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LawNext: LexisNexis CTO Greg Dickason On Building Legal AI In Real Time with Customers in Its New Innovation Lab</title>
+      <link>https://www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html</guid>
+      <description>This week, LexisNexis announced the opening of its Customer Innovation Lab in New York City — a physical space where legal professionals, LexisNexis engineers, and AI companies such as OpenAI and Amazon Web Services sit in the same room and build legal AI together, in real time. The company is calling it a new model for how legal AI [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 17:47:36 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Discord ordered to suspend livestreams in Brazil</title>
+      <link>https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Discord told the BBC it was &amp;quot;thoughtfully reviewing&amp;quot; the order by Brazil&amp;#x27;s data protection agency and it was &amp;quot;committed to user safety&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 17:10:31 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug</title>
       <link>https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</link>
@@ -4364,22 +4382,6 @@
       <description>Centari, an AI platform for managing complex transactions, today launched External Views, a capability that allows law firms to create white-labeled dashboards and share them directly with clients. The feature builds on Centari&amp;amp;#8217;s Views capability, introduced earlier this year, which enables firms to analyze transaction trends, benchmark market positions, and visualize deal data across their [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Wed, 08 Jul 2026 13:00:55 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>The robotaxi law that could ban Tesla</title>
-      <link>https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla</link>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla</guid>
-      <description>For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, overlapping sensors like lidar and radar to navigate the world reliably? Tesla has bet billions of dollars that artificial intelligence and cameras are [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Legatics Data Rooms Launches as VDR Alternative</title>
-      <link>https://www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/08/legatics-data-rooms-launches-as-vdr-alternative/</guid>
-      <description>Legatics has launched its own ‘Data Rooms&amp;amp;#8217; capability, which enables law firms to manage transactions and share confidential documents within a single workflow, and as ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 10:42:42 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
