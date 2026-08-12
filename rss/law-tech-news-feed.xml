@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says</title>
+      <link>https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html</guid>
+      <description>The former Bibb County deputies were arrested this week amid a growing national debate over Flock cameras, which can be found on roads in every state but Alaska.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 20:27:33 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-flockcharges-qcpz/12xp-flockcharges-qcpz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-flockcharges-qcpz/12xp-flockcharges-qcpz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Trump Rushes To Stock FCC With Personal Lackeys, Refuses To Seat Dem Commissioners</title>
       <link>https://www.techdirt.com/2026/08/12/trump-rushes-to-stock-fcc-with-personal-lackeys-refuses-to-seat-dem-commissioners/</link>
@@ -4374,14 +4384,6 @@
       <media:content url="https://i.guim.co.uk/img/media/e3b93d6666c7c862fed2b4ed8e9618f0ba1ce629/0_0_1555_1244/master/1555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc5af6f50492d4277ae4fadb81ae13bf" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/e3b93d6666c7c862fed2b4ed8e9618f0ba1ce629/0_0_1555_1244/master/1555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc5af6f50492d4277ae4fadb81ae13bf" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Oz Joins Pillsbury For Top AI Role</title>
-      <link>https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/08/oz-joins-pillsbury-for-top-ai-role/</guid>
-      <description>International man of mystery and legal AI guru, Oz Benamram, has joined US law firm Pillsbury as its first Chief AI Officer. It’s understood that ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:06:05 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
