@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:07:44 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:07:23 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Pillar of Environmental Enforcement Is Targeted by Trump Administration and Musk’s AI Company</title>
+      <link>https://www.mississippifreepress.org/a-pillar-of-environmental-enforcement-is-targeted-by-trump-and-musks-ai-company/</link>
+      <guid isPermaLink="true">https://www.mississippifreepress.org/a-pillar-of-environmental-enforcement-is-targeted-by-trump-and-musks-ai-company/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wb4judvgfjbiqu646hkggjxc/bafkreifr7g7uhqtbikkwjdixf6kgetdwxgqmtks4eul57sfsyhqiwexggu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Right-leaning legal activists along with Elon Musk’s AI company are challenging the right of private groups to sue over violations of many major laws.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 12 · likes: 22&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 06:07:23 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wb4judvgfjbiqu646hkggjxc/bafkreifr7g7uhqtbikkwjdixf6kgetdwxgqmtks4eul57sfsyhqiwexggu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wb4judvgfjbiqu646hkggjxc/bafkreifr7g7uhqtbikkwjdixf6kgetdwxgqmtks4eul57sfsyhqiwexggu" type="image/jpeg" length="0" />
+      <source url="https://www.mississippifreepress.org">www.mississippifreepress.org</source>
+    </item>
     <item>
       <title>Chinese users of AI companions bereft after government tightens regulations</title>
       <link>https://bit.ly/4bECdQV</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreidck2ht74zb6autoudane6uekacu2qxrhppvn4inimo4l7viihddm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:57vlzz2egy6eqr4nksacmbht/bafkreidck2ht74zb6autoudane6uekacu2qxrhppvn4inimo4l7viihddm" type="image/jpeg" length="0" />
       <source url="https://apnews.com">apnews.com</source>
-    </item>
-    <item>
-      <title>OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice</title>
-      <link>https://nyti.ms/4wjEGbR</link>
-      <guid isPermaLink="true">https://nyti.ms/4wjEGbR</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreiggwi5bnb3tgqejz3o6yd5j4p43wnnyxy3laagg6rs7kmqhiq2fya" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The case appears to be the first to argue that a chatbot’s advice harmed someone seeking guidance about a medical condition.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 65 · likes: 208&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 06:09:25 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreiggwi5bnb3tgqejz3o6yd5j4p43wnnyxy3laagg6rs7kmqhiq2fya" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eclio37ymobqex2ncko63h4r/bafkreiggwi5bnb3tgqejz3o6yd5j4p43wnnyxy3laagg6rs7kmqhiq2fya" type="image/jpeg" length="0" />
-      <source url="https://nyti.ms">nyti.ms</source>
     </item>
   </channel>
 </rss>
