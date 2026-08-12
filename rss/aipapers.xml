@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:09:23 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:10:20 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management</title>
+      <link>https://arxiv.org/abs/2608.07009</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.07009</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreideav22at7bx4sm5tyeqbxcidb4fmal7ir2pfpzlxzpgnmmlzufbm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreideav22at7bx4sm5tyeqbxcidb4fmal7ir2pfpzlxzpgnmmlzufbm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreideav22at7bx4sm5tyeqbxcidb4fmal7ir2pfpzlxzpgnmmlzufbm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</title>
+      <link>https://arxiv.org/abs/2608.06931</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.06931</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigwru6vhlzzw3pfun2tn5k3f2t6w6vtcrednwom2tqpxepq3ktbxa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigwru6vhlzzw3pfun2tn5k3f2t6w6vtcrednwom2tqpxepq3ktbxa" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigwru6vhlzzw3pfun2tn5k3f2t6w6vtcrednwom2tqpxepq3ktbxa" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Alignment has a Fantasia Problem</title>
+      <link>https://arxiv.org/abs/2604.21827</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.21827</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifbdvy3zuikvktgozavmabzdj4gwbeayqxprcct3cedzfw52mhrx4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Alignment has a Fantasia Problem&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifbdvy3zuikvktgozavmabzdj4gwbeayqxprcct3cedzfw52mhrx4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifbdvy3zuikvktgozavmabzdj4gwbeayqxprcct3cedzfw52mhrx4" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>When Do LLMs Admit Their Mistakes? Understanding The Role Of Model Belief In Retraction</title>
+      <link>https://arxiv.org/abs/2505.16170</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2505.16170</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for When Do LLMs Admit Their Mistakes? Understanding The Role Of Model Belief In Retraction&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>People construct simplified mental representations to plan</title>
       <link>https://arxiv.org/abs/2105.06948</link>
@@ -453,44 +493,6 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2607.15769</guid>
       <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative AI and coding agents are intensifying a central governance tension in open-source software (OSS): they scale contribution generation faster than maintainers can assess risk, evidence, and accountability. Existing responses improve agent-readability and traceability, but project rules mus…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
       <pubDate>Tue, 21 Jul 2026 06:10:23 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The False Promise of Imitating Proprietary LLMs</title>
-      <link>https://arxiv.org/abs/2305.15717</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2305.15717</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;An emerging method to cheaply improve a weaker language model is to finetune it on outputs from a stronger model, such as a proprietary system like ChatGPT (e.g., Alpaca, Self-Instruct, and others). T...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 06:10:58 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Excessive Custom Xbrl Tag Usage in 10-K Filings and Sec Oversight</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186126</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5186126</guid>
-      <description>We conduct an in-depth examination of excessive custom XBRL tag usage in 10-K filings among U.S. firms. We discuss why some firms are prone to creating cu&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 4 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 06:10:58 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>A micro Lie theory for state estimation in robotics</title>
-      <link>https://arxiv.org/abs/1812.01537</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/1812.01537</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A Lie group is an old mathematical abstract object dating back to the XIX century, when mathematician Sophus Lie laid the foundations of the theory of continuous transformation groups. As it often hap...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 0 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 06:10:58 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>MathCoPilot: An Interactive System for Human-AI Symbiotic Paradigm of Mathematical Research</title>
-      <link>https://arxiv.org/abs/2607.14582</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.14582</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Existing LLM-based theorem provers have achieved impressive results on formal mathematics benchmarks, yet they remain confined to acting as autonomous agents that prove a stated proposition. In this paper, we propose MathCoPilot, a human-in-the-loop system that embodies a new human--AI symbiotic pa…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 06:09:40 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
