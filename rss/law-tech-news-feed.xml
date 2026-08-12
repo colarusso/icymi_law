@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 17:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not Ready For Prime Time: The Current State Of Legal Ethics And AI</title>
+      <link>https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/</guid>
+      <description>I&amp;amp;#8217;ve been presenting at UC Law San Francisco Lexlab Law and AI certificate program its past several sessions, as well as some law school classes, on whether lawyers&amp;amp;#8217; use of AI complies with the rules of professional conduct governing how lawyers must comport themselves or risk losing their licenses. The legal industry is keen to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 22:11:59 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Trump sued over "brazen" scheme to sell Truth Social API access for $100K a month</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/</guid>
+      <description>With Truth API, Trump is &amp;quot;selling priority access to news he himself generates.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 20:20:52 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says</title>
       <link>https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html</link>
@@ -4366,24 +4384,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261524889-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>This Biglaw Firm Is ‘Dangerous’ — And The Deal Flow Backs It Up</title>
-      <link>https://abovethelaw.com/2026/07/this-biglaw-firm-is-dangerous-and-the-deal-flow-backs-it-up/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/this-biglaw-firm-is-dangerous-and-the-deal-flow-backs-it-up/</guid>
-      <description>A boom in AI-related energy offerings has Latham expecting a record-setting year. The post This Biglaw Firm Is &amp;amp;#8216;Dangerous&amp;amp;#8217; &amp;amp;#8212; And The Deal Flow Backs It Up appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 20:00:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water</guid>
-      <description>Meta said it was working with officials to be a ‘good neighbor’ and drinking water supplies were not affectedOfficials in Wyoming said a contractor for Mark Zuckerberg’s tech company, Meta, flushed bacteria-contaminated water into public sewers during construction of a controversial new AI datacenter.The incident prompted water authorities in Cheyenne to implement strict safety regulations on how wastewater from such projects is disposed of, according to the Wyoming Tribune Eagle, which first reported the incident. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 14:08:00 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/e3b93d6666c7c862fed2b4ed8e9618f0ba1ce629/0_0_1555_1244/master/1555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc5af6f50492d4277ae4fadb81ae13bf" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/e3b93d6666c7c862fed2b4ed8e9618f0ba1ce629/0_0_1555_1244/master/1555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc5af6f50492d4277ae4fadb81ae13bf" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
