@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug</title>
+      <link>https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</guid>
+      <description>This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 15:18:55 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?</title>
+      <link>https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is</guid>
+      <description>Following Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their botsGet our breaking news email, free app or daily news podcastThe law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it causes harm to someone else, I am responsible for that harm.“Even if I didn’t intend for that to happen, it was foreseeable, and I should be taking responsibility.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 15:00:34 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba4b36e5f2a41b4c016388709d1f7ef" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba4b36e5f2a41b4c016388709d1f7ef" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Relativity Announces claiR, A Conversational AI for Lawyers, But You’ll Have to Wait Awhile to Chat with It</title>
       <link>https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html</link>
@@ -4362,24 +4380,6 @@
       <description>Legatics has launched its own ‘Data Rooms&amp;amp;#8217; capability, which enables law firms to manage transactions and share confidential documents within a single workflow, and as ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 08 Jul 2026 10:42:42 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Immunity Run Amok: Section 230 and the Distortion of Tort Law</title>
-      <link>https://feedpress.me/link/16850/17374878/immunity-run-amok-section-230-and-the-distortion-of-tort-law</link>
-      <guid isPermaLink="true">https://feedpress.me/link/16850/17374878/immunity-run-amok-section-230-and-the-distortion-of-tort-law</guid>
-      <description>Dominic Roschival, A Shield for Whom? The Disastrous Hidden Toll of Section 230 on Children, 94 U. Cin. L. Rev. 257 (2025). Nora Freeman Engstrom In his thoughtful—and bracing—Comment, A Shield for Whom? The Disastrous Hidden Toll of Section 230 on Children, Dominic G. Roschival revisits a familiar statute with fresh urgency. He shows that a statute, enacted to furnish limited protection to fledgling online intermediaries, has, through aggressive judicial interpretation, become something else entirely: a sweeping immunity that displaces core [...] The post Immunity Run Amok: Section 230 and the Distortion of Tort Law appeared first on Torts. The post Immunity Run Amok: Section 230 and the Distortion of Tort Law appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 10:30:36 +0000</pubDate>
-      <source url="https://feedpress.me">feedpress.me</source>
-    </item>
-    <item>
-      <title>OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear</title>
-      <link>https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/</guid>
-      <description>Scammers are hijacking government websites to upload ads for “leaked” OnlyFans content. Thousands of copyright complaints from adult creators are helping people avoid malicious links.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 10:30:00 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" medium="image" type="image/gif" />
-      <enclosure url="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" type="image/gif" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
