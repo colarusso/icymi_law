@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 09:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:56:07 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Relativity Announces claiR, A Conversational AI for Lawyers, But You’ll Have to Wait Awhile to Chat with It</title>
+      <link>https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/relativity-announces-clair-a-conversational-ai-for-lawyers-but-youll-have-to-wait-awhile-to-chat-with-it.html</guid>
+      <description>Relativity today announced Relativity claiR, a conversational AI interface that lets lawyers ask plain-language questions across an entire RelativityOne matter and get back answers with citations to the underlying record. Relativity CEO Phil Saunders calls it a fundamentally new way for lawyers to get straight to the answers in their most consequential legal data. “Conversational [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 14:00:12 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Brendan Carr is one firing away from an unchecked FCC</title>
       <link>https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum</link>
@@ -4372,14 +4380,6 @@
       <media:content url="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" medium="image" type="image/gif" />
       <enclosure url="https://media.wired.com/photos/6a4d733cae988deadc1e5529/master/pass/v4-.gif" type="image/gif" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>How Haynes Boone Makes Working with AI a Core Lawyering Skill</title>
-      <link>https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/</guid>
-      <description>By Ian Nelson, Co-Founder, Hotshot. At Haynes Boone, working with generative AI is treated as a core lawyering competency, not just a tool to roll ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 09:58:29 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
