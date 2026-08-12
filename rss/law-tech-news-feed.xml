@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:56:34 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brendan Carr is one firing away from an unchecked FCC</title>
+      <link>https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum</guid>
+      <description>President Donald Trump already holds a Republican majority in the agency tasked with regulating America&amp;#x27;s communications systems. But with a new nomination to the Federal Communications Commission, he could move to shut out opposing voices altogether - albeit at a legal risk. The FCC is currently composed of two Republicans and one Democrat - Republican [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 13:31:19 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Morning Docket: 08.12.26</title>
       <link>https://abovethelaw.com/2026/08/morning-docket-08-12-26/</link>
@@ -4371,14 +4379,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/08/how-haynes-boone-makes-working-with-ai-a-core-lawyering-skill/</guid>
       <description>By Ian Nelson, Co-Founder, Hotshot. At Haynes Boone, working with generative AI is treated as a core lawyering competency, not just a tool to roll ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 08 Jul 2026 09:58:29 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Harvey Increases Token Use 14X in Just 6 Months</title>
-      <link>https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/08/harvey-increases-token-use-14x-in-just-6-months/</guid>
-      <description>Harvey’s co-founder and President, Gabe Pereyra, has announced that the number of tokens processed on the broad legal AI platform have increased by fourteen times ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 08:25:09 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
