@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 16:56:17 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘That is not acceptable’: Judge orders Google to make rival app store installs easier</title>
+      <link>https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier</guid>
+      <description>One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It&amp;#x27;s been nearly three years since a jury unanimously decided [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 21:53:04 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy</title>
+      <link>https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/</guid>
+      <description>Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 21:00:00 +0000</pubDate>
+      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
+    </item>
+    <item>
+      <title>Too Little, Too Late: Flock Admits Their Technology Needs Reforms</title>
+      <link>https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/too-little-too-late-flock-admits-their-technology-needs-reforms</guid>
+      <description>Flock Safety, the embattled vendor of mass surveillance technology, has rolled out a handful of new reforms intended to appease the justified nationwide anger that has seen scores of towns cancel or suspend their contracts with the company for automated license plate readers (ALPRs). The reforms are a combination of long overdue changes along with some cosmetic fixes that fail to address the fundamental dangers of this technology. We should not be letting companies decide how much privacy we deserve. So, what do these reforms actually do? The most consequential is Flock’s default setting of an optional 7-day retention period for ALPR data, down from its original default optional 30-day retention period. This means if police want to retain data beyond the duration of their retention setting, they need to access “Evidence Mode,” i.e., when the desired data is associated with an active investigation and not just a fishing expedition. This is significant because, in at least some circumstances, Flock has previously charged its customers to extend their retention period. So, while towns can likely easily flip the switch to longer retention periods, it might come with a price tag some cities will be unwilling to pay. Flock also has two other, likely easier-to-bypass reforms. The first is offense filtering so that cities can enable other departments to access their ALPR data only if they are investigating certain crimes, e.g., murder or robbery but not immigration-related investigations. The second is supposedly beefing up their audit feature and proactively locking out officers who file suspicious requests for data. The major problem here is the fact that Flock’s enhanced audit and transparency tools help to address a problem that Flock itself has created—an abusable mass surveillance system that tracks all cars all the time. In addition to these reforms, there is also a tone shift coming from Flock’s CEO, Garrett Langley. Langley went from calling the DeFlock movement “terrorists” (which he has since apologized for) and saying that the wave of anti-surveillance anger was more about the current federal administration than it was specifically about his company, to a more conciliatory tone that acknowledges some of the problems of dangerous surveillance, mission creep, and police abuse. Just look at this report from the BBC: “Historically, my point of view as a chief executive of a private company was, I don&amp;#x27;t know if I should be making these decisions. I don&amp;#x27;t know if it&amp;#x27;s my job to say how long data should be retained,” Langley said. He added that he has come to agree with groups like the American Civil Liberties Union and the Electronic Frontier Foundation that police should need an active case number to search Flock&amp;#x27;s data. “They&amp;#x27;re right. I think it should be required.” To be clear, our position has long been that police, at a minimum, need to get a warrant, signed by a judge, in order to search for historic ALPR data regarding specific vehicles. For us, it’s common sense: if police want to dip into historic ALPR data like they were going back in time to retroactively follow your comings and goings, they need a warrant. Fundamentally, these reforms leave us wondering: what is stopping Flock from reversing course on them if their law enforcement customers respond by defecting to another ALPR vendor? Nothing. This all leads to the bigger and more important issue: We should not be letting companies decide how much privacy we deserve. If our privacy is determined by how much surveillance technology vendors decide is too much surveillance, then we’re really out of luck. It shouldn’t be up Flock or any other ALPR vendor to decide how long police can collect and retain data on millions, if not hundreds of millions, of innocent people. We need lawmakers to step up and pass laws that restrict police’s use of surveillance technology. After all, the surveillance business model is the problem, and a few company-imposed slapdash reforms aren’t going to change that. Related Cases:&amp;amp;nbsp;SIREN and CAIR-CA v. San Jose&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 20:52:35 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/alpr-1.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/alpr-1.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Flock “can’t tech its way out” of the stalker cop problem, experts say</title>
       <link>https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/</link>
@@ -4360,34 +4386,6 @@
       <description>This blog post rounds up nearly 20 Section 230 cases (and adjacent cases), mostly from the past four months, that for whatever reason I didn&amp;amp;#8217;t cover in a standalone blog post. Section 230&amp;amp;#8217;s effects are waning overall, but this post... The post Large Roundup of Section 230 Rulings appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Thu, 09 Jul 2026 15:11:47 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers</title>
-      <link>https://abovethelaw.com/2026/07/fractional-general-counsel-a-win-win-proposition-for-certain-clients-and-certain-lawyers/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/fractional-general-counsel-a-win-win-proposition-for-certain-clients-and-certain-lawyers/</guid>
-      <description>With the advent of AI, it becomes much more realistic for a fractional GC concept to work. The post Fractional General Counsel: A Win-Win Proposition For Certain Clients, And Certain Lawyers appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 14:51:37 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The AI success pyramid for corporate legal departments</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/legal/ai-success-pyramid/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/ai-success-pyramid/</guid>
-      <description>AI success requires careful planning that includes understanding how advance technologies and innovation fits within your legal department.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 14:13:46 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_1029906840_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/AdobeStock_1029906840_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway.</title>
-      <link>https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/</guid>
-      <description>Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “chat control” bill to find child abuse material online.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 13:55:08 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
