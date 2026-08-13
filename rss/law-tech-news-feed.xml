@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:55:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple and Epic argue over how much Apple should get from purchases made outside the App Store</title>
+      <link>https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing</guid>
+      <description>In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don&amp;#x27;t use the company&amp;#x27;s in-app purchase system. Epic has already responded, saying that Apple&amp;#x27;s request is &amp;quot;far outside of the bounds&amp;quot; of the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 23:13:24 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Judge Affirms Settlement Allowing HPE’s Deal for Juniper</title>
       <link>https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</link>
@@ -4380,14 +4388,6 @@
       <description>Exterro&amp;#x27;s ARMOUR for FTK brings agentic AI to digital forensics. The post Agentic AI For Forensics Investigations Is Fast, Auditable, And About To Bloody Daubert appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 09 Jul 2026 17:51:38 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Crimson, Midpage + BeSavvy Join New Fuse Cohort</title>
-      <link>https://www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/09/crimson-midpage-besavvy-join-new-fuse-cohort/</guid>
-      <description>A&amp;amp;#38;O Shearman’s Fuse incubator has announced its new cohort of legal tech companies, along with some digital asset startups (not listed here). They include Crimson, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 15:26:37 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
