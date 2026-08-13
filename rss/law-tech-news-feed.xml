@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:56:17 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flock “can’t tech its way out” of the stalker cop problem, experts say</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/</guid>
+      <description>Flock to lock out cops who stalk exes, but agencies can still hide abuse.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 18:10:14 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Flock (Again!) Activates A Camera System A Town Had Voted To Shut Down</title>
       <link>https://www.techdirt.com/2026/08/13/flock-again-activates-a-camera-system-a-town-had-voted-to-shut-down/</link>
@@ -4378,14 +4388,6 @@
       <media:content url="https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>MuskCorp Tries To Bribe Memphis With Cheaper Starlink So They’ll Ignore xAI Data Center Pollution</title>
-      <link>https://www.techdirt.com/2026/07/09/muskcorp-tries-to-bribe-memphis-with-cheaper-starlink-so-theyll-ignore-xai-data-center-pollution/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/07/09/muskcorp-tries-to-bribe-memphis-with-cheaper-starlink-so-theyll-ignore-xai-data-center-pollution/</guid>
-      <description>Civil rights groups like the Southern Environmental Law Center (SELC) have noted how Elon Musk’s Colossus xAI data centers in Memphis&amp;amp;#160;disproportionately pollute the air in minority neighborhoods. A&amp;amp;#160;joint lawsuit&amp;amp;#160;by SELC, Earthjustice, and the NAACP filed last April argued that Musk and friends didn’t bother to get the necessary permits to run the 57 gas turbines [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 12:34:48 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
