@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 09:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are teens on ebikes the ‘new Hells Angels’? Not so fast, boomers</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/aug/13/ebikes-e-motorcycles-teenagers</guid>
+      <description>Experts say better regulation is needed but that bad press about ‘motorized menaces’ puts the ebike revolution at riskBeware, Americans: there’s a battery-powered threat cruising down beach paths, rolling up hiking trails and zipping along the streets of our cities.By now, you’ve likely seen footage on social media of teens racing along streets, popping wheelies and weaving around car traffic with reckless abandon. The Los Angeles Times recently dubbed them the “new Hells Angels”. Other news outlets have referred to them as “motorized menaces” terrorizing communities. Sounds scary. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 14:00:02 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/29da6fbb47729caf022bc4dc225aae67d9d27cc7/535_0_4511_3612/master/4511.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0266ad679d18ed59667bfab772781634" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/29da6fbb47729caf022bc4dc225aae67d9d27cc7/535_0_4511_3612/master/4511.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0266ad679d18ed59667bfab772781634" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Flock is tightening its rules in response to a growing surveillance backlash</title>
+      <link>https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/</guid>
+      <description>The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 13:41:10 +0000</pubDate>
+      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
+    </item>
     <item>
       <title>Flock boss admits surveillance firm took too long to act over police abuse</title>
       <link>https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4370,22 +4388,6 @@
       <media:content url="https://www.eff.org/files/banner_library/mobile-privacy-knight-2_0.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/mobile-privacy-knight-2_0.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers</title>
-      <link>https://www.propublica.org/article/puerto-rico-crim-data-breach</link>
-      <guid isPermaLink="true">https://www.propublica.org/article/puerto-rico-crim-data-breach</guid>
-      <description>The post A Puerto Rico Government Agency Exposed 1 Million Social Security Numbers appeared first on ProPublica.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.propublica.org/feeds/propublica/main&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
-      <source url="https://www.propublica.org">www.propublica.org</source>
-    </item>
-    <item>
-      <title>Darrow Cuts Roles as Part of Strategic Restructure</title>
-      <link>https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/09/darrow-cuts-roles-as-part-of-strategic-restructure/</guid>
-      <description>Darrow, the pioneering litigation intelligence platform, has undergone a restructuring with multiple roles cut. However, the Israel-based company underlined they had ‘consistent year-over-year growth’ and ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 08:12:33 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
