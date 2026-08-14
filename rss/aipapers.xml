@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:09:28 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:10:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cognitive Convergence: Deep Similarities Between Large Language Models and Human Cognition</title>
+      <link>https://arxiv.org/abs/2607.26179</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.26179</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yizh3yeq6wcfggftrvf6ta5p/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs are widely regarded as alien intelligences, systems whose cognitive operations are fundamentally unlike our own. Apparent similarities to human cognition are therefore often seen as the result of...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 06:10:11 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yizh3yeq6wcfggftrvf6ta5p/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yizh3yeq6wcfggftrvf6ta5p/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Is Misinformation More Open? A Study of robots.txt Gatekeeping on the Web</title>
+      <link>https://arxiv.org/abs/2510.10315</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.10315</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agacb2hbsfpuguomyq7cxdxv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Models (LLMs) are increasingly relying on web crawling to stay up to date and accurately answer user queries. These crawlers are expected to honor robots.txt files, which govern automat...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 06:10:11 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agacb2hbsfpuguomyq7cxdxv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agacb2hbsfpuguomyq7cxdxv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>How Organizations Use AI: Evidence from ChatGPT</title>
+      <link>https://arxiv.org/abs/2608.12236</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12236</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidqscbqfvrjlnsgjljmzmz26mzfmdnhu3lagzen2bjsphlox2emym" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for How Organizations Use AI: Evidence from ChatGPT&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 06:10:11 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidqscbqfvrjlnsgjljmzmz26mzfmdnhu3lagzen2bjsphlox2emym" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidqscbqfvrjlnsgjljmzmz26mzfmdnhu3lagzen2bjsphlox2emym" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Tracing Generative AI in Digital Art: A Longitudinal Study of Chinese Painters' Attitudes, Practices, and Identity Negotiation</title>
       <link>https://arxiv.org/abs/2511.03117</link>
@@ -467,36 +497,6 @@
       <pubDate>Thu, 23 Jul 2026 06:12:08 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>LLMs can hide text in other text of the same length</title>
-      <link>https://arxiv.org/abs/2510.20075</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.20075</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A meaningful text can be hidden inside another, completely different yet still coherent and plausible, text of the same length. For example, a tweet containing a harsh political critique could be embe...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 1 · likes: 15&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 06:12:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Octopus: On-device language model for function calling of software APIs</title>
-      <link>https://arxiv.org/abs/2404.01549</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2404.01549</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaqlol2ufh7wfsvdrv2q45ejuqaxj5mczj5vvjk3qnrrmijg5b6ye" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Octopus: On-device language model for function calling of software APIs&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 06:12:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaqlol2ufh7wfsvdrv2q45ejuqaxj5mczj5vvjk3qnrrmijg5b6ye" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaqlol2ufh7wfsvdrv2q45ejuqaxj5mczj5vvjk3qnrrmijg5b6ye" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent</title>
-      <link>https://arxiv.org/abs/2404.11459</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2404.11459</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih5b4j2pgvvipl3kfbe4xr3ptp2idpevka5zve4tjxhgmq3hq6cu4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 06:11:48 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih5b4j2pgvvipl3kfbe4xr3ptp2idpevka5zve4tjxhgmq3hq6cu4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih5b4j2pgvvipl3kfbe4xr3ptp2idpevka5zve4tjxhgmq3hq6cu4" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
