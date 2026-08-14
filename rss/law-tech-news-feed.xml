@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 17:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pro Se Plaintiff Caught Hiding Prompt Injections In Court Filings; Responds By Hiding More</title>
+      <link>https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/</guid>
+      <description>There have now been dozens of stories of bad lawyers using AI results in filings, most of which show up in the form of fake case citations. That&amp;amp;#8217;s old hat at this point. But how about prompt injections in court filings? There have been a few people warning that it&amp;amp;#8217;s coming. A year ago, Louisiana [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 22:34:31 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>New York City Lawmakers Push to ‘Ban the Scan’ at MSG</title>
       <link>https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/</link>
@@ -4374,16 +4382,6 @@
       <description>Discovery Really Is The Best Part Of Litigation: ABA wants the deets on the Trump Biglaw executive orders. The World&amp;#x27;s Best Law Schools: Of course the USA features prominently on this ranking. CSI Agentic: Exterro releases an agentic AI tool for forensics. Courts will take a while to come to grips with this. Born To Lose: Donald Trump asks Supreme Court for big favor by calling them insane. The post Donald Trump Doesn&amp;amp;#8217;t Understand The Adage About Catching Flies With Honey &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 09 Jul 2026 23:33:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Instagram’s AI image generator alarms privacy experts</title>
-      <link>https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy</guid>
-      <description>Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warnMeta has sparked blowback from privacy advocates for allowing its new AI image maker to generate photos of users with public profiles by default.Users of Meta’s Muse Image AI tool, released Tuesday, can tag public Instagram profiles and generate pictures that pull from faces of people featured in these social media posts. Instagram users aren’t notified when their posts are integrated into what the company describes as its “most advanced image generation model yet”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 22:15:29 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d828e5e84b2d1dc3a978cf01b73a17bc" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d828e5e84b2d1dc3a978cf01b73a17bc" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
