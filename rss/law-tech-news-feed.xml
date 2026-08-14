@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 16:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York City Lawmakers Push to ‘Ban the Scan’ at MSG</title>
+      <link>https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/</guid>
+      <description>At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 14 Aug 2026 21:43:17 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>Don’t Put Secret AI Instructions In Court Filings! But Also… Why Are We Worried About This?</title>
       <link>https://abovethelaw.com/2026/08/dont-put-secret-ai-instructions-in-court-filings-but-also-why-are-we-worried-about-this/</link>
@@ -4374,14 +4384,6 @@
       <media:content url="https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d828e5e84b2d1dc3a978cf01b73a17bc" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/master/5033.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d828e5e84b2d1dc3a978cf01b73a17bc" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update)</title>
-      <link>https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/</link>
-      <guid isPermaLink="true">https://www.myshingle.com/2026/07/can-lawyers-legally-and-ethically-record-conversations-with-clients-using-artificial-intelligence/</guid>
-      <description>Now with guidance from NYC Opinion 1270 on ethical issues related to attorneys using AI transcription, and more. The post Lawyers’ Use Of AI Notetakers And Client Conversations: Ethics Rules, Risks, And Best Practices (2026 Update) appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 22:12:00 +0000</pubDate>
-      <source url="https://www.myshingle.com">www.myshingle.com</source>
     </item>
   </channel>
 </rss>
