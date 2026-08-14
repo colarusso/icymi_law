@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flock Safety tries to curb police abuse of its surveillance cameras after scandals</title>
+      <link>https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras</guid>
+      <description>CEO announces steps after reports that system is used to target immigrants or people seeking out-of-state abortionsFor nearly a decade, the company Flock Safety has gradually built out a network of cameras across the US that allows law enforcement officials to conduct about 20bn license plate scans every month.In that time, the company had largely left the decision to turn on safety measures up to its customers. Many of those organizations did not turn them on. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 13 Aug 2026 20:20:04 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f642970a912d5c1a57b996894269f11d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f642970a912d5c1a57b996894269f11d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Apple proposes to take a 15% cut of purchases made outside the App Store</title>
       <link>https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/</link>
@@ -4374,14 +4384,6 @@
       <media:content url="https://www.eff.org/files/banner_library/mayday_health_banner.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/mayday_health_banner.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>New York Times says OpenAI hid evidence in ChatGPT copyright trial</title>
-      <link>https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</guid>
-      <description>News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 19:05:58 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
