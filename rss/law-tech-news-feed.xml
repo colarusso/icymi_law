@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 18:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 19:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>If Meta loses this trial, Instagram and Facebook could change forever</title>
+      <link>https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Thirty US states have sued Meta to force an overhaul of its platforms for young users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 23:27:36 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns</title>
       <link>https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns</link>
@@ -4374,16 +4384,6 @@
       <media:content url="https://i.guim.co.uk/img/media/668d582c14b027aeb83f04851b02e30cd094bacc/801_686_3645_2916/master/3645.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee7c74f709efdbf6d2606d74595fce93" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/668d582c14b027aeb83f04851b02e30cd094bacc/801_686_3645_2916/master/3645.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee7c74f709efdbf6d2606d74595fce93" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Big tech must deal with scam ads under Ofcom proposals</title>
-      <link>https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Ofcom says more than half of UK adults have encountered potentially fraudulent ads online.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 09:59:19 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f656/live/df041af0-7c42-11f1-8ccc-df652c9169a7.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f656/live/df041af0-7c42-11f1-8ccc-df652c9169a7.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
