@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Aug 2026 06:09:07 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:11:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise</title>
+      <link>https://arxiv.org/abs/2607.29380</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.29380</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyshssjs4qzxapfylmniqfvx/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regenera...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 06:11:57 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyshssjs4qzxapfylmniqfvx/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyshssjs4qzxapfylmniqfvx/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Art Critics Won't Save You from the Robots: Confronting A.I. as Misappropriation</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6999539</link>
@@ -488,14 +498,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI Entanglement: Accounting for dependencies in general-purpose AI policy, regulation, and practice</title>
-      <link>http://papers.ssrn.com/sol3/papers.cfm?abstract_id=7151718</link>
-      <guid isPermaLink="true">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=7151718</guid>
-      <description>AI artifacts like models, datasets, and web platforms increasingly help build other AI artifacts. Developers rely on existing models to generat&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 06:10:38 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
