@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:11:57 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:08:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does ChatGPT score research quality differently by gender?</title>
+      <link>https://arxiv.org/abs/2608.09552</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.09552</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kvz7yh4s5emycbsz2y7rm4dd/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Models (LLMs) are being considered for research evaluation, raising concerns about the introduction of AI bias. This study investigates whether ChatGPT research quality scores differ by...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 13 · likes: 23&lt;/small&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 06:08:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kvz7yh4s5emycbsz2y7rm4dd/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kvz7yh4s5emycbsz2y7rm4dd/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI Guardrail Survival under Single-Cycle Agentic Self-Summarization</title>
+      <link>https://arxiv.org/abs/2608.11392</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.11392</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreib4grpluomd7dun5a4tm63tlmkgmjmojvvi2hzjj5uaanwxeclgj4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for AI Guardrail Survival under Single-Cycle Agentic Self-Summarization&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 06:08:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreib4grpluomd7dun5a4tm63tlmkgmjmojvvi2hzjj5uaanwxeclgj4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreib4grpluomd7dun5a4tm63tlmkgmjmojvvi2hzjj5uaanwxeclgj4" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs</title>
+      <link>https://arxiv.org/abs/2608.12675</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12675</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries. Existing privacy research on RAG has focused on preventing unauthorized users from accessing sensitive data. However, another important problem that is often ove…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 06:08:08 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs</title>
+      <link>https://arxiv.org/abs/2608.13454</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.13454</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihqv7ivbv3dnwypyf4nlxcbosrrzelluv7jd25o4hyck4lfpdz2ki" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Before You Say It: Anticipating Verbal Behavior from Longitudinal Everyday Conversations with LLMs&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Mon, 17 Aug 2026 06:08:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihqv7ivbv3dnwypyf4nlxcbosrrzelluv7jd25o4hyck4lfpdz2ki" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihqv7ivbv3dnwypyf4nlxcbosrrzelluv7jd25o4hyck4lfpdz2ki" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise</title>
       <link>https://arxiv.org/abs/2607.29380</link>
@@ -457,46 +497,6 @@
       <pubDate>Sun, 26 Jul 2026 06:10:03 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibd2vybt5niis7zyp2lmv3fqg6bwk66sxug3kgn2zcb7mhtwkqwyq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibd2vybt5niis7zyp2lmv3fqg6bwk66sxug3kgn2zcb7mhtwkqwyq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI systems out-persuade expert humans</title>
-      <link>https://arxiv.org/abs/2606.16475</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.16475</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Many societal decisions are settled by contests of persuasion. Conversational AI is a powerful new entrant in these contests, but whether it can out-persuade skilled and highly incentivized humans has...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 31 · likes: 128&lt;/small&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 09:09:10 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>3D-Aware VLMs with Implicit and Explicit Geometries</title>
-      <link>https://arxiv.org/abs/2607.21595</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.21595</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif56ubxo5euijkzr4jszouftfceppol3ia2tekrqrz2twjhxcriba" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for 3D-Aware VLMs with Implicit and Explicit Geometries&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 09:09:10 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif56ubxo5euijkzr4jszouftfceppol3ia2tekrqrz2twjhxcriba" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreif56ubxo5euijkzr4jszouftfceppol3ia2tekrqrz2twjhxcriba" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Kimi Linear: An Expressive, Efficient Attention Architecture</title>
-      <link>https://arxiv.org/abs/2510.26692?utm_campaign=The%20Batch&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8KAuEYp4RL56msN-qThdZgIy3lXiIqGLL6swFd0mZ9ti_Y_h6ryr0UQiNhgWFwcbBe9uDOtYL2ypZq5jWi8QHgnUAdeenf81xGN56C8to9entIIb4&amp;_hsmi=429858740&amp;utm_content=429859766&amp;utm_source=hs_email</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.26692?utm_campaign=The%20Batch&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8KAuEYp4RL56msN-qThdZgIy3lXiIqGLL6swFd0mZ9ti_Y_h6ryr0UQiNhgWFwcbBe9uDOtYL2ypZq5jWi8QHgnUAdeenf81xGN56C8to9entIIb4&amp;_hsmi=429858740&amp;utm_content=429859766&amp;utm_source=hs_email</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qninmqhyuqoi3qiaipmtqcoy/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We introduce Kimi Linear, a hybrid linear attention architecture that, for the first time, outperforms full attention under fair comparisons across various scenarios -- including short-context, long-c...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sat, 25 Jul 2026 09:09:10 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qninmqhyuqoi3qiaipmtqcoy/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qninmqhyuqoi3qiaipmtqcoy/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Ethics of Autonomous AI Agents for Offensive Security</title>
-      <link>https://arxiv.org/abs/2607.20255</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.20255</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic securi...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 06:10:38 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
