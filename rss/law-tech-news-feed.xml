@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 13:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social media on trial as $200bn case against Facebook and Instagram begins</title>
+      <link>https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial</guid>
+      <description>Twenty-nine US states are seeking huge damages, claiming Meta’s platforms were addictive by designIn 1994, more than 40 US states came together to sue one of the most powerful industries on Earth: big tobacco.The suits brought together diverse claims centred on tobacco companies’ misleading advertising and contribution to a mounting public health crisis. They ended in a negotiated settlement with the US government, in which the companies agreed to pay more than any industry ever, and the states agreed to drop a large portion of their claims. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 18:27:09 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/e1fc5116f02a1c2207b15876404b6c8cf3764908/43_0_4923_3937/master/4923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de71a45336a3698eadfff43666487ec" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/e1fc5116f02a1c2207b15876404b6c8cf3764908/43_0_4923_3937/master/4923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de71a45336a3698eadfff43666487ec" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Clio Docket Is Now In Clio Work, Combining An AI Workspace with Access to More Than 1 Billion Court Filings</title>
       <link>https://www.lawnext.com/2026/08/clio-docket-is-now-in-clio-work-combining-an-ai-workspace-with-access-to-more-than-1-billion-court-filings.html</link>
@@ -4358,14 +4368,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c345/live/988f5600-7ca3-11f1-bc75-67a16fbc54d2.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>The FCC is cracking down on DJI tech that dodged the foreign drone ban</title>
-      <link>https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab</guid>
-      <description>Last year, we told you about Xtra, the company that lets DJI sneak its popular cameras into the US, and Skyrover, a brand seemingly selling DJI drones in disguise. They&amp;#x27;re just two of the many firms DJI is suspected of starting to skirt the United States&amp;#x27; foreign drone ban. But it appears the FCC is [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 22:35:18 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
