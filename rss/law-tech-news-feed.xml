@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:55:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Removes Some Fees for App Developers in European Union</title>
+      <link>https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html</guid>
+      <description>The move followed a long battle with regulators over the company’s tight controls of its App Store.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 21:47:23 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case</title>
       <link>https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/</link>
@@ -4356,16 +4366,6 @@
       <description>On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Sat, 11 Jul 2026 00:10:38 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Increased drone surveillance of illegal July 4th fireworks led to $100K fine</title>
-      <link>https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/</guid>
-      <description>More police and firefighters use drones to catch and deter illegal fireworks.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 22:37:22 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2282959319-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2282959319-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
