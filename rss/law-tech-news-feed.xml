@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta hooked children on Facebook and Instagram, court hears</title>
+      <link>https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 22:11:07 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Apple Removes Some Fees for App Developers in European Union</title>
       <link>https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html</link>
@@ -4358,14 +4368,6 @@
       <description>Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend, Sophia Kianni, is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Sat, 11 Jul 2026 00:29:25 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>No, Flock isn&amp;#8217;t threatening people for debating surveillance</title>
-      <link>https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter</guid>
-      <description>On Thursday, the Instagram account for a lecture series in Newport Beach, CA posted a photo of what appeared to be a cease and desist letter from the surveillance technology company Flock Safety. Flock has received significant backlash over its technology and work with law enforcement agencies, and this letter kicked off yet another wave [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 00:10:38 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
