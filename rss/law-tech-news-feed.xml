@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right</title>
+      <link>https://abovethelaw.com/2026/08/avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get-right/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/avoiding-the-ai-efficiency-trap-what-biglaw-needs-to-get-right/</guid>
+      <description>[Sponsored] Join our expert panel on Sept. 9 to hear key takeaways from ILTACON 2026 — and the implications for the law firm business model. The post Avoiding The AI Efficiency Trap: What Biglaw Needs To Get Right appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 15:33:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Pluralistic: IP can't save you from AI (18 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/18/enron-corpus/</link>
@@ -4360,16 +4368,6 @@
       <description>Position your law firm as an approachable source of quality information, and showcase your legal expertise. The post The Death Of Organic Reach On Social: What Lawyers Can Do appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 10 Jul 2026 21:31:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Apple Sues OpenAI, Accusing It of Stealing Company Secrets</title>
-      <link>https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html</guid>
-      <description>The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 21:08:14 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
