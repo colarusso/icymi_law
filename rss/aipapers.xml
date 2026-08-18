@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Aug 2026 06:08:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:08:33 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation</title>
+      <link>https://arxiv.org/abs/2608.12125</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.12125</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As LLM-based agents with user-instructed goals are becoming widely deployed, they increasingly encounter each other in strategic interactions, and face challenges of finding mutually beneficial outcom...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 06:08:33 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>When Search Eats the Web: A Model of Corpus Erosion under Generative Extraction</title>
+      <link>https://arxiv.org/abs/2608.15896</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.15896</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5enzd3zu3ujdwcw2qq7awccv/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative search engines (GSEs) answer user queries directly from crawled web content. The capture of value from the corpus without a visit returned to the source (we call this capture extraction) di...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Tue, 18 Aug 2026 06:08:33 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5enzd3zu3ujdwcw2qq7awccv/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5enzd3zu3ujdwcw2qq7awccv/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Does ChatGPT score research quality differently by gender?</title>
       <link>https://arxiv.org/abs/2608.09552</link>
@@ -477,26 +497,6 @@
       <pubDate>Mon, 27 Jul 2026 06:07:53 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Generative AI floods and dilutes the market for books</title>
-      <link>https://arxiv.org/abs/2607.20349</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.20349</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop&amp;#x27;&amp;#x27; that buyers will ignore, and are assumed to carry little commercial we...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 3 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 06:10:03 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>GuardianAgentBench: Where Agents Fail and How to Guard Them</title>
-      <link>https://arxiv.org/abs/2607.20982</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.20982</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibd2vybt5niis7zyp2lmv3fqg6bwk66sxug3kgn2zcb7mhtwkqwyq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for GuardianAgentBench: Where Agents Fail and How to Guard Them&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Sun, 26 Jul 2026 06:10:03 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibd2vybt5niis7zyp2lmv3fqg6bwk66sxug3kgn2zcb7mhtwkqwyq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibd2vybt5niis7zyp2lmv3fqg6bwk66sxug3kgn2zcb7mhtwkqwyq" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
