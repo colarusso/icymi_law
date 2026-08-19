@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 12:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta ran ads for an app promising to nudify female politicians</title>
+      <link>https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/</guid>
+      <description>One ad featured a pornographic video with deepfake closely resembling a US politician.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 15:45:29 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2250404047-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>📍 The Sneaky Code Tracking App Users | EFFector 38.15</title>
       <link>https://www.eff.org/deeplinks/2026/08/sneaky-code-tracking-app-users-effector-3815</link>
@@ -4360,14 +4370,6 @@
       <description>Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Lawyer &amp;amp;#8216;Negligence&amp;amp;#8217; For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban &amp;amp;amp; More appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 13 Jul 2026 17:11:26 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The 6 wildest claims in Apple&amp;#8217;s lawsuit against OpenAI</title>
-      <link>https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims</guid>
-      <description>When Apple employees interviewed for jobs at OpenAI, the AI startup&amp;#x27;s hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That&amp;#x27;s according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 17:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
