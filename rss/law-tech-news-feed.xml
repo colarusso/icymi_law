@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:56:38 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morning Docket: 08.19.26</title>
+      <link>https://abovethelaw.com/2026/08/morning-docket-08-19-26/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/morning-docket-08-19-26/</guid>
+      <description>* Disney goes to war with Trump administration over Kimmel retaliation effort. [NPR] * Morgan &amp;amp;#38; Morgan goes to court over Florida ban on celebrities in lawyer ads. [Florida Phoenix] * Hugh Hefner repeatedly tried to get the FBI to act on Epstein over 20 years ago say survivors in lawsuit. [Law Commentary] * Missouri weighs lowering pass score for bar exam after NextGen debacle. [ABA Journal] * Harvey unveils its own LLM named Tenet. [Business Insider] * In least shocking revelation of the day, whistleblowers suggest DOJ senior leadership reverse engineered political probes. [Courthouse News Service] * Fourth Circuit blocks ICE from rounding people up at churches. [CBS News] The post Morning Docket: 08.19.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 12:58:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Harvey Picks DeepL For Legal Translation</title>
       <link>https://www.artificiallawyer.com/2026/08/19/harvey-picks-deepl-for-legal-translation/</link>
@@ -4356,14 +4364,6 @@
       <media:content url="https://i.guim.co.uk/img/media/d54bc0f6ffbe7f61c31d660dc4f73230d751048c/418_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7eb14940eec6f6f321a7d8944031f91" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/d54bc0f6ffbe7f61c31d660dc4f73230d751048c/418_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7eb14940eec6f6f321a7d8944031f91" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Social media limits are coming for teens across Europe</title>
-      <link>https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules</guid>
-      <description>The European Union is weighing sweeping new restrictions on children&amp;#x27;s and teenagers&amp;#x27; access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are allowed to use them. European Commission President Ursula von der Leyen said [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 09:22:52 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
