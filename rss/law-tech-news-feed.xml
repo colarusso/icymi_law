@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:55:49 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does giving a camera wings dodge the FCC’s drone ban?</title>
+      <link>https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo</guid>
+      <description>HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand&amp;#x27;s latest trick might be its riskiest: it&amp;#x27;s attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 22:35:20 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Flight attendants freaked out that Google is buying tons of Spirit employee data</title>
       <link>https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/</link>
@@ -4362,14 +4370,6 @@
       <description>Which AI models are actually best at legal work? A new platform launched in beta by the alternative legal services provider Percipient aims to answer that question by letting legal professionals put the models to the test themselves, in blind, head-to-head comparisons, and all at no cost. The platform, Certera.AI, lets a user submit a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Mon, 13 Jul 2026 19:02:18 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>The wildest allegations in Apple’s trade secrets lawsuit against OpenAI</title>
-      <link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</guid>
-      <description>Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 18:22:10 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
