@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>French Constitutional Council Blocks Under-15 Social Media Ban, In A Ruling That Should Concern Every Other EU Country</title>
+      <link>https://www.techdirt.com/2026/08/19/french-constitutional-council-blocks-under-15-social-media-ban-in-a-ruling-that-should-concern-every-other-eu-country/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/19/french-constitutional-council-blocks-under-15-social-media-ban-in-a-ruling-that-should-concern-every-other-eu-country/</guid>
+      <description>Even as the wider EU was grinding through a long, drawn-out process to figure out which regulatory levers to pull on kids&amp;amp;#8217; safety online, France decided to YOLO it earlier this summer by jumping at the chance to ban all social media for kids under 15. This kind of thing has become popular with out [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 18:05:54 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Meta ran ads for an app promising to nudify female politicians</title>
       <link>https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/</link>
@@ -4362,14 +4370,6 @@
       <media:content url="https://www.eff.org/files/banner_library/videogame.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/videogame.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Legal Ethics Roundup: Lawyer ‘Negligence’ For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban &amp; More</title>
-      <link>https://abovethelaw.com/2026/07/legal-ethics-roundup-lawyer-negligence-for-not-using-ai-cameras-at-scotus-law-school-laptop-ban-more/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/legal-ethics-roundup-lawyer-negligence-for-not-using-ai-cameras-at-scotus-law-school-laptop-ban-more/</guid>
-      <description>Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Lawyer &amp;amp;#8216;Negligence&amp;amp;#8217; For Not Using AI, Cameras At SCOTUS, Law School Laptop Ban &amp;amp;amp; More appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 17:11:26 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
