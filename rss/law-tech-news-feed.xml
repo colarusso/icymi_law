@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US distributor of China’s most popular humanoid robots pivots after US ban</title>
+      <link>https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/</guid>
+      <description>FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 22:00:11 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit</title>
       <link>https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html</link>
@@ -4358,14 +4368,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/meta-ai-1152x648-1784056210.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>How The Spread Of Local AI Models Makes Copyright Enforcement Harder</title>
-      <link>https://www.techdirt.com/2026/07/14/how-the-spread-of-local-ai-models-makes-copyright-enforcement-harder/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/07/14/how-the-spread-of-local-ai-models-makes-copyright-enforcement-harder/</guid>
-      <description>The central theme of Walled Culture the book (free digital versions&amp;amp;#160;available) is the growing incompatibility between traditional copyright law and the digital, online world. The culmination of that process was the&amp;amp;#160;EU Copyright Directive, passed in 2019. The Directive was supposed to be transposed into local laws by 2021, but a year after that deadline, many [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 20:49:25 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
