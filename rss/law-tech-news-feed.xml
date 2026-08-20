@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders</title>
+      <link>https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/</guid>
+      <description>Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 19:15:05 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Roblox must make changes after failing to block adults creeping on kids</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/</guid>
+      <description>Roblox is first platform to submit to independent audits under the Online Safety Act.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 17:14:08 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Australia says Roblox hasn&amp;#8217;t fixed its child predator problem</title>
       <link>https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety</link>
@@ -4350,22 +4368,6 @@
       <media:content url="https://www.eff.org/files/banner_library/3d-ny-3-banner.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/3d-ny-3-banner.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>AI-First Law Firms Don’t Work Fewer Hours, They Work Smarter Hours</title>
-      <link>https://abovethelaw.com/2026/07/ai-first-law-firms-dont-work-fewer-hours-they-work-smarter-hours/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/ai-first-law-firms-dont-work-fewer-hours-they-work-smarter-hours/</guid>
-      <description>The part everyone skips when discussing AI firms is how much managing the machine actually takes. The post AI-First Law Firms Don&amp;amp;#8217;t Work Fewer Hours, They Work Smarter Hours appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 19:12:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Google faces another AI training lawsuit from major publishers</title>
-      <link>https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</guid>
-      <description>Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 18:33:31 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
