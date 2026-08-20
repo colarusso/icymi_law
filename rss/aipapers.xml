@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:08:50 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:08:28 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics in the age of AI</title>
+      <link>https://arxiv.org/abs/2608.16753</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16753</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;An essay, based on a public lecture delivered at the 2026 International Congress of Mathematicians, on how the mathematical community might respond to the arrival of artificial intelligence tools that...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 21 · likes: 67&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 06:08:28 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The Generative AI Learning Penalty: Evidence from Chinese Secondary Education</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618</guid>
+      <description>Using 30 months of panel data on 26,811 Chinese students in grades 7-12, we study how generative AI affects homework productivity and learning. The data combine&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 15&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 06:08:28 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents</title>
+      <link>https://arxiv.org/abs/2608.16578</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16578</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreics63ylqbgxphf3juw7qfqwaspriqeluj37ndhk7shymybzgfygde" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Physics of Agents: Statistical Mechanics Predicts Collective Behavior of AI Agents&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 06:08:28 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreics63ylqbgxphf3juw7qfqwaspriqeluj37ndhk7shymybzgfygde" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreics63ylqbgxphf3juw7qfqwaspriqeluj37ndhk7shymybzgfygde" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Base Models Look Human To AI Detectors</title>
       <link>https://arxiv.org/abs/2605.19516</link>
@@ -469,34 +497,6 @@
       <pubDate>Wed, 29 Jul 2026 06:10:22 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiacpe7g7hmthno3ll5wksotepeawjcvmpymovbmlrwckzkd53t34y" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiacpe7g7hmthno3ll5wksotepeawjcvmpymovbmlrwckzkd53t34y" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>From peer review nuances to best practices</title>
-      <link>https://arxiv.org/abs/2607.22681</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.22681</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mnly77ciucowvudu2dw6w56z/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;This report studies three nuances in peer review data: paper version, score version, and input format. We characterize how the variants differ, and measure their impact on downstream tasks. Based on o...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 06:10:22 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mnly77ciucowvudu2dw6w56z/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mnly77ciucowvudu2dw6w56z/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Randomness in large language models: What researchers need to know (and report)</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7191580</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7191580</guid>
-      <description>Large language models (LLMs) are increasingly used to generate data for research. Typical use cases are classifications, annotations, information extraction, an&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 4 · likes: 25&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 06:08:35 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Elias in the Lighthouse, Again? Diagnosing Low Diversity in LLM Stories</title>
-      <link>https://arxiv.org/abs/2605.26492</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.26492</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLM-generated stories are a popular use case, but they show very low variability. We sample 20,000 total stories from four current models using five prompts. We find that 11 words occur in 88.3% of ge...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 06:08:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
