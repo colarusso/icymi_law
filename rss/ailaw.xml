@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 06:07:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:06:45 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcast: Amazon is Destroying Rare Books to Train AI</title>
+      <link>https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/</link>
+      <guid isPermaLink="true">https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreieplklltoq4vlujln7qlsx5sg2okrkv3ofkuynctt77lj4ovtdzga" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta&amp;#x27;s new patent for its AI smart glasses.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 110 · likes: 208&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 06:06:45 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreieplklltoq4vlujln7qlsx5sg2okrkv3ofkuynctt77lj4ovtdzga" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreieplklltoq4vlujln7qlsx5sg2okrkv3ofkuynctt77lj4ovtdzga" type="image/jpeg" length="0" />
+      <source url="https://www.404media.co">www.404media.co</source>
+    </item>
+    <item>
+      <title>Artificial Intelligence Policy</title>
+      <link>https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</link>
+      <guid isPermaLink="true">https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uj2g526vwfe3qnpuskjexeyp/bafkreia4mfbzulerefvmm4rsqgoqslaucmlptfgydovvwujmwmwdahpz6i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Effective Summer 2026 Purpose Future lawyers may need to use artificial intelligence (“AI”) fluently. But the current state of the technology requires that AI use be coupled with the cognitive […]&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 20 · likes: 63&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 06:06:45 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uj2g526vwfe3qnpuskjexeyp/bafkreia4mfbzulerefvmm4rsqgoqslaucmlptfgydovvwujmwmwdahpz6i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uj2g526vwfe3qnpuskjexeyp/bafkreia4mfbzulerefvmm4rsqgoqslaucmlptfgydovvwujmwmwdahpz6i" type="image/jpeg" length="0" />
+      <source url="https://www.law.berkeley.edu">www.law.berkeley.edu</source>
+    </item>
+    <item>
+      <title>Zuckerberg’s AI Manifesto Lost it at Compute</title>
+      <link>https://techpolicy.press/zuckerbergs-ai-manifesto-lost-it-at-compute</link>
+      <guid isPermaLink="true">https://techpolicy.press/zuckerbergs-ai-manifesto-lost-it-at-compute</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreibwethbzse6ts5vqvxoa3bt3uh4yjh6ckd63zll7dgsf7h46fuop4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;It&amp;#x27;s worth asking what it would take to actually democratize AI at each layer of the stack, writes Ellen P. Goodman, starting with compute.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 23 · likes: 35&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 06:06:45 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreibwethbzse6ts5vqvxoa3bt3uh4yjh6ckd63zll7dgsf7h46fuop4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreibwethbzse6ts5vqvxoa3bt3uh4yjh6ckd63zll7dgsf7h46fuop4" type="image/jpeg" length="0" />
+      <source url="https://techpolicy.press">techpolicy.press</source>
+    </item>
     <item>
       <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
       <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
@@ -474,36 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreib7l3apo32zqfzk42krlvv4ozfweklbszott4ihsstbtmlh5mfkbe" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreib7l3apo32zqfzk42krlvv4ozfweklbszott4ihsstbtmlh5mfkbe" type="image/jpeg" length="0" />
       <source url="https://www.techpolicy.press">www.techpolicy.press</source>
-    </item>
-    <item>
-      <title>Anthropic says Claude AI hacked three companies during cyber tests</title>
-      <link>https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/anthropic-says-claude-ai-models-accessed-three-companies-during-tests-2026-07-30/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtg6uhgsy2j7k2a6qtcood2w/bafkreihls4hqoub5mjy3jowqfr2n45hmbunbym5wjk6cgxs4qaltf7azim" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Anthropic said on Thursday its AI model Claude hacked into the systems of three companies during testing after a ​configuration error gave it internet access, days after rival OpenAI disclosed a rogue...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 79 · likes: 331&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 06:06:45 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtg6uhgsy2j7k2a6qtcood2w/bafkreihls4hqoub5mjy3jowqfr2n45hmbunbym5wjk6cgxs4qaltf7azim" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xtg6uhgsy2j7k2a6qtcood2w/bafkreihls4hqoub5mjy3jowqfr2n45hmbunbym5wjk6cgxs4qaltf7azim" type="image/jpeg" length="0" />
-      <source url="https://www.reuters.com">www.reuters.com</source>
-    </item>
-    <item>
-      <title>Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests</title>
-      <link>https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jskd23hpbyfv4hrjrwpjh6j/bafkreib5lg4j3yalxe2dtmxg3anexd7tphuo2ewbjx5wwcbmwnkpb2zo7e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 44 · likes: 114&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 06:06:45 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jskd23hpbyfv4hrjrwpjh6j/bafkreib5lg4j3yalxe2dtmxg3anexd7tphuo2ewbjx5wwcbmwnkpb2zo7e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5jskd23hpbyfv4hrjrwpjh6j/bafkreib5lg4j3yalxe2dtmxg3anexd7tphuo2ewbjx5wwcbmwnkpb2zo7e" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>New lawsuit alleges Tesla's Houston test fleet was unsafe | Automotive World</title>
-      <link>https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/</link>
-      <guid isPermaLink="true">https://www.automotiveworld.com/news/new-lawsuit-alleges-teslas-houston-test-fleet-was-unsafe/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yn75hmwkitdshnylue6d3grk/bafkreifwio2jcrin2rggzf446xfcb55hxvq3luxtpxdhsipf3rvlq7v6pa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;If Medrano&amp;#x27;s account holds up, Tesla&amp;#x27;s safety validation numbers may understate the severity of its deployment woes. By Stewart Burnett&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 107 · likes: 284&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 06:07:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yn75hmwkitdshnylue6d3grk/bafkreifwio2jcrin2rggzf446xfcb55hxvq3luxtpxdhsipf3rvlq7v6pa" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yn75hmwkitdshnylue6d3grk/bafkreifwio2jcrin2rggzf446xfcb55hxvq3luxtpxdhsipf3rvlq7v6pa" type="image/jpeg" length="0" />
-      <source url="https://www.automotiveworld.com">www.automotiveworld.com</source>
     </item>
   </channel>
 </rss>
