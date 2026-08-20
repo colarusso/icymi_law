@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 08:56:29 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:56:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform</title>
+      <link>https://www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html</guid>
+      <description>The document management company NetDocuments today announced two additions to its platform&amp;amp;#8217;s AI capabilities. One, Tabular Review, is a tool that lets users analyze collections of documents in a structured table. The other, Legal Authorities, automatically extracts case citations from documents as they are saved to the platform and links them to the full case [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 13:00:42 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>NetDocuments Goes After M&amp;A Due Diligence</title>
       <link>https://www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence/</link>
@@ -4361,14 +4369,6 @@
       <guid isPermaLink="true">https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal</guid>
       <description>An increasing number of people seem to agree the internet is terrible for children - allegedly addictive, destructive to self-esteem, possibly a portal to predators. Over the past year, several countries have started requiring stringent age verification or outright bans for minors. At the end of June in the US, the House of Representatives passed [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Tue, 14 Jul 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>New York becomes the first state to enact a data center moratorium</title>
-      <link>https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium</guid>
-      <description>New hyperscale data centers can&amp;#x27;t set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation&amp;#x27;s first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
