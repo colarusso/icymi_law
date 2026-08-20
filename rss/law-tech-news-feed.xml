@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It’s Greg Brockman’s OpenAI now</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion</guid>
+      <description>OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 15:45:55 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Interview with Twin1 CEO Lewis Liu</title>
+      <link>https://www.artificiallawyer.com/2026/08/20/interview-with-twin1-ceo-lewis-liu/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/interview-with-twin1-ceo-lewis-liu/</guid>
+      <description>As part of the news about the official launch of Twin1 to build digital twins for lawyers, which has just raised $20m from several major ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 14:59:15 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work</title>
       <link>https://abovethelaw.com/2026/08/meet-me-at-iltacon-neostella-case-management-for-how-firms-actually-work/</link>
@@ -4354,22 +4370,6 @@
       <media:content url="https://i.guim.co.uk/img/media/2c7ccfbdcea2f1e22bf16be7169b417717aa59cc/375_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b38d059caa53f1a8bba3cfa1a25b1c" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/2c7ccfbdcea2f1e22bf16be7169b417717aa59cc/375_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b38d059caa53f1a8bba3cfa1a25b1c" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know</title>
-      <link>https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/</link>
-      <guid isPermaLink="true">https://medcitynews.com/2026/07/mayo-clinic-ai-lawsuit/</guid>
-      <description>A former Mayo Clinic research director claims she was silenced, demoted, and ultimately fired for sounding the alarm on AI safety and patient privacy lapses at the health system. Traci Tamiko Eto is now suing Mayo for retaliation. The post Former Mayo Clinic Leader Sues System Over Alleged AI Cover-Up: 6 Things To Know appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:03:00 +0000</pubDate>
-      <source url="https://medcitynews.com">medcitynews.com</source>
-    </item>
-    <item>
-      <title>Sam Altman didn’t need another lawsuit</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo</guid>
-      <description>OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world&amp;#x27;s richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI&amp;#x27;s expensive hardware bet is what&amp;#x27;s on the line. Apple&amp;#x27;s lawsuit against OpenAI, filed in Northern [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:01:07 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
