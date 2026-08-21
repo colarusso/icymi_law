@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 16:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TikTok to pay $400m to US in one of largest child privacy settlements</title>
+      <link>https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected &amp;quot;vast amounts of data&amp;quot; on millions of users under the age of 13.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 21:40:47 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>TikTok reaches $400M settlement over children’s privacy lawsuit</title>
       <link>https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/</link>
@@ -4352,16 +4362,6 @@
       <description>The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 15 Jul 2026 14:21:49 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>AI moves from curiosity to capacity-builder in government legal departments, new report shows</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/government/government-legal-department-report-2026/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/government/government-legal-department-report-2026/</guid>
-      <description>Government legal departments are increasingly adopting AI to help manage growing workloads and staffing shortages, a new report demonstrates.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 14:10:36 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/GLD-Image_resize-400x225.png" medium="image" type="image/png" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/07/GLD-Image_resize-400x225.png" type="image/png" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
     </item>
   </channel>
 </rss>
