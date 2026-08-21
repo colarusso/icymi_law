@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waymo doubles spending on lobbying in robotaxi battle with Uber</title>
+      <link>https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/</link>
+      <guid isPermaLink="true">https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/</guid>
+      <description>Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 13:11:35 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy</title>
       <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
@@ -4351,16 +4361,6 @@
       <pubDate>Tue, 14 Jul 2026 23:36:20 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/master/4318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd5f3adc42573f4d2328958a9e7ad5a6" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/master/4318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd5f3adc42573f4d2328958a9e7ad5a6" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>UK 16- and 17-year-olds to be encouraged to follow midnight social media curfew</title>
-      <link>https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew</guid>
-      <description>Midnight to 6am block on some apps is latest stage of Labour’s bid to protect young people from online harmsSixteen and 17-year-olds are to be encouraged to observe a midnight social media curfew, in the latest stage of Labour’s bid “to protect the next generation” from online harms, including poor sleep caused by night-time scrolling.From next spring, Britain’s oldest children will be urged to refrain from using certain apps with a midnight to 6am block being switched on by default. But the curfew will not be mandatory and can be overridden. The move is an extension of the under-16 social media ban announced last month, which included restrictions on platforms such as Snapchat, TikTok, YouTube, Instagram, Facebook and X. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 21:30:36 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa893ae69d7677b4ee47006d10352ca" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa893ae69d7677b4ee47006d10352ca" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
