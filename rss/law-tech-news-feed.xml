@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 09:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy</title>
+      <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</guid>
+      <description>The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 21 Aug 2026 14:39:24 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Senator asks US government watchdog to review how feds use hacking tools</title>
       <link>https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/</link>
@@ -4353,16 +4361,6 @@
       <pubDate>Tue, 14 Jul 2026 21:30:36 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa893ae69d7677b4ee47006d10352ca" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa893ae69d7677b4ee47006d10352ca" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Book publishers sue Google for copyright infringement over Gemini AI training</title>
-      <link>https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training</link>
-      <guid isPermaLink="true">https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training</guid>
-      <description>Group of major publishers accuses the tech giant of ‘one of the most prolific infringements of copyrighted materials in history’A group of major publishers have filed a lawsuit against Google, accusing the company of illegally using millions of copyrighted books to help build its Gemini artificial intelligence models, in “one of the most prolific infringements of copyrighted materials in history”.The case, filed in federal court in New York, has been brought by three publishers – Hachette Book Group, Cengage Learning, and Elsevier – and bestselling American author Scott Turow. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 18:16:56 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/48c2f1158b35ff75cb2edcbb613c747af1215f74/33_0_3333_2666/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f19cda8568a4f1d02633b95a40a90a67" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/48c2f1158b35ff75cb2edcbb613c747af1215f74/33_0_3333_2666/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f19cda8568a4f1d02633b95a40a90a67" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
