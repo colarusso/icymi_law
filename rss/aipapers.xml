@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:09:56 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:08:26 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intelligence per Watt: Measuring Intelligence Efficiency of Local AI</title>
+      <link>https://arxiv.org/abs/2511.07885</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.07885</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twjze4qqf6fgxz33ct52wlnl/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 24 · likes: 129&lt;/small&gt;</description>
+      <pubDate>Sat, 22 Aug 2026 06:08:26 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twjze4qqf6fgxz33ct52wlnl/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twjze4qqf6fgxz33ct52wlnl/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Bringing analytic rigor to agentic AI for science: The Brain Researcher platform for neuroimaging data analysis</title>
+      <link>https://arxiv.org/abs/2608.19902</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.19902</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyfsihuhqziogky33edvvz7k/bafkreihuds5bsj6q2xlovzovedef4c2irbilghfrzxx3qad6x2fn3casqu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI agents can execute scientific analyses, but an analytic output becomes a defensible claim only after alternatives are weighed and the claim is limited to what the evidence supports. Agents may repr...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 25&lt;/small&gt;</description>
+      <pubDate>Sat, 22 Aug 2026 06:08:26 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyfsihuhqziogky33edvvz7k/bafkreihuds5bsj6q2xlovzovedef4c2irbilghfrzxx3qad6x2fn3casqu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cyfsihuhqziogky33edvvz7k/bafkreihuds5bsj6q2xlovzovedef4c2irbilghfrzxx3qad6x2fn3casqu" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>AI and the Doctrine of Speakerless Speech</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7278638</link>
@@ -476,26 +496,6 @@
       <description>Amici curiae are scholars of intellectual property. Amici have no personal interest in the outcome of this litigation but share a professional interest in seein&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 3&lt;/small&gt;</description>
       <pubDate>Fri, 31 Jul 2026 06:09:27 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Constraining the lives and times of exoplanets through evolutionary Bayesian retrievals</title>
-      <link>https://arxiv.org/abs/2607.25845</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.25845</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcgn7kpbsidnhq55gdfnm3a/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Static retrieval frameworks are leading tools for interpreting exoplanet observations, yet time-independent modelling leaves them prone to degeneracy and unable to resolve exoplanets&amp;#x27; histories. The c...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 8 · likes: 19&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 06:10:25 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcgn7kpbsidnhq55gdfnm3a/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nkcgn7kpbsidnhq55gdfnm3a/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>HANDBOOK.md: A Benchmark for Long-Context Agentic Instruction Following</title>
-      <link>https://arxiv.org/abs/2607.25398</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.25398</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Language-model agents are increasingly deployed under standing instructions: a system prompt, a policy file, or a skills document is placed in context, and the agent is trusted to let it govern every action that follows. Existing benchmarks rarely test this deployment pattern directly; they measure whether an agent can complete a task, not whether a long, binding policy document actually constrains its behavior over an extended tool-use horizon. We present HANDBOOK.md, a benchmark of 65 agentic tasks modeled on how enterprise employees follow company handbooks. Each task places an agent in a self-contained company environment, a file workspace together with mock email, chat, calendar, issue-tracking, and commerce services exposed over the Model Context Protocol, and instructs it to carry out routine professional work governed by an expert-written standard operating procedure of 20 to 124 pages. Tasks span five domains (finance, medical billing, insurance, logistics, and HR) and ten fictional companies. To resist memorization, every task modifies one of ten base handbooks, altering the specific rules and thresholds on which grading turns, so no two tasks share a policy. Grading is fully deterministic: each task carries a rubric of programmatic criteria (824 in total) that check both that required actions occurred and that prohibited actions did not. Under strict grading, where a trial passes only if every criterion is satisfied, the best of thirty evaluated model configurations passes 36.2% of trials, and most frontier configurations remain below 25%. Failures follow consistent patterns: agents let a plausible in-environment request override the standing policy, perform a required check and then act against its result, lose rule details over long horizons, and report compliance they did not achieve. We release all tasks, environments, and the evaluation harness.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 06:10:25 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
