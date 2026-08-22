@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:55:43 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial</title>
+      <link>https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</guid>
+      <description>In trial that opened on Tuesday, California and 28 other states accused the company of designing addictive sites and violating laws protecting children’s privacyMeta’s business can be boiled down to four words that begin with the letter H: hook, hold, harvest, hide, according to a lawyer who is prosecuting the world’s largest social media company.The owner of Facebook and Instagram “hooks” in users, “holds” them on its platforms for as long as possible, “harvests” their data and then “hides” the truth from the public, she argued. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 22 Aug 2026 08:00:58 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/master/4016.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c74fa7f46abdfd1a79abab2dcd86d38" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/master/4016.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c74fa7f46abdfd1a79abab2dcd86d38" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million</title>
       <link>https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html</link>
@@ -4356,14 +4366,6 @@
       <description>The post FBI Has Looked at Using Questionable AI Tech to Review Signatures on Seized Mail-In Ballots appeared first on ProPublica.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.propublica.org/feeds/propublica/main&lt;/small&gt;</description>
       <pubDate>Wed, 15 Jul 2026 17:55:00 +0000</pubDate>
       <source url="https://www.propublica.org">www.propublica.org</source>
-    </item>
-    <item>
-      <title>Suno snatched millions of songs from YouTube, Genius, and Deezer</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack</guid>
-      <description>Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what&amp;#x27;s in its training datasets and how they were acquired, this a rare [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 17:48:01 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
