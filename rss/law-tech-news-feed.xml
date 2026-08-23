@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2026 15:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uber faces fine of nearly $1B over automated driver suspensions</title>
+      <link>https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/</guid>
+      <description>The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 19:30:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Is it legal to train AI models on copyrighted books? It’s complicated</title>
       <link>https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/</link>
@@ -4353,16 +4361,6 @@
       <pubDate>Wed, 15 Jul 2026 19:56:18 +0000</pubDate>
       <media:content url="https://www.eff.org/files/banner_library/privacy-o-meter.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/privacy-o-meter.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>California Steps Back From Dangerous Expansion of its Age-Gating Law</title>
-      <link>https://www.eff.org/deeplinks/2026/07/california-steps-back-dangerous-expansion-its-age-gating-law</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/07/california-steps-back-dangerous-expansion-its-age-gating-law</guid>
-      <description>The California legislature has stepped back from a plan that would have expanded its age-gating law, removing language that could have compounded serious threats to users’ speech, privacy and security just to browse the internet. A.B. 1856, authored by Assemblymember Buffy Wicks, will now move forward through the legislature without its most problematic pieces. EFF still believes the underlying law that A.B. 1856 amends, A.B. 1043, is unconstitutional. Signed into law in 2025 (and effective January of 2027), A.B. 1043 requires all operating systems and app stores to collect users’ ages, place them in various age brackets and then block young people from lawful speech and services depending on their age. We also believe that even though A.B. 1043 does not require age verification, the liability it creates for operating systems and app stores—including fining operating systems up to $7,500 per affected child for violating the law—will push those services to verify users’ ages. In practice, that could lead to more ID checks, more biometric scanning, more invasive data collection and risk of breach, and more barriers to adults’ and young people’s lawful speech. However, we appreciate that the Legislature has abandoned its plan to expand this problematic age-gating framework to browsers and websites. This would have significantly expanded this dangerous law before it even took effect. We thank the author and committee staff for recognizing these harms and not moving forward with this language. On top of that, EFF is pleased that an earlier amendment to A.B 1856 reduced the threat to the open-source community by exempting open-source operating systems. Given these changes, EFF has removed its opposition to A.B. 1856. We appreciate the author for listening to concerns from advocates, developers and others about the effect it would have on open-source development and also around expanding this problematic framework. To be clear, we still believe the law passed last year threatens online anonymity, privacy, and security. A.B. 1043 is one of a troubling wave of proposals that encourage—or, in some cases, outright require—age verification. Our position on this is clear: no one should have to provide or verify their age to access the internet. Once users’ personal data is collected, it can easily be leaked, hacked, or misused. No matter the method, every age verification system demands that people hand over their sensitive and immutable personal information to link their offline identity to their online activity. That’s a bad deal for us all. Age-gating mandates are reshaping the internet in ways that are invasive, dangerous, and deeply unnecessary. But users are not powerless! We can challenge these laws, protect our digital rights, and build a safer digital world for all internet users, no matter their ages. This resource hub can help—so explore, share, and join us in the fight for a better internet.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 18:50:48 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
