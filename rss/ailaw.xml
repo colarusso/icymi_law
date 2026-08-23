@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2026 06:07:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:06:43 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Show Cause Hearing: State v. Sandoval, S-1-SC-40845</title>
+      <link>https://www.youtube.com/live/rk6ChLa8utU</link>
+      <guid isPermaLink="true">https://www.youtube.com/live/rk6ChLa8utU</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yjy7vi2dmpixolz76vzia7ca/bafkreihvlr4cvkpbxcthgxglbjmlddbz3t4mfsebvpifvshmbpdjbcf4lm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;YouTube video by New Mexico Courts&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 59 · likes: 252&lt;/small&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 06:06:43 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yjy7vi2dmpixolz76vzia7ca/bafkreihvlr4cvkpbxcthgxglbjmlddbz3t4mfsebvpifvshmbpdjbcf4lm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yjy7vi2dmpixolz76vzia7ca/bafkreihvlr4cvkpbxcthgxglbjmlddbz3t4mfsebvpifvshmbpdjbcf4lm" type="image/jpeg" length="0" />
+      <source url="https://www.youtube.com">www.youtube.com</source>
+    </item>
     <item>
       <title>Florida Goes To Court And Asserts That OpenAI And Sam Altman Are Legally A Public Nuisance</title>
       <link>https://www.forbes.com/sites/lanceeliot/2026/08/19/florida-goes-to-court-and-asserts-that-openai-and-sam-altman-are-legally-a-public-nuisance/</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreifoc7wtettquthlhz5i5vhtsgperq5mj2vondvxsmg3agxielieyq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreifoc7wtettquthlhz5i5vhtsgperq5mj2vondvxsmg3agxielieyq" type="image/jpeg" length="0" />
       <source url="https://buff.ly">buff.ly</source>
-    </item>
-    <item>
-      <title>Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal</title>
-      <link>https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreiatnrrjc6kz7ausyuo7ut2pxafyum6ogt5cvjjbuco6k52nf62fom" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 50 · likes: 147&lt;/small&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 06:08:11 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreiatnrrjc6kz7ausyuo7ut2pxafyum6ogt5cvjjbuco6k52nf62fom" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreiatnrrjc6kz7ausyuo7ut2pxafyum6ogt5cvjjbuco6k52nf62fom" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
