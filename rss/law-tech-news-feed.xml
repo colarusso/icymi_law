@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 08:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitch and Amazon face legal action over using livestreams to train AI</title>
+      <link>https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The lawsuit alleges Twitch used streamers&amp;#x27; videos to train AI without their permission or proper compensation.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 13:09:44 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54cb/live/a495ae60-9fa1-11f1-a83c-33ebef033ca4.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Thomson Reuters Launches Thomson, Its Own Proprietary LLM Trained on Westlaw and Practical Law Content</title>
+      <link>https://www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/thomson-reuters-launches-thomson-its-own-proprietary-llm-trained-on-westlaw-and-practical-law-content.html</guid>
+      <description>It certainly has been no secret that Thomson Reuters has been building its own proprietary large language model. In fact, in my June interview with TR’s CEO Steve Hasker, he talked openly about it, and just a few weeks ago, I reported on TR’s release of preliminary benchmarking data that showed impressive results comparable to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 13:00:39 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Draftwise Launches ‘Legal Ontology’ to Capture The Judgment Layer</title>
       <link>https://www.artificiallawyer.com/2026/08/24/draftwise-launches-legal-ontology-to-capture-the-judgment-layer/</link>
@@ -4332,26 +4350,6 @@
       <description>Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc&amp;#x27;s digital antitrust rules. The two decisions, handed down Thursday, could weaken Google&amp;#x27;s control over two of the tech industry&amp;#x27;s most important platforms and have [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 16 Jul 2026 12:06:51 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>‘Keys to the kingdom’: hackers who gained access to heart of London transport network jailed</title>
-      <link>https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed</guid>
-      <description>Thalha Jubair, 20, and Owen Flowers, 19, sentenced to five and a half years each for cyber-attack that cost Transport for London £39mThe data of millions of commuters was stolen, Londoners were left out of pocket and 27,000 Transport for London staff were forced to reset their passwords.Over four days in 2024 a pair of teenage hackers had London’s transport network at their mercy. Thalha Jubair and Owen Flowers had burrowed into the heart of Transport for London’s IT systems and held the “keys to the kingdom”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 12:01:51 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/52eaaa0384fb38525ab7ae6446576a28de1033a0/645_0_3606_2885/master/3606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ff20d80b0f48024962f2245cf1ae9ed" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/52eaaa0384fb38525ab7ae6446576a28de1033a0/645_0_3606_2885/master/3606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6ff20d80b0f48024962f2245cf1ae9ed" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>TikTok faces Ofcom investigation over child age checks</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>It follows a review by the regulator in May that criticised the platform for not being &amp;quot;safe enough&amp;quot; for children.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 11:08:33 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
