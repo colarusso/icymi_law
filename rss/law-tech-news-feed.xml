@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 09:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newcode Raises $13.5m, Relativity Invests</title>
+      <link>https://www.artificiallawyer.com/2026/08/24/newcode-raises-13-5m-relativity-invests/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/24/newcode-raises-13-5m-relativity-invests/</guid>
+      <description>Newcode, a ‘configurable AI harness’ for law firms has raised $13.5m in its Series A, with Relativity’s investment arm Rel Labs joining the round. See ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 14:06:34 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>This Week In Epic News: FTC Probe, AI Agents &amp; More</title>
+      <link>https://medcitynews.com/2026/08/epic-ftc-agentic-ai/</link>
+      <guid isPermaLink="true">https://medcitynews.com/2026/08/epic-ftc-agentic-ai/</guid>
+      <description>Epic faced an FTC antitrust probe this past week, but that didn&amp;#x27;t stop the EHR giant from unveiling a wave of new AI tools at its annual conference. The post This Week In Epic News: FTC Probe, AI Agents &amp;amp;amp; More appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 14:02:00 +0000</pubDate>
+      <source url="https://medcitynews.com">medcitynews.com</source>
+    </item>
+    <item>
+      <title>Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right</guid>
+      <description>Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power useGet our breaking news email, free app or daily news podcastAnthony Albanese will seek to use Wednesday’s high-stakes talks with premiers to quell growing unhappiness about national controls on datacentre developments, promising new approval laws will complement state rules.Faced with growing opposition from conservative governments in Queensland and the Northern Territory, Albanese will tell national cabinet he plans a major piece of legislation next year to ensure the economic benefits of AI are shared widely. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 14:01:35 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/3c0d143aecdba181739eb496831beace5e0c9caa/1370_208_4244_3395/master/4244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f8a843f146166d0df4db5d756b17dbc" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/3c0d143aecdba181739eb496831beace5e0c9caa/1370_208_4244_3395/master/4244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f8a843f146166d0df4db5d756b17dbc" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Twitch and Amazon face legal action over using livestreams to train AI</title>
       <link>https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4322,34 +4348,6 @@
       <media:content url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>TikTok facing UK investigation amid fears over age checks and harm to children</title>
-      <link>https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide</guid>
-      <description>Ofcom concerned platform’s age verification is ineffective, leaving some at risk of seeing posts about self-harm and suicideTikTok is under formal investigation over concerns it has failed to protect children from harmful content, the UK’s online regulator, Ofcom, has announced.The social media platform’s approach to checking the ages of users has sparked “particular concerns” at the watchdog, almost a year after measures to protect children from the worst of online content came into effect under the Online Safety Act. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 12:46:13 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fe75b412672e26abb93747c506ae0ce" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/master/4680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fe75b412672e26abb93747c506ae0ce" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Google Ordered to Give A.I. Rivals More Access on Android Smartphones</title>
-      <link>https://www.nytimes.com/2026/07/16/technology/google-ordered-to-give-ai-rivals-more-access-on-android-smartphones.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/technology/google-ordered-to-give-ai-rivals-more-access-on-android-smartphones.html</guid>
-      <description>The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 12:18:34 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Google ordered to open Android and Search to rivals in Europe</title>
-      <link>https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma</guid>
-      <description>Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc&amp;#x27;s digital antitrust rules. The two decisions, handed down Thursday, could weaken Google&amp;#x27;s control over two of the tech industry&amp;#x27;s most important platforms and have [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 12:06:51 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
