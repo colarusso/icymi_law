@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X sends cease-and-desist to open-source project Nitter over alleged scraping</title>
+      <link>https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/</guid>
+      <description>X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:44:12 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Law Firms Are Buying AI: But Are They Really Using It?</title>
+      <link>https://abovethelaw.com/2026/08/law-firms-are-buying-ai-but-are-they-really-using-it/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/law-firms-are-buying-ai-but-are-they-really-using-it/</guid>
+      <description>Don&amp;#x27;t toss AI in the drawer alongside your gym membership card just yet. The post Law Firms Are Buying AI: But Are They Really Using It? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 20:04:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Taiwan charges nine people for smuggling ‘high-end’ AI servers to China</title>
       <link>https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers</link>
@@ -4326,24 +4342,6 @@
       <media:content url="https://www.eff.org/files/banner_library/surveillance-og-2.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/surveillance-og-2.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>FBI arrests man accused of using Steam games to drain victims’ crypto wallets</title>
-      <link>https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/</guid>
-      <description>Prosecutors accused 21-year-old student Zyaire Wilkins of publishing on Steam several fake video games that contained malware, infecting thousands of victims, and stealing crypto from some of them.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 16:18:09 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>San Francisco orders Apple, Google to remove nudify apps from app stores</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/</guid>
-      <description>Official estimates Google and Apple likely made millions in nudify app fees.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 16:10:05 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
