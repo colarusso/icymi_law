@@ -5,8 +5,42 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 20:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:56:25 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Launches Gemini Enterprise for Legal</title>
+      <link>https://www.artificiallawyer.com/2026/08/25/google-launches-gemini-enterprise-for-legal/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/25/google-launches-gemini-enterprise-for-legal/</guid>
+      <description>As predicted by AL, another tech giant has joined the legal world. Google Cloud has unveiled Gemini Enterprise for Legal, an ‘enterprise-grade, purpose-built agentic AI ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 12:18:00 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds</title>
+      <link>https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil</link>
+      <guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil</guid>
+      <description>Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully runningThe carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil’s UK emissions, analysis has revealed.Experts have said this demonstrates the “serious threat” datacentres pose to the UK’s legally binding climate goals. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 11:04:56 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/36a4b90f9a4465a18f043950e76975b2ce51a409/293_0_2090_1672/master/2090.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd440bcadeae9fb7b5a247675c9d7842" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/36a4b90f9a4465a18f043950e76975b2ce51a409/293_0_2090_1672/master/2090.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd440bcadeae9fb7b5a247675c9d7842" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>OpenAI subpoenaed by Alabama AG over Hugging Face hack</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack</guid>
+      <description>Alabama&amp;#x27;s attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI&amp;#x27;s safety practices violated state consumer protection laws and pose a risk to Alabama [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 09:15:03 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>AI Adoption Isn’t the Hard Part for Legal</title>
+      <link>https://www.artificiallawyer.com/2026/08/25/ai-adoption-isnt-the-hard-part-for-legal/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/25/ai-adoption-isnt-the-hard-part-for-legal/</guid>
+      <description>By Neil Smith, LawVu. Ask any legal team today whether they have adopted AI, and most will say yes. Contract review tools. Drafting assistants. A ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 06:45:07 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
       <link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
@@ -4308,42 +4342,6 @@
       <description>In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 16 Jul 2026 23:25:22 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Trump made $1.4bn from crypto in one year. Is Justin Sun the man who helped him do it?</title>
-      <link>https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/ng-interactive/2026/jul/16/justin-sun-trump-family-crypto</guid>
-      <description>The entrepreneur is known in Washington as the financial power behind the president’s crypto fortune. How did Sun’s business love-in with the Trump family spiral into dueling lawsuits?The most infamous financial scandal in US presidential history – the 1920s Teapot Dome affair – involved then president Warren G Harding’s interior secretary, Albert Fall, taking roughly $400,000 in bribes. Adjusted for inflation, that’s about $6m today. Last year, Donald Trump made at least $2.2bn; his single year of income is on the order of 200 to 300 times larger than the bribe that defined “presidential corruption” in the American imagination for a century.It’s taken for granted that Trump flogs items like Bibles and gold sneakers as a way to wring more money from his loyal base. But of the president’s $2.2bn, at least $1.4bn came from his crypto businesses. That’s an extraordinary achievement, even for an unscrupulous sitting president. How exactly did he do it without any prior background in crypto? Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 16:19:56 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/d420bf1f0cc61819ae42f16b9ee4453fe155eb00/584_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e827edf7a99aa9cecc987543a7d6e8bb" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/d420bf1f0cc61819ae42f16b9ee4453fe155eb00/584_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e827edf7a99aa9cecc987543a7d6e8bb" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>The One About Passing AI Costs Through To Clients</title>
-      <link>https://www.myshingle.com/2026/07/the-one-about-passing-ai-costs-through-to-clients/</link>
-      <guid isPermaLink="true">https://www.myshingle.com/2026/07/the-one-about-passing-ai-costs-through-to-clients/</guid>
-      <description>Regulators aren’t providing guidance quickly enough, and while large firms have access to in-house ethics advisors, solos and smalls don’t. The post The One About Passing AI Costs Through To Clients appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 21:33:00 +0000</pubDate>
-      <source url="https://www.myshingle.com">www.myshingle.com</source>
-    </item>
-    <item>
-      <title>In-House Lawyers Are The Biggest AI Users</title>
-      <link>https://abovethelaw.com/2026/07/in-house-lawyers-are-the-biggest-ai-users/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/in-house-lawyers-are-the-biggest-ai-users/</guid>
-      <description>Turns out the profession&amp;#x27;s technophobia gets left at the in-house door. The post In-House Lawyers Are The Biggest AI Users appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>xAI can’t deny Grok makes CSAM anymore. So it’s suing users.</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/</guid>
-      <description>Elon Musk&amp;#x27;s xAI files first lawsuit against Grok user accused of making child sex images.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 20:26:23 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
