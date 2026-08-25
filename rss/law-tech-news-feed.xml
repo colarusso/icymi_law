@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:56:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night</title>
+      <link>https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2/</guid>
+      <description>ILTACON attendees and legal tech watchers: Here&amp;#x27;s a rundown of what&amp;#x27;s set for today in Nashville. The post Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 11:00:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Google Launches Gemini Enterprise for Legal</title>
       <link>https://www.artificiallawyer.com/2026/08/25/google-launches-gemini-enterprise-for-legal/</link>
@@ -4334,14 +4342,6 @@
       <description>LAYOFF ALERT: K&amp;amp;#38;L Gates lays off roughly 10 percent of staff. Cravath Keeps Associates Waiting On Cash: Six weeks! This firm has made almost everyone wait for six weeks to match Milbank&amp;#x27;s money! Kathryn Ruemmler Gets Grilled Over Her Jeffrey Epstein Connection: We are not impressed with her equivocations. 0 To Corruption In 60 Minutes: Todd Blanche announces that the administration has fired another duly appointed U.S. Attorney and replaced him with an illegally appointed crony. The AI Call Is Coming From Inside The House: Study reveals in-house legal departments are AI power users. The post Biglaw Layoffs Are Never A Good Sign &amp;amp;#8211; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 16 Jul 2026 23:28:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco</title>
-      <link>https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/</guid>
-      <description>In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 23:25:22 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
