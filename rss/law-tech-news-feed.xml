@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pablo Arredondo, Casetext Cofounder and Legal AI Pioneer, Joins Clio to Lead Its Expansion into the Judiciary</title>
+      <link>https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html</guid>
+      <description>Pablo Arredondo, the Casetext cofounder who helped build some of the earliest and most influential applications of AI in legal practice, is joining Clio as senior vice president, judiciary, where he will lead the company&amp;amp;#8217;s strategy for extending its technology into the courts. The hiring marks Clio&amp;amp;#8217;s first dedicated move into the judiciary, an expansion [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 14:47:01 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Today At ILTACON: ILTA Swag, Lessons In Leadership, Game Night</title>
       <link>https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2/</link>
@@ -4334,14 +4342,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Biglaw Layoffs Are Never A Good Sign – See Also</title>
-      <link>https://abovethelaw.com/2026/07/biglaw-layoffs-are-never-a-good-sign-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/biglaw-layoffs-are-never-a-good-sign-see-also/</guid>
-      <description>LAYOFF ALERT: K&amp;amp;#38;L Gates lays off roughly 10 percent of staff. Cravath Keeps Associates Waiting On Cash: Six weeks! This firm has made almost everyone wait for six weeks to match Milbank&amp;#x27;s money! Kathryn Ruemmler Gets Grilled Over Her Jeffrey Epstein Connection: We are not impressed with her equivocations. 0 To Corruption In 60 Minutes: Todd Blanche announces that the administration has fired another duly appointed U.S. Attorney and replaced him with an illegally appointed crony. The AI Call Is Coming From Inside The House: Study reveals in-house legal departments are AI power users. The post Biglaw Layoffs Are Never A Good Sign &amp;amp;#8211; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 23:28:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
