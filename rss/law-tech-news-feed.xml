@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taiwan charges nine people for smuggling ‘high-end’ AI servers to China</title>
+      <link>https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers</guid>
+      <description>Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalryTaiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.Prosecutors said the servers involved were graphics processing units known as “B300,” which have been banned from sale to China. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 19:02:42 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/0fbe91525cf1b46d937c6aa22ad80106e8a4af29/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd6df100b0777618fb9e7fa7dd744439" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/0fbe91525cf1b46d937c6aa22ad80106e8a4af29/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd6df100b0777618fb9e7fa7dd744439" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’</title>
       <link>https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas</link>
@@ -4334,14 +4344,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Florida man arrested for allegedly stealing over $200,000 in crypto using Steam game malware</title>
-      <link>https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/967174/steam-game-malware-cryptostealer-arrest</guid>
-      <description>Federal authorities have arrested a Florida man suspected of stealing at least $220,000 in crypto through malware-infected Steam games, as reported earlier by local news outlet Local10. In the complaint, officials accuse 21-year-old Zyaire Wilkins and co-conspirators of launching eight malware-embedded games from around May 2024 to February 2026, allowing them to infect about 8,000 [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 15:34:35 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
