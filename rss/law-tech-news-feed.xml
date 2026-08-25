@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 12:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NetDocuments Asks How Much Are Lawyers Paying To Get The ‘Right’ Answer From AI</title>
+      <link>https://abovethelaw.com/2026/08/netdocuments-asks-how-much-are-lawyers-paying-to-get-the-right-answer-from-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/netdocuments-asks-how-much-are-lawyers-paying-to-get-the-right-answer-from-ai/</guid>
+      <description>AI costs aren&amp;#x27;t just about the model. The post NetDocuments Asks How Much Are Lawyers Paying To Get The &amp;amp;#8216;Right&amp;amp;#8217; Answer From AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 17:47:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers</title>
       <link>https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</link>
@@ -4334,14 +4342,6 @@
       <media:content url="https://www.eff.org/files/banner_library/dedsec_watch_dogs_1200x600.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/dedsec_watch_dogs_1200x600.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>What’s In A Wrapper? Comparing A Hershey Bar To LegalTech AI</title>
-      <link>https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/07/whats-in-a-wrapper-comparing-a-hershey-bar-to-legaltech-ai.html</guid>
-      <description>Anyone can make sweets, but not everyone can make a Hershey bar. The debate over legaltech startups offering nothing more than a “thin wrapper” around an LLM begs a deeper analysis of the value of a wrapper, particularly as open-source alternatives take root. Let’s start with a Hershey bar. You pay for the chocolate, right? [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 12:56:30 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
