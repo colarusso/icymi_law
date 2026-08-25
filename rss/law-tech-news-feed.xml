@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html</guid>
+      <description>Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 22:38:18 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-meta-trial-lbtf/25biz-meta-trial-lbtf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-meta-trial-lbtf/25biz-meta-trial-lbtf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Patent Troll SLAPPs Lawyer For Saying His Shell Companies Never Pay Up, Loses, Now Owes Her Money</title>
+      <link>https://www.techdirt.com/2026/08/25/patent-troll-slapps-lawyer-for-saying-his-shell-companies-never-pay-up-loses-now-owes-her-money/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/25/patent-troll-slapps-lawyer-for-saying-his-shell-companies-never-pay-up-loses-now-owes-her-money/</guid>
+      <description>With everything else going on in the world, it&amp;amp;#8217;s been a while since we&amp;amp;#8217;ve dug into a good old-fashioned patent troll story or a bogus defamation SLAPP. Today we&amp;amp;#8217;ve got a two-for-one. Leigh Rothschild is a patent troll of some renown — his entities have been connected to over 1,300 patent lawsuits — who regularly [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 22:19:32 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Trump is upping the price of Big Tech’s favorite visa</title>
       <link>https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration</link>
@@ -4324,22 +4342,6 @@
       <description>In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 17 Jul 2026 19:49:53 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>How Apple’s big lawsuit could disrupt OpenAI’s IPO plans</title>
-      <link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
-      <guid isPermaLink="true">https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</guid>
-      <description>Apple&amp;amp;#160;filed a trade secrets&amp;amp;#160;lawsuit against OpenAI&amp;amp;#160;last Friday, and&amp;amp;#160;it&amp;amp;#8217;s&amp;amp;#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&amp;amp;#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&amp;amp;#160;OpenAI&amp;amp;#8217;s response so far&amp;amp;#160;has been carefully hedged, and the timing&amp;amp;#160;couldn&amp;amp;#8217;t&amp;amp;#160;be worse with the company&amp;amp;#160;reportedly eyeing&amp;amp;#160;an IPO [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:45:46 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Apple’s plot to crush OpenAI</title>
-      <link>https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast</guid>
-      <description>Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 17:41:32 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
