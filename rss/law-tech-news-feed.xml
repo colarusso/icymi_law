@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 18:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</guid>
+      <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 22:58:03 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial</title>
       <link>https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html</link>
@@ -4334,14 +4344,6 @@
       <description>Understanding and optimizing for voice search is increasingly vital to online search visibility, especially for capturing the all-important local search activity. The post Voice Search For Lawyers: Why Your Firm May Already Be Losing Clients appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 17 Jul 2026 21:33:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Apple and Google ordered to purge ‘nudify’ apps from App Stores</title>
-      <link>https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</guid>
-      <description>In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 17 Jul 2026 19:49:53 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
