@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 10:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say</title>
+      <link>https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say</guid>
+      <description>Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useGet our breaking news email, free app or daily news podcastPlanned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls growing for a moratorium.The prime minister is aiming to come to an agreement with national cabinet on federal regulations for datacentres at a meeting on Wednesday. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 15:00:19 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33bacfd9ebaf3225667b2a1e7bfc1e8d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33bacfd9ebaf3225667b2a1e7bfc1e8d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Pablo Arredondo, Casetext Cofounder and Legal AI Pioneer, Joins Clio to Lead Its Expansion into the Judiciary</title>
       <link>https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html</link>
@@ -4332,16 +4342,6 @@
       <description>By Kevin Walker, CEO, Centari. In recent months, several of the world&amp;amp;#8217;s leading law firms have announced investments in legal technology at a scale only ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 17 Jul 2026 06:42:14 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs</title>
-      <link>https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/</guid>
-      <description>Resellers threatened to ditch HP printing supplies for counterfeits.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 22:02:31 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-458639693-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
