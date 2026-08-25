@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC</title>
+      <link>https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/</guid>
+      <description>The AI hedge fund went from &amp;quot;the talk of Wall Street&amp;quot; to &amp;quot;subject of federal subpoenas&amp;quot; faster than you can say &amp;quot;diversify your portfolio.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 00:23:12 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/24/elbows-really-up/</link>
@@ -4336,16 +4344,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2233914428-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>AI in legal education: How to leverage AI to build change agility in law schools</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/technology/leverage-ai-in-legal-education/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/technology/leverage-ai-in-legal-education/</guid>
-      <description>USF law school dean led her institution&amp;#x27;s practical integration of AI into legal education by engaging students and encouraging collaboration.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 16 Jul 2026 18:30:06 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/03/249737_339686061_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2026/03/249737_339686061_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
     </item>
   </channel>
 </rss>
