@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Greenberg Traurig And Thomson Reuters Tackle What ‘Human In The Loop’ Was Missing</title>
+      <link>https://abovethelaw.com/2026/08/greenberg-traurig-and-thomson-reuters-tackle-what-human-in-the-loop-was-missing/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/greenberg-traurig-and-thomson-reuters-tackle-what-human-in-the-loop-was-missing/</guid>
+      <description>As AI in legal matures, we&amp;#x27;re seeing partnerships designing more intuitive working relationships. The post Greenberg Traurig And Thomson Reuters Tackle What &amp;amp;#8216;Human In The Loop&amp;amp;#8217; Was Missing appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>How AI Watermark Mandates Could Unmask Journalists Who Never Touched AI</title>
+      <link>https://www.techdirt.com/2026/08/26/how-ai-watermark-mandates-could-unmask-journalists-who-never-touched-ai/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/26/how-ai-watermark-mandates-could-unmask-journalists-who-never-touched-ai/</guid>
+      <description>Imagine a scenario where a documentary filmmaker, in the course of making the documentary, captures some damning footage of corporate malfeasance, which she wishes to share with an investigative reporting organization anonymously. Should we be concerned that mandates on AI watermarking might reveal who she is, even if she&amp;amp;#8217;s not using AI at all? Last [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 18:11:29 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>What Does $17.1 Billion Mean for Meta?</title>
       <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html</link>
@@ -4322,22 +4338,6 @@
       <description>The final approval settles one case, but it doesn&amp;#x27;t resolve the broader issue of using copyrighted works to train AI models.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 21 Jul 2026 00:12:24 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Apple Defeats Liability for Not Scanning iCloud for CSAM, But the Judge Was Not Pleased–Amy v. Apple</title>
-      <link>https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm</guid>
-      <description>This case involves Apple’s handling of user-uploaded files hosted in private iCloud storage. Instead of adopting PhotoDNA to scan hosted files for CSAM, Apple created its own proprietary alternative, NeuralHash, which apparently wasn’t as good. So Apple U-turned on its... The post Apple Defeats Liability for Not Scanning iCloud for CSAM, But the Judge Was Not Pleased&amp;amp;#8211;Amy v. Apple appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 22:21:19 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over</title>
-      <link>https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright</guid>
-      <description>Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley&amp;#x27;s Hound Dog to Beyonc&amp;amp;#233;&amp;#x27;s Say My Name, and Harry Styles&amp;#x27; As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 22:19:12 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
