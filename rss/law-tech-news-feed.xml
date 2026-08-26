@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With the end of physical media in sight, gamers have had enough</title>
+      <link>https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media</link>
+      <guid isPermaLink="true">https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media</guid>
+      <description>An increasing tension between players and publishers about ownership of titles could lead to a divestment from the system the big companies are trying to enforceAt the time of press, there is a well-publicised protest taking place in the video games community. PlayStation 5 owners are being encouraged to log off from their consoles between 23 and 30 August – no playing games, no downloading new titles. The motivating factor is Sony’s decision to cease physical game disc production from January 2028. After that, games will only be released as digital products. In an act of poor timing or wilful defiance, Sony chose this week to send out a mass email reminding customers of their PS5 terms and conditions: “The software is licensed to you, not sold,” states the relevant clause. “You are granted a limited, non-exclusive, non-transferable, and personal license to play … ” It knows, of course, that most customers won’t open the email, let alone read it.There has always been a tension between game players and game publishers – an underlying sense of mutual mistrust. Players are wary of their favourite franchises being canned, or games being delayed or released with bugs. Publishers and manufacturers are wary of piracy and the capricious tastes of consumers. But now the atmosphere among many game players feels more starkly political than ever. Microsoft has been targeted by the Boycott, Divestment, Sanctions movement for its ties to the Israeli military; the consumer advocacy group Stop Killing Games is gaining support; players have protested over the purchase of Electronic Arts by a Saudi-led consortium – boycotts have been proposed in part due to the possible ramifications regarding LGBTQ+ content in titles such as The Sims. As the games industry has grown and globalised, its impact on culture, society and politics has increased. Yet, on an individual level, gamers and consumers are feeling increasingly powerless. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 14:00:16 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/94f1bff7da0c0c4dfe82ddb35ac21f8fa92ab607/371_0_2239_1792/master/2239.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae67f0d6e72a90e738cb9e5ddf844a16" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/94f1bff7da0c0c4dfe82ddb35ac21f8fa92ab607/371_0_2239_1792/master/2239.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae67f0d6e72a90e738cb9e5ddf844a16" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Greenberg Traurig And Thomson Reuters Tackle What ‘Human In The Loop’ Was Missing</title>
       <link>https://abovethelaw.com/2026/08/greenberg-traurig-and-thomson-reuters-tackle-what-human-in-the-loop-was-missing/</link>
@@ -4330,14 +4340,6 @@
       <media:content url="https://i.guim.co.uk/img/media/67b57494983948c140e7be703392fe6d49cac634/1704_136_5545_4436/master/5545.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8941f90aaff77e728d1896fac8074665" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/67b57494983948c140e7be703392fe6d49cac634/1704_136_5545_4436/master/5545.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8941f90aaff77e728d1896fac8074665" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Anthropic’s landmark $1.5B copyright settlement is approved</title>
-      <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</guid>
-      <description>The final approval settles one case, but it doesn&amp;#x27;t resolve the broader issue of using copyrighted works to train AI models.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 00:12:24 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
