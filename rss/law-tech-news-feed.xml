@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Does $17.1 Billion Mean for Meta?</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html</guid>
+      <description>The Silicon Valley company agreed to pay up to $17.1 billion in penalties as part of a landmark settlement with states over social media addiction claims.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 16:57:26 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-meta-numbers-pfkz/26biz-meta-numbers-pfkz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-meta-numbers-pfkz/26biz-meta-numbers-pfkz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>EFF Statement on Meta Settlement</title>
       <link>https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement</link>
@@ -4327,14 +4337,6 @@
       <guid isPermaLink="true">https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright</guid>
       <description>Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley&amp;#x27;s Hound Dog to Beyonc&amp;amp;#233;&amp;#x27;s Say My Name, and Harry Styles&amp;#x27; As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 20 Jul 2026 22:19:12 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>The FCC is planning to retroactively ban disguised DJI gadgets</title>
-      <link>https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra</guid>
-      <description>Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC&amp;#x27;s getting ready to wield that power for the first time, by cracking down on the &amp;quot;DJI front companies&amp;quot; suspected of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 22:16:14 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
