@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 06:10:12 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:10:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[2608.16884v1] Improving the matrix multiplication exponent with modern optimization and AlphaEvolve</title>
+      <link>https://arxiv.org/abs/2608.16884v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.16884v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A new paper details advancements in optimizing matrix multiplication, achieving ω &amp;lt; 2.371177. The authors reformulate the optimization problem and integrate machine learning, specifically AlphaEvolve,&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 06:10:48 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook</title>
+      <link>https://arxiv.org/abs/2604.02501</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.02501</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Electrocardiogram (ECG) foundation models represent a paradigm shift from task-specific pipelines to generalizable architectures pre-trained on large-scale unlabeled waveform data. This survey present...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 06:10:48 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Testing and Evaluation of Agentic AI Systems In Military Command and Control</title>
       <link>https://arxiv.org/abs/2608.20597</link>
@@ -477,26 +497,6 @@
       <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Prompt Injection as Role Confusion</title>
-      <link>https://arxiv.org/abs/2603.12277</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.12277</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p72jkscm4rt4xuep3lzv6doh/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs see the world as a single stream of text, partitioned into roles like or . We trace prompt injection to role confusion: models perceive the source of text from how it sounds, not its...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 16 · likes: 60&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p72jkscm4rt4xuep3lzv6doh/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p72jkscm4rt4xuep3lzv6doh/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>What exam scores can and cannot prove about unauthorized AI assistance: Evidence from a highly public classroom episode</title>
-      <link>https://arxiv.org/abs/2607.27978</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.27978</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqqmph3m6umv5p5jlmudro3k/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In spring 2026, an economics professor at Brown University gave a take-home midterm and, after unusually high scores, made the final exam proctored. Among the 59 students who completed the course, ave...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 14 · likes: 37&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqqmph3m6umv5p5jlmudro3k/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nqqmph3m6umv5p5jlmudro3k/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
