@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All the ways Instagram and Facebook are changing for teens</title>
+      <link>https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes</guid>
+      <description>Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 20:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>With the end of physical media in sight, gamers have had enough</title>
       <link>https://www.theguardian.com/games/2026/aug/26/gamers-are-pushing-back-against-the-end-of-physical-media</link>
@@ -4330,16 +4338,6 @@
       <description>This week’s AL TV Product Walk Through is with eBrevia and takes a detailed look at DraftPro, part of its contract AI suite for inhouse ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 21 Jul 2026 07:47:50 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Meta’s smartglasses mean any child can be covertly filmed. In the age of AI, how do we tackle that risk?</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/jul/21/meta-smartglasses-child-filmed-ai-risk-technology</guid>
-      <description>The company argues that it’s for individuals to ensure they don’t ‘actively exploit’ this technology. That won’t keep children safeIt took me a while to realise what the man sitting next to me on the train was doing. He was flicking through pictures of a little girl on his phone; zooming in on some, cropping the images. Hardly unusual, of course, except that on closer inspection the pictures were very clearly of the toddler sitting opposite us, playing with her parents. On a crowded train of people mostly staring obliviously at our own phones, a stranger had been covertly photographing that little girl over and over again. And if it hadn’t been for that very visible phone screen giving him away, he wouldn’t have been caught.That encounter was a while ago but my memory was jogged last week listening to a clip of Meta’s VP of wearables, Alex Himel, talk fondly to the BBC about using his new smartglasses to film his daughter singing in a talent contest. They let him capture the memory without having to watch her through a screen, he said, freeing him to be “kind of living in the moment, head up and hands free”. So far, so sweet. But what about the risk of creeps potentially using them to film other people’s daughters covertly, heads up and hands free? Meta’s smartglasses have a tiny flashing warning light on the frame to indicate when the wearer is recording, but the technology is still new enough that many people don’t think to look for it. And in the age of AI, stolen images of children matter. Taken in real life or scraped from the internet, they’re the raw material for generating realistic-looking child abuse material of the most extreme and disturbing kind. (If that sounds like a grim but ultimately fairly victimless crime, the Internet Watch Foundation warned in a recent report that AI-generated material risks fuelling sexual interest in children, normalising violence and increasing the risk of real-life offending.)Gaby Hinsliff is a Guardian columnistDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 05:00:02 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/67b57494983948c140e7be703392fe6d49cac634/1704_136_5545_4436/master/5545.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8941f90aaff77e728d1896fac8074665" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/67b57494983948c140e7be703392fe6d49cac634/1704_136_5545_4436/master/5545.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8941f90aaff77e728d1896fac8074665" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
