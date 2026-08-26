@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How A New Pentagon Memo ‘Resets’ Industry Requirements, Plus Highlights From TechNet</title>
+      <link>https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet/</link>
+      <guid isPermaLink="true">https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet/</guid>
+      <description>A new DoD memo affecting Pentagon contractors, plus tech news out of Georgia. The post How A New Pentagon Memo ‘Resets’ Industry Requirements, Plus Highlights From TechNet appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 14:03:00 +0000</pubDate>
+      <source url="https://breakingdefense.com">breakingdefense.com</source>
+    </item>
+    <item>
+      <title>Your Oura Ring can&amp;#8217;t measure what&amp;#8217;s going on in your skull</title>
+      <link>https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables</link>
+      <guid isPermaLink="true">https://www.theverge.com/column/984991/optimizer-oura-ring-lawsuit-sleep-tracking-wearables</guid>
+      <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they&amp;#x27;re going to change your life. Opt in for Optimizer here. Oura&amp;#x27;s getting sued. A recently filed class-action complaint against the smart ring maker alleges that the company has duped customers [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children</title>
       <link>https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/</link>
@@ -4322,26 +4338,6 @@
       <description>[Sponsored] Some challenges show up no matter what industry you’re in. Contracting is one of them. The post 3 Contract Intelligence Use Cases Every Legal Team Should Know appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 20 Jul 2026 16:12:14 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>AliExpress hit with record $625M fine after failing to make EU-ordered fixes</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/</guid>
-      <description>Online retailer AliExpress says it&amp;#x27;s shocked by largest DSA fine yet.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 15:32:45 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283652155-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Commerciality becomes a differentiating trait for successful UK law firms</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/legal/commerciality-uk-law-firms/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/legal/commerciality-uk-law-firms/</guid>
-      <description>As UK GCs place greater value on business knowledge &amp;amp;#38; commercial advice, law firms need to find a way to a standout in an AI-driven market.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 15:01:27 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/04/AdobeStock_265089031_resizeUK-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2024/04/AdobeStock_265089031_resizeUK-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
     </item>
   </channel>
 </rss>
