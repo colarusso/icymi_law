@@ -5,8 +5,42 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 09:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Anxious Generation” Author Jonathan Haidt on the Meta Settlement</title>
+      <link>https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html</guid>
+      <description>In “The Anxious Generation,” he laid out the evils of social media for kids. The landmark Meta settlement seems to agree.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 14:42:24 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/08/27/multimedia/27ST-META-HAIDT-gtlw/27ST-META-HAIDT-gtlw-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/27/multimedia/27ST-META-HAIDT-gtlw/27ST-META-HAIDT-gtlw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Hold up, there’s a new Twitter in the town</title>
+      <link>https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/</guid>
+      <description>You read that right. There is a new social network called &amp;amp;#8220;Twitter.now&amp;amp;#8221; on the block, and it&amp;amp;#8217;s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates. As ArsTechnica reported, X sued the company last year and asked a Delaware judge to issue an injunction to stop [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 14:40:22 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>If Meta&amp;#8217;s going down, it’s taking TikTok and YouTube with it</title>
+      <link>https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</guid>
+      <description>Meta might be on the hook for $17.1 billion and a host of app changes under a new kids safety settlement, but it&amp;#x27;s already spinning the deal to its advantage. After years of being the national punching bag for social media harms, Meta has reached a settlement with 47 US states and several districts and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 14:24:29 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust</title>
+      <link>https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/</link>
+      <guid isPermaLink="true">https://medcitynews.com/2026/08/oura-wearable-ring-lawsuit/</guid>
+      <description>The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables. The post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 14:02:00 +0000</pubDate>
+      <source url="https://medcitynews.com">medcitynews.com</source>
+    </item>
     <item>
       <title>California Lawmakers Pass Plug-In Solar Bill</title>
       <link>https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html</link>
@@ -4309,40 +4343,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/07/lawyers-learning-you-cant-square-peg-ai-into-ediscovery-round-holes/</guid>
       <description>Everyone has a vague notion of &amp;#x27;AI,&amp;#x27; but when it comes to discovery, we already built better tech a decade ago. The post Lawyers Learning You Can&amp;amp;#8217;t Square Peg AI Into eDiscovery Round Holes appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 21 Jul 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>xAI, Which Is Being Sued Over Grok’s CSAM Problem, Sues a User Over Grok’s CSAM Problem</title>
-      <link>https://www.techdirt.com/2026/07/21/xai-which-is-being-sued-over-groks-csam-problem-sues-a-user-over-groks-csam-problem/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/07/21/xai-which-is-being-sued-over-groks-csam-problem-sues-a-user-over-groks-csam-problem/</guid>
-      <description>You may recall that at the end of last year and very beginning of this year there was a big story over Elon Musk&amp;amp;#8217;s LLM tool Grok being willing to produce non-consensual images of people (including children) in bikinis or otherwise stripped down in objectifying ways. Elon played into and promoted this &amp;amp;#8220;trend&amp;amp;#8221; at one [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 20:03:15 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>The One Thing You Didn’t Think To Look For In Legal AI</title>
-      <link>https://abovethelaw.com/2026/07/the-one-thing-you-didnt-think-to-look-for-in-legal-ai/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-one-thing-you-didnt-think-to-look-for-in-legal-ai/</guid>
-      <description>Accuracy isn’t just about pinpointing the correct answer. It’s also about being able to acknowledge when there is no answer to be found. The post The One Thing You Didn’t Think To Look For In Legal AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 19:14:42 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/</guid>
-      <description>Anthropic blocks authors from opting out of $1.5B settlement at last minute.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 17:33:14 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials</title>
-      <link>https://abovethelaw.com/2026/07/courtroom-view-network-learning-trial-skills-by-watching-real-lawyers-in-real-trials/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/courtroom-view-network-learning-trial-skills-by-watching-real-lawyers-in-real-trials/</guid>
-      <description>Courtroom View Network is a great example of using AI appropriately and in its proper place and combining it with non-AI tools. The post Courtroom View Network: Learning Trial Skills By Watching Real Lawyers In Real Trials appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 17:46:15 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
