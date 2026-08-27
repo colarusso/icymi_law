@@ -5,8 +5,58 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:10:48 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:12:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Affective Context Amplifies Sycophancy in LLM Responses</title>
+      <link>https://arxiv.org/abs/2608.21242v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.21242v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oegsqoq3ofq3eguaexot5jfu/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As conversational companions, large language models (LLMs) often have access to users&amp;#x27; emotional states. We study how this affective context modulates LLM sycophancy in subjective, evaluative interact...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 1 · likes: 14&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oegsqoq3ofq3eguaexot5jfu/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oegsqoq3ofq3eguaexot5jfu/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types</title>
+      <link>https://arxiv.org/abs/2604.09544</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.09544</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifp6z5glmptjoh76j6wzcd36myzdqbuwohzs5abdwvtuhtunpiuy4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 2 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifp6z5glmptjoh76j6wzcd36myzdqbuwohzs5abdwvtuhtunpiuy4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifp6z5glmptjoh76j6wzcd36myzdqbuwohzs5abdwvtuhtunpiuy4" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Verbalizing LLMs' assumptions to explain and control sycophancy</title>
+      <link>https://arxiv.org/abs/2604.03058</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.03058</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiemsqd3tprnobcci4nr37y7kegqvetvdvwjn6ggntyd32grjqou6q" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Verbalizing LLMs&amp;#x27; assumptions to explain and control sycophancy&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiemsqd3tprnobcci4nr37y7kegqvetvdvwjn6ggntyd32grjqou6q" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiemsqd3tprnobcci4nr37y7kegqvetvdvwjn6ggntyd32grjqou6q" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Training Proactive and Personalized LLM Agents</title>
+      <link>https://arxiv.org/abs/2511.02208</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.02208</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5mze2fkeikzkncxoi5my3lhu4wge6qnoxllra6qvrhpuonkpjci" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Training Proactive and Personalized LLM Agents&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5mze2fkeikzkncxoi5my3lhu4wge6qnoxllra6qvrhpuonkpjci" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5mze2fkeikzkncxoi5my3lhu4wge6qnoxllra6qvrhpuonkpjci" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI Agents Push Humans Out of the Loop</title>
+      <link>https://arxiv.org/abs/2608.23642</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.23642</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xzp2wk3d546vecgjxj7n47g/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a &amp;#x27;&amp;#x27;human in the loop&amp;#x27;&amp;#x27;, but this is not a simple solution: Not on...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xzp2wk3d546vecgjxj7n47g/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xzp2wk3d546vecgjxj7n47g/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>[2608.16884v1] Improving the matrix multiplication exponent with modern optimization and AlphaEvolve</title>
       <link>https://arxiv.org/abs/2608.16884v1</link>
@@ -447,56 +497,6 @@
       <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Challenges and Research Directions for Large Language Model Inference Hardware</title>
-      <link>https://arxiv.org/abs/2601.05047</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.05047</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Model (LLM) inference is hard. The autoregressive Decode phase of the underlying Transformer model makes LLM inference fundamentally different from training. Exacerbated by recent AI tr...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 24&lt;/small&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>A mathematical perspective on Transformers</title>
-      <link>https://arxiv.org/abs/2312.10794</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2312.10794</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnidwtbadagrgztdyrwz7rtu/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Transformers play a central role in the inner workings of large language models. We develop a mathematical framework for analyzing Transformers based on their interpretation as interacting particle sy...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 12&lt;/small&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnidwtbadagrgztdyrwz7rtu/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tnidwtbadagrgztdyrwz7rtu/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Can AI agents conduct open-ended AI research? Early evidence from two case studies</title>
-      <link>https://arxiv.org/abs/2607.27191</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.27191</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3igkkqe5nkm66olc4y2syzpy/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 23 · likes: 95&lt;/small&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 06:09:31 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3igkkqe5nkm66olc4y2syzpy/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3igkkqe5nkm66olc4y2syzpy/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Rethinking the Illusion of Thinking</title>
-      <link>https://arxiv.org/abs/2507.01231</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2507.01231</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Earlier this year, Apple ignited controversy by publishing &amp;quot;The Illusion of Thinking,&amp;quot; prompting heated debate within the AI community. Critics seized upon the findings as conclusive evidence that Lar...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 06:08:29 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>How LLMs Distort Our Written Language</title>
-      <link>https://arxiv.org/abs/2603.18161</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.18161</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are used by over a billion people globally, most often to assist with writing. In this work, we demonstrate that LLMs not only alter the voice and tone of human writing, b...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 44 · likes: 146&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 06:08:39 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5wm25vgenhgut3iqfjf4ozj5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
