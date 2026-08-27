@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:08:39 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:08:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta doesn't want to be a social media company anymore</title>
+      <link>https://www.motherjones.com/politics/2026/08/meta-settlement-social-media-facebook-whatsapp-glasses/</link>
+      <guid isPermaLink="true">https://www.motherjones.com/politics/2026/08/meta-settlement-social-media-facebook-whatsapp-glasses/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7pkhmdnp4e542b2l4drqfmyc/bafkreiehp4ni4idlgvab6qv7cb6cdokbbvywqf3q5byu3yooxyr3rbczzq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Despite an $18 billion settlement to end a nationwide child endangerment lawsuit, the firm clearly no longer sees social media as its main product—or its future.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 45 · likes: 206&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 06:08:53 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7pkhmdnp4e542b2l4drqfmyc/bafkreiehp4ni4idlgvab6qv7cb6cdokbbvywqf3q5byu3yooxyr3rbczzq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7pkhmdnp4e542b2l4drqfmyc/bafkreiehp4ni4idlgvab6qv7cb6cdokbbvywqf3q5byu3yooxyr3rbczzq" type="image/jpeg" length="0" />
+      <source url="https://www.motherjones.com">www.motherjones.com</source>
+    </item>
     <item>
       <title>California Supreme Court puzzled by GOP sheriff’s ‘bizarre’ defense for seizing ballots</title>
       <link>https://www.democracydocket.com/news-alerts/california-supreme-court-puzzled-by-gop-sheriffs-bizarre-defense-for-seizing-ballots/</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wld6fad6xsm4tz4kfkoikun2/bafkreifrvicg62qezbyglcgbgjndg6aa7epmhe2rj5jmsxnev6czg4m5za" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wld6fad6xsm4tz4kfkoikun2/bafkreifrvicg62qezbyglcgbgjndg6aa7epmhe2rj5jmsxnev6czg4m5za" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Trump advisers tell AI firms they will not safety-test open-weight models</title>
-      <link>https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/litigation/meta-anthropic-google-openai-meet-with-trump-white-house-amid-rogue-ai-agent-2026-08-04/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ckaz32jwl6t2cno6fmuw2nhn/bafkreiagaufxm65dgnexcvhackqlt3rgnhpe67737xoyh3brnhi6agveji" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The Trump administration told AI developers on Tuesday that it ​will not put open-weight AI models through voluntary safety ‌tests, according to two sources familiar with the discussions.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 35&lt;/small&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 06:08:15 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ckaz32jwl6t2cno6fmuw2nhn/bafkreiagaufxm65dgnexcvhackqlt3rgnhpe67737xoyh3brnhi6agveji" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ckaz32jwl6t2cno6fmuw2nhn/bafkreiagaufxm65dgnexcvhackqlt3rgnhpe67737xoyh3brnhi6agveji" type="image/jpeg" length="0" />
-      <source url="https://www.reuters.com">www.reuters.com</source>
     </item>
   </channel>
 </rss>
