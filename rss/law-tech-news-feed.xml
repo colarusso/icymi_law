@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:56:17 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Meta’s $17 Billion Settlement Means</title>
+      <link>https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</guid>
+      <description>Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 27 Aug 2026 18:54:17 +0000</pubDate>
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>A List of ICE Subpoenas to Tech Companies</title>
+      <link>https://www.eff.org/deeplinks/2026/08/list-ice-subpoenas-tech-companies</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/list-ice-subpoenas-tech-companies</guid>
+      <description>Immigration and Customs Enforcement (ICE) has conducted unlawful investigations into dozens of individuals who have documented ICE activities in their communities, social media users who criticized the government, and international students who attended a protest. A favored tool in these speech chilling investigations are administrative subpoenas sent to technology companies, requesting basic subscriber data about their users. For example, from 2018 to 2020, ICE sent nearly 500 administrative subpoenas to Meta, Google, and Twitter (now X), according to documents obtained by Just Futures Law. In just the second half of 2025, the Department of Homeland Security (DHS) sent 21 administrative subpoenas to Reddit, according to its Transparency Report. While some subpoenas are routine, ICE has been forced to withdraw others after users challenged them in court or companies pushed back. These challenged subpoenas exceeded the agency&amp;#x27;s statutory authority and violated users&amp;#x27; First Amendment rights. Below is a non-comprehensive list of DHS subpoenas that we gathered going back to 2025, looking at public reporting and court cases. This is likely an undercount. The full scope is hard to pin down because these subpoenas typically only come to light when a user is given notice and challenges them in court, or when a company documents them in a transparency report (so far, only Reddit appears to break out specific numbers on DHS subpoenas). In addition, DHS has been slow to respond to our Freedom of Information Act requests and lawsuits seeking records that would show how many administrative subpoenas ICE has sent to social media companies since 2025. If you know of other subpoenas that are not on this list, please reach out to info@eff.org. While the government has abused the subpoena process in other areas, particularly to hospitals, this list focuses on DHS and ICE subpoenas to technology companies for user data. DATE ISSUED (and link to subpoena) TARGETED COMPANY INDIVIDUAL USER TARGETED OUTCOME 3/17/25 Facebook Momodou Taal, international student who attended pro-Palestinian protest Withdrawn 3/23/25 Google Momodou Taal, international student who attended pro-Palestinian protest Withdrawn 4/1/25 Google Amandla Thomas-Johnson, international student who attended pro-Palestinian protest Google disclosed data to ICE on 5/8/25 9/4/25 Meta 6 accounts in Southern California that documented immigration activity, including LB_Protest, Long Beach Rapid Response Network, and Stopice.net Withdrawn after court challenge on 11/24/25 9/11/25* Meta (Instagram) Pennsylvania account called &amp;quot;MontCo Community Watch&amp;quot; that documented immigration activity Withdrawn after court challenge on 1/16/26 9/11/25* Meta (Facebook) Pennsylvania account called &amp;quot;MontCo Community Watch&amp;quot; that documented immigration activity Withdrawn after court challenge on 1/16/26 10/30/25 Google Retired Philadelphia user who emailed criticism to U.S. prosecutor Withdrawn after court challenge on 2/5/26 2/4/26* Google Social media user who regularly posts criticism of the President Subpoena challenged in Court 2/19/26* Reddit &amp;quot;Tired_Thumb,&amp;quot; user who posted about ICE officer Withdraw after court challenge on 3/27/26; replaced with grand jury subpoena 2/27/26* X &amp;quot;podslurp,” who posted publicly available address information about ICE officer Withdrawn May 2026; replaced with grand jury subpoena 3/7/26 PayPal/Venmo &amp;quot;Voices of Racial Justice,&amp;quot; a racial justice organization in Minnesota PayPal/Venmo disclosed data 3/20/26 4/3/26* Google (YouTube) @TheDonLemonShow, GeorgiaFort, @DemocracyNow, and seven other accounts that reported on protest at Minnesota church Google Objected 4/7/26 4/12/26* T-Mobile Minnesota journalist Georgia Fort and others T-Mobile disclosed data on 4/12/26 First half of 2025 Reddit Reddit account Subpoena withdrawn after questions from Reddit Second half of 2025 Reddit 11 Reddit accounts that posted content &amp;quot;critical of ICE actions&amp;quot; 3 subpoenas withdrawn after Reddit objected * = denotes summonses issued under 19 U.S.C. 1509, an authority that has been abused in the past, according to DHS&amp;#x27;s inspector general.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 26 Aug 2026 21:31:14 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/law-4.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/law-4.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>AI Is Coming To Litigation. Get Up To Speed With Bellwether AI Litigator Early Bird Special.</title>
       <link>https://www.myshingle.com/2026/08/ai-is-coming-to-litigation-get-up-to-speed-with-bellwether-ai-litigator-early-bird-special/</link>
@@ -4328,24 +4346,6 @@
       <description>By Adam Nguyen, CEO, eBrevia. For the past two years, corporate legal departments have been told that AI will make legal work faster, more efficient ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 22 Jul 2026 06:45:28 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>This Judge Is Just Begging For A Benchslap — See Also</title>
-      <link>https://abovethelaw.com/2026/07/this-judge-is-just-begging-for-a-benchslap-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/this-judge-is-just-begging-for-a-benchslap-see-also/</guid>
-      <description>Judge VanDyke Has Taken To Asking The Supreme Court For Favors: Of the benchslap variety. Full Metal Briefing: Todd Blanche feared DOJ would get &amp;quot;skullfucked&amp;quot; by the courts. The Tortured Logic Of John Yoo: Yoo tells Fox News that the DOJ should probe Zohran Mamdani for thought crime, which is as scary as it is buffonish. No Merger, No Problem: Linklaters is doing just fine when it comes to revenue, thank you very much. The Process Is The Process: Generative AI is all over the legal industry, but when it comes to discovery, process beats technology. Congress Has Some Pointed Questions For Skadden: Will they answer? Probably not! But that won&amp;#x27;t necessarily make the problem go away. The post This Judge Is Just Begging For A Benchslap &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 23:35:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec</title>
-      <link>https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/</link>
-      <guid isPermaLink="true">https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/</guid>
-      <description>Ronald Fischer, aka Richard Graydon, was arrested in New York last week.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 21 Jul 2026 22:04:56 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-1080x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n-1080x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
