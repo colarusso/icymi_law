@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 18:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem — See Also</title>
+      <link>https://abovethelaw.com/2026/08/when-samuel-alito-is-the-one-calling-you-scary-you-know-theres-a-problem-see-also/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/when-samuel-alito-is-the-one-calling-you-scary-you-know-theres-a-problem-see-also/</guid>
+      <description>Clarence Thomas Was &amp;quot;Scary&amp;quot; In Law School: At least according to Samuel Alito. Court watchers still think he&amp;#x27;s plenty scary now, too. SCOTUS Said Come Back With A Final Rule. The States Did. They Won Again (At The District Court): The Postal Service finalized its plan. A fresh wave of lawsuits followed. Judge Talwani hit pause. Trump Accidentally Trolls His Own Legal Claims: Oopsie! These NYT and IRS suits aren’t mixing well. Legal Tech Has Hit The Big Time: Things can only continue to go up from here. Until the bubble bursts... The post When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 23:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>‘Right To Repair’ State Laws Continue To Surge, But Enforcement Remains Nonexistent</title>
       <link>https://www.techdirt.com/2026/08/28/right-to-repair-state-laws-continue-to-surge-but-enforcement-remains-nonexistent/</link>
@@ -4334,14 +4342,6 @@
       <description>New paper: &amp;amp;#8220;Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the &amp;amp;#8216;Going Dark&amp;amp;#8217; Debate&amp;amp;#8220;: Abstract: This Article updates and expands on 2012 research on encryption and globalization, analyzing what the authors call &amp;amp;#8220;Round 3&amp;amp;#8221; of the Going Dark Debate: the current controversies over end-to-end encryption (E2EE). Governments around the world have proposed, and in some cases enacted, laws limiting E2EE for law enforcement and national security purposes. This Article explains the underlying technologies and market developments for a law and policy audience to assess those proposals critically. The Article proceeds in three parts tracking three rounds of the Going Dark Debate. Round 1 covers the Crypto Wars of the 1990s, when U.S. export controls on strong encryption ultimately fell in 1999. Round 2 covers the period roughly 2010 to 2015, when encryption-in-transit became widespread but lawful access remained available through cloud providers, giving rise to what the authors called a &amp;amp;#8220;golden age of surveillance&amp;amp;#8221; rather than a period of going dark. Round 3 addresses the current debate over E2EE, where no entity between sender and recipient can read the plaintext...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 11:03:50 +0000</pubDate>
       <source url="https://www.schneier.com">www.schneier.com</source>
-    </item>
-    <item>
-      <title>Entegrata Hires Simpson Thacher AI Leader Andrew Baker To Head New AI Enablement Product Line</title>
-      <link>https://www.lawnext.com/2026/07/entegrata-hires-simpson-thacher-ai-leader-andrew-baker-to-head-new-ai-enablement-product-line.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/07/entegrata-hires-simpson-thacher-ai-leader-andrew-baker-to-head-new-ai-enablement-product-line.html</guid>
-      <description>The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science at Simpson Thacher &amp;amp;#38; Bartlett, as its first chief AI and data strategy officer, where he will lead [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 11:00:18 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
