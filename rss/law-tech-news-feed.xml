@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 10:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaborators Using the ‘Instagram Collabs’ Feature May Forego a Section 230 Defense–Winer v. Mohammed</title>
+      <link>https://blog.ericgoldman.org/archives/2026/08/collaborators-using-the-instagram-collabs-feature-may-forego-a-section-230-defense-winer-v-mohammed.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/08/collaborators-using-the-instagram-collabs-feature-may-forego-a-section-230-defense-winer-v-mohammed.htm</guid>
+      <description>[I have so many Section 230 cases backlogged in my blogging queue, but this one is jumping the queue because of its comparative novelty.] This is a defamation case between a professor and a student in the Emory School of... The post Collaborators Using the &amp;amp;#8216;Instagram Collabs&amp;amp;#8217; Feature May Forego a Section 230 Defense&amp;amp;#8211;Winer v. Mohammed appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 15:18:45 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>Meta To Pay Up To $18 Billion In Settlements</title>
       <link>https://fashionista.com/2026/08/nyakio-grieco-reacquires-thirteen-lune</link>
@@ -4338,16 +4346,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7e/live/ab7d6920-8629-11f1-8e14-33590a929431.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto</title>
-      <link>https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</guid>
-      <description>Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 22 Jul 2026 23:01:47 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/23/multimedia/23trump-ethics-bkhv/23trump-ethics-bkhv-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/23/multimedia/23trump-ethics-bkhv/23trump-ethics-bkhv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
