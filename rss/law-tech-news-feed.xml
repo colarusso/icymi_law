@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Right To Repair’ State Laws Continue To Surge, But Enforcement Remains Nonexistent</title>
+      <link>https://www.techdirt.com/2026/08/28/right-to-repair-state-laws-continue-to-surge-but-enforcement-remains-nonexistent/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/08/28/right-to-repair-state-laws-continue-to-surge-but-enforcement-remains-nonexistent/</guid>
+      <description>There’s still&amp;amp;#160;a massive effort afoot&amp;amp;#160;to implement statewide “right to repair” laws that try to make it cheaper, easier, and environmentally friendlier for you to repair the technology you own.&amp;amp;#160;All fifty states have at least flirted with the idea, though only Massachusetts, New York, Texas, Minnesota, Colorado,&amp;amp;#160;California, Oregon, and Washington have actually passed laws. US PIRG [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 22:12:01 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Welcome, Class of 2029!</title>
       <link>https://buttondown.com/LawyerExMachina/archive/welcome-class-of-2029/</link>
@@ -4334,14 +4342,6 @@
       <description>The legal data company Entegrata, whose data lakehouse platform helps law firms consolidate siloed data into a single source of truth, has hired Andrew Baker, who for more than five years led applied AI and data science at Simpson Thacher &amp;amp;#38; Bartlett, as its first chief AI and data strategy officer, where he will lead [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 11:00:18 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Google hit with $1 billion fine for breaking EU antitrust rules</title>
-      <link>https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/943866/google-alphabet-eu-dma-fine-search-services-play-store-steering</guid>
-      <description>The European Union has fined Google&amp;#x27;s parent company Alphabet &amp;amp;#8364;890 million (about $1 billion) for two separate violations of the bloc&amp;#x27;s Digital Markets Act (DMA). One penalty is for giving its own products preferential treatment in search results, while the other is for blocking Android developers from sending users to alternate payment options. A &amp;amp;#8364;460 [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 10:33:08 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
