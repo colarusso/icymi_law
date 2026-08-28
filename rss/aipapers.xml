@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:12:01 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:15:33 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Inverse Lyth Bound for Non-Attractor Inflation</title>
+      <link>https://arxiv.org/abs/2608.25911</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.25911</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;I present a novel physics result generated entirely autonomously by ChatGPT 5.6 Sol. The Lyth bound relates an observable primordial tensor amplitude to a lower limit on the field excursion during sin...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 0 · likes: 23&lt;/small&gt;</description>
+      <pubDate>Fri, 28 Aug 2026 06:15:33 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Affective Context Amplifies Sycophancy in LLM Responses</title>
       <link>https://arxiv.org/abs/2608.21242v1</link>
@@ -487,16 +497,6 @@
       <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Individual-level interventions against sycophantic AI reduce its appeal but not its persuasiveness</title>
-      <link>https://arxiv.org/abs/2607.25166</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.25166</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI chatbots can be &amp;quot;sycophantic,&amp;quot; or overly agreeable and flattering toward users. Sycophantic AI has been shown to entrench attitudes, yet users frequently fail to recognize it (a phenomenon we call ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 12 · likes: 17&lt;/small&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
