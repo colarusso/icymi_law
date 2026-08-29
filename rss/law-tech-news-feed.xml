@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 13:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:56:07 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
+      <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</guid>
+      <description>This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 18:41:59 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>How Meta’s $17.1 Billion Social Media Settlement Came Together</title>
       <link>https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html</link>
@@ -4336,14 +4344,6 @@
       <description>Last month I wrote a feature for The Verge exploring how Republicans had hijacked the Biden-era infrastructure bill to redirect billions of dollars away from next-generation fiber, and instead funnel it into the pockets of billionaires Elon Musk and Jeff Bezos &amp;amp;#8212; in exchange for congested, expensive, satellite broadband service they&amp;amp;#8217;d already planned to deploy. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 12:27:37 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>What is open-source AI? A software engineering researcher explains</title>
-      <link>https://theconversation.com/what-is-open-source-ai-a-software-engineering-researcher-explains-236668</link>
-      <guid isPermaLink="true">https://theconversation.com/what-is-open-source-ai-a-software-engineering-researcher-explains-236668</guid>
-      <description>Open-source AI models allow anyone to read their inner workings like a book. Utamaru Kido/Moment via Getty ImagesYou’ve probably heard artificial intelligence models described as “open” or “closed.” These are not descriptions of the model’s personality. Large language model AIs like the one under the hood of ChatGPT don’t have actual personalities, despite appearances. The labels refer to whether all of the information about how an AI model works is publicly available and the model can be modified, or whether the model’s developer keeps its inner workings secret and the model itself private property. Open-source software The concept of open-source software originated in the free software movement of the 1980s and ’90s. The movement’s founders believed that software creators and users had the right to “four freedoms” – to run the program, to study and modify it, to distribute copies of the original, and to distribute copies of subsequently modified versions. The fundamental requirement was that the source code – the basic instructions – for a program should be made available. In the late 1990s, software developers associated with projects such as the Netscape web browser and the Linux operating system coined and promoted the term “open source” to refer to these ideals. As part of the evolving movement, certain organizations developed open-source licenses that specified how a particular piece of source code could be used and distributed, including the Gnu General Public License, Apache License, MIT License and the Berkeley Software Distribution. Each type of license also specified any potential restrictions on how software patents applied to the source code. Open source or open weight? The open-source idea has risen to prominence again in the past several years as artificial intelligence large language models have surged, notably OpenAI’s ChatGPT, released in 2022. Developers first train new models on large datasets, then deploy the models for use by other people. Open-source artificial intelligence is explained in two minutes. Meta was one of the first large companies to release an open-source large language model, called LLaMa. The company released LLaMa on Feb. 24, 2023, and made available the “inference” source code – the instructions that run the model. And it released the so-called weights, the encoded knowledge the model learned during training. However, open-source organizations such as the Open Source Initiative have stated that the LLaMa licensing guidelines prohibit commercial reuse, which the initiative maintains is not truly open source. Other companies have released “open weight” models, such as DeepSeek from DeepSeek AI and Qwen from Alibaba. The models have less restrictive terms for reuse, and the AI community has adopted them rapidly. Still, many developers believe that a true open-source AI model must not only include the source code and weights but also the data that is used to train the model. A lot to open up The Open Source Initiative’s definition of a fully open-source AI model includes the training data as a key element. Some developers wonder, however, how feasible it is to distribute the enormous datasets required. Jeffrey Young receives funding from the Sloan Foundation in his role as the director of Georgia Tech&amp;#x27;s Open Source Program Office.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://theconversation.com/us/technology/articles.atom&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:24:00 +0000</pubDate>
-      <source url="https://theconversation.com">theconversation.com</source>
     </item>
   </channel>
 </rss>
