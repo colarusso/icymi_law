@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:15:33 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 06:08:36 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)</title>
+      <link>https://arxiv.org/abs/2510.22954</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.22954</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Language models (LMs) often struggle to generate diverse, human-like creative content, raising concerns about the long-term homogenization of human thought through repeated exposure to similar outputs...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 06:08:36 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving</title>
+      <link>https://arxiv.org/abs/2608.25220</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.25220</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiesznzjnw45szenxelkdkqfc7a7nflzld3yfcw4sfcrmgayhwsoma" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for FLARE: Verifying MILP Reformulations with LLM-Based Theorem Proving&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sat, 29 Aug 2026 06:08:36 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiesznzjnw45szenxelkdkqfc7a7nflzld3yfcw4sfcrmgayhwsoma" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiesznzjnw45szenxelkdkqfc7a7nflzld3yfcw4sfcrmgayhwsoma" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>An Inverse Lyth Bound for Non-Attractor Inflation</title>
       <link>https://arxiv.org/abs/2608.25911</link>
@@ -478,26 +498,6 @@
       <description>Amici curiae are dozens of professors of law, economics, and business who have researched and published extensively on antitrust issue&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 9&lt;/small&gt;</description>
       <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Grounded world models in biological organisms and future embodied AI</title>
-      <link>https://arxiv.org/abs/2607.13560</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.13560</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:llojyojekfb3vzxl44txm65v/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recent advances in generative and embodied AI have been driven by large-scale predictive learning over multimodal data. However, the resulting systems remain largely based on passive training regimes ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 14&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:llojyojekfb3vzxl44txm65v/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:llojyojekfb3vzxl44txm65v/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Hallucination is Inevitable: An Innate Limitation of Large Language Models</title>
-      <link>https://arxiv.org/abs/2401.11817</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2401.11817</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Hallucination has been widely recognized to be a significant drawback for large language models (LLMs). There have been many works that attempt to reduce the extent of hallucination. These efforts hav...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 19 · likes: 47&lt;/small&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 06:11:54 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
