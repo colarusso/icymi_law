@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 06:06:58 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:06:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One of East Coast’s largest data centers accused of ‘violating federal law'</title>
+      <link>https://floodlightnews.org/new-jersey-data-center-federal-violation/</link>
+      <guid isPermaLink="true">https://floodlightnews.org/new-jersey-data-center-federal-violation/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bono5gae7m6r3qpfxomshwbd/bafkreicqui2h5u442fzl4eikajzhxf2gj4b6gkpkui7w7sqe2gy4pwye74" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Thermal drone footage shows DataOne — the Microsoft-backed AI data center in Vineland — is powering its operations with dozens of unpermitted generators&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 752 · likes: 1558&lt;/small&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 06:06:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bono5gae7m6r3qpfxomshwbd/bafkreicqui2h5u442fzl4eikajzhxf2gj4b6gkpkui7w7sqe2gy4pwye74" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bono5gae7m6r3qpfxomshwbd/bafkreicqui2h5u442fzl4eikajzhxf2gj4b6gkpkui7w7sqe2gy4pwye74" type="image/jpeg" length="0" />
+      <source url="https://floodlightnews.org">floodlightnews.org</source>
+    </item>
     <item>
       <title>The Trump DOJ Is Running Out of Ways to Humiliate Itself In Public</title>
       <link>https://ballsandstrikes.substack.com/p/the-trump-doj-is-running-out-of-ways?r=2rp55b&amp;utm_medium=ios</link>
@@ -493,16 +503,6 @@
       <pubDate>Fri, 07 Aug 2026 06:07:10 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreieq3pq4lrzrleksc5rjy537eyatgl3hu2ynykwepqktj7oezltv3m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreieq3pq4lrzrleksc5rjy537eyatgl3hu2ynykwepqktj7oezltv3m" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>The Anti-Data-Center Movement Is Reshaping Michigan Politics</title>
-      <link>https://www.wired.com/story/anti-data-center-movement-reshaping-michigan-politics/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/anti-data-center-movement-reshaping-michigan-politics/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreieulf3njcdz44i5qwvjsxdgsdsbcomsgztowdqnuzs4fkhunqsaka" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Climate activist Will Lawrence cofounded the Sunrise Movement. Now, he has shifted his focus in his attempt to compete for a swing-district seat by calling for a data center moratorium.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 89 · likes: 377&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 06:07:36 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreieulf3njcdz44i5qwvjsxdgsdsbcomsgztowdqnuzs4fkhunqsaka" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreieulf3njcdz44i5qwvjsxdgsdsbcomsgztowdqnuzs4fkhunqsaka" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
