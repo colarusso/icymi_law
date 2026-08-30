@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 06:08:36 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:07:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?</title>
+      <link>https://arxiv.org/abs/2608.23937</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.23937</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6qvfkbrohedqy3dt6k5mdv6/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&amp;quot;AI psychosis&amp;quot; has entered public and clinical discourse as a label for the onset or exacerbation of psychotic symptoms, most commonly delusions, following intensive interaction with large language mo...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 10 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 06:07:49 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6qvfkbrohedqy3dt6k5mdv6/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6qvfkbrohedqy3dt6k5mdv6/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Lower bound on the thickness of broadband dielectric mirrors</title>
+      <link>https://arxiv.org/abs/2608.26633</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26633</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abkp4sglznvkptyncrltve6t/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We present a lower bound on the total physical thickness of a lossless, non-dispersive dielectric mirror for a given minimum reflectance across a wavelength band. The bound is based on a causality-bas...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 06:07:49 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abkp4sglznvkptyncrltve6t/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abkp4sglznvkptyncrltve6t/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Dose-PlanNet: Physics Based Radiotherapy Dose Prediction with Deep Learning</title>
+      <link>https://arxiv.org/abs/2608.26901v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26901v1</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Automating prostate radiotherapy treatment planning is dosimetrically complex, particularly for extreme hypofractionated regimens. In this study, we introduce Dose-PlanNet, a physics-guided 3D deep learning architecture designed to predict dose distributions. This model&amp;amp;#39;s performance was evaluated on a cohort of patients treated in a prospective trial where two different dose fractionation regimens were employed. Dose-PlanNet achieved comparable target coverage ($D_{95}$), though statistical analysis revealed a marginal reduction in target homogeneity ($p&amp;amp;lt;0.001$) offset. However the model achieved statistically significant improvements in high-dose organ-at-risk sparing ($p&amp;amp;lt;0.001$). When evaluated against strict Prospective Randomized protocol volumetric constraints, automated plans met prespecified clinical acceptance criteria in $11$ out of $14$ Moderate Hypofraction Arm plans and $9$ out of $12$ Stereotactic Body Radiation Therapy Arm plans. This pipeline demonstrates that&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 06:07:49 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)</title>
       <link>https://arxiv.org/abs/2510.22954</link>
@@ -470,34 +500,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback</title>
-      <link>https://arxiv.org/abs/2603.12471</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.12471</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nmoaombfcftmgt6emgcapyh5/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Effective personalized feedback is critical to students&amp;#x27; literacy development. Though LLM-powered tools now promise to automate such feedback at scale, LLMs are not language-neutral: they privilege st...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Sat, 08 Aug 2026 06:10:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nmoaombfcftmgt6emgcapyh5/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nmoaombfcftmgt6emgcapyh5/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>MDArena: Evaluating Coding Agents on Realistic Molecular Dynamics Workflows</title>
-      <link>https://arxiv.org/abs/2608.02642</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.02642</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lykmonumufb32zwuv25rfnku/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Accelerating scientific discovery is among the most consequential applications of AI, and computational biomolecular simulation stands out as a particularly promising target within this broader effort...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lykmonumufb32zwuv25rfnku/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lykmonumufb32zwuv25rfnku/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Amicus Brief of Antitrust Law, Economics, and Business Professors in Support of Plaintiffs - US v. Google D.C Circuit</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234698</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7234698</guid>
-      <description>Amici curiae are dozens of professors of law, economics, and business who have researched and published extensively on antitrust issue&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 06:09:55 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
