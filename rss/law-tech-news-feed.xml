@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 11:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Musk’s faster path to more gas turbines comes with pollution problem</title>
+      <link>https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/</guid>
+      <description>Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it&amp;#x27;s a bet on a fuel source that&amp;#x27;s already triggering lawsuits and health studies everywhere his (and others&amp;#x27;) turbines have gone in.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 16:54:25 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft</title>
       <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
@@ -4336,14 +4344,6 @@
       <description>Microsoft&amp;amp;#8217;s legal department is becoming a Harvey customer. The legal AI company Harvey announced today that Microsoft&amp;amp;#8217;s Corporate, External, and Legal Affairs (CELA) organization — the roughly 2,000-person unit that houses the company&amp;amp;#8217;s lawyers and compliance professionals — will use the Harvey platform to support its legal and compliance operations. As part of the same [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 12:30:44 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Dem Texas AG Candidate Vows To Investigate Musk’s Starlink Grant Grift</title>
-      <link>https://www.techdirt.com/2026/07/23/dem-texas-ag-candidate-vows-to-investigate-musks-starlink-grant-grift/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/07/23/dem-texas-ag-candidate-vows-to-investigate-musks-starlink-grant-grift/</guid>
-      <description>Last month I wrote a feature for The Verge exploring how Republicans had hijacked the Biden-era infrastructure bill to redirect billions of dollars away from next-generation fiber, and instead funnel it into the pockets of billionaires Elon Musk and Jeff Bezos &amp;amp;#8212; in exchange for congested, expensive, satellite broadband service they&amp;amp;#8217;d already planned to deploy. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:27:37 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
