@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 18:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 19:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFF to Governor Newsom: Veto California’s AB 1709</title>
+      <link>https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709</guid>
+      <description>The California legislature passed Assembly Bill 1709 (A.B. 1709) today, which functions as a sweeping ban on social media use for young people under the age of 16. This well-intentioned, but deeply flawed piece of legislation, cuts young people off from essential information and experiences, particularly harming vulnerable youth and marginalized groups who often find safety in supportive online communities they can&amp;#x27;t access offline. That’s why we’re urging Governor Gavin Newsom to veto the measure. Should the law go into effect in January, platforms would be prohibited from offering virtually every functional recommendation algorithm and basic input, such as who a user follows or what posts they like, to anyone under 16. These so-called &amp;quot;addictive features,&amp;quot; are in reality the basic tools that online services use to identify what other user-generated content a particular user might want to see. Users also rely on these features to find audiences for their own speech, as well as community. By labeling these basic tools as &amp;quot;addictive,&amp;quot; the bill relies on sweeping generalizations regarding the unsettled science of youth social media use. Because nearly every major service relies on automated feeds, the ultimate result is that young people under 16 will still be locked out of major digital services as they currently exist. A.B. 1709 is a massive privacy and free speech nightmare. A.B. 1709 is a massive privacy and free speech nightmare. Denying young people access to digital forums (or stripping out the basic tools needed to navigate them) does nothing to make young people safer or healthier. Research shows that social media bans are ineffectual, and can be harmful when they deny young people opportunities to develop their own voices and perspectives, whether that means sharing art, practicing religion, or engaging in politics. Far from protecting children, the bill will also severely restrict access to constitutionally protected speech and push platforms to implement invasive age-verification methods, such as requiring government IDs or biometric scanning. Age-gating requirements will force everyone to give big tech companies even more personal information. To verify who can pass through online gates, companies will collect even more data, concentrating power in corporate hands rather than protecting users. This creates massive honeypots of sensitive personal data, severely damages online anonymity, and exposes users of all ages to heightened data breach risks. Finally, A.B. 1709 introduces legal confusion by creating provisions that conflict with already enacted legislation like A.B. 1043 and S.B. 976. Rather than offering regulatory clarity on already-passed laws, California will only end up spending valuable resources to defend a law bound to be tied up in court. For more details, you can read our full letter to the Governor here.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 23:37:39 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>The Next Legal AI Problem Is Not Hallucination. It Is Authorization.</title>
       <link>https://abovethelaw.com/2026/08/the-next-legal-ai-problem-is-not-hallucination-it-is-authorization/</link>
@@ -4338,14 +4348,6 @@
       <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/01/AdobeStock_833605612-1_resize-400x225.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/01/AdobeStock_833605612-1_resize-400x225.jpg" type="image/jpeg" length="0" />
       <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
-    </item>
-    <item>
-      <title>An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?</title>
-      <link>https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html</guid>
-      <description>Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 10:24:14 +0000</pubDate>
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
