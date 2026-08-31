@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 16:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads</title>
+      <link>https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit</guid>
+      <description>The FTC and 22 state attorneys general are suing Amazon for allegedly using a &amp;quot;secret ad surcharge&amp;quot; to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices &amp;quot;were largely passed on to American consumers.&amp;quot; According to the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 21:41:42 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges</title>
+      <link>https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Amazon responded to the lawsuit, arguing the US Federal Trade Commission &amp;quot;misunderstands&amp;quot; their ad market.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 21:28:49 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit</title>
       <link>https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/</link>
@@ -4328,24 +4346,6 @@
       <description>We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 24 Jul 2026 07:49:09 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Congress proposes an AI kill switch</title>
-      <link>https://www.platformer.news/openai-agent-sandbox-escape-killswitch-bill/</link>
-      <guid isPermaLink="true">https://www.platformer.news/openai-agent-sandbox-escape-killswitch-bill/</guid>
-      <description>As more details emerge about OpenAI&amp;#x27;s cyberattack against Hugging Face, lawmakers are taking an interest. PLUS: Meta&amp;#x27;s cynical new ad + &amp;quot;pervert glasses&amp;quot; damage control&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.platformer.news/rss/&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 00:08:20 +0000</pubDate>
-      <media:content url="https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/07/shutterstock_2424222439.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/07/shutterstock_2424222439.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.platformer.news">www.platformer.news</source>
-    </item>
-    <item>
-      <title>Todd Blanche Can’t Admit The Slush Fund Was A Mistake Because ‘That’s Not Proper MAGA Talk’ — See Also</title>
-      <link>https://abovethelaw.com/2026/07/todd-blanche-cant-admit-the-slush-fund-was-a-mistake-because-thats-not-proper-maga-talk-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/todd-blanche-cant-admit-the-slush-fund-was-a-mistake-because-thats-not-proper-maga-talk-see-also/</guid>
-      <description>Liar, Liar: Todd Blanche&amp;#x27;s unique confirmation strategy. Stop Waiting For Cravath: Biglaw firms don&amp;#x27;t need permission anymore. It&amp;#x27;s time to make your money moves. That&amp;#x27;s A Pretty Big Malpractice Claim You&amp;#x27;ve Got There: Holland &amp;amp;#38; Knight facing $1.2B lawsuit. Robot Criminals Are Here: OpenAI&amp;#x27;s models escaped a secure environment and started hacking a website. That&amp;#x27;s illegal for humans, but what do we do with a bot? The post Todd Blanche Can&amp;amp;#8217;t Admit The Slush Fund Was A Mistake Because &amp;amp;#8216;That&amp;amp;#8217;s Not Proper MAGA Talk&amp;amp;#8217; &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 23:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
