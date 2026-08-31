@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 06:07:49 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:08:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The misclassification of autistic writing as AI-generated</title>
+      <link>https://arxiv.org/html/2607.14729v1</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2607.14729v1</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 10 · likes: 22&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 06:08:22 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?</title>
       <link>https://arxiv.org/abs/2608.23937</link>
@@ -489,16 +497,6 @@
       <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>An Early Warning of Emerging Biosecurity Risks in Frontier LLMs</title>
-      <link>https://arxiv.org/abs/2607.18056</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.18056</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Frontier large language models (LLMs) are increasingly integrated into scientific workflows, yet their growing biological capabilities may outpace current safeguards. To assess the biological risks of...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 4 · likes: 8&lt;/small&gt;</description>
-      <pubDate>Sat, 08 Aug 2026 06:10:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3wdc7dmw4l7uxgwfwixm7lc5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
