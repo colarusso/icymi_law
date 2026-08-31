@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Next Legal AI Problem Is Not Hallucination. It Is Authorization.</title>
+      <link>https://abovethelaw.com/2026/08/the-next-legal-ai-problem-is-not-hallucination-it-is-authorization/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/08/the-next-legal-ai-problem-is-not-hallucination-it-is-authorization/</guid>
+      <description>As AI moves from answering questions to conducting transactions, accuracy is no longer enough. The post The Next Legal AI Problem Is Not Hallucination. It Is Authorization. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 15:46:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads</title>
       <link>https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit</link>
@@ -4338,14 +4346,6 @@
       <description>Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
       <pubDate>Fri, 24 Jul 2026 10:24:14 +0000</pubDate>
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Lexis $$$, Spellbook / Google, Legal Innovators Nordics</title>
-      <link>https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/24/lexis-spellbook-google-legal-innovators-nordics/</guid>
-      <description>We start this week’s Wrap with news that the Claude Crash earlier this year, which hit market sentiment and wiped billions off the value of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 07:49:09 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
