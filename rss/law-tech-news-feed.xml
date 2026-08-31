@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:55:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agency and Agents</title>
+      <link>https://www.oneusefulthing.org/p/agency-and-agents</link>
+      <guid isPermaLink="true">https://www.oneusefulthing.org/p/agency-and-agents</guid>
+      <description>From the Hugging Face Incident to Twilight Factories&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.oneusefulthing.org/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 00:24:35 +0000</pubDate>
+      <media:content url="https://substackcdn.com/image/fetch/$s_!LzPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cee090-1da6-4c8d-a043-01d835708104_1456x816.png" medium="image" type="image/png" />
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!LzPL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cee090-1da6-4c8d-a043-01d835708104_1456x816.png" type="image/png" length="0" />
+      <source url="https://www.oneusefulthing.org">www.oneusefulthing.org</source>
+    </item>
     <item>
       <title>As If It’s Not Hard Enough To Make Partner — See Generally</title>
       <link>https://abovethelaw.com/2026/08/as-if-its-not-hard-enough-to-make-partner-see-generally/</link>
@@ -4336,14 +4346,6 @@
       <description>Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a number of ex-Apple employees at [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Harvey Deepens Microsoft Relationship</title>
-      <link>https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/23/harvey-deepens-microsoft-relationship/</guid>
-      <description>Harvey has deepened its engagement with Microsoft, in this case via providing its legal AI platform to the tech giant&amp;amp;#8217;s Corporate, External, and Legal Affairs ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:38:56 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
