@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT to face tougher regulation in the EU</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</guid>
+      <description>OpenAI will soon be held accountable for mitigating risks related to ChatGPT&amp;#x27;s impact on minors, user mental health, and the spread of illegal content in the European Union. That&amp;#x27;s because ChatGPT is now considered a Very Large Online Search Engine under the EU&amp;#x27;s Digital Services Act, a set of laws regulating major online services and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 13:27:36 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Anthropic sued over alleged theft of ‘tens of thousands’ of songs</title>
       <link>https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude</link>
@@ -4336,16 +4344,6 @@
       <description>Lawmakers are preparing to introduce an &amp;quot;AI Kill Switch Act&amp;quot; that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 14:13:35 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Google Hit With $1 Billion Fine By EU Over Search Engine Practices</title>
-      <link>https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html</guid>
-      <description>At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 12:33:45 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-eu-google-zqcm-wvkf/23biz-eu-google-zqcm-wvkf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-eu-google-zqcm-wvkf/23biz-eu-google-zqcm-wvkf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
