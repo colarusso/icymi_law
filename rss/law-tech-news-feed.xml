@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harvard Law dropout raises $6M for Blue Voice to build a “Harvey for police officers”</title>
+      <link>https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/</guid>
+      <description>The seed round for the app that provides real-time legal and policy guidance to officers was led by SignalFire and Las Olas VC.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 18:35:11 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Doxxing Safety Part II: Incident Response</title>
       <link>https://www.eff.org/deeplinks/2026/08/doxxing-safety-part-ii-incident-response</link>
@@ -4336,16 +4344,6 @@
       <media:content url="https://www.eff.org/files/banner_library/drone-police-by-shelby-criswell.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/drone-police-by-shelby-criswell.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Lawmakers push for AI 'kill switch' after OpenAI goes rogue</title>
-      <link>https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>A new bill would let the US government order the shutdown AI models that pose a major public threat.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 20:58:35 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a255/live/1eacc3a0-86d9-11f1-bba7-35d3e67315de.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
