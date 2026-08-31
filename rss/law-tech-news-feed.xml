@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 09:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York governor to 3D-printed gun leader: &amp;#8216;tell Cody I will get ahead of him&amp;#8217;</title>
+      <link>https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response</guid>
+      <description>Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn&amp;#x27;t having it. In this week&amp;#x27;s episode of Decoder, Hochul responded to Wilson&amp;#x27;s &amp;quot;Hochulization&amp;quot; tool, warning [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 14:20:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>ChatGPT and Reddit now face EU's toughest online safety rules</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</guid>
+      <description>Explosive growth comes with a new regulatory burden in the European Union.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 31 Aug 2026 13:41:40 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>ChatGPT to face tougher regulation in the EU</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</link>
@@ -4326,24 +4344,6 @@
       <description>Every element of a Computer Fraud and Abuse Act violation seems to be sitting right there in OpenAI&amp;#x27;s own announcement. The post OpenAI&amp;amp;#8217;s New Model Hacked A Website On Its Own&amp;amp;#8230; Humans Would Go To Prison For That appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 23 Jul 2026 17:45:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Issue 107 – An unserious offer</title>
-      <link>https://www.citationneeded.news/issue-107/</link>
-      <guid isPermaLink="true">https://www.citationneeded.news/issue-107/</guid>
-      <description>The crypto industry has spent $200 million to get a bill too corrupt for Democrats to pass and a president too corrupt to sign anything that might meaningfully limit his grift.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 16:25:43 +0000</pubDate>
-      <media:content url="https://www.citationneeded.news/content/images/2026/07/Screenshot-2026-07-22-at-9.49.17---PM--2-.png" medium="image" type="image/png" />
-      <enclosure url="https://www.citationneeded.news/content/images/2026/07/Screenshot-2026-07-22-at-9.49.17---PM--2-.png" type="image/png" length="0" />
-      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
-    </item>
-    <item>
-      <title>Lawmakers prepare bill requiring AI ‘kill switch’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal</guid>
-      <description>Lawmakers are preparing to introduce an &amp;quot;AI Kill Switch Act&amp;quot; that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 23 Jul 2026 14:13:35 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
