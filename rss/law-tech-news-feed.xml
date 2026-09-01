@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</title>
+      <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</guid>
+      <description>Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>EFF to Governor Newsom: Veto California’s AB 1709</title>
       <link>https://www.eff.org/deeplinks/2026/08/eff-gov-newsom-veto-californias-ab-1709</link>
@@ -4338,16 +4346,6 @@
       <description>TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific issues to address. The Commission suggests that TikTok should adjust the default settings of minors&amp;#x27; &amp;quot;public&amp;quot; accounts so the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 24 Jul 2026 11:40:03 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Bench and bar, rebooted: Why technical competence is the new standard for lawyers</title>
-      <link>https://www.thomsonreuters.com/en-us/posts/ai-in-courts/technical-competence/</link>
-      <guid isPermaLink="true">https://www.thomsonreuters.com/en-us/posts/ai-in-courts/technical-competence/</guid>
-      <description>A new standard is being written in courtrooms that states, understanding the technology behind the law, including AI, is now part of the job.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.thomsonreuters.com/en-us/posts/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 11:40:01 +0000</pubDate>
-      <media:content url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/01/AdobeStock_833605612-1_resize-400x225.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://blogs.thomsonreuters.com/en-us/wp-content/uploads/sites/20/2025/01/AdobeStock_833605612-1_resize-400x225.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.thomsonreuters.com">www.thomsonreuters.com</source>
     </item>
   </channel>
 </rss>
