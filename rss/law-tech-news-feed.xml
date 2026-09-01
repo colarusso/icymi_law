@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:55:47 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1/4 of Young People Use AI For Their Legal Needs</title>
+      <link>https://www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/01/1-4-of-young-people-use-ai-for-their-legal-needs/</guid>
+      <description>A new survey of over 3,200 people has found that just over one quarter (26%) of 18 to 24 year olds have turned to AI ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 09:35:40 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Precisely Confronts ‘Uncomfortable’ CLM Truth With Lexnus</title>
+      <link>https://www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/01/precisely-confronts-uncomfortable-clm-truth-with-lexnus/</guid>
+      <description>Precisely has launched Lexnus, a new CLM platform ‘that takes a fundamentally different approach’ and focuses heavily on a company&amp;amp;#8217;s legal policies via playbook creation. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 08:31:43 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Stripe Moves Into Legal Tech With Clerky</title>
+      <link>https://www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/01/stripe-moves-into-legal-tech-with-clerky/</guid>
+      <description>Payments giant Stripe has taken a step into the legal tech world with Clerky, a company formed by ex-Orrick lawyers that helps startups with their ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 07:02:18 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</title>
       <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
@@ -4320,32 +4344,6 @@
       <description>The offline messaging app surged in popularity in India amid protests in New Delhi.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 24 Jul 2026 16:54:58 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Tesla’s car door defect could lead to tougher rules for everyone</title>
-      <link>https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules</link>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules</guid>
-      <description>Tesla&amp;#x27;s electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safety Administration said that complaints about Tesla&amp;#x27;s mechanical door release don&amp;#x27;t warrant a defect investigation. Instead, the issue is better addressed through a broader [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 15:14:04 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>AI firms want more data centers; Trump's EPA may give neighbors less say</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/</guid>
-      <description>Rule would allow states to decide how much—if any—public input there can be.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 13:49:38 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>TikTok&amp;#8217;s protection of minors should not be opt-in, warns EU</title>
-      <link>https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy</guid>
-      <description>TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific issues to address. The Commission suggests that TikTok should adjust the default settings of minors&amp;#x27; &amp;quot;public&amp;quot; accounts so the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 11:40:03 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
