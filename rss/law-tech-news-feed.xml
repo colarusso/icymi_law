@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The plot to disrupt mail-in voting</title>
+      <link>https://www.vox.com/today-explained-newsletter/501557/mail-in-voting</link>
+      <guid isPermaLink="true">https://www.vox.com/today-explained-newsletter/501557/mail-in-voting</guid>
+      <description>This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. It took the US government two years to roll out HealthCare.gov, nine months to pilot a direct tax-filing tool…and just 11 weeks to build a new system for processing Americans’ absentee ballots. Before you [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 21:10:00 +0000</pubDate>
+      <source url="https://www.vox.com">www.vox.com</source>
+    </item>
     <item>
       <title>Meta's $17 Billion Settlement is a Bad Deal for Teens and All Social Media Users</title>
       <link>https://www.eff.org/deeplinks/2026/09/metas-17-billion-settlement-bad-deal-teens-and-all-social-media-users</link>
@@ -4334,14 +4342,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Should Clients Expect Price Cuts Due To Legal AI?</title>
-      <link>https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/27/should-clients-expect-price-cuts-due-to-legal-ai/</guid>
-      <description>This is the central question: should clients expect price cuts from law firms and other legal businesses due to legal AI? Because if there is ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 07:37:21 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
