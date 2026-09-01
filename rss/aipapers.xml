@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:08:22 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:08:29 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Net Climate Impact of Artificial Intelligence (AI): Balancing Current Costs with Future Climate Benefits</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6689098</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6689098</guid>
+      <description>This chapter asks a deceptively simple but unresolved question: what is the net impact of artificial intelligence (AI) on climate change? Research has largely f&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 11 · likes: 39&lt;/small&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 06:08:29 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>The misclassification of autistic writing as AI-generated</title>
       <link>https://arxiv.org/html/2607.14729v1</link>
@@ -487,16 +495,6 @@
       <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2608.05245</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.05245</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidl7iykvibbmybf56255o6ozyu3qbvqaa3vlc63m4i54plbuyj5lu" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
