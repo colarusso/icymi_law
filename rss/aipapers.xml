@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 06:08:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:08:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</title>
+      <link>https://arxiv.org/abs/2502.05171</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2502.05171</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We study a novel language model architecture that is capable of scaling test-time computation by implicitly reasoning in latent space. Our model works by iterating a recurrent block, thereby unrolling...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 5 · likes: 17&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI, Governance and Ethics: Global Perspectives</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684406</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684406</guid>
+      <description>Artificial intelligence (AI) is a technology which is increasingly being utilised in society and the economy worldwide, but there is much disquiet over problema&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:58 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Beyond Surface Cues: Disentangling Sociocultural Signals in Multilingual LLMs</title>
+      <link>https://arxiv.org/abs/2608.23026</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.23026</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r7ierl4p32cdxyelu7hd6ztu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Multilingual LLM outputs can vary across sociocultural contexts. However, evidence of cultural grounding can be misleading: identity labels may be inferred from explicit or indirect textual cues, whil...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r7ierl4p32cdxyelu7hd6ztu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r7ierl4p32cdxyelu7hd6ztu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Net Climate Impact of Artificial Intelligence (AI): Balancing Current Costs with Future Climate Benefits</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6689098</link>
@@ -465,36 +493,6 @@
       <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>People construct simplified mental representations to plan</title>
-      <link>https://arxiv.org/abs/2105.06948</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2105.06948</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;One of the most striking features of human cognition is the capacity to plan. Two aspects of human planning stand out: its efficiency and flexibility. Efficiency is especially impressive because plans...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 3 · likes: 20&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 06:08:11 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Environmental Impacts of Machine Learning Training Keep Rising Evidencing Rebound Effect</title>
-      <link>https://arxiv.org/abs/2510.09022</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.09022</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recent Machine Learning (ML) approaches have shown increased performance on benchmarks but at the cost of escalating computational demands. Hardware, algorithmic and carbon optimizations have been pro...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 4 · likes: 19&lt;/small&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The crisis of AI-generated mathematics</title>
-      <link>https://arxiv.org/abs/2608.02859</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.02859</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In this essay, I present the case for total opposition to the use of artificial intelligence in mathematics. I offer proposals for how individuals, departments, journals, and institutions can act in c...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 06:09:09 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7bcjnl2b5ko25d5zgdpiqgop/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
