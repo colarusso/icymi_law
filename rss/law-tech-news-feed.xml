@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US court rules Google will not have to sell ad exchange after losing antitrust case</title>
+      <link>https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/</guid>
+      <description>The DOJ proved to the court that Google acted illegally, but it won&amp;#x27;t get the big win it wanted.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 16:30:11 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>The Trump administration is supporting OpenAI in the NYT copyright lawsuit</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit</guid>
+      <description>The Trump administration has intervened in The New York Times&amp;#x27; copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup &amp;quot;billions of dollars&amp;quot; in damages from [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 16:12:25 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm</title>
       <link>https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm</link>
@@ -4318,24 +4336,6 @@
       <description>Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That&amp;#x27;s according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Tue, 28 Jul 2026 09:07:14 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Police Say Binance Is Making It Harder to Fight Crime</title>
-      <link>https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html</guid>
-      <description>Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 09:00:48 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/10/multimedia/00inv-binance-01-wgpc/00inv-binance-01-wgpc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/10/multimedia/00inv-binance-01-wgpc/00inv-binance-01-wgpc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>AL Interview: LexisNexis CEO, Sean Fitzpatrick</title>
-      <link>https://www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/28/al-interview-lexisnexis-ceo-sean-fitzpatrick/</guid>
-      <description>Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 06:50:33 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
