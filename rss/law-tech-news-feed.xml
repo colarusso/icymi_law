@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 13:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Justice Dept. Sides With OpenAI in New York Times Copyright Suit</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</guid>
+      <description>The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 18:48:36 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>AI ROI For Law Firms: There’s Not Any</title>
+      <link>https://abovethelaw.com/2026/09/ai-roi-for-law-firms-theres-not-any/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/ai-roi-for-law-firms-theres-not-any/</guid>
+      <description>Clients need some ownership in how their firms use the technology. Firms and clients need to design workflows together. The post AI ROI For Law Firms: There’s Not Any appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Texas and Florida Step Back from ALPRs</title>
       <link>https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs</link>
@@ -4318,24 +4336,6 @@
       <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/417_0_4666_3734/master/4666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b1a8c3e824aebe6fdfcac7cccc0f2d1" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/417_0_4666_3734/master/4666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b1a8c3e824aebe6fdfcac7cccc0f2d1" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Home Office used ‘AI hallucinated’ information to refuse asylum claim, judge suggests</title>
-      <link>https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests</link>
-      <guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests</guid>
-      <description>Upper tribunal unable to find document cited in case and claims it is ‘analogous to relying on bogus evidence’UK politics live – latest updatesA senior judge has accused the Home Office of relying on “AI hallucinated” information to refuse an asylum claim.The case relates to a Moroccan woman and her child who fled her country after experiencing forced underage marriage and extreme violence, including rape. The woman claimed asylum on the basis of fears that she would be killed by her husband: a powerful, previously convicted criminal. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 12:39:44 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/66cccb6da0abb07313ee58b63952be126838405e/492_0_4078_3264/master/4078.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f9b1573fb1872591ff712d38323255c" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/66cccb6da0abb07313ee58b63952be126838405e/492_0_4078_3264/master/4078.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f9b1573fb1872591ff712d38323255c" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>LegalOn Lets 100 AI Workflows Bloom</title>
-      <link>https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/28/legalon-lets-100-ai-workflows-bloom/</guid>
-      <description>LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. The ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 12:00:10 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
