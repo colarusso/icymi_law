@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Texas and Florida Step Back from ALPRs</title>
+      <link>https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs</guid>
+      <description>Within the last few days, two important state actions have dealt a big blow to automated license plate reader (ALPR) networks. This is just the latest proof of the growing tide of public opposition to mass surveillance. After years of successful grassroots battles to pull these cameras from local streets, bipartisan momentum is sweeping the country. On August 28, Texas Governor Greg Abbott banned state agencies from spending public funds on Flock cameras. The order dropped just as The Texas Tribune prepared to publish an investigation revealing that a state agency had quietly funneled at least $30 million into building a sprawling surveillance network. Then on August 31, the Florida Department of Transportation (FDOT) issued a memo, announced by Governor Ron DeSantis, ordering the removal of all ALPRs from the right-of-way on state highways within 30 days. The order revokes all previously approved permits to install ALPRs, and bars transportation officials from issuing future permits. FDOT officials stated that “the recent exponential increase in deployments along our roadways, coupled with concerning reports of misuse, data privacy concerns, and surveillance schemes merit immediate action to preserve Floridians’ sovereignty and quality of life.” FDOT’s action has been followed by a surge of local governments in Florida canceling or pausing their vendor contracts. Much more work remains. Many ALPRs in Florida are not on state highways, but sit on city streets, county roads, residential driveways, and shopping center parking lots—and FDOT&amp;#x27;s order doesn&amp;#x27;t touch any of them. Likewise, the Texas directive leaves local agencies free to use city, county, federal, and private funds to install cameras. This week’s good news follows years of pushback from local advocates that has seen dozens of cities sever ties with surveillance companies. According to some metrics, during the last 30 days, an average of three localities per day has halted contracts with Flock. Other advocates have been resisting ALPRs in statehouses and court houses, and by blowing the whistle with investigative activism. The moves in Florida and Texas also illustrate the power that the executive branch can wield to curtail mass surveillance with almost immediate results. We hope that the California Governor Gavin Newsom and the California Department of Transportation will take notice and initiate steps to curb this technology, starting with removing the ALPRs that U.S. Border Patrol and the Drug Enforcement Administration have installed on California highways. EFF’s position remains: ALPR mass surveillance – the indiscriminate, continuous collection and retention of location data on every driver, regardless of suspicion – should not exist. This past week’s actions in Texas and Florida are good steps forward, but we are still far from the finish line. We will continue working alongside community groups to keep cameras off local streets, while urging judges and state lawmakers to impose enforceable restraints on this warrantless mass surveillance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 17:31:31 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>US government sides with OpenAI on issue of training LLMs on copyrighted material</title>
+      <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</guid>
+      <description>&amp;quot;The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,&amp;quot; the brief reads.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 17:09:06 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>US court rules Google will not have to sell ad exchange after losing antitrust case</title>
       <link>https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/</link>
@@ -4318,24 +4336,6 @@
       <description>LegalOn, the contract review specialists, have rolled out a library of 100-plus AI workflows, all available within its platform and aimed at inhouse lawyers. The ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 28 Jul 2026 12:00:10 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Spies in the sky: how worried should we be about the arrival of AI-enabled smart lamp-posts?</title>
-      <link>https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance</guid>
-      <description>The new breed of camera-equipped streetlights has the potential to fight crime and track down missing persons. Or will it just take Britain one step closer to a surveillance state?How would you feel if your neighbourhood lamp-posts could recognise your number plate, and also your face? Maybe you wouldn’t mind, given how long we’ve had automatic number plate recognition and CCTV. What about if that lamp-post could power itself through its own solar panels, and perhaps find another use for any extra power generated – that would be good, right? This is what Conflow Power Group (CPG) in Warwickshire claims for its iLamps, the first of their kind in the UK.What if lamp-posts had the potential to incorporate new AI capability – gait analysis, suspicious behaviours – that you haven’t even heard of? This is what the organisation Big Brother Watch worries about. And what if the home secretary had explicitly said she believed in a “panopticon state” – that is, a state that could watch you at all times (as Shabana Mahmood already has) – and what if she still had a job when the lamp-post eyes got their updates? Or what if the next home secretary was even keener on hyper-surveillance (hard to imagine), and the street apparatus was already in place? What about all the data this would harvest – who would own it? Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 10:00:01 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/2830eb38a2dc5fcf309cd54b4a9eea6d361b07be/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be5ede399c38b9bc97a771a869383de8" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/2830eb38a2dc5fcf309cd54b4a9eea6d361b07be/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be5ede399c38b9bc97a771a869383de8" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Hugging Face is being used to easily undress women and children</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children</guid>
-      <description>Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That&amp;#x27;s according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by Hugging Face readily complied with [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 09:07:14 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
