@@ -1,12 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>ICYMI Law — Law Review-like Link Feed</title>
     <link>https://icymilaw.org/#papers</link>
     <description>Popular law review-like and scholarly legal links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 06:07:28 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:08:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9/11 and the Law of Domestic Military Deployments</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7382998</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7382998</guid>
+      <description>The legal architecture of the Defense Department’s domestic operations significantly changed in the immediate aftermath of 9/11. This was perhaps most&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 4 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:06 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Elections Aren't Failing, Democracy Is</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133398</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7133398</guid>
+      <description>American democracy is in trouble, but not because of how our elections are conducted. To the contrary, election administration is one of the strongest links&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:06 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>AI-Powered Lawyering: AI Reasoning Models, Retrieval Augmented Generation, and the Future of Legal Practice</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162111</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162111</guid>
+      <description>Generative AI is set to transform the legal profession, though its most promising uses and ultimate effects are still unclear. While AI models like GPT-4 improv&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:06 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Dear Prudence: The Atomic Origins, Decarbonization Deployment, and Transformative Potential of a Regulatory Principle</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6308639</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6308639</guid>
+      <description>This Article provides the first comprehensive account of the history and doctrine of imprudence disallowances, a utility regulation tool that has reemerged i&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 06:08:06 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>AI, Governance and Ethics: Global Perspectives</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684406</link>
@@ -373,40 +405,6 @@
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194158</guid>
       <description>What makes a business worth the corporate form? From Rome through England and America, the corporate form was granted only after an assessment that the undertak&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
       <pubDate>Tue, 04 Aug 2026 06:08:24 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>The Future of Environmental Law Amid the Destruction of Science</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7221178</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7221178</guid>
-      <description>Essay in the Harvard Environmental Law Review&amp;#x27;s Symposium Issue on the Future of Environmental Law One Year into Trump; responding to Richard Revesz&amp;#x27;s Invert&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 12&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 06:07:50 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>The Bizarro First Amendment</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961033</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961033</guid>
-      <description>Welcome to the Second Lochner Era. Once again, the Supreme Court wields a great guarantee of liberty to nullify progressive governance. But this time its weapon&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 06:09:39 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Rethinking Utility Wildfire Risk in California</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119759</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119759</guid>
-      <description>Many of the most deadly and destructive fires in California history have been started by electric utilities, and the state&amp;#x27;s unique inverse condemnation&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 06:07:32 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Chinese Sputnik Moments?</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7114818</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7114818</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbvhtaaxas3ankttmshyjgpt/bafkreigpxejguzuq5go5uugcbx3lqsclduuqpfod5foptcuvcgfyt57cv4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;China&amp;#x27;s technological progress in recent decades has been viewed with admiration, alarm, and (in some cases) doubt. To better understand the Chinese innovation&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 06:07:32 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbvhtaaxas3ankttmshyjgpt/bafkreigpxejguzuq5go5uugcbx3lqsclduuqpfod5foptcuvcgfyt57cv4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbvhtaaxas3ankttmshyjgpt/bafkreigpxejguzuq5go5uugcbx3lqsclduuqpfod5foptcuvcgfyt57cv4" type="image/jpeg" length="0" />
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
