@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm</title>
+      <link>https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm</guid>
+      <description>Landmark lawsuit claims tech company’s pay-setting system has breached privacy laws and pushed down earningsUber drivers have launched a landmark legal action against the ride-hailing company claiming they live in “constant fear” of a “soulless” algorithm it uses to set pay and allocate jobs.Drivers from the UK, the Netherlands and other countries have joined the compensation claim that could run into billions of dollars. It alleges an AI-powered pay-setting system breaches data protection laws and pushes down their earnings. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 15:37:26 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23cd7fbd9c09e9b25577395465cbb1d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23cd7fbd9c09e9b25577395465cbb1d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Federal Judge Declines to Break Up Google’s Ad Technology Business</title>
       <link>https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</link>
@@ -4326,16 +4336,6 @@
       <description>Artificial Lawyer spoke to LexisNexis CEO, Sean Fitzpatrick, about a range of Big Picture topics: from company growth despite the Claude Crash, how token costs ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 28 Jul 2026 06:50:33 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Meta disregarded its own research on teen harm, Tennessee lawyers tell jury</title>
-      <link>https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/27/meta-tennessee-trial-jury</guid>
-      <description>In opening statements, state argued Meta’s own research showed it harmed teens while firm’s attorneys pointed to transparencyThe long-awaited trial between the social media company Meta and the state of Tennessee began proceedings on Monday. Attorneys for Tennessee told a jury in Nashville that Meta, which owns Instagram and Facebook, disregarded internal research about its platform’s impact on teenagers, while the company sought ⁠to maximize profit from those young users.During ⁠opening statements in a seven-week ​trial in state court, the state’s lawyers said Meta researchers repeatedly flagged teenagers’ compulsive use of the platform – leading to eating disorders, depression and self-harm. But despite those warnings, Meta did not ⁠disable features such as autoplay, notifications and infinite scroll which, the lawyers said, were designed to keep teens on Instagram as long as possible and increase the number of ads they viewed. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 01:43:55 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/27c4545af19e7dca4b4189bc9158f8a487b73ec6/198_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96cc5cb7e2c02a5b91934d767540c343" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/27c4545af19e7dca4b4189bc9158f8a487b73ec6/198_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96cc5cb7e2c02a5b91934d767540c343" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
