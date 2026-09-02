@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google defeats US justice department bid to force ad tech sale</title>
+      <link>https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale</guid>
+      <description>Judge declines to make Google sell AdX in win for firm against US antitrust enforcers’ attempts to break up big techAlphabet’s Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia ⁠rejected US antitrust enforcers’ bid to force a sale of Google’s online advertising exchange.While the ad exchange is a small part of Google’s business, the ruling is the second powerful ⁠symbolic victory against the US Department ⁠of Justice in ​its efforts to force Google to sell assets to address illegal monopolies. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 18:37:20 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1026a9a7d9f5dd046d2e634c233d3b5d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/d9626a0a79a75b81819b461da606062afd9d0125/283_0_3017_2415/master/3017.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1026a9a7d9f5dd046d2e634c233d3b5d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Trump may be forced to reveal secret rules feds use for AI safety testing</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/</guid>
+      <description>Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 17:58:33 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Justice Dept. Sides With OpenAI in New York Times Copyright Suit</title>
       <link>https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</link>
@@ -4318,24 +4338,6 @@
       <description>As patients increasingly bring AI chatbot advice into exam rooms, where does liability land when that advice goes wrong? Health law attorney Meghan O&amp;#x27;Connor said the answer still isn’t clear, but silence is the riskiest response for providers. The post What Happens When Patients Trust AI Over Their Doctor? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 28 Jul 2026 14:03:00 +0000</pubDate>
       <source url="https://medcitynews.com">medcitynews.com</source>
-    </item>
-    <item>
-      <title>Generative Fair Use for All</title>
-      <link>https://feedpress.me/link/16850/17390099/generative-fair-use-for-all</link>
-      <guid isPermaLink="true">https://feedpress.me/link/16850/17390099/generative-fair-use-for-all</guid>
-      <description>Katrina Geddes, Engineering Semiotic Democracy, __ FIU L. Rev. __ (forthcoming 2026), available at SSRN (June 14, 2024). Christopher J. Buccafusco Artificial intelligence platforms justify their unauthorized reproduction of copyrighted training data on the expansive creative capacities that their models allow. They argue that generative AI is a “radically transformational tool for creators of many kinds … which enables new expression and innovation to flourish.” In her new paper, Engineering Semiotic Democracy, Katrina Geddes sets out to hold AI firms’ feet [...] The post Generative Fair Use for All appeared first on Intellectual Property. The post Generative Fair Use for All appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 10:30:40 +0000</pubDate>
-      <source url="https://feedpress.me">feedpress.me</source>
-    </item>
-    <item>
-      <title>Debate over AI’s future divides Silicon Valley as China gains ground</title>
-      <link>https://www.theguardian.com/technology/2026/jul/27/silicon-valley-ai-open-source-china</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/27/silicon-valley-ai-open-source-china</guid>
-      <description>Open-source questions stir frank discussion – and both sides have clear economic incentives for where they landHello, and welcome to TechScape. This week we’ll be looking at a debate over the future of artificial intelligence that’s dividing the tech industry, as well as how the European Union gave Google a slap on the wrist for anti-competitive behavior. And we’ll also catch you up on the avalanche of lawsuits accusing social media companies of getting young people addicted to their products. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 13:04:31 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/417_0_4666_3734/master/4666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b1a8c3e824aebe6fdfcac7cccc0f2d1" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/66294c0dc06bc9275cba93a84e6baed88521c2d7/417_0_4666_3734/master/4666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b1a8c3e824aebe6fdfcac7cccc0f2d1" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
