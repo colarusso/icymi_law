@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Federal Judge Declines to Break Up Google’s Ad Technology Business</title>
+      <link>https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</guid>
+      <description>In a long awaited ruling, the judge said Google must make some changes to its ad tech business to handle antitrust issues, but did not disclose the measures publicly.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 14:43:30 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker</title>
+      <link>https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html</guid>
+      <description>The legal technology company Filevine has launched an AI-native citator and a companion brief-checking tool inside LOIS, its Legal Operating Intelligence System AI platform, that its CEO says perform as well as or better than the leading legal citators from LexisNexis and Thomson Reuters. The citator has two core features. One checks a filed or [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 14:24:33 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI</title>
+      <link>https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting</guid>
+      <description>The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in CanadaOpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.The suits, filed on Wednesday, allege the company’s ChatGPT chatbot induced the shooter to carry out the attack in rural Canada in February, in which eight people were killed and dozens more wounded – most of them children. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 02 Sep 2026 13:22:57 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Norway considers ban on camera-enabled wearable ‘pervert glasses’</title>
       <link>https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/</link>
@@ -4308,34 +4336,6 @@
       <media:content url="https://i.guim.co.uk/img/media/27c4545af19e7dca4b4189bc9158f8a487b73ec6/198_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96cc5cb7e2c02a5b91934d767540c343" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/27c4545af19e7dca4b4189bc9158f8a487b73ec6/198_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96cc5cb7e2c02a5b91934d767540c343" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>New York school district halts plan to use humanoid robot amid backlash</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused</guid>
-      <description>Salamanca City Central says it is pausing project with Realbotix as it addresses concerns including data privacyA New York school district has walked back plans to introduce a humanoid robot at its high school after the proposal sparked backlash from educators and community members.The Salamanca City Central school district announced on 24 July in a social media post that its pilot project with Toronto-based tech company Realbotix had been put on hold “while we work through enhanced student data privacy agreements with the New York State Education Department and continue engaging with our community and stakeholders”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 17:03:51 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/31ff5dde6339b6f26e9ae950630cebd2f58c7c96/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9426fa449f47bea22af16ac1fdaa1e5d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/31ff5dde6339b6f26e9ae950630cebd2f58c7c96/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9426fa449f47bea22af16ac1fdaa1e5d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>“Google and Reddit do not own the Internet," web scraper says after court win</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/</guid>
-      <description>Google&amp;#x27;s and Reddit&amp;#x27;s use of DMCA to fight web scraper is bizarre, expert says.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 20:12:42 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310791-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The Lawyer Who Helped Build Kirkland Thinks AI Will Build Its Successor</title>
-      <link>https://abovethelaw.com/2026/07/the-lawyer-who-helped-build-kirkland-thinks-ai-will-build-its-successor/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-lawyer-who-helped-build-kirkland-thinks-ai-will-build-its-successor/</guid>
-      <description>Former Kirkland partner David Fox believes AI-powered firms could reshape the entire legal industry. The post The Lawyer Who Helped Build Kirkland Thinks AI Will Build Its Successor appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 27 Jul 2026 21:00:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
