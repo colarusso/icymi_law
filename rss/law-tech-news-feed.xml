@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 14:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Willkie Elevates Legal Work With Lexis+ With Protégé</title>
+      <link>https://abovethelaw.com/2026/09/willkie-elevates-legal-work-with-lexis-with-protege/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/willkie-elevates-legal-work-with-lexis-with-protege/</guid>
+      <description>[Sponsored] Willkie AI and Innovation leader Todd Friedlich spoke to LexisNexis about firm’s thoughtful approach to legal AI The post Willkie Elevates Legal Work With Lexis+ With Protégé appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 19:09:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>ILTACON News Round-Up Part 2, Litigation: LawToolBox, Opus 2, Clarra, Eve</title>
       <link>https://www.lawnext.com/2026/09/iltacon-news-round-up-part-2-litigation-lawtoolbox-opus-2-clarra-eve.html</link>
@@ -4328,14 +4336,6 @@
       <media:content url="https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Legora Buys Wexler – 5th Deal This Year</title>
-      <link>https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/07/29/legora-buys-wexler-5th-deal-this-year/</guid>
-      <description>Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&amp;amp;#8217;s engineering group will form &amp;amp;#8216;the founding team of Legora&amp;amp;#8217;s London engineering hub&amp;amp;#8217;, they added. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 09:17:39 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
