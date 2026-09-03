@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 10:56:16 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOJ Tells Court AI Training Is Fair Use, Forgets To Mention It’s Negotiating A Stake In OpenAI</title>
+      <link>https://abovethelaw.com/2026/09/doj-tells-court-ai-training-is-fair-use-forgets-to-mention-its-negotiating-a-stake-in-openai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/doj-tells-court-ai-training-is-fair-use-forgets-to-mention-its-negotiating-a-stake-in-openai/</guid>
+      <description>Justice Department finally figures out that fair use exists right when it adds to the grift. The post DOJ Tells Court AI Training Is Fair Use, Forgets To Mention It&amp;amp;#8217;s Negotiating A Stake In OpenAI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 15:26:03 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google</title>
       <link>https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html</link>
@@ -4334,14 +4342,6 @@
       <media:content url="https://www.eff.org/files/banner_library/third_party_tracking_banner.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/third_party_tracking_banner.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>MCP startup Runlayer accuses Rippling of stealing its product idea</title>
-      <link>https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</guid>
-      <description>Runlayer is suing Rippling after Rippling evaluated the startup&amp;#x27;s MCP gateway product and then opted to build one itself.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 20:45:12 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
