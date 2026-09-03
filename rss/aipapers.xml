@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:08:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:09:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KEEPING AI IN ITS ZONE</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7392558</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7392558</guid>
+      <description>With zoning-reform fever sweeping local governments, state legislatures, and even Congress, there is an urgent push to understand exactly how zoning works. Unfo&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 5 · likes: 11&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Predicting Multilingual Classification and Translation Performance of LLMs with Cross-Lingual Alignment -- Is English Enough?</title>
+      <link>https://arxiv.org/abs/2608.03446</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.03446</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oroyl7gve22hgivynkqnghbt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Multilingual large language models (LLMs) have been shown to perform better on non-English classification tasks when the representations of the given language are more aligned to English within the mo...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oroyl7gve22hgivynkqnghbt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oroyl7gve22hgivynkqnghbt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2608.30163</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.30163</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Real-world knowledge resides in multimodal documents, necessitating retrieval-augmented generation (RAG) for accurate question answering. However, existing multimodal RAG models are primarily designed...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Accelerating Scientific Research with Gemini in the Real-World</title>
+      <link>https://arxiv.org/abs/2608.26701?ref=explainx</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.26701?ref=explainx</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h33vrjhi4p4a4usltzuhs4al/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We present an extension and comprehensive real-world validation of Co-Scientist, a Gemini-based multi-agent system designed to accelerate end-to-end scientific research across hypothesis generation, e...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h33vrjhi4p4a4usltzuhs4al/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h33vrjhi4p4a4usltzuhs4al/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</title>
       <link>https://arxiv.org/abs/2502.05171</link>
@@ -453,46 +491,6 @@
       <pubDate>Thu, 13 Aug 2026 06:09:28 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management</title>
-      <link>https://arxiv.org/abs/2608.07009</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.07009</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreideav22at7bx4sm5tyeqbxcidb4fmal7ir2pfpzlxzpgnmmlzufbm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for HiSparse: Scaling Sparse-Attention Decoding with Hierarchical KV Cache Management&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreideav22at7bx4sm5tyeqbxcidb4fmal7ir2pfpzlxzpgnmmlzufbm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreideav22at7bx4sm5tyeqbxcidb4fmal7ir2pfpzlxzpgnmmlzufbm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery</title>
-      <link>https://arxiv.org/abs/2608.06931</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.06931</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigwru6vhlzzw3pfun2tn5k3f2t6w6vtcrednwom2tqpxepq3ktbxa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigwru6vhlzzw3pfun2tn5k3f2t6w6vtcrednwom2tqpxepq3ktbxa" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigwru6vhlzzw3pfun2tn5k3f2t6w6vtcrednwom2tqpxepq3ktbxa" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Alignment has a Fantasia Problem</title>
-      <link>https://arxiv.org/abs/2604.21827</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.21827</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifbdvy3zuikvktgozavmabzdj4gwbeayqxprcct3cedzfw52mhrx4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Alignment has a Fantasia Problem&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifbdvy3zuikvktgozavmabzdj4gwbeayqxprcct3cedzfw52mhrx4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifbdvy3zuikvktgozavmabzdj4gwbeayqxprcct3cedzfw52mhrx4" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>When Do LLMs Admit Their Mistakes? Understanding The Role Of Model Belief In Retraction</title>
-      <link>https://arxiv.org/abs/2505.16170</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2505.16170</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for When Do LLMs Admit Their Mistakes? Understanding The Role Of Model Belief In Retraction&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:10:20 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiajort52gifn3unzdvk6fgjtcwnyaryvr4ysm5uok5yevzmrpqihy" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
