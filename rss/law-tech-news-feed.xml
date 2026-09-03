@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prediction Market Betting Is Getting People Banned and Arrested</title>
+      <link>https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/</guid>
+      <description>This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 21:48:24 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>Finding Our Way By Paying Our Dues</title>
+      <link>https://abovethelaw.com/2026/09/finding-our-way-by-paying-our-dues/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/finding-our-way-by-paying-our-dues/</guid>
+      <description>If AI takes all the scut work, then how will lawyers pay their dues? The post Finding Our Way By Paying Our Dues appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 21:14:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Willkie Elevates Legal Work With Lexis+ With Protégé</title>
       <link>https://abovethelaw.com/2026/09/willkie-elevates-legal-work-with-lexis-with-protege/</link>
@@ -4318,24 +4336,6 @@
       <description>An hour-long software delay turned out to be one of the least severe tech failures of the NextGen bar exam rollout. The post Maryland Thought It Had A Bar Exam Disaster. Then Other States Happened. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 29 Jul 2026 12:04:31 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Washington Just Called Off Its Entire Bar Exam</title>
-      <link>https://abovethelaw.com/2026/07/washington-just-called-off-its-entire-bar-exam/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/washington-just-called-off-its-entire-bar-exam/</guid>
-      <description>Six hours of tech troubles, no questions answered, and a class of grads told to put their lives on hold until September. The post Washington Just Called Off Its Entire Bar Exam appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 12:02:51 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism</title>
-      <link>https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</guid>
-      <description>The charges against Pavel Durov reflected an ongoing fight over one of the most popular messaging and media apps in the country.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 10:55:43 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
