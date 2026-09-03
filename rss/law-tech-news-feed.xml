@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 09:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google</title>
+      <link>https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html</guid>
+      <description>After finding antitrust violations, federal courts have been reluctant to impose harsh sanctions. They fear meddling in markets where technology is racing ahead.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 09:00:07 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/02/13/multimedia/00antitrust-courts-ztvc/00antitrust-courts-ztvc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/02/13/multimedia/00antitrust-courts-ztvc/00antitrust-courts-ztvc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>ILTACON News Round-Up Part 1, E-Discovery: DISCO, Everlaw, Nuix, Relativity, Reveal</title>
       <link>https://www.lawnext.com/2026/09/iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity-reveal.html</link>
@@ -4332,16 +4342,6 @@
       <description>Runlayer is suing Rippling after Rippling evaluated the startup&amp;#x27;s MCP gateway product and then opted to build one itself.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 28 Jul 2026 20:45:12 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Couple Stalked by eBay Settle for $56 Million</title>
-      <link>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</guid>
-      <description>Two Massachusetts journalists were harassed by a Silicon Valley security team in a case that raised questions about when executives should be held responsible.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 20:37:29 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-ebay-settlement-01-bvkh/27biz-ebay-settlement-01-bvkh-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-ebay-settlement-01-bvkh/27biz-ebay-settlement-01-bvkh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
