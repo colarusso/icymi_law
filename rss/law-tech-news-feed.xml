@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ILTACON News Round-Up Part 2, Litigation: LawToolBox, Opus 2, Clarra, Eve</title>
+      <link>https://www.lawnext.com/2026/09/iltacon-news-round-up-part-2-litigation-lawtoolbox-opus-2-clarra-eve.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/iltacon-news-round-up-part-2-litigation-lawtoolbox-opus-2-clarra-eve.html</guid>
+      <description>Last week&amp;amp;#8217;s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week&amp;amp;#8217;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 18:44:49 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Congressman says TikTok backed out of a meeting to avoid child safety questions</title>
+      <link>https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety</guid>
+      <description>TikTok backed out of a congressional committee&amp;#x27;s &amp;quot;public roundtable&amp;quot; set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating &amp;quot;in good faith&amp;quot; to bring TikTok&amp;#x27;s chief security officer before the House Select Committee on China to answer questions about Chinese government access to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 03 Sep 2026 18:37:57 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>California Is Coming For Lawyers Who File AI-Generated Nonsense</title>
       <link>https://abovethelaw.com/2026/09/california-is-coming-for-lawyers-who-file-ai-generated-nonsense/</link>
@@ -4320,26 +4336,6 @@
       <description>Legora is buying Wexler, a fact intelligence platform for litigation. Wexler&amp;amp;#8217;s engineering group will form &amp;amp;#8216;the founding team of Legora&amp;amp;#8217;s London engineering hub&amp;amp;#8217;, they added. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 29 Jul 2026 09:17:39 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>AI tool will lead to more child refugees being treated as adults, charity warns</title>
-      <link>https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias</link>
-      <guid isPermaLink="true">https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias</guid>
-      <description>‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights NetworkFlawed and racialised models that underpin the AI-powered age-detection systems to be introduced by the British government will endanger children, rights groups and children’s charities have warned.Urging ministers to reverse plans to introduce facial age-estimation technology to screen migrants, critics have warned that black children arriving from conflict zones are at risk of being of thrust into the adult system. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 04:00:22 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/036e29f1db8d14c2b5c4cce7c8f9993c50cd4570/121_0_1404_1123/master/1404.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2db90d534a1d58332e68dacf2dd85513" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/036e29f1db8d14c2b5c4cce7c8f9993c50cd4570/121_0_1404_1123/master/1404.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2db90d534a1d58332e68dacf2dd85513" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Philly suburb: Sure, build that data center—but first meet our 43 demands</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/</guid>
-      <description>The final condition will shock you! (It won’t. It’s taxes.)&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 28 Jul 2026 20:43:19 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285796281-1152x648-1785270408.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285796281-1152x648-1785270408.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
