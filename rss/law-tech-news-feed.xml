@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tumbler Ridge Shooting Survivors File 30 Lawsuits Against OpenAI</title>
+      <link>https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/world/canada/openai-lawsuits-tumbler-ridge-shooting.html</guid>
+      <description>The survivors contend that the company should have notified the police when it shut down the shooter’s disturbing ChatGPT account eight months before the February attack in British Columbia.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 17:19:30 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/04/multimedia/04XP-TUMBLERRIDGE-vcfp/04XP-TUMBLERRIDGE-vcfp-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/04/multimedia/04XP-TUMBLERRIDGE-vcfp/04XP-TUMBLERRIDGE-vcfp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Can Your Firm Compete With Litera’s ‘Trailblazers’?</title>
       <link>https://abovethelaw.com/2026/09/can-your-firm-compete-with-literas-trailblazers/</link>
@@ -4330,14 +4340,6 @@
       <description>It’s easier than ever to manufacture evidence -- and get away with it. The post AI Evidence: Blurring The Line Between Reality And Fiction appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 30 Jul 2026 15:30:40 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Zoox can now charge for rides in its steering-wheel-free robotaxis</title>
-      <link>https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval</link>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval</guid>
-      <description>Zoox just got permission to charge for robotaxi rides in its boxy, steering-wheel-less vehicles. On Thursday, the National Highway Traffic Safety Administration announced it has granted the Amazon-owned Zoox a temporary exemption, allowing it to deploy up to 2,500 vehicles annually over the next two years, as reported earlier by Reuters. The NHTSA&amp;#x27;s decision exempts [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 14:35:43 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
