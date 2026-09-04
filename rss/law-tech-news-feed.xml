@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses</title>
+      <link>https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</guid>
+      <description>The blog Krebs on Security reported on an identity theft service trying to sell scans of licenses and other documents belonging to people in Canada and the United States.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 20:44:02 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>De-flocking</title>
       <link>https://buttondown.com/LawyerExMachina/archive/de-flocking/</link>
@@ -4332,14 +4342,6 @@
       <description>[Sponsored] How can your legal team stay ahead of the curve amid rapid industry disruption? Sign up and join us on August 26th! The post The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 30 Jul 2026 16:21:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials</title>
-      <link>https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html</link>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html</guid>
-      <description>He&amp;amp;#8217;s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices. Tunick&amp;amp;#8217;s attorneys confirmed GrapheneOS was running on his phone. The software feature allows the device owner to set a passcode that deliberately wipes the contents of that device if entered instead of the user&amp;amp;#8217;s unlock passcode. Tunick&amp;amp;#8217;s case also raises ongoing questions about what constitutional rights can be invoked at the border, which the U.S. government has long asserted is not U.S. soil until a person is authorized to enter...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 16:20:30 +0000</pubDate>
-      <source url="https://www.schneier.com">www.schneier.com</source>
     </item>
   </channel>
 </rss>
