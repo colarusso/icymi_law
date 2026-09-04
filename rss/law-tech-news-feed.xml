@@ -5,8 +5,42 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 08:56:46 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla Cybercab is barely real and it’s already under investigation</title>
+      <link>https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify</guid>
+      <description>Elon Musk&amp;#x27;s gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle&amp;#x27;s lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab &amp;quot;to examine the process and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 13:33:38 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Tesla’s Cybercab Is Being Investigated by Federal Regulators</title>
+      <link>https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</guid>
+      <description>The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 13:19:46 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-cybercab-jglq/04biz-cybercab-jglq-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-cybercab-jglq/04biz-cybercab-jglq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>ILTACON News Round-Up Part 3, Documents, Data and AI: iManage, NetDocuments, Entegrata, Wolters Kluwer, Thomson Reuters, Clio, Avvoka</title>
+      <link>https://www.lawnext.com/2026/09/iltacon-news-round-up-part-3-documents-data-and-ai-imanage-netdocuments-entegrata-wolters-kluwer-thomson-reuters-clio-avvoka.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/iltacon-news-round-up-part-3-documents-data-and-ai-imanage-netdocuments-entegrata-wolters-kluwer-thomson-reuters-clio-avvoka.html</guid>
+      <description>Last week&amp;amp;#8217;s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week&amp;amp;#8217;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 13:04:14 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Morning Docket: 09.03.26</title>
+      <link>https://abovethelaw.com/2026/09/morning-docket-09-03-26-2/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/morning-docket-09-03-26-2/</guid>
+      <description>* Skadden and Kirkland fined $2 million after judge deemed firms engaged in “a widespread, long-running cover-up.” [Atlanta Journal-Constitution] * Clients of Pogust Goodhead and Quinn Emanuel say they&amp;#x27;re dropping their firms, but the firms argue that they can&amp;#x27;t be replaced. [Roll on Friday] * Louisiana judge rules that LSU can play NFL players. Conference takes school to federal court. [ESPN] * Bar exam scores on MBE dropped this July. [ABA Journal] * ICE officer federally charged in shooting. Either the administration wants a distraction or those prosecutors aren&amp;#x27;t long for their jobs. [NPR] * Missouri Supreme Court rejects Trump supported gerrymander, ruling that it must be approved by the electorate. [CNN] * Multiple jurisdictions of court records exposed as Thomson Reuters C-Track got hacked. [Hacker News] * New Orleans case over staged car accidents ends in fraud conviction for lawyer, mistrial on murder charges. [NOLA] * Class actions firm claims Paul Hastings, K&amp;amp;#38;L Gates, Clifford Chance, Quinn Emanuel, and others deserve smaller shares of the fees from the Blue Cross case. [Reuters] The post Morning Docket: 09.03.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 12:53:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>It’s time for Mark Zuckerberg to resign from Meta | Joan Donovan</title>
       <link>https://www.theguardian.com/technology/commentisfree/2026/sep/04/mark-zuckerberg-resign-meta</link>
@@ -4303,38 +4337,6 @@
       <guid isPermaLink="true">https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit</guid>
       <description>xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets &amp;quot;nudification&amp;quot; apps, claiming that the statute&amp;#x27;s punitive provisions leave the company with &amp;quot;no practical choice but to restrict Grok Imagine&amp;#x27;s image-editing features in various ways.&amp;quot; The law, the company argues, violates the First Amendment. Back in January, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 29 Jul 2026 21:06:52 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>When You Reject Cookies, You Might Be Agreeing to Arbitration–Alba v. Harbor Freight</title>
-      <link>https://blog.ericgoldman.org/archives/2026/07/when-you-reject-cookies-you-might-be-agreeing-to-arbitration-alba-v-harbor-freight.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/07/when-you-reject-cookies-you-might-be-agreeing-to-arbitration-alba-v-harbor-freight.htm</guid>
-      <description>Starting in 2024, Harbor Freight deployed the following cookie banner: The court accepts Harbor Freight&amp;amp;#8217;s claim that the &amp;amp;#8220;2024 Cookie Banner was displayed on each page on the Website until the user interacted with it, even if the user had... The post When You Reject Cookies, You Might Be Agreeing to Arbitration&amp;amp;#8211;Alba v. Harbor Freight appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 20:38:28 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Expansion Of Flock Camera Systems Is Leading To Even More False Positives</title>
-      <link>https://www.techdirt.com/2026/07/29/expansion-of-flock-camera-systems-is-leading-to-even-more-false-positives/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/07/29/expansion-of-flock-camera-systems-is-leading-to-even-more-false-positives/</guid>
-      <description>Flock Safety&amp;amp;#8217;s aggressive expansion into the law enforcement market has been coupled with nearly constant negative coverage of its tech and its practices. Multiple cities have paused or cancelled their agreements with Flock following public outcry over the surveillance tech. Flock&amp;amp;#8217;s willingness to allow law enforcement agencies to search a nationwide network of cameras has [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 20:08:45 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>AI For Criminal Defense: It’s An Issue Of Priorities. And Money.</title>
-      <link>https://abovethelaw.com/2026/07/ai-for-criminal-defense-its-an-issue-of-priorities-and-money/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/ai-for-criminal-defense-its-an-issue-of-priorities-and-money/</guid>
-      <description>There just aren’t that many criminal defense customers with the funds to buy a lot of tech and AI stuff. The post AI For Criminal Defense: It’s An Issue Of Priorities. And Money. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 20:04:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The US government just banned Roombas</title>
-      <link>https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums</guid>
-      <description>When the Trump administration announced yesterday that it was banning &amp;quot;advanced robotic devices&amp;quot; from entering the United States, the headlines were all about humanoids. But spying doesn&amp;#x27;t require legs - and neither does the FCC&amp;#x27;s robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC media relations director Katie Gorscak confirms to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 18:13:09 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
