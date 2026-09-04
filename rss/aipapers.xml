@@ -5,8 +5,68 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:09:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:09:21 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do Large Language Models Capture the Diversity in their Training Data?</title>
+      <link>https://arxiv.org/abs/2609.02275</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.02275</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwvx7nvhwavvyi75m43lup6z/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models are trained to model conditional distributions over text, yet it remains inadequately understood whether they capture the full diversity of plausible outputs present in their tra...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 7 · likes: 20&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwvx7nvhwavvyi75m43lup6z/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwvx7nvhwavvyi75m43lup6z/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Optical Reservoir Computing with Structural Nonlinearity for Forecasting Chaotic Time Series</title>
+      <link>https://arxiv.org/abs/2609.02733</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.02733</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uobc4ilfzmorydk5fz5bfenq/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Optical computing offers a promising route to high-speed, energy-efficient information processing. However, implementing nonlinear operations typically requires strong light-matter interactions. Here,...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 14&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uobc4ilfzmorydk5fz5bfenq/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uobc4ilfzmorydk5fz5bfenq/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The Emergent Symbolic Structure of Artificial Neural Networks</title>
+      <link>https://arxiv.org/abs/2608.29530</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2608.29530</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hu35oubkccqrxl4ldgczpgw7/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Modern systems in artificial intelligence (AI) somehow excel in domains for which they seem poorly suited. Intelligence has traditionally been modeled as operating over structured combinations of symb...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 10&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hu35oubkccqrxl4ldgczpgw7/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hu35oubkccqrxl4ldgczpgw7/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?</title>
+      <link>https://arxiv.org/abs/2609.01437</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01437</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7obcdkmaphcucglm3a777gct/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As agents move from research prototypes to deployed tools, their capability increasingly depends on model-external execution infrastructure, commonly termed the agent harness. Changing this harness wh...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 10&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7obcdkmaphcucglm3a777gct/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7obcdkmaphcucglm3a777gct/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation</title>
+      <link>https://arxiv.org/abs/2609.01246</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.01246</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddhojhlqcgdt5iydkagwp5fi/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Current Large Language Models (LLMs) are primarily optimized for written text, often producing outputs that are grammatically correct and helpful yet poorly suited for spoken delivery via Text-to-Spee...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddhojhlqcgdt5iydkagwp5fi/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddhojhlqcgdt5iydkagwp5fi/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments</title>
+      <link>https://arxiv.org/abs/2606.23152</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.23152</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We introduce ShotcreteDepth, a bi-modal dataset from the construction domain that captures both an active shotcreting process and general construction environments. The dataset comprises stereo RGB im...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>KEEPING AI IN ITS ZONE</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7392558</link>
@@ -432,66 +492,6 @@
       <description>Artificial intelligence (A.I.) systems require a wealth of training data, which is often harvested from creators without their consent, and then used to train s&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 6&lt;/small&gt;</description>
       <pubDate>Sat, 15 Aug 2026 06:09:07 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>LLM within MCP Matters: Measuring Inefficient Resource Utilization Driven by LLMs</title>
-      <link>https://arxiv.org/abs/2608.08467</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.08467</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ylyqrsurcumksyhfulbjfesi/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The Model Context Protocol (MCP) standardizes how servers expose data and tools to Large Language Models (LLMs). A common server design embeds frequently used reference data, such as identifier…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 06:09:07 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ylyqrsurcumksyhfulbjfesi/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ylyqrsurcumksyhfulbjfesi/bafkreiccpl47tvnq5nbhb3czfzkzsquuvbcctgrqyhzujkxjynazefahna" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Cognitive Convergence: Deep Similarities Between Large Language Models and Human Cognition</title>
-      <link>https://arxiv.org/abs/2607.26179</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.26179</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yizh3yeq6wcfggftrvf6ta5p/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLMs are widely regarded as alien intelligences, systems whose cognitive operations are fundamentally unlike our own. Apparent similarities to human cognition are therefore often seen as the result of...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 06:10:11 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yizh3yeq6wcfggftrvf6ta5p/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yizh3yeq6wcfggftrvf6ta5p/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Is Misinformation More Open? A Study of robots.txt Gatekeeping on the Web</title>
-      <link>https://arxiv.org/abs/2510.10315</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2510.10315</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agacb2hbsfpuguomyq7cxdxv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Models (LLMs) are increasingly relying on web crawling to stay up to date and accurately answer user queries. These crawlers are expected to honor robots.txt files, which govern automat...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 06:10:11 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agacb2hbsfpuguomyq7cxdxv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:agacb2hbsfpuguomyq7cxdxv/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>How Organizations Use AI: Evidence from ChatGPT</title>
-      <link>https://arxiv.org/abs/2608.12236</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.12236</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidqscbqfvrjlnsgjljmzmz26mzfmdnhu3lagzen2bjsphlox2emym" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for How Organizations Use AI: Evidence from ChatGPT&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 06:10:11 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidqscbqfvrjlnsgjljmzmz26mzfmdnhu3lagzen2bjsphlox2emym" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidqscbqfvrjlnsgjljmzmz26mzfmdnhu3lagzen2bjsphlox2emym" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Tracing Generative AI in Digital Art: A Longitudinal Study of Chinese Painters' Attitudes, Practices, and Identity Negotiation</title>
-      <link>https://arxiv.org/abs/2511.03117</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.03117</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;This study presents a five-year longitudinal mixed-methods study of 17 Chinese digital painters, examining how their attitudes and practices evolved in response to generative AI. Our findings reveal a...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 6 · likes: 25&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 06:09:28 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Toward a Theory of Value in AI Alignment</title>
-      <link>https://arxiv.org/abs/2608.10327</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.10327</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Can AI systems be aligned to human values? The popularization of large language models (LLMs) and multi-modal foundation models has seen a rise in harms spanning from toxic speech and hallucinations to AI agents executing unauthorized actions. Within the field of AI safety, these harmful instances …&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 06:09:28 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
