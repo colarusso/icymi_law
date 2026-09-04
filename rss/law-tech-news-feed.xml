@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 18:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 19:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI’s rogue agents keep escaping, with no formal process to investigate them</title>
+      <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</guid>
+      <description>OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 23:15:11 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses</title>
       <link>https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</link>
@@ -4334,14 +4342,6 @@
       <description>There&amp;amp;#8217;s been a bunch of news this week regarding Minnesota&amp;amp;#8217;s new law that purports to prohibit &amp;amp;#8220;nudification&amp;amp;#8221; technology, and the fact that xAI has sued to have the law blocked as unconstitutional. A few things need to be said upfront, because it&amp;amp;#8217;s very, very easy to just say the tech is terrible, that Elon Musk [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 30 Jul 2026 18:09:14 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops</title>
-      <link>https://abovethelaw.com/2026/07/the-next-evolution-of-contract-management-how-agentic-ai-is-transforming-in-house-legal-and-legal-ops/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/the-next-evolution-of-contract-management-how-agentic-ai-is-transforming-in-house-legal-and-legal-ops/</guid>
-      <description>[Sponsored] How can your legal team stay ahead of the curve amid rapid industry disruption? Sign up and join us on August 26th! The post The Next Evolution Of Contract Management: How Agentic AI Is Transforming In-House Legal And Legal Ops appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 16:21:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
