@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 17:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
+      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</guid>
+      <description>Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Tesla’s Cybercab has been deployed, and it’s already under investigation</title>
       <link>https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/</link>
@@ -4336,16 +4344,6 @@
       <description>* Even if the Senate rejects Todd Blanche, he&amp;#x27;s going to stay in the job indefinitely, no matter how questionably constitutional that may be. [Politico] * Judge seems to think Pentagon&amp;#x27;s designation of Anthropic as a security risk is bogus. [Law360] * Lawyer seeks restraining order against client&amp;#x27;s Congress member ex-husband. [CNN] * Data brokers refusing requests to delete personal information. [Bloomberg Law News] * State sues Kalshi on the grounds that it runs an illegal gambling site. [Reuters] * Alien Terrorist Removal Court holds first-ever hearing. It only took 30 years. [Court Watch] * Court hikes up AI misuse sanctions as nothing seems to be working. [ABA Journal] The post Morning Docket: 07.31.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 31 Jul 2026 13:09:26 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>AI labels to be compulsory on authentic-looking content under EU rules</title>
-      <link>https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules</guid>
-      <description>Companies must ensure people know when they are interacting with artificially generated images, audio and text designed to look realFrom apparently conspiring to steal elections to abusing staff or performing embarrassing dance moves, the last few years have seen plenty of fake content made about politicians intended to malign its targets and mislead the public.Now EU rules aim to stem the flood of this deceptive content: starting from Sunday, artificially generated images, audio and text designed to look authentic must be labelled. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 11:21:20 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8cbe530f7257c7745e8605a667b3601" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8cbe530f7257c7745e8605a667b3601" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
