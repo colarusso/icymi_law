@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 19:56:14 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:55:44 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports</title>
+      <link>https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html</guid>
+      <description>Filings made Friday in The New York Times’s closely watched lawsuit against OpenAI and Microsoft included a range of copyright law and cultural references.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 00:18:57 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-openai-times-hpzj/04biz-openai-times-hpzj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-openai-times-hpzj/04biz-openai-times-hpzj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>OpenAI’s rogue agents keep escaping, with no formal process to investigate them</title>
       <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
@@ -4334,14 +4344,6 @@
       <description>A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government&amp;#x27;s ban on its AI technology.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 30 Jul 2026 20:26:38 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>The Worst Person You Know Just Filed A Good First Amendment Lawsuit Against A Very Badly Drafted Nudify App Ban</title>
-      <link>https://www.techdirt.com/2026/07/30/the-worst-person-you-know-just-filed-a-good-first-amendment-lawsuit-against-a-very-badly-drafted-nudify-app-ban/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/07/30/the-worst-person-you-know-just-filed-a-good-first-amendment-lawsuit-against-a-very-badly-drafted-nudify-app-ban/</guid>
-      <description>There&amp;amp;#8217;s been a bunch of news this week regarding Minnesota&amp;amp;#8217;s new law that purports to prohibit &amp;amp;#8220;nudification&amp;amp;#8221; technology, and the fact that xAI has sued to have the law blocked as unconstitutional. A few things need to be said upfront, because it&amp;amp;#8217;s very, very easy to just say the tech is terrible, that Elon Musk [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 30 Jul 2026 18:09:14 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
