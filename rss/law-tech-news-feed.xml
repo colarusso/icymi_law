@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tesla’s Cybercab has been deployed, and it’s already under investigation</title>
+      <link>https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/</link>
+      <guid isPermaLink="true">https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/</guid>
+      <description>The US government is investigating whether the Cybercab meets vehicle safety standards.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 15:17:36 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement</title>
       <link>https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</link>
@@ -4336,16 +4346,6 @@
       <media:content url="https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8cbe530f7257c7745e8605a667b3601" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8cbe530f7257c7745e8605a667b3601" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards</title>
-      <link>https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html</guid>
-      <description>Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 09:00:48 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-plugin-solar-01-sub-wplg/00biz-plugin-solar-01-sub-wplg-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-plugin-solar-01-sub-wplg/00biz-plugin-solar-01-sub-wplg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
