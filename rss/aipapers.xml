@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:09:21 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:09:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FiMI Banking: A Sovereign Model for Indian Retail Banking</title>
+      <link>https://arxiv.org/abs/2609.03960</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.03960</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Banks need conversational systems that can answer product questions, assist customers with account-related requests, and operate safely within strict operational and regulatory constraints. General-purpose language models do not reliably meet these requirements. They fall short when a task requires…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 06:09:11 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Our Members - arXiv info | arXiv e-print repository</title>
+      <link>https://info.arxiv.org/about/ourmembers.html</link>
+      <guid isPermaLink="true">https://info.arxiv.org/about/ourmembers.html</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 06:09:11 -0400</pubDate>
+      <source url="https://info.arxiv.org">info.arxiv.org</source>
+    </item>
     <item>
       <title>Do Large Language Models Capture the Diversity in their Training Data?</title>
       <link>https://arxiv.org/abs/2609.02275</link>
@@ -474,24 +492,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihqv7ivbv3dnwypyf4nlxcbosrrzelluv7jd25o4hyck4lfpdz2ki" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihqv7ivbv3dnwypyf4nlxcbosrrzelluv7jd25o4hyck4lfpdz2ki" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise</title>
-      <link>https://arxiv.org/abs/2607.29380</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.29380</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyshssjs4qzxapfylmniqfvx/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regenera...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sun, 16 Aug 2026 06:11:57 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyshssjs4qzxapfylmniqfvx/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dyshssjs4qzxapfylmniqfvx/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Art Critics Won't Save You from the Robots: Confronting A.I. as Misappropriation</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6999539</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6999539</guid>
-      <description>Artificial intelligence (A.I.) systems require a wealth of training data, which is often harvested from creators without their consent, and then used to train s&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 06:09:07 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
