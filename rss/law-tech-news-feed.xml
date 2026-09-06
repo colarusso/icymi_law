@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2026 20:55:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</title>
+      <link>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</guid>
+      <description>Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 10:45:11 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Online bookies accused of UK privacy breaches with use of cookie banners</title>
+      <link>https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking</guid>
+      <description>Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study showsOnline bookmakers and casinos have been accused of widespread non-compliance of information privacy requirements, including “data surveillance” of customers, according to a study.Nearly nine out of 10 (86%) licensed British gambling websites appear to be flouting the general data protection regulation (GDPR), the strict rules governing how organisations can collect, store and process personal data, according to the research. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 07:00:01 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01357a23b7d88287431fcbbc8cad2a60" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01357a23b7d88287431fcbbc8cad2a60" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
       <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
@@ -4326,24 +4346,6 @@
       <media:content url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>How a Yale AI-cheating dispute became a 13-count federal lawsuit</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</guid>
-      <description>A disputed exam, an unreliable detector, and one very late Apple Pages file.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 11:00:52 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 07.31.26</title>
-      <link>https://abovethelaw.com/2026/07/morning-docket-07-31-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/morning-docket-07-31-26/</guid>
-      <description>* Even if the Senate rejects Todd Blanche, he&amp;#x27;s going to stay in the job indefinitely, no matter how questionably constitutional that may be. [Politico] * Judge seems to think Pentagon&amp;#x27;s designation of Anthropic as a security risk is bogus. [Law360] * Lawyer seeks restraining order against client&amp;#x27;s Congress member ex-husband. [CNN] * Data brokers refusing requests to delete personal information. [Bloomberg Law News] * State sues Kalshi on the grounds that it runs an illegal gambling site. [Reuters] * Alien Terrorist Removal Court holds first-ever hearing. It only took 30 years. [Court Watch] * Court hikes up AI misuse sanctions as nothing seems to be working. [ABA Journal] The post Morning Docket: 07.31.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 13:09:26 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
