@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:55:43 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grindr to pay £26m to settle claims it allegedly shared users' HIV status</title>
+      <link>https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 15:27:50 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>The complex corporate web behind a $3.2 billion AI data center</title>
       <link>https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</link>
@@ -4333,16 +4343,6 @@
       <pubDate>Fri, 31 Jul 2026 19:47:34 +0000</pubDate>
       <media:content url="https://www.eff.org/files/banner_library/ageverification-banner2-1a.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/ageverification-banner2-1a.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>The SCREEN Act Threatens Privacy Far Beyond Adult Websites</title>
-      <link>https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/07/screen-act-threatens-privacy-far-beyond-adult-websites</guid>
-      <description>The Senate Commerce Committee is set to consider S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up their anonymity, privacy, and security before they access lawful speech. Unlike many state-age verification laws—which have been harmful in their own right—the SCREEN Act has no requirement that a significant portion of the website consist of sexually explicit content that is harmful to minors. The bill requires nearly any service hosting even a single piece of sexually explicit content to verify the ages of its users. The result is that the bill would apply not only to adult content sites like PornHub or OnlyFans, but also streaming services like Netflix, and social media platforms like Reddit, Discord, or Bluesky, if they host any adult content. The SCREEN Act does not merely require users to attest they are adults. It specifically states that “requiring a user to confirm that the user is not a minor shall not be sufficient.” In practice, that means platforms would have to verify users’ ages using methods tied to their real identities. Providing proof of age online is dramatically different, and far more invasive, than showing your ID at the door to a bartender or bouncer. In the physical world, the bouncer at the door looks at your ID card, confirms you’re old enough, and gives it back to you. Under the SCREEN Act, the “bouncer” will be a digital age-verification service that captures your personal information and saves it to a database for an unspecified amount of time. The consequences of the bill won’t be limited to minors. If websites and apps are expected to reliably identify teenagers, adults will be asked to prove they are adults. Even worse, the SCREEN Act is a privacy and data security nightmare. One provision of the bill requires services to take reasonable steps to protect the data collected and to not maintain for longer than is necessary. But these are terribly weak protections that impose no meaningful collection, use, or retention limits on services collecting people’s private information. In other words, the third parties tasked with verifying a user’s age on a platform could sweep up a lot of personal info they don’t actually need and then could use that information for any number of purposes, so long as they deem their actions reasonable. Companies would then be allowed to keep the information users have been compelled to turn over for as long as possible, raising security and privacy issues along the way. The SCREEN Act Attacks Your Right To Use VPNs The SCREEN Act also targets virtual private network (VPN) users and providers. The bill requires covered websites to verify users&amp;#x27; ages based on their IP addresses unless the service can determine that the user is outside the United States, and specifically requires age verification on traffic coming from known VPN addresses. In practice, this discourages the use of VPNs and proxy servers, which millions of people rely on for legitimate purposes such as protecting personal privacy, securing public Wi-Fi connections, safeguarding journalists and activists, and preventing data tracking. VPNs mask your real location by routing your internet traffic through a server somewhere else. When you visit a website through a VPN, that website only sees the VPN server&amp;#x27;s IP address, not your actual location. It&amp;#x27;s like sending a letter through a P.O. box so the recipient doesn&amp;#x27;t know where you really live. VPNs are a privacy and security tool used by millions of internet users every day, and their use should not be treated as suspect. It is particularly galling that the SCREEN Act forces users who intentionally take steps to protect their privacy to identify themselves. The SCREEN Act creates onerous age-verification rules that will block adults from accessing lawful speech, curtail their ability to be anonymous, and jeopardize the data security and privacy of all internet users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:41:55 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
