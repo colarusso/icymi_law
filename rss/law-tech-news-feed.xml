@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 13:55:43 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAD Scheme Plaintiff Must Pay $40k to Defendant–Guangzhou Tinpod v. Schedule A Defendants</title>
+      <link>https://blog.ericgoldman.org/archives/2026/09/sad-scheme-plaintiff-must-pay-40k-to-defendant-guangzhou-tinpod-v-schedule-a-defendants.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/09/sad-scheme-plaintiff-must-pay-40k-to-defendant-guangzhou-tinpod-v-schedule-a-defendants.htm</guid>
+      <description>The plaintiff is Guangzhou Tinpod Electronic Technology Co. The plaintiff initially sued under the XYZ pseudonym and hasn&amp;amp;#8217;t updated the case caption, even though its identity is no longer sealed. I presume the plaintiff and many of the 44 defendants... The post SAD Scheme Plaintiff Must Pay $40k to Defendant&amp;amp;#8211;Guangzhou Tinpod v. Schedule A Defendants appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 18:06:52 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>The complex corporate web behind a $3.2 billion AI data center</title>
       <link>https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</link>
@@ -4334,16 +4342,6 @@
       <description>Understanding how Google selects pages and content for these featured snippets is the first step toward making sure your law firm appears in the top spot with greater frequency. The post How To Gain Visibility Through Featured Snippets appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 31 Jul 2026 21:35:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?</title>
-      <link>https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/</guid>
-      <description>Had the hacks used conventional methods, someone would likely go to prison.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 20:39:14 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
