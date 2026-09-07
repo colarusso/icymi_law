@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 11:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The complex corporate web behind a $3.2 billion AI data center</title>
+      <link>https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</link>
+      <guid isPermaLink="true">https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</guid>
+      <description>When multiple companies are behind one project, who bears responsibility for problems?&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 11:00:03 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png" medium="image" type="image/png" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png" type="image/png" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Grindr to pay £26m to settle claims it allegedly shared users' HIV status</title>
       <link>https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4334,16 +4344,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/robot-in-handcuffs-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Amending AB 1709 Doesn’t Fix It: California’s Social Media Ban Still Threatens Free Speech and Privacy</title>
-      <link>https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/07/amending-ab-1709-doesnt-fix-it-californias-social-media-ban-still-threatens-free</guid>
-      <description>California lawmakers have amended A.B. 1709, but the core problem remains: the bill is still a ban on social media access for youth under 16, and it still threatens the privacy and First Amendment rights of all Californians. Proponents of the bill may argue that the recent amendments represent a compromise, but a close look at the text shows no major changes. As the bill moves forward in the Senate, we must continue to urge lawmakers to vote NO. Take Action: Tell Your Senator to OPPOSE A.B. 1709 Fake Compromise That Still Denies Access Under the newly amended Section 22683, platforms are prohibited from offering &amp;quot;addictive features&amp;quot; to users under 16. A platform can allow a minor to keep an account only if it strips away these features, which include what the bill calls &amp;quot;addictive feeds,&amp;quot; auto-play, and anything else the Attorney General designates in future rulemaking. However, the bill defines &amp;quot;addictive feeds&amp;quot; so broadly that it covers virtually every functional recommendation algorithm. The bill applies this label to any presentation of user-generated content recommended &amp;quot;in whole or in part, on information provided by the user.&amp;quot; That includes basic inputs like who a user follows, what posts they like, or their self-expressed interests. By calling these basic tools and features “addictive,&amp;quot; the bill also makes broad conclusions about the unsettled science behind social media use, youth, and addiction. Because almost every major social media service uses automated feeds to deliver content, the end result of AB 1709 remains the same: young people under 16 will be denied access to major social media services as they currently exist. Even if a platform attempts to comply by stripping away recommendation systems for minors, this still violates the First Amendment. Recommendation systems are the primary tools that users rely on to find speech and disseminate their own. Forcing young people onto a stripped-down, dysfunctional version of social media burdens their constitutional right to access information and participate in public discourse. AB 1709 Still Forces Invasive Age Verification The amendments do not eliminate the privacy threats posed by age gating. Although the bill references the age-signaling framework in AB 1043, Section 22684 explicitly states that a covered platform &amp;quot;shall verify the age of a user” and makes platforms liable every time a person under 16 makes it through an age check. Because AB 1043 does not actually specify how verification should occur without requiring additional proof, AB 1709 will, in practice, force platforms to implement the strictest forms of age verification. To comply, platforms will likely require users to upload government-issued IDs or submit to biometric scanning. Forcing users to turn over their personal information will create massive honeypots of sensitive personal data, destroying online anonymity and exposing users of all ages to security breaches. And relying on biometric systems to verify users’ ages is problematic because the systems have historically had high error rates estimating ages across race and gender lines. Take Action: Tell Your Senator to OPPOSE A.B. 1709 Lawmakers Must Reject AB 1709 The amendments to AB 1709 also introduce legal confusion, creating provisions that conflict with already enacted legislation like SB 976. Rather than providing clarity or protecting young people, AB 1709 creates a tangled regulatory scheme that sacrifices constitutional rights for political grandstanding. Denying minors access to digital forums—or stripping those forums of the basic tools needed to navigate them—is censorship. California should not set a national precedent of cutting young people off from digital lifelines, communities, and speech. We need to keep the pressure on as AB 1709 moves through the Senate. Contact your state senator today and tell them that minor tweaks to a bad bill do not make it good policy.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 19:47:34 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/ageverification-banner2-1a.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/ageverification-banner2-1a.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
