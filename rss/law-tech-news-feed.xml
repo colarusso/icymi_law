@@ -5,8 +5,52 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:56:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The ILTACON Wrap-Up</title>
+      <link>https://abovethelaw.com/2026/09/the-iltacon-wrap-up/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/the-iltacon-wrap-up/</guid>
+      <description>Discussing what we learned about legal technology in Nashville. The post The ILTACON Wrap-Up appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:47:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>A new class action lawsuit questions whether Anthropic broke the law by misleading power users</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans</guid>
+      <description>Anthropic says power users are key to its business - it&amp;#x27;s prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they&amp;#x27;d get more out of a top-tier pricing subscription than they did. In an expanded class action lawsuit filed [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:27:31 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>AIs as Modern Genies</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html</guid>
+      <description>This essay was written with Barath Raghavan, and originally appeared in Lawfare. In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model hacked onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 17:12:42 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>Google complies with EU rules for travel searches, says the new results stink</title>
+      <link>https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/</guid>
+      <description>The EU continues to go after Google search practices it sees as anticompetitive.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:49:55 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>The White House made a "Tetris" clone. The Tetris Company was not amused.</title>
+      <link>https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/</guid>
+      <description>Trump admin&amp;#x27;s propaganda &amp;quot;arcade&amp;quot; hits some apparent legal limits.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 16:31:21 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png" medium="image" type="image/png" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png" type="image/png" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>New law to force tech firms to prevent children from taking nude images</title>
       <link>https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4306,48 +4350,6 @@
       <description>Last week we wrote about how Elon Musk&amp;amp;#8217;s xAI had filed a lawsuit to attempt to block Minnesota&amp;amp;#8217;s anti-nudify app law. As we tried to explain, even if you (reasonably, understandably) dislike both Elon and &amp;amp;#8220;nudify&amp;amp;#8221; apps, there were real problems with the Minnesota law. In particular, it was not narrowly tailored to just target [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 03 Aug 2026 22:13:30 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>The Youth AI Privacy Act’s Privacy Paradox</title>
-      <link>https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/youth-ai-privacy-acts-privacy-paradox</guid>
-      <description>The Senate Commerce Committee is poised to consider the Youth AI Privacy Act, a bill that would require AI companies to create kids-only privacy rules and implement so-called “safe design features,” which would—like three other bills under consideration this week—require more data collection and make it harder for people to access lawful speech online. While the bill is narrower than some other proposed chatbot bills, it still has massive data security implications because it protects information for only certain users. This creates a problem we’ve cited many times before: if a bill requires that online services offer protections to minor users, the services will respond by imposing age gates to know which users should receive them. A better approach would be to offer the same privacy protections to all users. That way, we would avoid the services having to collect data on everyone to know a users’ age. This bill also contains a problematic and vague provision that expressly allows AI companies to collect a known minor’s personal data for the purpose of testing, identifying, and addressing &amp;quot;harm to users”—without being clear on what exactly that means. Either way, services will need to collect even more information from young people, who are already targets of data theft and identity fraud. The Youth AI Privacy Act will give young people less privacy, not more. The Youth AI Privacy Act does include some positive privacy provisions around prohibiting the processing of personal information, like limiting what companies can do with people’s chat logs, including training, profiling, and disclosing them to other companies for training. But a general privacy bill must set these limits for everyone, not just minors. Mandating Design is Regulating Speech The bill also requires the use of “safe design features,” which would restrict how online services providers design their systems and would deny teenagers the ability to use features like push alerts and notifications. We have seen this same type of restriction, sometimes called “age appropriate design code” in several states, including in California, Texas, and Arkansas. Unfortunately, these restrictions run into constitutional problems. In fact, federal courts have largely blocked these laws from going into effect because they likely violate the First Amendment rights of all internet users and the online services they regulate. Specifically, these laws interfere with internet users’ First Amendment rights to either speak or access speech online, and they also violate the rights on online services to decide how they will present information on their sites. Similarly, the Supreme Court has repeatedly ruled that “minors are entitled to a significant measure of First Amendment protection.” This does not mean that parents or guardians can’t set their own rules for their families—they can and they should, based on the needs and circumstances of the individual teenagers. But it does mean that Congress cannot adopt a “one size fits all” regulation that sets a restrictive government default that affects the First Amendment rights of all internet users, including teenagers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 21:08:45 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/ai-robots-emotion.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/ai-robots-emotion.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>The SCREEN Act Threatens Privacy Far Beyond Adult Websites</title>
-      <link>https://www.techdirt.com/2026/08/03/the-screen-act-threatens-privacy-far-beyond-adult-websites/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/03/the-screen-act-threatens-privacy-far-beyond-adult-websites/</guid>
-      <description>The Senate Commerce Committee is set to consider&amp;amp;#160;S. 737, the SCREEN Act, a sweeping age-verification bill that would require online services to verify users’ ages before they can access any sexually explicit content. If this bill passes, it will force millions of adult internet users to give up their anonymity, privacy, and security before they [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 20:07:35 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated</title>
-      <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</guid>
-      <description>OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 19:45:35 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Apple challenges UK government’s latest demand for iCloud backdoor: report</title>
-      <link>https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/</guid>
-      <description>Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 18:54:09 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Matthew Thomas Is Right: Good Legal Judgment Can’t Be Automated</title>
-      <link>https://abovethelaw.com/2026/08/matthew-thomas-is-right-good-legal-judgment-cant-be-automated/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/matthew-thomas-is-right-good-legal-judgment-cant-be-automated/</guid>
-      <description>The future of in-house law isn&amp;#x27;t about competing with AI on speed. The post Matthew Thomas Is Right: Good Legal Judgment Can&amp;amp;#8217;t Be Automated appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 18:36:43 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
