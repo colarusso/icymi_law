@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI</title>
+      <link>https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html</guid>
+      <description>Chronologies have become one of legal tech&amp;amp;#8217;s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet were more than a decade ahead of the pack. Kerr finished law school in 2010 and made what he calls the crazy decision to start [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:54:33 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>The DOJ’s AI Fair Use Brief Is Correct, But From A DOJ That Has No Credibility</title>
+      <link>https://www.techdirt.com/2026/09/08/the-dojs-ai-fair-use-brief-is-correct-but-from-a-doj-that-has-no-credibility/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/09/08/the-dojs-ai-fair-use-brief-is-correct-but-from-a-doj-that-has-no-credibility/</guid>
+      <description>I am never asking the monkey&amp;amp;#8217;s paw for a federal government that defends fair use again. For decades on Techdirt, I&amp;amp;#8217;ve talked about the absolute necessity of strong fair use, and have been disappointed over and over again at how little the federal government has fought for fair use. For decades, the rare times when [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 18:06:36 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>The ILTACON Wrap-Up</title>
       <link>https://abovethelaw.com/2026/09/the-iltacon-wrap-up/</link>
@@ -4332,24 +4348,6 @@
       <media:content url="https://www.eff.org/files/banner_library/coder-cat-2.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/coder-cat-2.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>EFF Joins Call for FTC to Drop Its Disastrous AI Policy Proposal</title>
-      <link>https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/eff-joins-comments-calling-ftc-drop-its-ai-policy-proposal</guid>
-      <description>The Federal Trade Commission (FTC) in July issued a proposed policy statement “concerning the suppression of accuracy in artificial intelligence systems.” We urge the FTC to withdraw this misguided proposal and instead focus on its core strengths and mission to protect consumers. The new proposed policy builds on, and directly references, the Trump administration’s “Preventing Woke AI in the Federal Government” executive order—a nightmare for civil liberties that seeks to strong-arm AI companies into modifying their models to conform with the its ideological agenda. In recently filed comments, EFF, Public Knowledge, and Fight for the Future call for the FTC to stop its unconstitutional efforts to regulate lawful speech, override state laws, and intimidate AI developers into ideological alignment with the Trump administration. The government may not install itself as the arbiter of truth. In the joint comments, we outline three critical flaws within the latest proposed policy. First, it violates the First Amendment. The policy calls for the Commission to become the judge of which AI outputs meet an undefined standard of accuracy. Installing the FTC as the authority of this sort of viewpoint-based judgment is a prior restraint on speech. Additionally, the policy’s proposed solution to address speech concerns compounds, rather than properly limits, the likely harms to speech. As we say in our comments: the government may not install itself as the arbiter of truth. Second, it exceeds the FTC’s legal authority by claiming that its federal regulatory rules can override, or “preempt,” laws in states that have passed to regulate artificial intelligence use. This is clearly an attempt to target state laws the administration disagrees with. For example, the policy specifically criticizes Colorado&amp;#x27;s automated decisionmaking law, which applies when automated technology is used to consider consequential decisions such as those around employment, access to housing, health care, and insurance. We noted to the FTC that characterizing this law as one that requires AI companies to “suppress accuracy,” or encourages deception, is itself inaccurate. In any case, the FTC lacks the authority to put its rules in place over state law, unless Congress directly delegates it that power. It has been given no such power here. Third, the policy is vague and sets the stage for improper jawboning of AI developers and companies that use AI tools (deployers). Jawboning is a term for situations in which the government urges private companies or people to censor another&amp;#x27;s speech. The proposal, as written, creates an enforcement regime that would put a thumb on the scale in favor of certain partisan speech and ideals. This will lead companies to censor only what the administration interprets as biased or untruthful. Yet, in our filing, we note that the FTC itself can&amp;#x27;t define an objective standard for what “bias” means, conceding the “exact line of what constitutes bias may be difficult to draw.” There is work the FTC should be doing to protect consumers in the age of AI. In our comments, we conclude by saying: [We] implore the Commission to focus on its core strengths and the mission for which it is so urgently needed—promoting structural market competition and protecting consumers from real unfair and deceptive acts and practices—in both the burgeoning and critically important AI industry and across the broader technology marketplace. EFF and our partners have always urged the FTC to police genuine deception in technology markets. We have also consistently opposed government efforts to dictate what private speakers may say. That’s why we urge the FTC to withdraw this proposal. You can read our full comments here.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 22:17:56 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/icon-2026-ai-robot-v2.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/icon-2026-ai-robot-v2.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Judge To xAI: If This Law Is So Urgent, Why Did You Wait Three Months To Sue?</title>
-      <link>https://www.techdirt.com/2026/08/03/judge-to-xai-if-this-law-is-so-urgent-why-did-you-wait-three-months-to-sue/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/03/judge-to-xai-if-this-law-is-so-urgent-why-did-you-wait-three-months-to-sue/</guid>
-      <description>Last week we wrote about how Elon Musk&amp;amp;#8217;s xAI had filed a lawsuit to attempt to block Minnesota&amp;amp;#8217;s anti-nudify app law. As we tried to explain, even if you (reasonably, understandably) dislike both Elon and &amp;amp;#8220;nudify&amp;amp;#8221; apps, there were real problems with the Minnesota law. In particular, it was not narrowly tailored to just target [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 22:13:30 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
