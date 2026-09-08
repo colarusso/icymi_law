@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:08:04 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:09:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course design in the age of AI</title>
+      <link>https://arxiv.org/abs/2607.18735</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2607.18735</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihgqjzzch36cny2v3mrsfdzvwbko6mmpxyqm6enbds6vlnjyjjqea" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Course design in the age of AI&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 3 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 06:09:06 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihgqjzzch36cny2v3mrsfdzvwbko6mmpxyqm6enbds6vlnjyjjqea" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihgqjzzch36cny2v3mrsfdzvwbko6mmpxyqm6enbds6vlnjyjjqea" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Symptom clusters in Long COVID in the UK: prospective community-based cohort study using unsupervised machine learning</title>
       <link>https://arxiv.org/abs/2609.05213</link>
@@ -481,16 +491,6 @@
       <pubDate>Tue, 18 Aug 2026 06:08:33 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>When Search Eats the Web: A Model of Corpus Erosion under Generative Extraction</title>
-      <link>https://arxiv.org/abs/2608.15896</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.15896</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5enzd3zu3ujdwcw2qq7awccv/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative search engines (GSEs) answer user queries directly from crawled web content. The capture of value from the corpus without a visit returned to the source (we call this capture extraction) di...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5enzd3zu3ujdwcw2qq7awccv/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5enzd3zu3ujdwcw2qq7awccv/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
