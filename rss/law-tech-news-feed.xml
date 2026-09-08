@@ -5,8 +5,66 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 20:55:49 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:56:30 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids</title>
+      <link>https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/</guid>
+      <description>Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>Why NewMod, Not AI-First?</title>
+      <link>https://www.artificiallawyer.com/2026/09/08/why-newmod-not-ai-first/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/08/why-newmod-not-ai-first/</guid>
+      <description>In mid-2026, to call a law firm AI-first, or even AI-native, seems out of step with present day reality. Which major law firm is not ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 10:30:36 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>US police fear Meta smart glasses could be used to secretly record them</title>
+      <link>https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses</guid>
+      <description>Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorismIn January, the New York Police Department’s counterterrorism unit sent out a memo warning police officers about a new potential “security and counterintelligence” threat: Ray-Ban Meta glasses.The memo directed officers to “conduct thorough inspections of all eyewear permitted within inmate cells” and cautioned that people who have been arrested could use these glasses, equipped with small cameras and microphones, to record inside police facilities. The memo cited two examples of such videos posted on social media. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 10:00:02 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e37dc23041d9600783c7e06f5e5207" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e37dc23041d9600783c7e06f5e5207" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Scammers demand ransoms from Instagram users over fake copyright claims</title>
+      <link>https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 06:49:56 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Social media users could opt out of the algorithm if Australian government has its way – but that’s a big if</title>
+      <link>https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia</guid>
+      <description>Even if the legislation passes, tech companies may still find ways to frustrate its intent and keep Australians hooked on their feedSocial media could become a “choose your own adventure” between the doom-scrolling status quo, or just the feed of the friends you want to see, if the government’s planned digital duty of care legislation passes, and the tech companies don’t muck around on compliance.But that’s a big if. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 06:23:42 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/67e9ede5a7b9b9595b896014b10300d6c74da510/423_0_3928_3142/master/3928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d65ff0c13f40fd9bf0be65c51ec42a08" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/67e9ede5a7b9b9595b896014b10300d6c74da510/423_0_3928_3142/master/3928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d65ff0c13f40fd9bf0be65c51ec42a08" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Architect of UK’s AI policy quits after Anthropic conflict of interest concerns</title>
+      <link>https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns</guid>
+      <description>Matt Clifford forced to stand down amid disquiet from senior MPs over his new full-time job at AI company The chair of the UK government’s “moonshot” science and technology research unit has been forced to stand down after taking a job with the San Francisco AI firm Anthropic, in a move senior MPs called a “clear conflict of interest”.Matt Clifford announced last week that he was taking a full-time job working for the company behind the Claude chatbot, “leading its engagement” with governments outside the US – including the UK. But he retained his leadership at the UK’s Advanced Research and Invention Agency (Aria), which funds frontier science and tech projects. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 14:42:24 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/292_110_1937_1549/master/1937.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e4fbb6e073cd532034ee551789bf20" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/292_110_1937_1549/master/1937.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e4fbb6e073cd532034ee551789bf20" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>SAD Scheme Plaintiff Must Pay $40k to Defendant–Guangzhou Tinpod v. Schedule A Defendants</title>
       <link>https://blog.ericgoldman.org/archives/2026/09/sad-scheme-plaintiff-must-pay-40k-to-defendant-guangzhou-tinpod-v-schedule-a-defendants.htm</link>
@@ -4288,60 +4346,6 @@
       <description>This week, both our winners on the insightful side come in response to the protestor who is charged with destroying property for giving CBP agents the &amp;amp;#8220;duress mode&amp;amp;#8221; password to wipe his phone. In first place, it&amp;amp;#8217;s an anonymous comment extending our characterization of what the DOJ is doing here: While simultaneously pushing to institute [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Sun, 02 Aug 2026 19:45:00 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Is paying artists enough to convince them to embrace AI?</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties</guid>
-      <description>Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists&amp;#x27; work without permission. They&amp;#x27;ve pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it&amp;#x27;s necessary for the technology&amp;#x27;s evolution. This has led to contentious legal battles, but it&amp;#x27;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sun, 02 Aug 2026 13:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps</title>
-      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</guid>
-      <description>Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 20:26:04 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/</guid>
-      <description>Autonomous vehicle giant disturbs residents&amp;#x27; sleep.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 11:30:54 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/unnamed-1152x648-1785603161.webp" medium="image" type="image/webp" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/unnamed-1152x648-1785603161.webp" type="image/webp" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier</title>
-      <link>https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/</guid>
-      <description>Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Sat, 01 Aug 2026 09:30:00 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/master/pass/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/master/pass/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Reddit keeps its strange DMCA fight over Google search results alive</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/</guid>
-      <description>Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 21:19:39 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2218358312-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>How To Gain Visibility Through Featured Snippets</title>
-      <link>https://abovethelaw.com/2026/07/how-to-gain-visibility-through-featured-snippets/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/07/how-to-gain-visibility-through-featured-snippets/</guid>
-      <description>Understanding how Google selects pages and content for these featured snippets is the first step toward making sure your law firm appears in the top spot with greater frequency. The post How To Gain Visibility Through Featured Snippets appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 31 Jul 2026 21:35:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
