@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:06:48 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:07:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law schools tell students to put AI away</title>
+      <link>https://ft.trib.al/jNL62mR</link>
+      <guid isPermaLink="true">https://ft.trib.al/jNL62mR</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreicxi5eni6tqeypdjg3i2s3b3wvxhrxqoxqrcol5ol5x6seo7yjq3q" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The technology is being banned from certain classrooms to remove shortcuts that ‘stunt intellectual growth’&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 11 · likes: 47&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 06:07:05 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreicxi5eni6tqeypdjg3i2s3b3wvxhrxqoxqrcol5ol5x6seo7yjq3q" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5u54z2qgkq43dh2nzwzdbbhb/bafkreicxi5eni6tqeypdjg3i2s3b3wvxhrxqoxqrcol5ol5x6seo7yjq3q" type="image/jpeg" length="0" />
+      <source url="https://ft.trib.al">ft.trib.al</source>
+    </item>
     <item>
       <title>Seattle Times and Newsday sue OpenAI and Microsoft for infringement</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreibxkzd6ekjyaziusebtwakdbiazm4iaxapzqoqymfeaua2bih5rzy" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreibxkzd6ekjyaziusebtwakdbiazm4iaxapzqoqymfeaua2bih5rzy" type="image/jpeg" length="0" />
       <source url="https://www.404media.co">www.404media.co</source>
-    </item>
-    <item>
-      <title>Trump Blasts ‘TREASONISTS’ Behind Ballroom Case In Late-Night Rant After Asking For Supreme Court Intervention</title>
-      <link>http://www.forbes.com/sites/saradorn/2026/08/15/trump-blasts-treasonists-behind-ballroom-case-in-late-night-rant-after-asking-for-supreme-court-intervention/?utm_campaign=forbes&amp;utm_medium=social&amp;utm_source=bluesky</link>
-      <guid isPermaLink="true">http://www.forbes.com/sites/saradorn/2026/08/15/trump-blasts-treasonists-behind-ballroom-case-in-late-night-rant-after-asking-for-supreme-court-intervention/?utm_campaign=forbes&amp;utm_medium=social&amp;utm_source=bluesky</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreigt7w3ls5a4hi65v23md6wxjwaa4qh5qop4xx2hzwvhncok3di3ay" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Trump also posted a bizarre AI rendering of him touring the renovated ballroom with George Washington.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 106 · likes: 323&lt;/small&gt;</description>
-      <pubDate>Sun, 16 Aug 2026 06:08:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreigt7w3ls5a4hi65v23md6wxjwaa4qh5qop4xx2hzwvhncok3di3ay" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreigt7w3ls5a4hi65v23md6wxjwaa4qh5qop4xx2hzwvhncok3di3ay" type="image/jpeg" length="0" />
-      <source url="https://www.forbes.com">www.forbes.com</source>
     </item>
   </channel>
 </rss>
