@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:56:19 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Tech Companies Have Privately Pushed Back On ICE Subpoenas. They Should All Do More.</title>
+      <link>https://www.techdirt.com/2026/09/08/some-tech-companies-have-privately-pushed-back-on-ice-subpoenas-they-should-all-do-more/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/09/08/some-tech-companies-have-privately-pushed-back-on-ice-subpoenas-they-should-all-do-more/</guid>
+      <description>In a handful of known cases, large social media companies have privately pushed back against Immigration and Customs Enforcement (ICE) subpoenas when the agency tried to unmask anonymous users who tracked immigration activities or criticized the government. As ICE engages in&amp;amp;#160;a pattern&amp;amp;#160;of illegal and chilling investigations, any resistance is welcome. But&amp;amp;#160;social media companies can do [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 21:58:19 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Pangram Loving Law Professors Have Reached Peak AI Slop Brain</title>
+      <link>https://abovethelaw.com/2026/09/pangram-loving-law-professors-have-reached-peak-ai-slop-brain/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/pangram-loving-law-professors-have-reached-peak-ai-slop-brain/</guid>
+      <description>Pangram-mania is everywhere and all it proves is how little its fans care about critical thinking. The post Pangram Loving Law Professors Have Reached Peak AI Slop Brain appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 08 Sep 2026 21:33:48 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Tech Life</title>
       <link>https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4328,26 +4344,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2c/live/4e052df0-8fde-11f1-a999-eb18d79411a9.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d2c/live/4e052df0-8fde-11f1-a999-eb18d79411a9.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Apple launches legal challenge against UK government demand to access data</title>
-      <link>https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access</guid>
-      <description>The Home Office has made a fresh request for ‘back door’ access to encrypted iCloud data belonging to British usersApple has launched a new legal challenge against a UK government demand to access its customers’ highly encrypted data, a year after the Home Office agreed to abandon its previous request.The US tech company launched the legal complaint last month at the Investigatory Powers Tribunal (IPT), an independent court that has the power to investigate claims that the UK intelligence services have acted unlawfully. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 17:35:44 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/a9ca276f41a77afae4b3ca024f1aea41fc82cfdc/471_0_4681_3744/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d1b21585fd851324dc051fd08b3ca4e" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/a9ca276f41a77afae4b3ca024f1aea41fc82cfdc/471_0_4681_3744/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d1b21585fd851324dc051fd08b3ca4e" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>The Senate Should Reject KOSA's Privacy Risks</title>
-      <link>https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/senate-should-reject-kosas-privacy-risks</guid>
-      <description>The Senate Commerce Committee is once again considering legislation that would dramatically expand age verification, and undermine privacy for everyone. Alongside the SCREEN Act, the CHATBOT Act, and the Youth AI Privacy Act, the Kids Online Safety Act (KOSA) would push companies to collect more information about their users while creating new incentives to restrict lawful speech. Take action Tell Congress: KOSA endangers the privacy of all KOSA Pushes Platforms Toward Age Verification The Senate version of KOSA imposes a “duty of care” on online services, including social media, to avoid exposing young people to certain material the law deems harmful. But those obligations only work if online services know which users are minors. That means more platforms will be pressured to implement age verification or age estimation systems. That’s not a bill that increases privacy—it’s one that creates new privacy problems. Whether companies verify ages by checking government IDs, performing facial analysis, checking your bank records, or collecting other personal information, all of these systems require the handing over of more sensitive data, simply to access lawful online speech and services. They also create new databases of personal information that can be breached, misused, or demanded by governments. Everyone deserves privacy online. Congress could push for a bill that protects privacy for all users, but that’s not what they’re doing here. Instead, KOSA and the other bills coming up for a vote this week push online services to adopt systems that require people to identify themselves before they can speak, read, or participate online. KOSA Still Creates Incentives to Censor Lawful Speech Some online content isn’t appropriate for minors. Families, schools, and communities all have important roles to play in helping children navigate the internet. But KOSA takes those decisions away from families and the young people who have a First Amendment right to speak and access information online. It instead empowers government officials to enforce how online services handle lawful speech. And by empowering elected attorneys general in states across the country to enforce KOSA, the bill means those elected officials, rather than your family, deciding what’s appropriate online content for teens. Even more likely, it will lead to limits on what minors and adults are able to see at all, as companies shut down potentially controversial forums in order to avoid legal action from government bureaucrats. The latest version of KOSA once again includes a broad &amp;quot;duty of care&amp;quot; requiring platforms to mitigate a wide range of alleged harms to minors. Whatever disclaimers and exceptions the bill includes, the practical effect is unchanged. When platforms face liability for content that someone later claims contributed to harms like anxiety, eating disorders, or substance use, the safest response is to remove lawful speech or shut down forums discussing those topics altogether. More worrisome, the potential liability KOSA creates may push online services to either remove speech well in advance of a young person seeing it, or block young people’s access so they never see it. That will likely include forums where people try to help each other, find community and recovery resources for the exact harms listed in the bill, like gambling and drug addiction. In trying to protect young people, KOSA may actually cut them off from valuable sources of support. We&amp;#x27;ve explained these censorship risks in detail before, and they remain just as real in the latest version of the bill. Congress Should Reject KOSA Minors deserve meaningful privacy protections online—as do adults. But KOSA moves in the opposite direction by encouraging more age verification, as well as more legal pressure for platforms to monitor and restrict lawful speech. The Senate Commerce Committee should reject KOSA, along with the other bills in this legislative package, and instead pursue comprehensive privacy legislation that protects everyone—not just minors—without undermining privacy, security, or free expression. Take action Congress shouldn&amp;#x27;t set the rules for what we see online&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 03 Aug 2026 23:47:38 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
