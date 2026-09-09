@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 09:56:10 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:56:38 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridget McCormack, the Former Jurist Who Led Innovation at the American Arbitration Association As Its CEO, To Step Down for New Opportunity</title>
+      <link>https://www.lawnext.com/2026/09/bridget-mccormack-the-former-jurist-who-led-innovation-at-the-american-arbitration-association-as-its-ceo-to-step-down-for-new-opportunity.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/bridget-mccormack-the-former-jurist-who-led-innovation-at-the-american-arbitration-association-as-its-ceo-to-step-down-for-new-opportunity.html</guid>
+      <description>Bridget M. McCormack, the former chief justice of the Michigan Supreme Court who joined the American Arbitration Association in 2023 as its president and CEO, helping to spearhead the AAA&amp;amp;#8217;s innovation efforts, particularly with regard to its adoption of generative AI, has announced she is stepping down from that role. Steve Errick, the AAA&amp;amp;#8217;s chief [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 14:00:09 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Casepoint Launches Casepoint IQ, An AI Framework Spanning Its Full Platform, from New Autonomous Agents and Assistive AI to Legacy Predictive Coding</title>
       <link>https://www.lawnext.com/2026/09/casepoint-launches-casepoint-iq-an-ai-framework-spanning-its-full-platform-from-new-autonomous-agents-and-assistive-ai-to-legacy-predictive-coding.html</link>
@@ -4336,16 +4344,6 @@
       <description>For much of Techdirt&amp;amp;#8217;s nearly three decades in existence we&amp;amp;#8217;ve covered attacks on the media by the rich and powerful. And sometimes we&amp;amp;#8217;ve been on the receiving end of such attacks ourselves. But I have never seen or heard of anything quite as extreme as what happened to Ina and David Steiner, proprietors of the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 04 Aug 2026 18:10:36 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Metro Bank customer fights for £14,000 refund after AI-linked fraud</title>
-      <link>https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud</link>
-      <guid isPermaLink="true">https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud</guid>
-      <description>Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbotA Metro Bank customer has told of his fight to get more than £14,000 back after its systems failed to stop&amp;amp;nbsp;a fraud involving the AI chatbot Claude.Zoli Rutter, a businessman from Sussex, had a total of £14,244 taken from his bank account. The scam involved fraudsters buying credits to use Claude. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 06:00:15 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/953_34_6542_5236/master/6542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cec91e0b1714b75e4f67fa4b786b7f1" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/953_34_6542_5236/master/6542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cec91e0b1714b75e4f67fa4b786b7f1" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
