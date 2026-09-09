@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2026 08:56:46 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 09:56:10 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casepoint Launches Casepoint IQ, An AI Framework Spanning Its Full Platform, from New Autonomous Agents and Assistive AI to Legacy Predictive Coding</title>
+      <link>https://www.lawnext.com/2026/09/casepoint-launches-casepoint-iq-an-ai-framework-spanning-its-full-platform-from-new-autonomous-agents-and-assistive-ai-to-legacy-predictive-coding.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/casepoint-launches-casepoint-iq-an-ai-framework-spanning-its-full-platform-from-new-autonomous-agents-and-assistive-ai-to-legacy-predictive-coding.html</guid>
+      <description>Calling it the “intelligence foundation” of its platform, Casepoint today launched Casepoint IQ, a suite of tools within a single AI framework that spans the company’s products for e-discovery, legal holds, FOIA and investigations. The company says that Casepoint IQ pulls together all of its AI capabilities – including new semi- and fully autonomous agents, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 13:15:03 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms</title>
+      <link>https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/</guid>
+      <description>The three Indian companies are accused of using hackers to steal information used to sway litigation.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 09 Sep 2026 13:01:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>White House pulls Tetris-style 'Build The Wall' game after copyright concern</title>
       <link>https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4330,22 +4346,6 @@
       <media:content url="https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/953_34_6542_5236/master/6542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cec91e0b1714b75e4f67fa4b786b7f1" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/953_34_6542_5236/master/6542.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cec91e0b1714b75e4f67fa4b786b7f1" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Universal Migrator helps closing startups offboard customers and reduce legal risk</title>
-      <link>https://www.lawnext.com/2026/08/universal-migrator-helps-closing-startups-offboard-customers-and-reduce-legal-risk.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/universal-migrator-helps-closing-startups-offboard-customers-and-reduce-legal-risk.html</guid>
-      <description>A poorly managed shutdown can create significant risk. Customers may claim that they lost access to data, were not given a reasonable opportunity to retrieve it, or received exports that were incomplete or unusable. While no technology can eliminate legal risk, a documented and organized offboarding process can demonstrate that a company took reasonable steps [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 16:08:58 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Texas says data centers must pass an audit before connecting to the grid</title>
-      <link>https://www.theverge.com/policy/975071/texas-data-center-audit</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/975071/texas-data-center-audit</guid>
-      <description>Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 04 Aug 2026 15:33:21 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
