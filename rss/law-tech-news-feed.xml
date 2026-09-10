@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I turned off my algorithm for 24 hours. Is this how social media used to be?</title>
+      <link>https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia</link>
+      <guid isPermaLink="true">https://www.theguardian.com/media/2026/sep/11/i-turned-off-my-instagram-algorithm-opt-out-social-media-reforms-australia</guid>
+      <description>Thanks to a little-known feature in Instagram, I attempt to travel back to 2012, before everything on the internet was an adGet our breaking news email, free app or daily news podcastI have a confession. I love my social media algorithm. It is a perfectly curated window into my insane and inquiring mind. It knows precisely which videos will tickle me and which memes will gently distract me from the slow collapse of humankind.On Tuesday the Australian government announced “world-leading” reforms that would force social media platforms to allow users to opt-out of algorithms, dubbed “my feed, my way”. On the same day, I was delighted to be confronted with a video on Instagram of a woman accidentally spilling a bucket of eels on a Chinese train. Dozens of eels slithered among the passengers, who appeared not as surprised as I would have expected. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 10 Sep 2026 15:00:43 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/4c2b563e667cc8974ed5cc26b221538708d28d3d/600_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e59a40f2a17d2bb570b9efc7852d2c4e" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/4c2b563e667cc8974ed5cc26b221538708d28d3d/600_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e59a40f2a17d2bb570b9efc7852d2c4e" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>DHS Feeding Citizens’ Bank Records To Predictive Policing Units To Find Drivers To Pull Over</title>
       <link>https://www.techdirt.com/2026/09/10/dhs-feeding-citizens-bank-records-to-predictive-policing-units-to-find-drivers-to-pull-over/</link>
@@ -4331,14 +4341,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/08/how-lexisnexis-state-net-uses-gen-ai-to-tame-govt-data-2/</guid>
       <description>[Sponsored] The company is emphasizing ‘white glove service’ in the AI era. Here’s what the initiative is delivering for clients. The post From ‘Vendor’ To ‘Partner’: How LexisNexis Is Deepening Law Firm Relationships appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 05 Aug 2026 16:18:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Biglaw Firm Goes Even Bigger With Largest Group Hire In Firm History</title>
-      <link>https://abovethelaw.com/2026/08/biglaw-firm-goes-even-bigger-with-largest-group-hire-in-firm-history/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/biglaw-firm-goes-even-bigger-with-largest-group-hire-in-firm-history/</guid>
-      <description>Brown Rudnick landed a 34-lawyer intellectual property team from HSF Kramer while launching a brand-new Silicon Valley office. The post Biglaw Firm Goes Even Bigger With Largest Group Hire In Firm History appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 05 Aug 2026 15:32:09 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
