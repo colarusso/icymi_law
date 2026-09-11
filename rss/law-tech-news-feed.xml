@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 14:55:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony</title>
+      <link>https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony</guid>
+      <description>Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appealA defense lawyer appealing his client’s murder conviction submitted a legal brief containing ⁠made-up police testimony and ⁠witnesses fabricated by OpenAI’s ChatGPT, ​New Mexico’s highest court said.The New Mexico supreme court on Wednesday fined the attorney, Stephen Aarons, and held him in contempt for failing to verify the accuracy of the court ⁠filing, which Aarons said he prepared with help from the artificial intelligence (AI) application. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 18:04:05 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0d0bfe5daa05172d576ccc02bb14e6a" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0d0bfe5daa05172d576ccc02bb14e6a" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Cold TAKE: Amazon's New Encryption Method Still Doesn't Deliver Real Privacy</title>
       <link>https://www.eff.org/deeplinks/2026/09/cold-take-amazons-new-encryption-method-still-doesnt-deliver-real-privacy</link>
@@ -4340,16 +4350,6 @@
       <description>Suno&amp;#x27;s watermarking feature comes as the company is fighting legal battles on several fronts.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 06 Aug 2026 13:31:57 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo</title>
-      <link>https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo</link>
-      <guid isPermaLink="true">https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo</guid>
-      <description>Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales dropNintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs.The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 11:11:46 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=118545bcd87455f52a548005f3edb3c6" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/0cbcc350441f7c7fc33374a98d999e0a5f489251/0_0_4556_3647/master/4556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=118545bcd87455f52a548005f3edb3c6" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
