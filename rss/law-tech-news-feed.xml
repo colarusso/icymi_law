@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 14:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta Sued Over Training Data for Its AI and Face-Recognition Systems</title>
+      <link>https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/</guid>
+      <description>The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 18:59:25 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony</title>
       <link>https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony</link>
@@ -4342,14 +4352,6 @@
       <description>Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&amp;amp;#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 06 Aug 2026 14:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Amid legal battles, Suno says it will start watermarking songs</title>
-      <link>https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</guid>
-      <description>Suno&amp;#x27;s watermarking feature comes as the company is fighting legal battles on several fronts.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 13:31:57 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
