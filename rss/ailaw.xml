@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:06:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:07:24 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Hugging Face hack shows what happens when AI agents work together</title>
+      <link>https://www.marketplace.org/episode/2026/09/10/the-hugging-face-hack-shows-what-happens-when-ai-agents-work-together</link>
+      <guid isPermaLink="true">https://www.marketplace.org/episode/2026/09/10/the-hugging-face-hack-shows-what-happens-when-ai-agents-work-together</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aeug3w4mdhnc2wv73hmrh36v/bafkreibyz4llyholyfsl5o637limqpp7mf3cpovhikcpn7mtqrcbbelirm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Nate Soares, president of the Machine Intelligence Research Institute, says the attack presents a narrow window for humans to act.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 105 · likes: 417&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 06:07:24 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aeug3w4mdhnc2wv73hmrh36v/bafkreibyz4llyholyfsl5o637limqpp7mf3cpovhikcpn7mtqrcbbelirm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aeug3w4mdhnc2wv73hmrh36v/bafkreibyz4llyholyfsl5o637limqpp7mf3cpovhikcpn7mtqrcbbelirm" type="image/jpeg" length="0" />
+      <source url="https://www.marketplace.org">www.marketplace.org</source>
+    </item>
     <item>
       <title>'Tell Everyone:' A Man Died by Suicide After Talking to ChatGPT. His Former Partner Wants to Warn the World About AI</title>
       <link>https://www.404media.co/austin-gordon-chatgpt-suicide-openai-lawsuit/</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uj2g526vwfe3qnpuskjexeyp/bafkreia4mfbzulerefvmm4rsqgoqslaucmlptfgydovvwujmwmwdahpz6i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uj2g526vwfe3qnpuskjexeyp/bafkreia4mfbzulerefvmm4rsqgoqslaucmlptfgydovvwujmwmwdahpz6i" type="image/jpeg" length="0" />
       <source url="https://www.law.berkeley.edu">www.law.berkeley.edu</source>
-    </item>
-    <item>
-      <title>Zuckerberg’s AI Manifesto Lost it at Compute</title>
-      <link>https://techpolicy.press/zuckerbergs-ai-manifesto-lost-it-at-compute</link>
-      <guid isPermaLink="true">https://techpolicy.press/zuckerbergs-ai-manifesto-lost-it-at-compute</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreibwethbzse6ts5vqvxoa3bt3uh4yjh6ckd63zll7dgsf7h46fuop4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;It&amp;#x27;s worth asking what it would take to actually democratize AI at each layer of the stack, writes Ellen P. Goodman, starting with compute.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 23 · likes: 35&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 06:06:45 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreibwethbzse6ts5vqvxoa3bt3uh4yjh6ckd63zll7dgsf7h46fuop4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreibwethbzse6ts5vqvxoa3bt3uh4yjh6ckd63zll7dgsf7h46fuop4" type="image/jpeg" length="0" />
-      <source url="https://techpolicy.press">techpolicy.press</source>
     </item>
   </channel>
 </rss>
