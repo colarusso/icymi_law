@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 17:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:55:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Create Authority Pages That Beat Competitors On Google And ChatGPT</title>
+      <link>https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/</guid>
+      <description>Your law firm’s ‘authority’ pages are there to showcase your expertise and establish your practice as a source of reliable information. The post How To Create Authority Pages That Beat Competitors On Google And ChatGPT appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 22:15:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses</title>
       <link>https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/</link>
@@ -4346,14 +4354,6 @@
       <description>by guest blogger Kieran McCarthy I recently described the district court’s decision in the case of Amazon v. Perplexity as “a shockingly poor effort to grapple with CFAA applicability to agentic AI technology.” The Ninth Circuit appears to have agreed.... The post Ninth Circuit Lifts Restrictions on Agentic AI Accessing Amazon appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Thu, 06 Aug 2026 19:15:02 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>How SmartAdvocate™ Manages A Case From First Call To Final Settlement</title>
-      <link>https://abovethelaw.com/2026/08/how-smartadvocate-manages-a-case-from-first-call-to-final-settlement/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/how-smartadvocate-manages-a-case-from-first-call-to-final-settlement/</guid>
-      <description>[Sponsored] An in-depth look at ways your firm can be more efficient and organized. The post How SmartAdvocate™ Manages A Case From First Call To Final Settlement appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 17:48:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
