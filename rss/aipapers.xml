@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:09:40 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:09:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outside Helpers, Rulemaking, and the Presumption of Regularity</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442399</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442399</guid>
+      <description>It is no longer hypothetical: U.S. government agencies are using AI to write regulations. We therefore must grapple with the intersection of the Administrati&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 6 · likes: 15&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery</title>
+      <link>https://arxiv.org/abs/2609.09647</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.09647</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Agentic systems are rapidly moving to production, where they read untrusted inputs, call tools with real permissions, and act autonomously, expanding the security surface beyond chat-only models. Yet standard evaluations remain single-turn and fail to capture multi-step agent vulnerabilities. We pr…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Algorethics and Neuro-Symbolic Military AI: Ontologies, "Hellscapes," Just War, and Silicon Valley</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6434818</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6434818</guid>
+      <description>Algorethics, as described in the Rome Call for AI Ethics (2020) and related documents, is an overarching field that includes algorithmic accountability, s&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>AI Corporate Governance and Ben &amp; Jerry's Risk</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6697999</link>
@@ -459,36 +485,6 @@
       <pubDate>Tue, 25 Aug 2026 06:10:12 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>A Survey on Large Language Model based Autonomous Agents</title>
-      <link>https://arxiv.org/abs/2308.11432</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2308.11432</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xc2swhevksyio7rh3yablmxs/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Autonomous agents have long been a prominent research focus in both academic and industry communities. Previous research in this field often focuses on training agents with limited knowledge within is...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:10:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xc2swhevksyio7rh3yablmxs/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xc2swhevksyio7rh3yablmxs/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Affective Context Amplifies Sycophancy in LLM Responses</title>
-      <link>https://arxiv.org/abs/2608.21242</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.21242</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mdade7fasa2hbcf2ymbvgr5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As conversational companions, large language models (LLMs) often have access to users&amp;#x27; emotional states. We study how this affective context modulates LLM sycophancy in subjective, evaluative interact...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:10:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mdade7fasa2hbcf2ymbvgr5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mdade7fasa2hbcf2ymbvgr5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Intelligence per Watt: Measuring Intelligence Efficiency of Local AI</title>
-      <link>https://arxiv.org/abs/2511.07885</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.07885</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twjze4qqf6fgxz33ct52wlnl/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language model (LLM) queries are predominantly processed by frontier models in centralized cloud infrastructure. Demand growth strains this paradigm faster than providers can scale. Two advances...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 24 · likes: 129&lt;/small&gt;</description>
-      <pubDate>Sat, 22 Aug 2026 06:08:26 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twjze4qqf6fgxz33ct52wlnl/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:twjze4qqf6fgxz33ct52wlnl/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
