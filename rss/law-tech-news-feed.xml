@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:56:18 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Hacks to Bioweapons, Claude Misuse Is Now Everywhere</title>
+      <link>https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/</guid>
+      <description>Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 10:30:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6aa46e54cc5cd3bf9174f66e/master/pass/SecurityRoundUp_09122026_v1-ezgif.com-video-to-gif-converter.gif" medium="image" type="image/gif" />
+      <enclosure url="https://media.wired.com/photos/6aa46e54cc5cd3bf9174f66e/master/pass/SecurityRoundUp_09122026_v1-ezgif.com-video-to-gif-converter.gif" type="image/gif" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>How To Create Authority Pages That Beat Competitors On Google And ChatGPT</title>
       <link>https://abovethelaw.com/2026/09/how-to-create-authority-pages-that-beat-competitors-on-google-and-chatgpt/</link>
@@ -4346,14 +4356,6 @@
       <description>Recent reports&amp;amp;#160;have&amp;amp;#160;raised alarm&amp;amp;#160;about the use of PatronScan, an ID-checking and face-scanning system, at multiple LGBTQ+ bars in San Francisco’s Castro neighborhood. Much of the attention has focused on reports that the system photographs patrons as they enter venues and questions about whether those images are used for facial recognition. A broader privacy concern also deserves [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 06 Aug 2026 20:28:38 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Ninth Circuit Lifts Restrictions on Agentic AI Accessing Amazon</title>
-      <link>https://blog.ericgoldman.org/archives/2026/08/ninth-circuit-lifts-restrictions-on-agentic-ai-accessing-amazon.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/08/ninth-circuit-lifts-restrictions-on-agentic-ai-accessing-amazon.htm</guid>
-      <description>by guest blogger Kieran McCarthy I recently described the district court’s decision in the case of Amazon v. Perplexity as “a shockingly poor effort to grapple with CFAA applicability to agentic AI technology.” The Ninth Circuit appears to have agreed.... The post Ninth Circuit Lifts Restrictions on Agentic AI Accessing Amazon appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 19:15:02 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
