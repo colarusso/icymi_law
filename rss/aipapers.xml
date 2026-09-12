@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:09:47 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 06:09:31 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling</title>
+      <link>https://arxiv.org/abs/2609.02482</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.02482</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stchfaogqwvezfveuwr253ll/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In this paper, we analyze how Large Language Models (LLMs) employ worldbuilding strategies, focusing on setting as one measurable dimension of storyworld construction. We compare 1,000 AI-generated st...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 7 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 06:09:31 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stchfaogqwvezfveuwr253ll/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stchfaogqwvezfveuwr253ll/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>More than half of recent astronomy papers are written with language-model assistance</title>
+      <link>https://arxiv.org/abs/2609.10664</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10664</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amp2btyek6kcpb4glek3v5kb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Language models leave a distinctive vocabulary in the prose they help write, and we measure how much of the astronomy literature now carries it. From the full text of 207,111 astro-ph papers spanning ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 06:09:31 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amp2btyek6kcpb4glek3v5kb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amp2btyek6kcpb4glek3v5kb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Calibrating AI automation and its labor market impacts</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7448419</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7448419</guid>
+      <description>We are early in the latest AI technological revolution, and there are vastly different projections circulating about the impact of AI on the labor market; most&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 11&lt;/small&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 06:09:31 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Outside Helpers, Rulemaking, and the Presumption of Regularity</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442399</link>
@@ -455,36 +483,6 @@
       <pubDate>Wed, 26 Aug 2026 06:10:48 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook</title>
-      <link>https://arxiv.org/abs/2604.02501</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.02501</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Electrocardiogram (ECG) foundation models represent a paradigm shift from task-specific pipelines to generalizable architectures pre-trained on large-scale unlabeled waveform data. This survey present...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 06:10:48 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Testing and Evaluation of Agentic AI Systems In Military Command and Control</title>
-      <link>https://arxiv.org/abs/2608.20597</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.20597</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:giyddotu4zqjsqb6wdqijys5/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Agentic AI systems are being procured for military command and control (C2) under public commitments to rigorous testing and human oversight. Whether such commitments can be discharged depends on their supporting assurance case, which requires three elements: claims specifying the conditions for acceptability, evidence bearing on those claims, and an argument connecting the two. Through a structured review of 240 documented Testing and Evaluation (T&amp;amp;E;) practices, spanning eight evaluation dimensions and three lifecycle stages, we identify eight assumptions that established methods make about their test article, grouped into four clusters: system specifiability, stability, composability, and supervisability. Agentic properties weaken all eight assumptions. This erosion affects the argument connecting evidence to claims, not the claims or evidence themselves. As a result, test results may satisfy process requirements, but they do not warrant the inference from tested to fielded behavior. We derive ten assurance claims for the first three assumption clusters and assess whether current and emerging methods can address each, mapping operational consequences through five C2 scenarios. Supervisability is identified but not assessed here, since evidencing it depends on system stability results and human factors T&amp;amp;E; methods beyond the present scope. The documented record does not support broad claims about system-level behavior, but narrower claims remain recoverable in principle, contingent on mature methods: bounded mission envelopes, trajectory-grounded correctness, executable runtime constraints, and characterized run-to-run variance. Part of the evidentiary burden shifts into deployment, making the determination to field a continuing act. Where evidence cannot be generated, the residual uncertainty can be governed through defined expiry conditions and assigned ownership.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 7 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:10:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:giyddotu4zqjsqb6wdqijys5/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:giyddotu4zqjsqb6wdqijys5/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Sleep-time Compute: Beyond Inference Scaling at Test-time</title>
-      <link>https://arxiv.org/abs/2504.13171</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2504.13171</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Scaling test-time compute has emerged as a key ingredient for enabling large language models (LLMs) to solve difficult problems, but comes with high latency and inference cost. We introduce sleep-time...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:10:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5j3itjwkgio4elgmgtxqgtjb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
