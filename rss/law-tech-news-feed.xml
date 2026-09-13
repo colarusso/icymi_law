@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI IPO will not happen in 2026 amid AI safety fears, Sam Altman says</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/12/openai-delays-ipo-sam-altman-ai-safety-concerns</guid>
+      <description>OpenAI’s decision comes after dire warnings about rapidly progressing technology and lawmakers’ calls for new rulesOpenAI will not go public in 2026, Sam Altman said in a Fortune interview published on Saturday, citing safety concerns over artificial intelligence.“I actually think that, given everything happening with safety, right now would be an ill-advised moment to go public, and we don’t feel pressure on that,” Altman, OpenAI’s CEO, told Fortune. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 12 Sep 2026 23:00:37 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/340_0_4590_3673/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dba004de17ce9964c95a6dffb68ec482" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/340_0_4590_3673/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dba004de17ce9964c95a6dffb68ec482" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Revolut confirms customer data breach through fake government requests</title>
       <link>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</link>
@@ -4348,14 +4358,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d2/live/d094fb50-91ec-11f1-a12f-8b7b5ef58f56.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d2/live/d094fb50-91ec-11f1-a12f-8b7b5ef58f56.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>NetDocuments For Plaintiffs’ Lawyers: It’s Pretty Cool</title>
-      <link>https://abovethelaw.com/2026/08/netdocuments-for-plaintiffs-lawyers-its-pretty-cool/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/netdocuments-for-plaintiffs-lawyers-its-pretty-cool/</guid>
-      <description>It will be interesting to see where NetDocuments goes in the plaintiffs’ market The post NetDocuments For Plaintiffs’ Lawyers: It’s Pretty Cool appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 06 Aug 2026 22:15:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
