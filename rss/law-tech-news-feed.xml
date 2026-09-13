@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 14:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US schools and police warn about viral ‘Cat in the Hat’ trend after teens’ arrests</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings</guid>
+      <description>Disturbing and AI-generated versions of Dr Seuss character have been used to threaten schools and communitiesSchools and law enforcement authorities in the US are issuing warnings against a viral “Cat in the Hat” social media trend in which disturbing or AI-generated versions of the Dr Seuss character are used to threaten students, schools and communities.The latest warnings come as safety concerns increase and several teenagers have been arrested or charged over posts connected to the trend. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 13 Sep 2026 19:15:57 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/2adfb85c17a930fac6fbc1e5aa37fe85d6cce230/253_31_1792_1433/master/1792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2877b500cdcd5b3f2fa6138c420c3e98" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/2adfb85c17a930fac6fbc1e5aa37fe85d6cce230/253_31_1792_1433/master/1792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2877b500cdcd5b3f2fa6138c420c3e98" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Waymo pulls over, calls cops on riders with a ghost gun</title>
       <link>https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun</link>
@@ -4345,16 +4355,6 @@
       <pubDate>Fri, 07 Aug 2026 04:00:08 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/6fa962ba5b264bdc64480cf2ece46094a5674098/0_0_5845_4680/master/5845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada00b39153fc33bcd7beaed0e1325d4" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/6fa962ba5b264bdc64480cf2ece46094a5674098/0_0_5845_4680/master/5845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ada00b39153fc33bcd7beaed0e1325d4" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>New Mexico court orders Meta to pay $567m over harms to children’s mental health</title>
-      <link>https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta</guid>
-      <description>Ruling comes as part of second phase of landmark trial that found social media company enabled harm against usersA New Mexico court has ordered Meta, the parent company of Facebook, to pay $567m into a fund aimed at redressing adverse mental health impacts from the social media giant’s platforms.The Thursday ruling comes as a part of the second phase of a landmark trial the social media giant lost in March. At the time, a jury found that the company knowingly harmed children’s mental health and concealed what it knew about child sexual exploitation on its platforms, and imposed the maximum penalty: a $375m fine. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 07 Aug 2026 02:24:50 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc0791b85992062fd71c41a285d15916" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc0791b85992062fd71c41a285d15916" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
