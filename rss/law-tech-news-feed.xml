@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 09:56:40 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morgan &amp; Morgan Commits to $1 Billion For Legal Tech + AI</title>
+      <link>https://www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/14/morgan-morgan-commits-to-1-billion-for-legal-tech-ai/</guid>
+      <description>Morgan &amp;amp;#38; Morgan, the largest plaintiff law firm in America, has announced it will spend at least $1 billion on legal tech and AI over ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 14:01:33 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>AI is supercharging money scams – here’s what you can do to protect yourself</title>
       <link>https://theconversation.com/ai-is-supercharging-money-scams-heres-what-you-can-do-to-protect-yourself-291326</link>
@@ -4346,14 +4354,6 @@
       <description>Legendary startup incubator and investor, Y Combinator, has accepted four legal tech companies into its summer 2026 cohort. Artificial Lawyer takes a look: Perceptron ML ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 10 Aug 2026 06:55:32 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Funniest/Most Insightful Comments Of The Week At Techdirt</title>
-      <link>https://www.techdirt.com/2026/08/09/funniest-most-insightful-comments-of-the-week-at-techdirt-220/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/09/funniest-most-insightful-comments-of-the-week-at-techdirt-220/</guid>
-      <description>This week, our first place winner on the insightful side is Thad with a comment about Capital One&amp;amp;#8217;s stated reasons for shutting down Trump accounts: Would be nice to have some disclosure laws so that if a presidential candidate’s had his bank accounts closed for money laundering, we don’t learn about it years later in [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sun, 09 Aug 2026 19:00:00 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
