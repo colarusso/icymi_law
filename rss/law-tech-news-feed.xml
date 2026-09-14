@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Senate must reject the Clarity Act’s ethics charade</title>
+      <link>https://www.citationneeded.news/clarity-act-ethics-charade/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/clarity-act-ethics-charade/</guid>
+      <description>The supposedly “unprecedented” ethics restrictions exempt Trump’s crypto businesses and leave enforcement to his loyalists&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 22:42:33 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/09/Cynthia_Lummis_-6266107864-.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/09/Cynthia_Lummis_-6266107864-.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
     <item>
       <title>OpenAI stuck fighting Musk antitrust suit after Apple finds a way out</title>
       <link>https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</link>
@@ -4352,14 +4362,6 @@
       <description>The future isn&amp;#x27;t about redlining faster. The post Cherryn-Paige Bissett Says AI Didn&amp;amp;#8217;t Replace Lawyers. It Repriced Judgment. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 10 Aug 2026 15:32:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Archer buys former rival Wisk Aero</title>
-      <link>https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/</guid>
-      <description>The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 15:09:39 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
