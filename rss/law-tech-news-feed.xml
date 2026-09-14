@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI stuck fighting Musk antitrust suit after Apple finds a way out</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</guid>
+      <description>Musk stops attacking Apple over ChatGPT integration but not OpenAI.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 19:45:13 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Online hate researcher keeps hammering X despite deportation threat</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/</guid>
+      <description>US won’t back down from fight to deport technology researchers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 18:24:09 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>The AI Workplace Gender Gap In The Legal Profession</title>
       <link>https://abovethelaw.com/2026/09/the-ai-workplace-gender-gap-in-the-legal-profession/</link>
@@ -4340,22 +4360,6 @@
       <description>The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 10 Aug 2026 15:09:39 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain</title>
-      <link>https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/</link>
-      <guid isPermaLink="true">https://medcitynews.com/2026/08/moderna-flu-vaccine-fda-approval-mflusiva-acip-cdc-mrna/</guid>
-      <description>A recommendation from a Centers for Disease Control and Prevention advisory committee is key for payer coverage, and that committee has not met all year due to ongoing litigation. The post Moderna Gets FDA Approval For mRNA Flu Vaccine, But CDC Input Still Uncertain appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 14:04:00 +0000</pubDate>
-      <source url="https://medcitynews.com">medcitynews.com</source>
-    </item>
-    <item>
-      <title>Harbor Seeks To Counter General LLM FDEs</title>
-      <link>https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/10/harbor-seeks-to-counter-general-llm-fdes/</guid>
-      <description>Legal tech consultancy Harbor has launched ‘Deploy’ for legal AI needs, which will see them ‘embed specialist teams, including forward-deployed engineers (FDE), inside clients’. They ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 13:00:43 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
