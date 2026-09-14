@@ -5,8 +5,76 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:08:26 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:07:34 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901031</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901031</guid>
+      <description>How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance i&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce</title>
+      <link>https://arxiv.org/abs/2609.11190</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.11190</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI shopping assistants increasingly redirect consumer discovery, creating an urgent need for tools that support seller-side competitive decision-making. We present a multi-agent AI system that automates competitive visibility measurement and root cause diagnosis in LLM-mediated ecommerce. The syste…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Governing AI Research Through Peer Review: A Mixed-Methods Study of the Longitudinal Effects of Ethics Flags Across Resubmissions</title>
+      <link>https://arxiv.org/abs/2609.10740</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.10740</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihw4c4n67z52hvtz3yphtzufnpejjuivcxymulg52ctyn754ownae" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Governing AI Research Through Peer Review: A Mixed-Methods Study of the Longitudinal Effects of Ethics Flags Across Resubmissions&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihw4c4n67z52hvtz3yphtzufnpejjuivcxymulg52ctyn754ownae" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihw4c4n67z52hvtz3yphtzufnpejjuivcxymulg52ctyn754ownae" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI</title>
+      <link>https://arxiv.org/abs/2609.11737v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.11737v1</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Collective intelligence depends not only on the capabilities of individual members, but also on how those members are organized. Yet artificial multi-agent systems are typically assembled using fixed&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment</title>
+      <link>https://arxiv.org/abs/2609.11234</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.11234</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are increasingly used in peer review at major AI conferences, yet novelty remains a persistent weak point. Existing benchmarks assess novelty as a single holistic score, making it difficult to diagnose which dimension a model misjudges or whether its evidence is faithfu…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Geospatial AI, Dataverse Metadata, and the Study of Place-Based Government</title>
+      <link>https://arxiv.org/abs/2609.11674</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.11674</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Harvard Dataverse hosts over 150,000 research datasets, but the geographic information those datasets carry is entered as free text by depositors and has never been assembled into a searchable structure. We construct a knowledge graph from the repository&amp;#x27;s public data and metadata, organizing 102,6…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration</title>
+      <link>https://arxiv.org/abs/2609.12464</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.12464</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As enterprises modernize legacy monolithic systems to microservices, Large Language Models (LLMs) are heavily utilized for automated code translation. However, traditional vector-based Retrieval-Augmented Generation (Standard RAG) struggles to capture topological relationships. It fetches isolated …&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling</title>
       <link>https://arxiv.org/abs/2609.02482</link>
@@ -413,76 +481,6 @@
       <pubDate>Sat, 29 Aug 2026 06:08:36 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiesznzjnw45szenxelkdkqfc7a7nflzld3yfcw4sfcrmgayhwsoma" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiesznzjnw45szenxelkdkqfc7a7nflzld3yfcw4sfcrmgayhwsoma" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>An Inverse Lyth Bound for Non-Attractor Inflation</title>
-      <link>https://arxiv.org/abs/2608.25911</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.25911</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;I present a novel physics result generated entirely autonomously by ChatGPT 5.6 Sol. The Lyth bound relates an observable primordial tensor amplitude to a lower limit on the field excursion during sin...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 0 · likes: 23&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 06:15:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzywgiiou7cx63uddiru6m2o/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Affective Context Amplifies Sycophancy in LLM Responses</title>
-      <link>https://arxiv.org/abs/2608.21242v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.21242v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oegsqoq3ofq3eguaexot5jfu/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As conversational companions, large language models (LLMs) often have access to users&amp;#x27; emotional states. We study how this affective context modulates LLM sycophancy in subjective, evaluative interact...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 1 · likes: 14&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oegsqoq3ofq3eguaexot5jfu/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oegsqoq3ofq3eguaexot5jfu/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types</title>
-      <link>https://arxiv.org/abs/2604.09544</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.09544</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifp6z5glmptjoh76j6wzcd36myzdqbuwohzs5abdwvtuhtunpiuy4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 2 · likes: 8&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifp6z5glmptjoh76j6wzcd36myzdqbuwohzs5abdwvtuhtunpiuy4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifp6z5glmptjoh76j6wzcd36myzdqbuwohzs5abdwvtuhtunpiuy4" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Verbalizing LLMs' assumptions to explain and control sycophancy</title>
-      <link>https://arxiv.org/abs/2604.03058</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.03058</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiemsqd3tprnobcci4nr37y7kegqvetvdvwjn6ggntyd32grjqou6q" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Verbalizing LLMs&amp;#x27; assumptions to explain and control sycophancy&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiemsqd3tprnobcci4nr37y7kegqvetvdvwjn6ggntyd32grjqou6q" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiemsqd3tprnobcci4nr37y7kegqvetvdvwjn6ggntyd32grjqou6q" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Training Proactive and Personalized LLM Agents</title>
-      <link>https://arxiv.org/abs/2511.02208</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2511.02208</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5mze2fkeikzkncxoi5my3lhu4wge6qnoxllra6qvrhpuonkpjci" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Training Proactive and Personalized LLM Agents&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5mze2fkeikzkncxoi5my3lhu4wge6qnoxllra6qvrhpuonkpjci" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreic5mze2fkeikzkncxoi5my3lhu4wge6qnoxllra6qvrhpuonkpjci" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI Agents Push Humans Out of the Loop</title>
-      <link>https://arxiv.org/abs/2608.23642</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.23642</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xzp2wk3d546vecgjxj7n47g/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI agents pose significant risks as they are granted increasing autonomy. A commonly proposed solution is human oversight and keeping a &amp;#x27;&amp;#x27;human in the loop&amp;#x27;&amp;#x27;, but this is not a simple solution: Not on...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 06:12:01 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xzp2wk3d546vecgjxj7n47g/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2xzp2wk3d546vecgjxj7n47g/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>[2608.16884v1] Improving the matrix multiplication exponent with modern optimization and AlphaEvolve</title>
-      <link>https://arxiv.org/abs/2608.16884v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.16884v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A new paper details advancements in optimizing matrix multiplication, achieving ω &amp;lt; 2.371177. The authors reformulate the optimization problem and integrate machine learning, specifically AlphaEvolve,&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 06:10:48 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreiasabogq6rw6qq6oxrg4p7c4lrstbfn7w2cp6wgio2qqvx4akht5e" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
