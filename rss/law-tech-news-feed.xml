@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:56:08 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI For New Jersey Public Defenders: Solving The A2J Problem One Bite At A Time</title>
+      <link>https://abovethelaw.com/2026/09/ai-for-new-jersey-public-defenders-solving-the-a2j-problem-one-bite-at-a-time/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/ai-for-new-jersey-public-defenders-solving-the-a2j-problem-one-bite-at-a-time/</guid>
+      <description>The NJ Office of the Public Defender partnered with a think tank and a prestigious university to get the AI program it needed. The post AI For New Jersey Public Defenders: Solving The A2J Problem One Bite At A Time appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>‘Counsel, Do You Watch The News?’: Lawyer Gets Benchslapped Over AI Hallucinations In Murder Appeal</title>
+      <link>https://abovethelaw.com/2026/09/counsel-do-you-watch-the-news-lawyer-gets-benchslapped-over-ai-hallucinations-in-murder-appeal/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/counsel-do-you-watch-the-news-lawyer-gets-benchslapped-over-ai-hallucinations-in-murder-appeal/</guid>
+      <description>The New Mexico Supreme Court imposed a fine and referred the attorney for disciplinary investigation. The post ‘Counsel, Do You Watch The News?’: Lawyer Gets Benchslapped Over AI Hallucinations In Murder Appeal appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 17:01:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>New York Seizes a Dozen Celebrity Deepfake Websites</title>
       <link>https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/</link>
@@ -4342,22 +4358,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/07/multimedia/xp-flock-explainer-hwlp/xp-flock-explainer-hwlp-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/07/multimedia/xp-flock-explainer-hwlp/xp-flock-explainer-hwlp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>After His Own Trademark Fight Revealed Gaps in Trademark Tools, This Fintech Founder Built His Own</title>
-      <link>https://www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/after-his-own-trademark-fight-revealed-gaps-in-trademark-tools-this-fintech-founder-built-his-own.html</guid>
-      <description>Howard Katzenberg’s idea for a trademark software company began with a trademark fight of his own. Today, he is formally launching that software, called GleanMark, a U.S. trademark research and workflow platform for lawyers. The platform combines free USPTO search with AI-driven clearance analysis, office-action response drafting, automated deadline tracking, and portfolio monitoring, all built [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 12:02:26 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>The first rival Android app store just arrived in the US Play Store</title>
-      <link>https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games</guid>
-      <description>Following the latest twist in Google&amp;#x27;s legal battles with Epic, US Android users are now able to open Google&amp;#x27;s Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile games, is the first to become available. Third-party app stores have always been available on Android, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 11:30:32 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
