@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:56:10 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York Seizes a Dozen Celebrity Deepfake Websites</title>
+      <link>https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/</guid>
+      <description>In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney’s Office has seized 12 sites that collectively targeted around 1,200 victims.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 16:50:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6aa81a44054ce52476eda4d7/master/pass/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6aa81a44054ce52476eda4d7/master/pass/Security_New%20York%20Seizes%20More%20Than%20a%20Dozen%20Celebrity%20Deepfake%20Websites_v1.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>Which AI Product Is Most Popular Among Law Firms? Findings of ILTA’s Tech Survey May Surprise You</title>
+      <link>https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/which-ai-product-is-most-popular-among-law-firms-findings-of-iltas-tech-survey-may-surprise-you.html</guid>
+      <description>At the recent conference of the International Legal Technology Association, the big legal AI vendors CoCounsel, Harvey and Legora had outsized presences, with ginormous booths in the exhibit hall, major-name performers at their parties, and advertising so ubiquitous it even popped up in people&amp;amp;#8217;s Uber apps. (See: Have We Reached ‘Peak Legal Tech?’ Sure Felt [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 14 Sep 2026 16:45:18 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Legal AI Needs An Escalation Layer</title>
       <link>https://abovethelaw.com/2026/09/legal-ai-needs-an-escalation-layer/</link>
@@ -4340,22 +4358,6 @@
       <description>Following the latest twist in Google&amp;#x27;s legal battles with Epic, US Android users are now able to open Google&amp;#x27;s Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile games, is the first to become available. Third-party app stores have always been available on Android, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 10 Aug 2026 11:30:32 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Must ‘Claude For Legal’ Head Be A Lawyer?</title>
-      <link>https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/10/must-claude-for-legal-head-be-a-lawyer/</guid>
-      <description>Some have criticised Anthropic’s choice of Robert Mahari as its ‘Head of Claude for Legal’ for not having worked long-term as a lawyer. But, does ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 09:45:18 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Bird &amp; Bird Hires Big Four Transformation Team From EY</title>
-      <link>https://www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/10/bird-bird-hires-big-four-transformation-team-from-ey/</guid>
-      <description>International law firm Bird &amp;amp;#38; Bird has hired a legal transformation team from Big Four firm EY in the shape of Shahin Baghaei, along with: ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 08:55:35 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
