@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 10:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nitter and XCancel are dead (again) after X’s latest legal actions</title>
+      <link>https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/</guid>
+      <description>The privacy-friendly services for viewing X posts without an account have gone dark again after X&amp;#x27;s escalated legal action.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 15 Sep 2026 15:49:18 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Democrats say supreme court rejection of Trump mail ballot plans will ensure ‘safe, secure and accurate elections’ – live</title>
       <link>https://www.theguardian.com/us-news/live/2026/sep/15/supreme-court-mail-ballot-restrictions-midterm-elections-trump-ai-politics-latest-news-updates</link>
@@ -4360,14 +4368,6 @@
       <media:content url="https://i.guim.co.uk/img/media/a0a85c92c66d043112ebdf2fc0fb7dde3a5b1fe7/754_377_3212_2569/master/3212.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f579c816d438ae04357fb91e22464f4" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/a0a85c92c66d043112ebdf2fc0fb7dde3a5b1fe7/754_377_3212_2569/master/3212.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f579c816d438ae04357fb91e22464f4" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Now Rippling is counter suing tiny startup Runlayer</title>
-      <link>https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</guid>
-      <description>This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It&amp;#x27;s a seller and buyer-beware market warning.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 22:26:54 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
