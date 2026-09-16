@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:09:06 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:09:37 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not Even Wrong 2: An Audit of Public AGI Prediction, 1950-2026</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7456700</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7456700</guid>
+      <description>Public predictions of the arrival of artificial general intelligence, the technological Singularity, and human extinction caused by AI shape investment, policy,&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 06:09:37 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms</title>
       <link>https://arxiv.org/abs/2609.04170v1</link>
@@ -471,16 +479,6 @@
       <pubDate>Sun, 30 Aug 2026 06:07:49 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6qvfkbrohedqy3dt6k5mdv6/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a6qvfkbrohedqy3dt6k5mdv6/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Lower bound on the thickness of broadband dielectric mirrors</title>
-      <link>https://arxiv.org/abs/2608.26633</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26633</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abkp4sglznvkptyncrltve6t/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We present a lower bound on the total physical thickness of a lossless, non-dispersive dielectric mirror for a given minimum reflectance across a wavelength band. The bound is based on a causality-bas...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 06:07:49 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abkp4sglznvkptyncrltve6t/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:abkp4sglznvkptyncrltve6t/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
