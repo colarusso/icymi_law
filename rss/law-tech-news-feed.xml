@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On LawNext: Alex Su, Newly Named President of Latitude Legal, On Why AI Is Driving Demand for Flex Talent</title>
+      <link>https://www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/on-lawnext-alex-su-newly-named-president-of-latitude-legal-on-why-ai-is-driving-demand-for-flex-talent.html</guid>
+      <description>Call it Alex Su, redux. We do not usually have the same guest on LawNext twice in the same year, but there is good reason to have Alex back, as he has just been named president of Latitude Legal, the flexible legal staffing company. Last February, Alex and I recorded a live episode of this podcast over [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 18:57:44 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>House speaker calls early recess before midterms amid AI regulation frenzy</title>
       <link>https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth</link>
@@ -4372,14 +4380,6 @@
       <description>Jeremy Bearer-Friend &amp;amp;#38; Sarah Polcz, Sharing the Algorithm: The Tax Solution to Generative AI, 17 Colum. J. Tax L. 1 (2025). George S. Georgiev Most legal responses to generative artificial intelligence ask familiar questions. Who may copy? Who may sue? Who should regulate? Who should pay? Jeremy Bearer-Friend and Sarah Polcz ask a more basic, and more corporate, question: who should own AI? Their answer: the public should own a piece. Sharing the Algorithm sits comfortably in tax law, but corporate law [...] The post Owning the AI Revolution appeared first on Corporate Law. The post Owning the AI Revolution appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
       <pubDate>Wed, 12 Aug 2026 10:30:22 +0000</pubDate>
       <source url="https://feedpress.me">feedpress.me</source>
-    </item>
-    <item>
-      <title>The L Suite: Inhouse Community + Legal AI</title>
-      <link>https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/</guid>
-      <description>This week’s special AL TV interview is with L Suite co-founders Greg Raiten and Kiran Lingam. We explore, among other topics, how this inhouse community ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:41:51 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
