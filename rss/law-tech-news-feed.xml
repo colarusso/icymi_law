@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House speaker calls early recess before midterms amid AI regulation frenzy</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/16/mike-johnson-cancels-house-vote-hegseth</guid>
+      <description>Mike Johnson cancels votes on Thursday, meaning House members will avoid voting on impeaching Pete HegsethUS politics live – latest updatesThe Republican speaker of the House, Mike Johnson, announced on Wednesday that he would again cancel votes scheduled for Thursday, sending lawmakers home one day early ahead of the midterm election recess.The latest change to the legislative schedule means House members will avoid voting on Republican Thomas Massie’s resolution to impeach the defense secretary, Pete Hegseth, and comes amid a frenzied attempt to propose legislation on artificial intelligence. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 16 Sep 2026 17:10:42 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/cb5731324e1ba2cb93c9867cfb3153e1559a69a2/776_498_3946_3157/master/3946.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dea900c817bacf1496d21c378fe5259" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/cb5731324e1ba2cb93c9867cfb3153e1559a69a2/776_498_3946_3157/master/3946.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6dea900c817bacf1496d21c378fe5259" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>EFF Welcomes Alexander Macgillivray to its Board of Directors</title>
       <link>https://www.eff.org/deeplinks/2026/09/eff-welcomes-alexander-macgillivray-its-board-directors</link>
@@ -4370,14 +4380,6 @@
       <description>This week’s special AL TV interview is with L Suite co-founders Greg Raiten and Kiran Lingam. We explore, among other topics, how this inhouse community ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 12 Aug 2026 06:41:51 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Someone Is Keeping Up With Milbank — See Also</title>
-      <link>https://abovethelaw.com/2026/08/someone-is-keeping-up-with-milbank-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/someone-is-keeping-up-with-milbank-see-also/</guid>
-      <description>Keeping That Raise On Ice: Ice Miller increases associate pay in New York, but not until 2027. Blame It On The AI: Company tried to pin labor law violation on ChatGPT. The Tech Isn&amp;#x27;t The Key: Legal AI needs to build a winning user experience if it&amp;#x27;s going to capture Biglaw. Everyone In MAGA Land Has Notes For Jeanine Pirro This Week: &amp;#x27;Never mention her friggin&amp;#x27; name to me,&amp;#x27; fumed the man demanding she fire a prosecutor. The post Someone Is Keeping Up With Milbank &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 23:02:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
