@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:56:24 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Shows Off Cloud Legal AI Helpers + More</title>
+      <link>https://www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/17/google-shows-off-cloud-legal-ai-helpers-more/</guid>
+      <description>Yesterday, &amp;amp;#8216;Google Legal&amp;amp;#8217; gave an inside look at how Gemini Enterprise can be deployed for lawyers, from everyday prompting, to NotebookLM use, to custom app ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 06:35:05 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>How the Meta Settlement Silences Youth Activism</title>
       <link>https://www.eff.org/deeplinks/2026/09/meta-settlement-yet-another-example-online-youth-organizing-under-threat</link>
@@ -4380,14 +4388,6 @@
       <description>Relativity today announced Relativity claiR, a conversational AI interface that lets lawyers ask plain-language questions across an entire RelativityOne matter and get back answers with citations to the underlying record. Relativity CEO Phil Saunders calls it a fundamentally new way for lawyers to get straight to the answers in their most consequential legal data. “Conversational [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Wed, 12 Aug 2026 14:00:12 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Brendan Carr is one firing away from an unchecked FCC</title>
-      <link>https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum</guid>
-      <description>President Donald Trump already holds a Republican majority in the agency tasked with regulating America&amp;#x27;s communications systems. But with a new nomination to the Federal Communications Commission, he could move to shut out opposing voices altogether - albeit at a legal risk. The FCC is currently composed of two Republicans and one Democrat - Republican [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 13:31:19 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
