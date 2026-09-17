@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 10:55:55 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your robotaxi might be a narc</title>
+      <link>https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance</guid>
+      <description>In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected &amp;quot;a violation of our terms of service involving a firearm,&amp;quot; pulled the car over, and alerted emergency services, according to the Los Angeles Times. Police arrested the passengers after [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Your robotic vacuum is a witness: What home robots mean for evidence, privacy and the law</title>
       <link>https://theconversation.com/your-robotic-vacuum-is-a-witness-what-home-robots-mean-for-evidence-privacy-and-the-law-291849</link>
@@ -4378,16 +4386,6 @@
       <description>This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 12 Aug 2026 15:18:55 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?</title>
-      <link>https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is</guid>
-      <description>Following Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their botsGet our breaking news email, free app or daily news podcastThe law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it causes harm to someone else, I am responsible for that harm.“Even if I didn’t intend for that to happen, it was foreseeable, and I should be taking responsibility.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 15:00:34 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba4b36e5f2a41b4c016388709d1f7ef" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/master/4874.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ba4b36e5f2a41b4c016388709d1f7ef" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
