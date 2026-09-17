@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry</title>
+      <link>https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html</guid>
+      <description>Newly unsealed court documents show Microsoft employees discussing whether OpenAI was involved in the “largest theft of labor in human history.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 23:16:43 +0000</pubDate>
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>AI Native Law Firms Aren’t Just For Biglaw Lawyers</title>
       <link>https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/</link>
@@ -4376,14 +4384,6 @@
       <description>Neota Logic, which is now going to market as ‘the AI governance layer for legal teams’, has launched an AI orchestration capability which lets lawyers ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 13 Aug 2026 07:24:51 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Not Ready For Prime Time: The Current State Of Legal Ethics And AI</title>
-      <link>https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/12/not-ready-for-prime-time-the-current-state-of-legal-ethics-and-ai/</guid>
-      <description>I&amp;amp;#8217;ve been presenting at UC Law San Francisco Lexlab Law and AI certificate program its past several sessions, as well as some law school classes, on whether lawyers&amp;amp;#8217; use of AI complies with the rules of professional conduct governing how lawyers must comport themselves or risk losing their licenses. The legal industry is keen to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 22:11:59 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
