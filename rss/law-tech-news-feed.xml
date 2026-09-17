@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple will let EU apps use less-alarming tracking-consent screens</title>
+      <link>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</guid>
+      <description>Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 16:09:58 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Meta ordered to remove UK deepfakes as oversight board criticises ‘inadequate’ safeguards</title>
+      <link>https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards</guid>
+      <description>Facebook told it was wrong in leaving up AI-generated videos of a Labour councillor and Muslim campaigner, amid calls to curb fakesMeta’s “supreme court” has ordered the tech company to take down deepfake videos of a UK politician and a young Muslim woman from Facebook and do more to tackle AI-generated fake imagery.A fake video showing a Labour party councillor in Scotland making inflammatory comments about refugees should not have been left up by Facebook, the board said. It also ruled that an AI-generated video of a Muslim campaign volunteer should have been removed after it falsely depicted her offering health advice while carrying out absurd exercises or eating junk food. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 14:43:34 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04523bbe91eb53df6183ee56df64209f" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04523bbe91eb53df6183ee56df64209f" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Your robotaxi might be a narc</title>
       <link>https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance</link>
@@ -4368,24 +4386,6 @@
       <description>This week, LexisNexis announced the opening of its Customer Innovation Lab in New York City — a physical space where legal professionals, LexisNexis engineers, and AI companies such as OpenAI and Amazon Web Services sit in the same room and build legal AI together, in real time. The company is calling it a new model for how legal AI [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Wed, 12 Aug 2026 17:47:36 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Discord ordered to suspend livestreams in Brazil</title>
-      <link>https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Discord told the BBC it was &amp;quot;thoughtfully reviewing&amp;quot; the order by Brazil&amp;#x27;s data protection agency and it was &amp;quot;committed to user safety&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 17:10:31 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da43/live/d62cadd0-966d-11f1-a6eb-474cf36e6c34.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug</title>
-      <link>https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</guid>
-      <description>This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 15:18:55 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
