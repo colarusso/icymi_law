@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Native Law Firms Aren’t Just For Biglaw Lawyers</title>
+      <link>https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/</link>
+      <guid isPermaLink="true">https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/</guid>
+      <description>AI native firms are finally attracting Biglaw attorneys’ attention but the underlying philosophy remains relevant to more traditional solos and smalls. The post AI Native Law Firms Aren’t Just For Biglaw Lawyers appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 20:44:00 +0000</pubDate>
+      <source url="https://www.myshingle.com">www.myshingle.com</source>
+    </item>
+    <item>
+      <title>OpenAI Releases Astra for Law, A GPT-6 Model Tailored for Legal Work, Targeting Large Firms and Tech Vendors</title>
+      <link>https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/openai-releases-astra-for-law-a-gpt-6-model-configured-for-legal-work.html</guid>
+      <description>Calling it the beginning of its long-term investment in law, ChatGPT developer OpenAI today released Astra for Law, a version of its latest model, GPT-6 Astra, configured for legal work, including a dedicated legal search index and custom instructions for legal analysis and writing. &amp;amp;#8220;Today, we’re introducing Astra for Law: a new foundation for law [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 20:00:31 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
       <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
@@ -4368,26 +4384,6 @@
       <description>I&amp;amp;#8217;ve been presenting at UC Law San Francisco Lexlab Law and AI certificate program its past several sessions, as well as some law school classes, on whether lawyers&amp;amp;#8217; use of AI complies with the rules of professional conduct governing how lawyers must comport themselves or risk losing their licenses. The legal industry is keen to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 12 Aug 2026 22:11:59 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Trump sued over "brazen" scheme to sell Truth Social API access for $100K a month</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/</guid>
-      <description>With Truth API, Trump is &amp;quot;selling priority access to news he himself generates.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 20:20:52 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-pointing-1152x648-1786564574.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says</title>
-      <link>https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html</guid>
-      <description>The former Bibb County deputies were arrested this week amid a growing national debate over Flock cameras, which can be found on roads in every state but Alaska.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 20:27:33 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-flockcharges-qcpz/12xp-flockcharges-qcpz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-flockcharges-qcpz/12xp-flockcharges-qcpz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
