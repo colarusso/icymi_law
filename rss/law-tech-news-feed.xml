@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2026 14:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal</title>
+      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</guid>
+      <description>Newly unsealed court filings show Microsoft privately called OpenAI&amp;#x27;s data practices &amp;quot;theft&amp;quot; while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 19:46:08 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>California’s “Addictive Feeds” Law Violates Teens’ First Amendment Rights</title>
+      <link>https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights</guid>
+      <description>A California law that prohibits teens from receiving recommended social media content from other social media users violates their First Amendment rights, EFF argued this week. The case, Meta v. Bonta, challenges SB 976, which requires that teen social media users get their parents’ permission before seeing other users’ recommended speech on their social media feeds. The legal challenge to SB 976 has largely centered on how the law violates social media services’ First Amendment rights to curate user-generated content and present it as they see fit. But the friend-of-of the-court brief EFF filed along with the Center for Democracy &amp;amp;amp; Technology and the Wikimedia Foundation shows that the law violates teen users’ First Amendment rights, too. “SB 976 frustrates young people’s ability to use the internet to its full potential, prohibiting them from relying on tools that disseminate their speech and help them view and interact with other users’ speech,” the brief argues. Recommendation systems have a dual purpose on social media: they help all users discover speech and content by other users, and to get their own speech in front of a wider audience. “SB 976 creates significant, constitutionally violative, burdens on young users’ ability to read and comment on the news, discuss politics, find and share art, share their religious beliefs, or even practice their religion with fellow members of their faith,” the brief argues. “There is simply too much content on services for users to sift through manually, and young users may not know what to search for or even how to find content.” Because SB 976 creates such broad burdens on teens’ ability to distribute and receive speech, it should be struck down on First Amendment grounds. But as EFF’s brief argues, the First Amendment doesn’t stop California and other states from passing laws that help all users, regardless of age, avoid major social media services’ harmful surveillance business models. “One could imagine a law that required services to minimize the amount of data they collect, or limit using more invasive data analysis practices, such as tracking users across multiple services, analyzing keystrokes, and other surveillance-intensive practices,” the brief argues. “Such restrictions likely would serve the state’s aim of protecting all internet users—including minors—and would be more narrowly tailored to addressing the harms those practices cause than SB 976.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 17 Sep 2026 19:43:17 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/youth-3.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/youth-3.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Apple will let EU apps use less-alarming tracking-consent screens</title>
       <link>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</link>
@@ -4370,22 +4388,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-flockcharges-qcpz/12xp-flockcharges-qcpz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-flockcharges-qcpz/12xp-flockcharges-qcpz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Trump Rushes To Stock FCC With Personal Lackeys, Refuses To Seat Dem Commissioners</title>
-      <link>https://www.techdirt.com/2026/08/12/trump-rushes-to-stock-fcc-with-personal-lackeys-refuses-to-seat-dem-commissioners/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/12/trump-rushes-to-stock-fcc-with-personal-lackeys-refuses-to-seat-dem-commissioners/</guid>
-      <description>When Trump FCC Boss Brendan Carr isn&amp;amp;#8217;t trampling free speech or harassing major networks for platforming comedians, he&amp;amp;#8217;s been illegally taking a hatchet to whatever&amp;amp;#8217;s left of media consolidation rules and telecom consumer protection oversight. While he&amp;amp;#8217;s been pretty effective at this, Carr would find it even easier to convene meetings and hold agency votes [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 18:06:48 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>LawNext: LexisNexis CTO Greg Dickason On Building Legal AI In Real Time with Customers in Its New Innovation Lab</title>
-      <link>https://www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/lawnext-lexisnexis-cto-greg-dickason-on-building-legal-ai-in-real-time-with-customers-in-its-new-innovation-lab.html</guid>
-      <description>This week, LexisNexis announced the opening of its Customer Innovation Lab in New York City — a physical space where legal professionals, LexisNexis engineers, and AI companies such as OpenAI and Amazon Web Services sit in the same room and build legal AI together, in real time. The company is calling it a new model for how legal AI [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 17:47:36 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
