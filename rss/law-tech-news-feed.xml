@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 08:56:44 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What AI misunderstands about the Supreme Court</title>
+      <link>https://www.scotusblog.com/2026/09/what-ai-misunderstands-about-the-supreme-court/</link>
+      <guid isPermaLink="true">https://www.scotusblog.com/2026/09/what-ai-misunderstands-about-the-supreme-court/</guid>
+      <description>What AI misunderstands about the Supreme Court&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 13:30:00 +0000</pubDate>
+      <media:content url="https://cdn.sanity.io/images/pito4za5/production/2f5c4b3202b808e54b444bcacd074c30c9651fa4-2048x1360.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/2f5c4b3202b808e54b444bcacd074c30c9651fa4-2048x1360.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
+      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
+    </item>
+    <item>
+      <title>Meta’s Copyright System Is Being Weaponized Against Albanian Protesters</title>
+      <link>https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/</guid>
+      <description>After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 13:00:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>Yesterday Came OpenAI’s Launch Into Legal, Now Come the Litany of Vendor Integrations</title>
       <link>https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html</link>
@@ -4370,24 +4390,6 @@
       <media:content url="https://www.eff.org/files/banner_library/alpr-1.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/alpr-1.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Flock “can’t tech its way out” of the stalker cop problem, experts say</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/</guid>
-      <description>Flock to lock out cops who stalk exes, but agencies can still hide abuse.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 18:10:14 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288946074-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Flock (Again!) Activates A Camera System A Town Had Voted To Shut Down</title>
-      <link>https://www.techdirt.com/2026/08/13/flock-again-activates-a-camera-system-a-town-had-voted-to-shut-down/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/13/flock-again-activates-a-camera-system-a-town-had-voted-to-shut-down/</guid>
-      <description>The easiest way to tell that Flock Safety doesn&amp;amp;#8217;t really care that its massive network of ALPR (automatic license plate reader) cameras is being abused by cops to stalk their exes and harass residents is to judge it by its actions. When confronted with court case after court case detailing these allegations (and those are [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 16:28:21 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
