@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:56:24 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guest Post: The Rise Of The Contracting ‘Stack’</title>
+      <link>https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html</guid>
+      <description>A legal operations professional requested a demo earlier this year with a note that intrigued me. She said that she was going to &amp;amp;#8220;stack&amp;amp;#8221; a CLM solution, and she was looking for the workflow portion (which is what my product, Josef, does). When we met, I dug in further, finding that she&amp;amp;#8217;d piloted three CLM [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:13 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>‘A critical moment’: concern UK is not up to speed in acting on AI risks</title>
       <link>https://www.theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks</link>
@@ -4382,14 +4390,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>‘That is not acceptable’: Judge orders Google to make rival app store installs easier</title>
-      <link>https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier</guid>
-      <description>One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It&amp;#x27;s been nearly three years since a jury unanimously decided [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 21:53:04 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
