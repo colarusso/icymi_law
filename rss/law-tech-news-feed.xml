@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice</title>
+      <link>https://abovethelaw.com/2026/09/lane-kiffin-is-exactly-the-guy-who-uses-chatgpt-for-legal-advice/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/lane-kiffin-is-exactly-the-guy-who-uses-chatgpt-for-legal-advice/</guid>
+      <description>The SEC and the frontier AI labs are running the same broken playbook. The post Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:50:24 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Guest Post: The Rise Of The Contracting ‘Stack’</title>
       <link>https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html</link>
@@ -4380,16 +4388,6 @@
       <description>In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don&amp;#x27;t use the company&amp;#x27;s in-app purchase system. Epic has already responded, saying that Apple&amp;#x27;s request is &amp;quot;far outside of the bounds&amp;quot; of the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 13 Aug 2026 23:13:24 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Judge Affirms Settlement Allowing HPE’s Deal for Juniper</title>
-      <link>https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</guid>
-      <description>States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 22:50:07 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
