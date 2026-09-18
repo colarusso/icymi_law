@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Overhang</title>
+      <link>https://www.oneusefulthing.org/p/the-overhang</link>
+      <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-overhang</guid>
+      <description>Using your deep knowledge, wide knowledge, taste, and agency&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.oneusefulthing.org/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:54:32 +0000</pubDate>
+      <media:content url="https://substackcdn.com/image/fetch/$s_!lOLb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47cb24b9-02ec-426b-960f-8429df91be29_1942x1016.png" medium="image" type="image/png" />
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!lOLb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47cb24b9-02ec-426b-960f-8429df91be29_1942x1016.png" type="image/png" length="0" />
+      <source url="https://www.oneusefulthing.org">www.oneusefulthing.org</source>
+    </item>
     <item>
       <title>Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice</title>
       <link>https://abovethelaw.com/2026/09/lane-kiffin-is-exactly-the-guy-who-uses-chatgpt-for-legal-advice/</link>
@@ -4380,14 +4390,6 @@
       <description>Welcome to this week’s Wrap. We start by announcing some of the great speakers appearing at the upcoming Legal Innovators New York conference on November ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 14 Aug 2026 07:15:24 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Apple and Epic argue over how much Apple should get from purchases made outside the App Store</title>
-      <link>https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing</guid>
-      <description>In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don&amp;#x27;t use the company&amp;#x27;s in-app purchase system. Epic has already responded, saying that Apple&amp;#x27;s request is &amp;quot;far outside of the bounds&amp;quot; of the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 23:13:24 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
