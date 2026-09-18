@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cravath’s Latest Hire Comes With A Les Moonves-Shaped Asterisk — See Also</title>
+      <link>https://abovethelaw.com/2026/09/cravaths-latest-hire-comes-with-a-les-moonves-shaped-asterisk-see-also/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/cravaths-latest-hire-comes-with-a-les-moonves-shaped-asterisk-see-also/</guid>
+      <description>Cravath Says Mike Aiello Shares Its &amp;#x27;Values.&amp;#x27; About That: Not where I would have gone with the press release, but OK. The G In GPT Stands For Geaux: LSU&amp;#x27;s football coach used ChatGPT for legal advice and somehow this explains AI, doomerism, antitrust, Ted Cruz, the CFAA, and college sports. More Missouri Madness: If you thought this election map mischief was over, think again. Respect Your Clients&amp;#x27; Religion On Major Holidays: Now is a great time to remind lawyers that religious observance might affect client communications. The post Cravath&amp;amp;#8217;s Latest Hire Comes With A Les Moonves-Shaped Asterisk &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 23:33:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>EFF Statement on California Governor's Executive Order on AI</title>
+      <link>https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/eff-statement-california-governors-executive-order-ai</guid>
+      <description>California Gov. Gavin Newsom&amp;#x27;s executive order is an opportunity for a needed, thoughtful conversation about artificial intelligence and its potential harms. Everyday Californians are feeling real anxiety about the risks of artificial intelligence, and as an organization that works to ensure technology empowers people, EFF welcomes this order as a way for the state of California to lead a much-needed dialogue that addresses these concerns. Nonetheless, the most immediate and current concerns with this technology are not about sci-fi scenarios concerning rogue super-intelligence. They are happening right now through biased algorithmic decision-making for employment or government benefits, AI-powered surveillance systems such as Flock cameras, and artificially inflated personalized pricing. People want state and federal leaders to act, and we urge Gov. Newsom to develop thoughtful policies to address those concerns. Today’s EO is a good start. To that end, EFF supports the focus on expanding the reporting requirements under SB 53 (2025) for loss-of-control incidents, alongside third-party investigations. We urge the administration to consider how to make these third-party investigations available for smaller developers. As the Government Operations Agency prepares its recommendations for the governor, we urge leaders to also realize that the effectiveness of kill switches in advanced AI systems remains an area of active research. As such, they should ensure that - as we’ve previously mentioned - any technology regulation targeting cybersecurity practices at AI labs must be careful, precise, and practical. Moreover, we also caution that government-controlled kill switches run the risk of being used as a form of retaliation against protected speech, as demonstrated by the Trump Administration’s retaliatory actions against Anthropic earlier this year. Ultimately, true safety requires California to focus on concrete, immediate, and urgent harms of AI technologies by ensuring that algorithmic decision-making in both the government and private sectors respects people’s rights and well-being. We urge Gov. Newsom and the state of California to develop thoughtful policy in collaboration with those most at risk of harm to address these and other concerns.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 23:25:44 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Would Australians support a smart glasses ban?</title>
+      <link>https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 23:15:10 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
@@ -4360,34 +4388,6 @@
       <media:content url="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Don’t Put Secret AI Instructions In Court Filings! But Also… Why Are We Worried About This?</title>
-      <link>https://abovethelaw.com/2026/08/dont-put-secret-ai-instructions-in-court-filings-but-also-why-are-we-worried-about-this/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/dont-put-secret-ai-instructions-in-court-filings-but-also-why-are-we-worried-about-this/</guid>
-      <description>This is bad... but the fact that we&amp;#x27;re worried about it signals something way worse. The post Don&amp;amp;#8217;t Put Secret AI Instructions In Court Filings! But Also… Why Are We Worried About This? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 17:43:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Suspecting court of using AI, man injected prompts in filings to try to win case</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</guid>
-      <description>Judge warns pro se litigants are using chatbots wrong and getting desperate.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 17:26:53 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Judge gives Google one week to fix "anticompetitive" app store download in Google Play</title>
-      <link>https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/</guid>
-      <description>Third-party app stores are about to become more visible in Google Play.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 15:46:40 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
