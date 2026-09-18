@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing</title>
+      <link>https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/</guid>
+      <description>The compliance issue almost nobody in legal marketing is talking about. The post ‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 20:44:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Ad Astra Legalia</title>
+      <link>https://buttondown.com/LawyerExMachina/archive/ad-astra-legalia/</link>
+      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/ad-astra-legalia/</guid>
+      <description>Themis Ex Machina [Ed.’s note: I have a logo! Many thanks to Chris Ward of Fire Mountain Labs for creating this beautiful cybernetic Themis] AI A defense attorney has been sanctioned by the New Mexico Supreme Court for including “made-up ‌police testimony and witnesses fabricated by OpenAI&amp;#x27;s ChatGPT” in his brief appealing his client’s criminal conviction [The Volokh Conspiracy | Reuters ($) | Sanctions Order]OpenAI has released “Astra for Legal,” a configuration of its most current public model, GPT-6, for legal work that includes Zero Data Retention, and is launching plug-ins for ChatGPT that link to Harvey, Legora, Clio, CourtListener, iManage and other legaltech vendors [OpenAI blog post | LawSites | ]In a survey of over 500 law firms, the International Law Technology Association (ILTA) reports that Microsoft Copilot is the GenAI tool most used or explored, by 76% of respondents [LawSites | ILTA Survey page (executive summary for free)]Legal AI platform Legora announced that a new legal research feature, based on a “full ontology of the law and an AI-native citator” A research report by the New York Federal Reserve finds that the downturn in hiring of college graduates is due more to challenges in mentoring and supervising remote junior workers than the promises of Generative AI From IEEE: “ AI Efficiency Could Cost Us the Next Generation of Experts &amp;amp;gt; Lessons from aviation and nuclear power show how to preserve human skills”From 404 Media [$]: “OpenAI is hiring hundreds of contractors who read a massive stream of real users’ ChatGPT prompts, with the prompts sometimes including sensitive personal information”OpenAI revealed this week that there were 6 other ‘incidents’ involving misalignment problems - including fabricating information, attempting to hack outside repositories and rejecting custom instructions that calls for models to be “subservient” to users [BBC ($) | CBS News | NBC News | OpenAI post]As part of a security research project, researchers used Claude software to hack OpenAI via an employee’s ChatGPT account [CNBC (video) | Wall St. Journal ($) | Hacktron post about the hack (written by the security researchers)] Fabrication Follies Henry v. Long Island University [Docket | Memorandum and Order]In re: The Marriage of Palozzi and Lisandrillo (District Court of Appeal - FL 4th District) [Order]Tiekert v. Village of Mamaroneck [Docket | Order]Oklahoma state judge Lawrence Wheeler confessed that he issued an order that contained two fictitious case citations that were created by ChatGPT, which he used for legal research in a child custody case [WWLP News | Reuters ($)] Blockchain/Digital Currency The Digital Asset Market Clarity Act, which was supposed to provide a regulatory framework for cryptocurrency, has failed a cloture vote in the U.S. Senate [CNBC | Coindesk | The Hill | NYT ($)] Miscellaneous [Technically, this is a cybersecurity item, but it also touches on employment practices, law practice management, professional responsibility, general technology competence, etc.] A law firm in Harris County, TX filed a TRO and temporary injunction request in state court against a former law clerk, accusing the now-3L of destroying firm and client files, and threatening to destroy more that are only available on the ex-clerk’s personal Google Drive [Instagram post | Plaintiff’s motion for TRO] A reaction quote from friend of the newsletter, Solomon Freimuth: “I wonder if there is even a shred of self awareness there? A) how is it possible that an employee had that much access without redundancy and b) what about your employment practices leads your employees to deleting massive amounts of information?” Long Reads Asad Ramzanali and J.B. Branch, Who Investigates AI’s Cyber Attacks?, Vanderbilt Policy Accelerator (Sep. 15, 2026) https://vanderbiltpolicyaccelerator.substack.com/p/who-investigates-ais-cyber-attacks Events 9/29/26 Seattle University School of Law (in-person and virtual): Symposium on “Legal Technology For Equitable Justice” https://view.flodesk.com/emails/6a8de4a6f4bee1fc4fe74a03Stanford Law School is launching an AI Initiative speaker series, with live-streamed talks in October and November on topics like “Privilege Risk in the Age of AI” (Oct. 8th) and “The Emergence of AI Insurance” (Oct. 22nd) 10/8/26 UC Law San Francisco (in-person): “LegalQuants - Build like a Lawyer (San Fransisco meetup)” https://luma.com/lua5gl3t&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 20:12:48 +0000</pubDate>
+      <source url="https://buttondown.com">buttondown.com</source>
+    </item>
     <item>
       <title>Coddling Young Lawyers? One Law School Says Not On Our Watch</title>
       <link>https://abovethelaw.com/2026/09/coddling-young-lawyers-one-law-school-says-not-on-our-watch/</link>
@@ -4374,22 +4390,6 @@
       <media:content url="https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f642970a912d5c1a57b996894269f11d" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f642970a912d5c1a57b996894269f11d" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Apple proposes to take a 15% cut of purchases made outside the App Store</title>
-      <link>https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/</guid>
-      <description>Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 14:54:48 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>US courts will start publishing how often the government uses spyware</title>
-      <link>https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/</guid>
-      <description>The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 13:29:04 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
