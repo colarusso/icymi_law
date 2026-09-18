@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</guid>
+      <description>Recently unsealed court documents in the New York Times&amp;#x27; case against OpenAI and Microsoft are pretty damning. The companies&amp;#x27; own documentation warned that it was starting a &amp;quot;doom loop&amp;quot; that would damage the web, characterized its scraping of data to train its models as the &amp;quot;largest theft of labor in human history,&amp;quot; and that it [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 21:07:24 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing</title>
       <link>https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/</link>
@@ -4380,16 +4388,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Flock Safety tries to curb police abuse of its surveillance cameras after scandals</title>
-      <link>https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras</guid>
-      <description>CEO announces steps after reports that system is used to target immigrants or people seeking out-of-state abortionsFor nearly a decade, the company Flock Safety has gradually built out a network of cameras across the US that allows law enforcement officials to conduct about 20bn license plate scans every month.In that time, the company had largely left the decision to turn on safety measures up to its customers. Many of those organizations did not turn them on. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 20:20:04 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f642970a912d5c1a57b996894269f11d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f642970a912d5c1a57b996894269f11d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
