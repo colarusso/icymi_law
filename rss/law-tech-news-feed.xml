@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 09:55:47 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:55:43 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Does AI need an antitrust exemption so it doesn&amp;#8217;t kill everyone????</title>
+      <link>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</guid>
+      <description>Today on Decoder, we’ve got the first of a two-part series on the future of business, and I&amp;amp;#8217;m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>The AI regulation smackdown isn’t over</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</link>
@@ -4380,14 +4388,6 @@
       <media:content url="https://i.guim.co.uk/img/media/18193eaa03e7e4e470a0f25474d2b6ca8d409a6d/535_0_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96981bb9a313203faf2503d39fa1c3e3" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/18193eaa03e7e4e470a0f25474d2b6ca8d409a6d/535_0_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96981bb9a313203faf2503d39fa1c3e3" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Woman claims her stepfather used Grok to transform childhood photo into explicit imagery</title>
-      <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</guid>
-      <description>The woman claimed that AI tools are &amp;quot;taking everyday life and turning it into child sexual abuse.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 21:29:19 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
