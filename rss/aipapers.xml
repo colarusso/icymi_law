@@ -5,8 +5,56 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 06:09:44 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:11:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Strong Secretary Conjecture is True for Linear Matroids</title>
+      <link>https://arxiv.org/abs/2609.20797v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.20797v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ac6qioenkpl3jmmnib3tpbhb/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We prove a $1/e$ guarantee for the matroid secretary problem on linear matroids, therefore settling the strong secretary conjecture in this class of matroids. The result holds both when the matroid is...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥 · reposts: 4 · likes: 22&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ac6qioenkpl3jmmnib3tpbhb/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ac6qioenkpl3jmmnib3tpbhb/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>The Evaluation Differential:When Frontier AI Models Recognise They Are Being Tested</title>
+      <link>https://arxiv.org/html/2605.11496v1</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2605.11496v1</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 3 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Language Models Use Trigonometry to Do Addition</title>
+      <link>https://arxiv.org/abs/2502.00873</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2502.00873</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbvdchux22p3dblf47xgtq3m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Mathematical reasoning is an increasingly important indicator of large language model (LLM) capabilities, yet we lack understanding of how LLMs process even simple mathematical tasks. To address this,...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbvdchux22p3dblf47xgtq3m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbvdchux22p3dblf47xgtq3m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Self Improvement via Fast Tree-search</title>
+      <link>https://arxiv.org/abs/2609.19526</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.19526</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibzhx2m2k2xmwkuz3z7q45zyvfq4vt4hayc3xapt54sqpurueerzi" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Self Improvement via Fast Tree-search&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibzhx2m2k2xmwkuz3z7q45zyvfq4vt4hayc3xapt54sqpurueerzi" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibzhx2m2k2xmwkuz3z7q45zyvfq4vt4hayc3xapt54sqpurueerzi" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</title>
+      <link>https://arxiv.org/abs/2609.14858</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.14858</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5crd3j6y2fneszfht23ji4k/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effe...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5crd3j6y2fneszfht23ji4k/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5crd3j6y2fneszfht23ji4k/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Does Empirical Finance Replicate?</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7439099</link>
@@ -433,54 +481,6 @@
       <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>KEEPING AI IN ITS ZONE</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7392558</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7392558</guid>
-      <description>With zoning-reform fever sweeping local governments, state legislatures, and even Congress, there is an urgent push to understand exactly how zoning works. Unfo&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 5 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Predicting Multilingual Classification and Translation Performance of LLMs with Cross-Lingual Alignment -- Is English Enough?</title>
-      <link>https://arxiv.org/abs/2608.03446</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.03446</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oroyl7gve22hgivynkqnghbt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Multilingual large language models (LLMs) have been shown to perform better on non-English classification tasks when the representations of the given language are more aligned to English within the mo...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oroyl7gve22hgivynkqnghbt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:oroyl7gve22hgivynkqnghbt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation</title>
-      <link>https://arxiv.org/abs/2608.30163</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.30163</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Real-world knowledge resides in multimodal documents, necessitating retrieval-augmented generation (RAG) for accurate question answering. However, existing multimodal RAG models are primarily designed...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Accelerating Scientific Research with Gemini in the Real-World</title>
-      <link>https://arxiv.org/abs/2608.26701?ref=explainx</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.26701?ref=explainx</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h33vrjhi4p4a4usltzuhs4al/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We present an extension and comprehensive real-world validation of Co-Scientist, a Gemini-based multi-agent system designed to accelerate end-to-end scientific research across hypothesis generation, e...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:09:13 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h33vrjhi4p4a4usltzuhs4al/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:h33vrjhi4p4a4usltzuhs4al/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</title>
-      <link>https://arxiv.org/abs/2502.05171</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2502.05171</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We study a novel language model architecture that is capable of scaling test-time computation by implicitly reasoning in latent space. Our model works by iterating a recurrent block, thereby unrolling...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 5 · likes: 17&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 06:08:58 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cq4gg3odxz2pzmkx2fuac3u3/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
