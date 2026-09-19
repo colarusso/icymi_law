@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 08:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The AI regulation smackdown isn’t over</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over</guid>
+      <description>At the start of this week, the who&amp;#x27;s-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors</title>
       <link>https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors</link>
@@ -4380,14 +4388,6 @@
       <description>The woman claimed that AI tools are &amp;quot;taking everyday life and turning it into child sexual abuse.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Sat, 15 Aug 2026 21:29:19 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Pro Se Plaintiff Caught Hiding Prompt Injections In Court Filings; Responds By Hiding More</title>
-      <link>https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/14/pro-se-plaintiff-caught-hiding-prompt-injections-in-court-filings-responds-by-hiding-more/</guid>
-      <description>There have now been dozens of stories of bad lawyers using AI results in filings, most of which show up in the form of fake case citations. That&amp;amp;#8217;s old hat at this point. But how about prompt injections in court filings? There have been a few people warning that it&amp;amp;#8217;s coming. A year ago, Louisiana [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 22:34:31 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
