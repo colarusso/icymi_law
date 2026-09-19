@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 20:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sensitive UK police data vulnerable to ‘compromise’ by US government and foreign actors</title>
+      <link>https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors</link>
+      <guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/sep/18/sensitive-uk-police-data-vulnerable-to-compromise-by-us-government-and-foreign-actors</guid>
+      <description>Exclusive: Official UK security assessment found Microsoft cloud platform storing files was at potential risk from hostile hackersVast troves of highly sensitive police data are lying on Microsoft cloud platforms which an oﬃcial UK security assessment deemed to be vulnerable to “compromise” by foreign actors and the US government, a Guardian investigation can reveal.The files include criminal records, victim statements, internal emails and sensitive information held by more than 40 police forces across the UK. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 18 Sep 2026 17:00:23 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/cac874b0d63d48e39cf43ea5a61612e0817abaf2/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c490e0edab20299627db9b3dc5c42f39" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/cac874b0d63d48e39cf43ea5a61612e0817abaf2/1_0_4998_4000/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c490e0edab20299627db9b3dc5c42f39" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Cravath’s Latest Hire Comes With A Les Moonves-Shaped Asterisk — See Also</title>
       <link>https://abovethelaw.com/2026/09/cravaths-latest-hire-comes-with-a-les-moonves-shaped-asterisk-see-also/</link>
@@ -4378,16 +4388,6 @@
       <description>There have now been dozens of stories of bad lawyers using AI results in filings, most of which show up in the form of fake case citations. That&amp;amp;#8217;s old hat at this point. But how about prompt injections in court filings? There have been a few people warning that it&amp;amp;#8217;s coming. A year ago, Louisiana [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 14 Aug 2026 22:34:31 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>New York City Lawmakers Push to ‘Ban the Scan’ at MSG</title>
-      <link>https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/</guid>
-      <description>At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 14 Aug 2026 21:43:17 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a7e4a6728f891277df706a0/master/pass/MSG-Surveillance-Protests-2196667317.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
