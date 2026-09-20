@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:11:15 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:09:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices</title>
+      <link>https://arxiv.org/abs/2503.08223?hl=de-DE</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2503.08223?hl=de-DE</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The remarkable success of foundation models has been driven by scaling laws, demonstrating that model performance improves predictably with increased training data and model size. However, this scalin...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 11&lt;/small&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 06:09:15 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>A Strongly Aperiodic Monotile in Three Dimensions</title>
+      <link>https://arxiv.org/abs/2609.19214</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.19214</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhakixcsmdow4avnqxtfy6c6/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Socolar and Taylor asked for a single, simply connected three-dimensional prototile that forces nonperiodicity by shape alone, admitting no weakly nonperiodic tiling; the Schmitt-Conway-Danzer biprism and the three-dimensional Socolar-Taylor tile admit screw motions or a periodic stacking direction. We exhibit a rational polyhedral $3$-ball $Q$, which we call Chair44 (R44): a seven-cube chair whose $24$ exposed unit panels carry tiny square-pyramid features, and prove, as a proof submission, that $Q$ admits tilings of $\mathbb{R}^3$ by congruent copies, reflections allowed, and that every such tiling has no translational period and a symmetry group of order at most $24$; every tiling is homochiral and carries a unique infinite hierarchy of nested supertiles. The solid was designed to a reading of the aperiodic-monotile phenomenon reached with the Six Birds emergence calculus (Section 3.3), and the construction turns on a single finite test, checked by machine: the tile&amp;#x27;s own contact rule survives coarsening, so that the decoded parent tiling obeys the tile&amp;#x27;s rule and no other. The proof combines a written geometric argument, that the features force every tiling onto a registered lattice, with exhaustive finite enumerations; the companion census is replayed by two independent implementations, every finite gate is kernel-checked in Lean 4 (modulo a named compiler hook per native_decide theorem), and the written geometric lemmas and the logical assembly are Lean theorems as well, so that the theorem is kernel-checked modulo the named compiler hooks; the written proofs remain as exposition.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 06:09:15 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhakixcsmdow4avnqxtfy6c6/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhakixcsmdow4avnqxtfy6c6/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The Strong Secretary Conjecture is True for Linear Matroids</title>
       <link>https://arxiv.org/abs/2609.20797v1</link>
@@ -461,26 +481,6 @@
       <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7obcdkmaphcucglm3a777gct/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7obcdkmaphcucglm3a777gct/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation</title>
-      <link>https://arxiv.org/abs/2609.01246</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.01246</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddhojhlqcgdt5iydkagwp5fi/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Current Large Language Models (LLMs) are primarily optimized for written text, often producing outputs that are grammatically correct and helpful yet poorly suited for spoken delivery via Text-to-Spee...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 8&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddhojhlqcgdt5iydkagwp5fi/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ddhojhlqcgdt5iydkagwp5fi/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments</title>
-      <link>https://arxiv.org/abs/2606.23152</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.23152</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We introduce ShotcreteDepth, a bi-modal dataset from the construction domain that captures both an active shotcreting process and general construction environments. The dataset comprises stereo RGB im...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:q7vdvia5v66sgjlvnvp4gf2d/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
