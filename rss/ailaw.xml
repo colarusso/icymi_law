@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:07:39 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:07:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US woman falsely charged with bank theft sues for $10m over AI facial recognition</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r56tewdetlqjcxcmktcp4m2w/bafkreibowc7p5ti3izcdbisydxzax6p7twdanob4p4mth3t6bepho7olxu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Angela Lipps, 50, alleges in suit that Fargo police wrongly relied on AI facial recognition to arrest and charge her&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 85 · likes: 263&lt;/small&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 06:07:06 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r56tewdetlqjcxcmktcp4m2w/bafkreibowc7p5ti3izcdbisydxzax6p7twdanob4p4mth3t6bepho7olxu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r56tewdetlqjcxcmktcp4m2w/bafkreibowc7p5ti3izcdbisydxzax6p7twdanob4p4mth3t6bepho7olxu" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Gemini AI Hacked Three Companies in a Testing Breakout, Google Says</title>
       <link>https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html</link>
@@ -495,16 +505,6 @@
       <pubDate>Thu, 03 Sep 2026 06:07:14 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreifzsegdr2gqyvbpx5ergxopfrv5d5tkjumhqot3jb7enxa4n5tvbu" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreifzsegdr2gqyvbpx5ergxopfrv5d5tkjumhqot3jb7enxa4n5tvbu" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images</title>
-      <link>https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit?utm_source=dlvr.it&amp;utm_medium=bluesky&amp;CMP=bsky_gu</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit?utm_source=dlvr.it&amp;utm_medium=bluesky&amp;CMP=bsky_gu</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreid7vpeomwbvtpzeui5jcvzvbarc7c6vpkv3hphrntq4hsg4dylfwq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Musk denied he was aware Grok ever produced ‘any naked underage images’ A survivor of child sexual abuse has sued Elon Musk’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal pornographic images that depict her. “Using real images of Plaintiff and class members, Grok generated child pornography depicting Plaintiff and class members,” states the complaint, which was filed last week in a US district court in California. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 48 · likes: 53&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:07:14 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreid7vpeomwbvtpzeui5jcvzvbarc7c6vpkv3hphrntq4hsg4dylfwq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vovinwhtulbsx4mwfw26r5ni/bafkreid7vpeomwbvtpzeui5jcvzvbarc7c6vpkv3hphrntq4hsg4dylfwq" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
