@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 11:55:47 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finalists Named for American Legal Technology Awards; Winners To Be Named At October Gala in Boston</title>
+      <link>https://www.lawnext.com/2026/09/finalists-named-for-american-legal-technology-awards-winners-to-be-named-at-october-gala-in-boston.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/finalists-named-for-american-legal-technology-awards-winners-to-be-named-at-october-gala-in-boston.html</guid>
+      <description>The American Legal Technology Awards has named the finalists for its seventh annual awards program, honoring outstanding achievement and innovation across multiple categories of legal technology. This year&amp;amp;#8217;s winners were selected from 234 submissions across 10 categories. Winners will be revealed at a gala awards dinner Oct. 25 at Suffolk University Law School in Boston. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 16:31:35 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Google AI Said Man Killed 3 People. Defamation Defense: ‘LOL, No One Trusts AI Summaries!’</title>
       <link>https://abovethelaw.com/2026/09/google-ai-said-man-killed-3-people-defamation-defense-lol-no-one-trusts-ai-summaries/</link>
@@ -4380,14 +4388,6 @@
       <description>Trellis, a legal research company that provides state trial court data and insights, has expanded agentic AI access to its data with a new plugin for OpenAI&amp;amp;#8217;s ChatGPT and a native assistant called Trellis Chat, both of which are in addition to the Trellis MCP connector for Claude that the company launched in May. Trellis [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Mon, 17 Aug 2026 15:57:44 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>ILTACON Preview: What These Tech Leaders Expect To See</title>
-      <link>https://abovethelaw.com/2026/08/iltacon-preview-what-these-tech-leaders-expect-to-see/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/iltacon-preview-what-these-tech-leaders-expect-to-see/</guid>
-      <description>The massive legal tech conference is fast approaching. The post ILTACON Preview: What These Tech Leaders Expect To See appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:35:01 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
