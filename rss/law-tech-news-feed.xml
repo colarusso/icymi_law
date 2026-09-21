@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 16:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Six Questions and Three Tests Before You Adopt an AI Tool</title>
+      <link>https://www.ailawlibrarians.com/2026/09/21/six-questions-and-three-tests-before-you-adopt-an-ai-tool/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=six-questions-and-three-tests-before-you-adopt-an-ai-tool</link>
+      <guid isPermaLink="true">https://www.ailawlibrarians.com/2026/09/21/six-questions-and-three-tests-before-you-adopt-an-ai-tool/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=six-questions-and-three-tests-before-you-adopt-an-ai-tool</guid>
+      <description>You have just started at a technology-forward organization, and your first big assignment is to evaluate an AI contract-analysis platform. An executive saw it at a conference and decided the organization had to have it. The platform reads contracts, extracts &amp;amp;#8230; Continue reading &amp;amp;#8594; The post Six Questions and Three Tests Before You Adopt an AI Tool first appeared on AI Law Librarians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.ailawlibrarians.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 21:45:20 +0000</pubDate>
+      <source url="https://www.ailawlibrarians.com">www.ailawlibrarians.com</source>
+    </item>
+    <item>
+      <title>On LawNext: An Offer She Could Not Turn Down — Bridget McCormack on Joining Clio to Transform Technology for Judges</title>
+      <link>https://www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html</guid>
+      <description>Legal tech company Clio has long said that its mission is to transform the legal experience for all. Until now, that “all” has largely focused on law firms and their clients, but recently Clio announced a major initiative to develop technology for the judiciary. As part of that initiative, it hired Pablo Arredondo, the former [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 20:55:43 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>California tightens rules on AI data center energy and water use</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
@@ -4370,22 +4386,6 @@
       <description>By Dan Hoadley, Clio. AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 18 Aug 2026 06:42:01 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Federal Court Rules That Blocking Speech Is Protected By The First Amendment, But Recommending It Isn’t</title>
-      <link>https://www.techdirt.com/2026/08/17/federal-court-rules-that-blocking-speech-is-protected-by-the-first-amendment-but-recommending-it-isnt/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/17/federal-court-rules-that-blocking-speech-is-protected-by-the-first-amendment-but-recommending-it-isnt/</guid>
-      <description>This ruling came out a week and a half ago at this point and I&amp;amp;#8217;ve been so annoyed with it that I kept putting off writing about it, but it&amp;amp;#8217;s so bad that it requires a discussion. A federal district court in San Jose denied motions from a bunch of the big tech companies seeking [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 18:10:16 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Grok’s TOS Formation Failed–Skaggs v. X.ai</title>
-      <link>https://blog.ericgoldman.org/archives/2026/08/groks-tos-formation-failed-skaggs-v-x-ai.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/08/groks-tos-formation-failed-skaggs-v-x-ai.htm</guid>
-      <description>This case naturally raises some questions that Musk might choose to pose to Grok, like: &amp;amp;#8220;Grok, is it bad when TOS formation fails?&amp;amp;#8221; &amp;amp;#8220;Grok, what are best practices for TOS formation and does our current TOS formation process satisfy those?&amp;amp;#8221;... The post Grok&amp;amp;#8217;s TOS Formation Failed&amp;amp;#8211;Skaggs v. X.ai appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 17:50:19 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
