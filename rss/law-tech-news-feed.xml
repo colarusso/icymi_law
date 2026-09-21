@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X will now tell users when governments have forced it to limit their posts</title>
+      <link>https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/</guid>
+      <description>X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 17:45:35 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Legal Ethics Roundup: Judge Warns Of Threat To Democracy, AI Slop Harms Extend Beyond Fake Cites, Philly DA Referred For Investigation, New Bill Aims To End ‘Stealth Impeachments’ &amp; More</title>
+      <link>https://abovethelaw.com/2026/09/legal-ethics-roundup-judge-warns-of-threat-to-democracy-ai-slop-harms-extend-beyond-fake-cites-philly-da-referred-for-investigation-new-bill-aims-to-end-stealth-impeachments-amp/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/legal-ethics-roundup-judge-warns-of-threat-to-democracy-ai-slop-harms-extend-beyond-fake-cites-philly-da-referred-for-investigation-new-bill-aims-to-end-stealth-impeachments-amp/</guid>
+      <description>Your tour of all things related to lawyer and judicial ethics, with University of Houston law professor Renee Knake Jefferson. The post Legal Ethics Roundup: Judge Warns Of Threat To Democracy, AI Slop Harms Extend Beyond Fake Cites, Philly DA Referred For Investigation, New Bill Aims To End ‘Stealth Impeachments’ &amp;amp;amp; More appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 16:57:08 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Finalists Named for American Legal Technology Awards; Winners To Be Named At October Gala in Boston</title>
       <link>https://www.lawnext.com/2026/09/finalists-named-for-american-legal-technology-awards-winners-to-be-named-at-october-gala-in-boston.html</link>
@@ -4372,22 +4388,6 @@
       <media:content url="https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78e760a5dc08923d56ed129ddcc8ad89" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78e760a5dc08923d56ed129ddcc8ad89" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Beyond Recall And Precision: Strategic Oversight Of AI Managed Review</title>
-      <link>https://abovethelaw.com/2026/08/beyond-recall-and-precision-strategic-oversight-of-ai-managed-review/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/beyond-recall-and-precision-strategic-oversight-of-ai-managed-review/</guid>
-      <description>[Sponsored] AI can accelerate document review, but metrics alone aren&amp;#x27;t enough. Learn how Managing Attorney oversight turns AI-driven review into a more adaptive, strategic and defensible process. The post Beyond Recall And Precision: Strategic Oversight Of AI Managed Review appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:13:08 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Having Already Launched A Claude Connector, Trellis Extends AI Access to Its Court Data with ChatGPT Plugin and Its Own Chat Tool</title>
-      <link>https://www.lawnext.com/2026/08/having-already-launched-a-claude-connector-trellis-extends-ai-access-to-its-court-data-with-chatgpt-plugin-and-its-own-chat-tool.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/having-already-launched-a-claude-connector-trellis-extends-ai-access-to-its-court-data-with-chatgpt-plugin-and-its-own-chat-tool.html</guid>
-      <description>Trellis, a legal research company that provides state trial court data and insights, has expanded agentic AI access to its data with a new plugin for OpenAI&amp;amp;#8217;s ChatGPT and a native assistant called Trellis Chat, both of which are in addition to the Trellis MCP connector for Claude that the company launched in May. Trellis [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:57:44 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
