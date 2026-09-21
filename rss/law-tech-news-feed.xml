@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California tightens rules on AI data center energy and water use</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills</guid>
+      <description>California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 20:29:45 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>X will now tell users when governments have forced it to limit their posts</title>
       <link>https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/</link>
@@ -4378,16 +4386,6 @@
       <description>This case naturally raises some questions that Musk might choose to pose to Grok, like: &amp;amp;#8220;Grok, is it bad when TOS formation fails?&amp;amp;#8221; &amp;amp;#8220;Grok, what are best practices for TOS formation and does our current TOS formation process satisfy those?&amp;amp;#8221;... The post Grok&amp;amp;#8217;s TOS Formation Failed&amp;amp;#8211;Skaggs v. X.ai appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Mon, 17 Aug 2026 17:50:19 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Claude to start watermarking AI-generated text – but will it make quality worse?</title>
-      <link>https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse</guid>
-      <description>Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulationThe world is familiar by now with the usual tropes of machine-generated text: overuse of the word “delve”, an excess of em dashes, and the chirpy, relentless construction of “it’s not X but Y”.But is it about to get even worse? Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 16:52:04 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78e760a5dc08923d56ed129ddcc8ad89" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/master/3527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78e760a5dc08923d56ed129ddcc8ad89" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
