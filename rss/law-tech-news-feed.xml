@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents</title>
+      <link>https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration</guid>
+      <description>EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate an FAA drone flight restriction that violated the First Amendment right to record law enforcement. This is an important case—Levine v. FAA—challenging the ability of the government to punish drone pilots who record law enforcement officers engaged in official business. As we wrote about earlier this year, the FAA issued a flight restriction for drones that had effectively criminalized the recording of Department of Homeland Security officers, including immigration agents from ICE and CBP, and their vehicles (what the FAA called “mobile assets” including “ground vehicle convoys and their associated escorts”) even if the drone was over half a mile away. A drone operator, represented by the Reporters Committee for Freedom of the Press, sued the FAA in March [PDF]. But in April, the FAA rescinded the flight restriction. The petitioner argued in his opening brief that the court should evaluate the legality of the flight restriction even though it was withdrawn. Drone pilots could still be punished for violations that occurred when the flight restriction was in effect. And the FAA could reinstate the flight restriction at any time, given that the rescission did not seem to reflect “a true change of heart” but rather an effort by the agency to avoid judicial review. The amicus brief, filed in support of the petitioner, noted that drones are unique because they provide “perspectives that cannot be captured by ground-based imagery,” and they “are far more maneuverable than ground-level cameras, and they are both much cheaper and much safer than using a chartered plane or helicopter to record newsworthy events from above.” The brief highlighted that drones have captured “bird’s-eye images of protest activity” and “police uses of force against protestors,” and have “allowed journalists to provide the public with up-to-the-minute information about natural disasters without putting themselves in harm’s way.” The brief argued that using drones to capture images and video is information-gathering activity protected by the First Amendment (similar to using cell phones to record law enforcement). The brief also argued that the FAA’s flight restriction appeared to be issued specifically to ban the recording of immigration agents and thus hinder accountability for their enforcement actions—it surely wasn’t a coincidence that the FAA imposed “no-drone zones around all roving DHS patrols just as those patrols were provoking intense national backlash.” If that’s true, it would make the FAA’s action a content-based restriction on speech that is subject to strict scrutiny—the highest First Amendment standard—and presumptively unconstitutional. And even under less rigorous standards of First Amendment scrutiny, the flight restriction is unconstitutional because the FAA can’t articulate any valid governmental interest justifying such a sweeping restriction on speech. Resolving this issue to protect First Amendment rights is especially urgent as government agencies continue to sink billions of dollars into technology designed to counter drones—technology that could easily be deployed against journalists and other people hoping to use drones to document government abuse. We urge the D.C. Circuit to review the petition and to vacate the FAA’s flight restriction, which would send a message that the government can’t avoid accountability by punishing those who exercise their First Amendment rights.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 22:59:32 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say</title>
+      <link>https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference</link>
+      <guid isPermaLink="true">https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference</guid>
+      <description>At Lib Dems’ conference in Brighton, leader will accuse Andy Burnham of relying on Donald Trump and ‘tech bros’ to solve problemEd Davey is to call for a global nuclear-style non-proliferation treaty to halt the development of super-intelligent AI when he makes his keynote speech at the Liberal Democrat conference, accusing Andy Burnham of relying on Donald Trump and “tech bros” to solve the problem.When he addresses the faithful on the final day of the gathering in Brighton, the party leader will call for a global pause on super-intelligent AI, comparing it to a nuclear arms race that could result in technology that could “destroy us all”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 21:30:26 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/8b34809ab945c631baf069850af883b4c987dc05/433_0_3753_3003/master/3753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=120fd967a5800d8cbe4f74993b34fce0" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/8b34809ab945c631baf069850af883b4c987dc05/433_0_3753_3003/master/3753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=120fd967a5800d8cbe4f74993b34fce0" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Six Questions and Three Tests Before You Adopt an AI Tool</title>
       <link>https://www.ailawlibrarians.com/2026/09/21/six-questions-and-three-tests-before-you-adopt-an-ai-tool/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=six-questions-and-three-tests-before-you-adopt-an-ai-tool</link>
@@ -4367,24 +4387,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs/</guid>
       <description>LexisNexis has selected Denmark-based Document Drafter to deliver its automated documents to customers globally after an evaluation of multiple platforms. The startup also built a ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 18 Aug 2026 07:46:41 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>US states take on Meta in pivotal trial over child social media addiction claims</title>
-      <link>https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states</guid>
-      <description>State attorneys general allege that tech company intentionally designed addictive products that harm young peopleMore than half of the states in the US have joined together in an unprecedented lawsuit against Meta that goes to trial on Tuesday, accusing the parent company of Instagram and Facebook of deliberately designing addictive products that lured in young people and caused them harm.The jury trial is taking place in federal court in Oakland, California, and is expected to last between six and eight weeks. The jury is expected to hear from Meta CEO Mark Zuckerberg, Instagram CEO Adam Mosseri and employee turned whistleblower Arturo Béjar. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 07:00:17 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa893ae69d7677b4ee47006d10352ca" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/master/3514.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fa893ae69d7677b4ee47006d10352ca" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Speed Without Structure: What Legal AI Is Really Exposing</title>
-      <link>https://www.artificiallawyer.com/2026/08/18/speed-without-structure-what-legal-ai-is-really-exposing/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/18/speed-without-structure-what-legal-ai-is-really-exposing/</guid>
-      <description>By Dan Hoadley, Clio. AI is speeding up legal work in increasingly visible and practical ways. Drafting cycles are compressing. Legal research that once took ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 06:42:01 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
