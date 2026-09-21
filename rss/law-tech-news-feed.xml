@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lawyer Retention In Three Words: Automate The Crap</title>
+      <link>https://abovethelaw.com/2026/09/lawyer-retention-in-three-words-automate-the-crap/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/lawyer-retention-in-three-words-automate-the-crap/</guid>
+      <description>Make the office a place where lawyers spend more of their day being lawyers. The post Lawyer Retention In Three Words: Automate The Crap appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 14:54:43 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit</title>
       <link>https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement</link>
@@ -4380,14 +4388,6 @@
       <description>Apple&amp;#x27;s changing its rules for data collection consent prompts after Germany&amp;#x27;s Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple&amp;#x27;s App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 17 Aug 2026 15:10:25 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction For Sangamo Gene Therapy</title>
-      <link>https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/</link>
-      <guid isPermaLink="true">https://medcitynews.com/2026/08/ptc-sangamo-therapeutics-bankruptcy-auction-fabry-gene-therapybid-wins-bankruptcy-auction-for-sangamo-gene-therapy-ptct-sgmoq/</guid>
-      <description>Sangamo Therapeutics filed for Chapter 11 bankruptcy in June after its search for strategic alternatives failed to find a path forward for the company. PTC Therapeutics’ auction win brings a Sangamo gene therapy candidate for Fabry disease, a rare inherited disorder with few treatment options. The post PTC Therapeutics’ $211M Bid Wins Bankruptcy Auction For Sangamo Gene Therapy appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 14:03:00 +0000</pubDate>
-      <source url="https://medcitynews.com">medcitynews.com</source>
     </item>
   </channel>
 </rss>
