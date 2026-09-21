@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google AI Said Man Killed 3 People. Defamation Defense: ‘LOL, No One Trusts AI Summaries!’</title>
+      <link>https://abovethelaw.com/2026/09/google-ai-said-man-killed-3-people-defamation-defense-lol-no-one-trusts-ai-summaries/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/google-ai-said-man-killed-3-people-defamation-defense-lol-no-one-trusts-ai-summaries/</guid>
+      <description>Federal judge disagreed. Case moving forward. The post Google AI Said Man Killed 3 People. Defamation Defense: &amp;amp;#8216;LOL, No One Trusts AI Summaries!&amp;amp;#8217; appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 15:49:03 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Lawyer Retention In Three Words: Automate The Crap</title>
       <link>https://abovethelaw.com/2026/09/lawyer-retention-in-three-words-automate-the-crap/</link>
@@ -4380,14 +4388,6 @@
       <description>The massive legal tech conference is fast approaching. The post ILTACON Preview: What These Tech Leaders Expect To See appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 17 Aug 2026 15:35:01 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Apple ordered to stop scaring iPhone and iPad users away from third-party apps</title>
-      <link>https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany</guid>
-      <description>Apple&amp;#x27;s changing its rules for data collection consent prompts after Germany&amp;#x27;s Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple&amp;#x27;s App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 17 Aug 2026 15:10:25 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
