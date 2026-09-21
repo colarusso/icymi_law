@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Sep 2026 06:07:06 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:07:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft exec called AI the ‘largest theft of labor’ in history, court records show</title>
+      <link>https://share.google/00nZBWFfiSYj5qRHY</link>
+      <guid isPermaLink="true">https://share.google/00nZBWFfiSYj5qRHY</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ugnppwyusbt6ktgvsvzogwyk/bafkreibakq6im5lv7774aibkyx5tjo7zuamgk6p6w6wcv4z3dknyxttm6q" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The quote headlined an unsealed document in the New York Times’s copyright case against Microsoft and OpenAI.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 125 · likes: 322&lt;/small&gt;</description>
+      <pubDate>Mon, 21 Sep 2026 06:07:12 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ugnppwyusbt6ktgvsvzogwyk/bafkreibakq6im5lv7774aibkyx5tjo7zuamgk6p6w6wcv4z3dknyxttm6q" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ugnppwyusbt6ktgvsvzogwyk/bafkreibakq6im5lv7774aibkyx5tjo7zuamgk6p6w6wcv4z3dknyxttm6q" type="image/jpeg" length="0" />
+      <source url="https://share.google">share.google</source>
+    </item>
     <item>
       <title>US woman falsely charged with bank theft sues for $10m over AI facial recognition</title>
       <link>https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ntkmgew2vnq7lkpze65ffmzx/bafkreiffcsmvw27545t3nguc2sikh6r332hhlcg3uai5zevbgtra5joak4" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ntkmgew2vnq7lkpze65ffmzx/bafkreiffcsmvw27545t3nguc2sikh6r332hhlcg3uai5zevbgtra5joak4" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI</title>
-      <link>https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreifzsegdr2gqyvbpx5ergxopfrv5d5tkjumhqot3jb7enxa4n5tvbu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 45 · likes: 65&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 06:07:14 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreifzsegdr2gqyvbpx5ergxopfrv5d5tkjumhqot3jb7enxa4n5tvbu" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreifzsegdr2gqyvbpx5ergxopfrv5d5tkjumhqot3jb7enxa4n5tvbu" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
