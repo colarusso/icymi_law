@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:56:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soldiers can refuse to commit war crimes. Can AI?</title>
+      <link>https://www.vox.com/future-perfect/503564/military-ai-minimally-refuse-war-crimes</link>
+      <guid isPermaLink="true">https://www.vox.com/future-perfect/503564/military-ai-minimally-refuse-war-crimes</guid>
+      <description>Who gets to tell the military “no”? That question has become even more important after the Pentagon pushed AI companies to loosen limits on how their technology may be used in war — including how much human control must remain over autonomous weapons. When Anthropic said no, it lost a major government deal. OpenAI stepped [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 18:10:00 +0000</pubDate>
+      <source url="https://www.vox.com">www.vox.com</source>
+    </item>
     <item>
       <title>San Francisco sues Trump Media for selling early access to Trump posts</title>
       <link>https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco</link>
@@ -4384,14 +4392,6 @@
       <media:content url="https://i.guim.co.uk/img/media/e1fc5116f02a1c2207b15876404b6c8cf3764908/43_0_4923_3937/master/4923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de71a45336a3698eadfff43666487ec" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/e1fc5116f02a1c2207b15876404b6c8cf3764908/43_0_4923_3937/master/4923.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1de71a45336a3698eadfff43666487ec" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Clio Docket Is Now In Clio Work, Combining An AI Workspace with Access to More Than 1 Billion Court Filings</title>
-      <link>https://www.lawnext.com/2026/08/clio-docket-is-now-in-clio-work-combining-an-ai-workspace-with-access-to-more-than-1-billion-court-filings.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/clio-docket-is-now-in-clio-work-combining-an-ai-workspace-with-access-to-more-than-1-billion-court-filings.html</guid>
-      <description>When Clio acquired vLex in 2025, a key asset it gained was Docket Alarm, one of the world’s largest litigation databases containing more than 1 billion filings from federal and state courts. At the ClioCon user conference last year, Clio relaunched it as Clio Docket. Now, Clio is making Clio Docket available from within Clio [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 17:00:28 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
