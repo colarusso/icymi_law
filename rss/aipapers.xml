@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 06:09:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:08:39 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sparse Reward Subsystem in Large Language Models</title>
+      <link>https://arxiv.org/abs/2602.00986</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.00986</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sefgphqp2xqwh2hawaixykwz/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recent studies show that LLM hidden states encode reward-related information, such as answer correctness and model confidence. However, existing approaches typically fit black-box probes on the full h...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 11 · likes: 77&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 06:08:39 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sefgphqp2xqwh2hawaixykwz/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sefgphqp2xqwh2hawaixykwz/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks</title>
+      <link>https://arxiv.org/abs/2609.21519</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.21519</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Artificial Intelligence (AI) is becoming a fundamental design principle of future AI-native communication networks, enabling autonomous resource management, adaptive control, and zero-touch network operation. While current AI-native architectures increasingly embed intelligence across network funct…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 06:08:39 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals</title>
+      <link>https://arxiv.org/html/2609.04444v2</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2609.04444v2</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 06:08:39 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>"Okay, I've Actually Softened My Take on This": How People in Decentralized Social Media Reason about the Appropriateness of Generative AI</title>
       <link>https://arxiv.org/abs/2609.18709</link>
@@ -451,34 +479,6 @@
       <pubDate>Sat, 05 Sep 2026 06:09:11 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Our Members - arXiv info | arXiv e-print repository</title>
-      <link>https://info.arxiv.org/about/ourmembers.html</link>
-      <guid isPermaLink="true">https://info.arxiv.org/about/ourmembers.html</guid>
-      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 06:09:11 -0400</pubDate>
-      <source url="https://info.arxiv.org">info.arxiv.org</source>
-    </item>
-    <item>
-      <title>Do Large Language Models Capture the Diversity in their Training Data?</title>
-      <link>https://arxiv.org/abs/2609.02275</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.02275</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwvx7nvhwavvyi75m43lup6z/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models are trained to model conditional distributions over text, yet it remains inadequately understood whether they capture the full diversity of plausible outputs present in their tra...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 7 · likes: 20&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwvx7nvhwavvyi75m43lup6z/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rwvx7nvhwavvyi75m43lup6z/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Optical Reservoir Computing with Structural Nonlinearity for Forecasting Chaotic Time Series</title>
-      <link>https://arxiv.org/abs/2609.02733</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.02733</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uobc4ilfzmorydk5fz5bfenq/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Optical computing offers a promising route to high-speed, energy-efficient information processing. However, implementing nonlinear operations typically requires strong light-matter interactions. Here,...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 14&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 06:09:21 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uobc4ilfzmorydk5fz5bfenq/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uobc4ilfzmorydk5fz5bfenq/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
