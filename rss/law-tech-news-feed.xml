@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 17:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the Meta Settlement Silences Youth Activism</title>
+      <link>https://www.techdirt.com/2026/09/22/how-the-meta-settlement-silences-youth-activism/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/09/22/how-the-meta-settlement-silences-youth-activism/</guid>
+      <description>Since its&amp;amp;#160;integration&amp;amp;#160;into our digital world, social media has&amp;amp;#160;played&amp;amp;#160;a pivotal role in youth organizing and social mobilization.&amp;amp;#160;Yet,&amp;amp;#160;people’s access to these platforms&amp;amp;#160;is&amp;amp;#160;increasingly coming under threat from courts and legislatures under the guise of protecting young people&amp;amp;#160;online—presenting&amp;amp;#160;a significant hindrance to youth&amp;amp;#160;organizing.&amp;amp;#160;&amp;amp;#160; In&amp;amp;#160;a major&amp;amp;#160;recent&amp;amp;#160;example,&amp;amp;#160;Meta&amp;amp;#160;settled in a lawsuit&amp;amp;#160;with 52&amp;amp;#160;states and territories&amp;amp;#160;regarding&amp;amp;#160;the use of Instagram&amp;amp;#160;and Facebook by young people.&amp;amp;#160;The&amp;amp;#160;settlement will require&amp;amp;#160;Meta,&amp;amp;#160;and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 22:21:54 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Why ‘We Only Use AI For Marketing’ Is Still A Bar Complaint Waiting To Happen</title>
       <link>https://abovethelaw.com/2026/09/why-we-only-use-ai-for-marketing-is-still-a-bar-complaint-waiting-to-happen/</link>
@@ -4382,16 +4390,6 @@
       <description>The Defense Calls ChatGPT: An expert used ChatGPT to draft &amp;quot;90 to 85&amp;quot; percent of his report. The plaintiffs&amp;#x27; attorney had a deposition for the ages on that one. The Most Closely Guarded Secret In The Biglaw EO Case Is Who Wrote The Orders: A government proud enough from the podium has suddenly gone shy about signing its work. The Biglaw Superheroes Of Client Service: Find out which firms, and which lawyers, are considered the best of the best. Robot Judges: This judge probably did NOT use AI to decide this case, but if she had... a court ruled that it would be covered by judicial immunity. The Travel Trap: Before boarding a plane, whether for international or domestic travel, immigrants should understand their individual risks. The post Expert Has ChatGPT Write Report. That Was A&amp;amp;#8230; Poor Decision &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 18 Aug 2026 23:32:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Meta hooked children on Facebook and Instagram, court hears</title>
-      <link>https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 22:11:07 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
