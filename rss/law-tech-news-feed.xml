@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 20:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:56:40 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webinar: Why Litigators Should Train With Simulators</title>
+      <link>https://www.artificiallawyer.com/2026/09/22/webinar-why-litigators-should-train-with-simulators/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/22/webinar-why-litigators-should-train-with-simulators/</guid>
+      <description>Can lawyers learn from how other professionals train, such as pilots? Can simulators become a key part of training for lawyers, especially for litigators? You ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 10:46:30 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting</title>
+      <link>https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting</guid>
+      <description>Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT useBritish Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre.The lawsuit filed in San Francisco federal court on Monday names OpenAI and its CEO, Sam Altman, as defendants. It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 04:29:22 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents</title>
       <link>https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration</link>
@@ -4372,22 +4390,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Inhouse Embraces AI…And Does Little With It</title>
-      <link>https://www.artificiallawyer.com/2026/08/18/inhouse-embraces-aiand-does-little-with-it/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/18/inhouse-embraces-aiand-does-little-with-it/</guid>
-      <description>A new survey by LegalOn has found empirical data that supports what Artificial Lawyer is hearing on the legal tech street, namely that while inhouse ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 08:29:51 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>LexisNexis Picks Document Drafter for Automated Docs</title>
-      <link>https://www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/18/lexisnexis-picks-document-drafter-for-automated-docs/</guid>
-      <description>LexisNexis has selected Denmark-based Document Drafter to deliver its automated documents to customers globally after an evaluation of multiple platforms. The startup also built a ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 07:46:41 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
