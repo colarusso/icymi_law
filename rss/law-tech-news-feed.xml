@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why ‘We Only Use AI For Marketing’ Is Still A Bar Complaint Waiting To Happen</title>
+      <link>https://abovethelaw.com/2026/09/why-we-only-use-ai-for-marketing-is-still-a-bar-complaint-waiting-to-happen/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/why-we-only-use-ai-for-marketing-is-still-a-bar-complaint-waiting-to-happen/</guid>
+      <description>The risks of treating marketing as the place where the rules get loose. The post Why &amp;amp;#8216;We Only Use AI For Marketing&amp;amp;#8217; Is Still A Bar Complaint Waiting To Happen appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 21:15:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Cities across US oppose Trump FCC plan to preempt local broadband rules</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/</guid>
+      <description>Cities defend permit requirements, say ISPs aren&amp;#x27;t building networks fast enough.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 22 Sep 2026 20:38:30 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting</title>
       <link>https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/</link>
@@ -4374,24 +4392,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Apple Removes Some Fees for App Developers in European Union</title>
-      <link>https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html</guid>
-      <description>The move followed a long battle with regulators over the company’s tight controls of its App Store.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 21:47:23 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case</title>
-      <link>https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/</guid>
-      <description>Asking AI to resolve your cases would still be a judicial act. The post Judicial Immunity Still Applies Even If The Judge Let AI Decide The Case appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 18 Aug 2026 20:48:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
