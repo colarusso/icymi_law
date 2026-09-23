@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:08:39 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:09:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yes, It's Already Illegal: Federal Criminal Prosecutions for AI-Generated Child Sexual Abuse Material, 2022-2025</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7474438</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7474438</guid>
+      <description>Generative artificial intelligence (AI) is now capable of creating realistic-looking images and videos with just a text prompt. This capacity has been mi&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 29 · likes: 60&lt;/small&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 06:09:16 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>When AI Tutors Speak: Evidence from a Randomized Field Experiment</title>
+      <link>https://arxiv.org/abs/2609.23958</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.23958</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5zwyygnkcdgblepvwused47/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Students increasingly study alongside generative artificial intelligence (AI), yet unguided access to fluent answers invites cognitive offloading, and there is little evidence on which configurations ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 10 · likes: 41&lt;/small&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 06:09:16 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5zwyygnkcdgblepvwused47/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5zwyygnkcdgblepvwused47/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Sparse Reward Subsystem in Large Language Models</title>
       <link>https://arxiv.org/abs/2602.00986</link>
@@ -459,26 +477,6 @@
       <pubDate>Sun, 06 Sep 2026 06:10:07 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfqlzizu3yqo2ttgjo6pdouh/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfqlzizu3yqo2ttgjo6pdouh/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Large-Language Models as a Cognitive Virus</title>
-      <link>https://arxiv.org/abs/2609.03344</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.03344</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A central consequence is the possibility of runaway dynamics: once a critical threshold is crossed, small increases in adoption can trigger rapid population-level shifts toward persistent dependence, with abrupt losses in cognitive competence. The same framework, however, identifies conditions for cognitive immunization, based on reducing transmission and facilitating reversibility. Our results highlight how LLM adoption may involve nonlinear collective transitions with important consequences for cognitive autonomy.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 06:10:07 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>FiMI Banking: A Sovereign Model for Indian Retail Banking</title>
-      <link>https://arxiv.org/abs/2609.03960</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.03960</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Banks need conversational systems that can answer product questions, assist customers with account-related requests, and operate safely within strict operational and regulatory constraints. General-purpose language models do not reliably meet these requirements. They fall short when a task requires…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 06:09:11 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
