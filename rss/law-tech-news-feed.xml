@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI and Anthropic bosses push UN for global terms on AI</title>
+      <link>https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>OpenAI&amp;#x27;s Sam Altman has called for risk evaluation standards, as have Anthropic&amp;#x27;s Dario Amodei and Hugging Face&amp;#x27;s Clement Delangue.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 23 Sep 2026 22:35:14 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Law Schools Can’t Decide Whether To Teach AI Or Pretend It Doesn’t Exist</title>
       <link>https://abovethelaw.com/2026/09/law-schools-cant-decide-whether-to-teach-ai-or-pretend-it-doesnt-exist/</link>
@@ -4372,16 +4382,6 @@
       <description>By Damien Charlotin, Yourhuman.ai There are scores of AI lawyers for humans. I want to make the case for a human lawyer for AI. In ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 20 Aug 2026 07:30:54 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Zuckerberg lied about concern for child safety, Meta whistleblower testifies at landmark trial</title>
-      <link>https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony</guid>
-      <description>Arturo Béjar, former Meta safety engineer, tells jury tech company was aware of products’ potential harm to childrenMeta has taken a “don’t ask, don’t tell” strategy when it comes to the safety of children on its social media platforms, according to a whistleblower who testified during a landmark trial against the company on Tuesday and Wednesday.Arturo Béjar, a former Meta safety engineer, told the jury that the company was aware of the harm its products caused children, which included its recommendations pushing content from sexual predators and violent and graphic images. He said he repeatedly raised the issue to various Facebook and Instagram executives but that they did little to resolve it. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 21:30:11 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/dfdacb8c90351f7903e02e7513428efc8033f6a2/415_0_4161_3328/master/4161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5748cd1c4b9b15ba10b459efc25743d8" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/dfdacb8c90351f7903e02e7513428efc8033f6a2/415_0_4161_3328/master/4161.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5748cd1c4b9b15ba10b459efc25743d8" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
