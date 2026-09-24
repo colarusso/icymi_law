@@ -5,8 +5,50 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:56:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia to investigate if OpenAI hack of government health website broke the law</title>
+      <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</guid>
+      <description>The incident is the first known breach to affect a government agency, and Australia&amp;#x27;s prime minister has vowed to hold OpenAI accountable.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 12:54:19 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>The Download: a bid to scrap the virtual wall and AI hits Climate Week</title>
+      <link>https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/</guid>
+      <description>This is today&amp;amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;amp;#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 12:10:00 +0000</pubDate>
+      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
+    </item>
+    <item>
+      <title>An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</title>
+      <link>https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/</guid>
+      <description>The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 10:46:56 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>Webinar: Why Context + Governance Will Shape Legal AI’s Future</title>
+      <link>https://www.artificiallawyer.com/2026/09/24/webinar-why-context-governance-will-shape-legal-ais-future/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/24/webinar-why-context-governance-will-shape-legal-ais-future/</guid>
+      <description>iManage is holding a live webinar on October 8 at 10AM ET / 3PM UK time, to explore how ‘Context and Governance Will Shape Legal ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 07:40:05 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>The Human Clipboard: Closing the Operational Gap in Legal AI</title>
+      <link>https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/</guid>
+      <description>By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 06:40:21 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>OpenAI and Anthropic bosses push UN for global terms on AI</title>
       <link>https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4339,48 +4381,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/ex-eigen-team-raises-20m-seed-for-twin1/</guid>
       <description>Twin1 has come out of stealth with a $20m Seed round co-led by Bessemer Venture Partners, among others, to develop digital twins for lawyers. It’s ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 20 Aug 2026 14:30:10 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Their cities dropped Flock surveillance cameras. They’re still being watched</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/aug/20/flock-cameras-surveillance</guid>
-      <description>Despite policy victories over Flock, Americans are finding themselves under similar monitoring by a new company – or unable to remove the original camerasActivists in Colorado thought they would be celebrating a victory against mass surveillance in December when the Longmont city council decided to let a contract with Flock Safety lapse.But that excitement was cut short only months later when lawmakers voted to approve a new vendor to install automated license plate readers (ALPRs) on the city’s streets. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 13:00:53 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/4600a06999d0e6133feea6bdfe3adf1a07faeb6e/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1271a40c0a1a99e8420893352a1cc1b7" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/4600a06999d0e6133feea6bdfe3adf1a07faeb6e/683_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1271a40c0a1a99e8420893352a1cc1b7" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>NetDocuments Adds Tabular Review and Automatic Extraction of Legal Authorities to Its Platform</title>
-      <link>https://www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/netdocuments-adds-tabular-review-and-automatic-extraction-of-legal-authorities-to-its-platform.html</guid>
-      <description>The document management company NetDocuments today announced two additions to its platform&amp;amp;#8217;s AI capabilities. One, Tabular Review, is a tool that lets users analyze collections of documents in a structured table. The other, Legal Authorities, automatically extracts case citations from documents as they are saved to the platform and links them to the full case [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 13:00:42 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>NetDocuments Goes After M&amp;A Due Diligence</title>
-      <link>https://www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/netdocuments-goes-after-ma-due-diligence/</guid>
-      <description>NetDocuments is now making it clear to the market that it absolutely isn’t ‘just a DMS’ any longer. Its latest foray into the wider world ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 12:25:47 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Avvoka Partners With Harvey, Launches Curate For Templates</title>
-      <link>https://www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/avvoka-partners-with-harvey-launches-curate-for-templates/</guid>
-      <description>Avvoka, the drafting automation platform, has formed a partnership with Harvey, and it’s also just launched ‘Curate’, which ‘turns a law firm&amp;amp;#8217;s transaction documents into ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 09:04:58 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>A Lawyer for AI Agents</title>
-      <link>https://www.artificiallawyer.com/2026/08/20/a-lawyer-for-ai-agents/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/a-lawyer-for-ai-agents/</guid>
-      <description>By Damien Charlotin, Yourhuman.ai There are scores of AI lawyers for humans. I want to make the case for a human lawyer for AI. In ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 07:30:54 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
