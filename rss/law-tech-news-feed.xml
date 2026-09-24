@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 08:56:48 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything is spying on you and there&amp;#8217;s no opting out</title>
+      <link>https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance</guid>
+      <description>Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever&amp;#x27;s going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the features, especially in nonpublic spaces and states [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 13:30:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Australia to investigate if OpenAI hack of government health website broke the law</title>
       <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</link>
@@ -4374,14 +4382,6 @@
       <description>[Sponsored] Stop by Booth 575 to see what an open approach to legal technology can look like. The post Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 20 Aug 2026 14:45:04 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Ex-Eigen Team Raises $20m Seed For Twin1</title>
-      <link>https://www.artificiallawyer.com/2026/08/20/ex-eigen-team-raises-20m-seed-for-twin1/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/ex-eigen-team-raises-20m-seed-for-twin1/</guid>
-      <description>Twin1 has come out of stealth with a $20m Seed round co-led by Bessemer Venture Partners, among others, to develop digital twins for lawyers. It’s ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 14:30:10 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
