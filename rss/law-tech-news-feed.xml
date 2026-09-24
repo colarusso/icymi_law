@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 15:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Antitrust Problem With Meta’s Settlement With The States</title>
+      <link>https://www.techdirt.com/2026/09/24/the-antitrust-problem-with-metas-settlement-with-the-states/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/09/24/the-antitrust-problem-with-metas-settlement-with-the-states/</guid>
+      <description>Originally published as an op-ed in The Mercury News. Republished here with permission from the author. Meta’s settlement with the state attorneys general (currently awaiting court approval) has been touted as industry-redefining. Indeed, Meta desperately hopes it will be. Although Meta was the only industry player to negotiate its terms, the settlement agreement is structured [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 20:09:54 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human</title>
       <link>https://abovethelaw.com/2026/09/biglaws-latest-ai-strategy-teach-lawyers-how-to-be-human/</link>
@@ -4374,14 +4382,6 @@
       <description>Law practice company Clio said today that it is bringing AI to Clio Grow, its client intake and relationship management product. Clio describes the new Grow AI as a set of features within Grow &amp;amp;#8220;that work around the clock to turn inquiries into clients.&amp;amp;#8221; The product — available only in the U.S. for now — [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 20 Aug 2026 17:10:26 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Law Firms Are Getting Faster With AI. Are They Getting Better At Growth?</title>
-      <link>https://abovethelaw.com/2026/08/law-firms-are-getting-faster-with-ai-are-they-getting-better-at-growth/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/law-firms-are-getting-faster-with-ai-are-they-getting-better-at-growth/</guid>
-      <description>[Sponsored] This is the first article in a three-part series examining why connecting the practice of law and the business of law is becoming one of the defining strategic questions of the AI era. The post Law Firms Are Getting Faster With AI. Are They Getting Better At Growth? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 17:00:49 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
