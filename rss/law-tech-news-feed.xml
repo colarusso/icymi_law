@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 11:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biglaw Firm Claims Employee Was ‘Deceived’ Into Sending Client Documents To Hacker</title>
+      <link>https://abovethelaw.com/2026/09/biglaw-firm-claims-employee-was-deceived-into-sending-client-documents-to-hacker/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/biglaw-firm-claims-employee-was-deceived-into-sending-client-documents-to-hacker/</guid>
+      <description>A fake IT help desk request exposed sensitive client information. The post Biglaw Firm Claims Employee Was &amp;amp;#8216;Deceived&amp;amp;#8217; Into Sending Client Documents To Hacker appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 16:17:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>The vibes are bad for Flock in Washington</title>
       <link>https://www.theverge.com/policy/1000005/flock-senate-hearing</link>
@@ -4374,14 +4382,6 @@
       <description>OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 20 Aug 2026 15:45:55 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Interview with Twin1 CEO Lewis Liu</title>
-      <link>https://www.artificiallawyer.com/2026/08/20/interview-with-twin1-ceo-lewis-liu/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/20/interview-with-twin1-ceo-lewis-liu/</guid>
-      <description>As part of the news about the official launch of Twin1 to build digital twins for lawyers, which has just raised $20m from several major ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 14:59:15 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
