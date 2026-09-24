@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The vibes are bad for Flock in Washington</title>
+      <link>https://www.theverge.com/policy/1000005/flock-senate-hearing</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1000005/flock-senate-hearing</guid>
+      <description>Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its &amp;quot;AI Surveillance Network&amp;quot; on Wednesday. &amp;quot;There&amp;#x27;s many players in this industry, but there&amp;#x27;s one name that really stands out above the rest, and that is Flock,&amp;quot; Senate Judiciary crime and counterterrorism subcommittee chair [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 14:15:05 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Everything is spying on you and there&amp;#8217;s no opting out</title>
       <link>https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance</link>
@@ -4374,14 +4382,6 @@
       <description>As part of the news about the official launch of Twin1 to build digital twins for lawyers, which has just raised $20m from several major ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 20 Aug 2026 14:59:15 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work</title>
-      <link>https://abovethelaw.com/2026/08/meet-me-at-iltacon-neostella-case-management-for-how-firms-actually-work/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/meet-me-at-iltacon-neostella-case-management-for-how-firms-actually-work/</guid>
-      <description>[Sponsored] Stop by Booth 575 to see what an open approach to legal technology can look like. The post Meet Me At ILTACON: Neostella, Case Management For How Firms Actually Work appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 14:45:04 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
