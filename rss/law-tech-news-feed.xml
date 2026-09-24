@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 13:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Op-Ed: Meta’s $5 Billion Deal with the State AGs to Take Down its Rivals</title>
+      <link>https://blog.ericgoldman.org/archives/2026/09/op-ed-metas-5-billion-deal-with-the-state-ags-to-take-down-its-rivals.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/09/op-ed-metas-5-billion-deal-with-the-state-ags-to-take-down-its-rivals.htm</guid>
+      <description>[This op-ed was first published by the San Jose Mercury News on Sept. 18, 2026.] Meta’s settlement with the state attorneys general has been touted as industry-redefining. Indeed, Meta desperately hopes it will be. Although Meta was the only industry... The post Op-Ed: Meta’s $5 Billion Deal with the State AGs to Take Down its Rivals appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 17:56:14 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>Biglaw Firm Claims Employee Was ‘Deceived’ Into Sending Client Documents To Hacker</title>
       <link>https://abovethelaw.com/2026/09/biglaw-firm-claims-employee-was-deceived-into-sending-client-documents-to-hacker/</link>
@@ -4374,14 +4382,6 @@
       <media:content url="https://www.eff.org/files/banner_library/social-media-2026-2.gif" medium="image" type="image/gif" />
       <enclosure url="https://www.eff.org/files/banner_library/social-media-2026-2.gif" type="image/gif" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>It’s Greg Brockman’s OpenAI now</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion</guid>
-      <description>OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 15:45:55 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
