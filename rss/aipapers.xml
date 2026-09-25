@@ -5,8 +5,68 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 06:09:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:08:42 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Characterizing Universal Object Representations Across Vision Models</title>
+      <link>https://arxiv.org/abs/2605.13675</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.13675</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ceiesovhvnyepj43ynetoxrz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Deep neural networks trained with different architectures, objectives, and datasets have been reported to converge on similar visual representations. However, what remains unknown is which visual prop...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ceiesovhvnyepj43ynetoxrz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ceiesovhvnyepj43ynetoxrz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval</title>
+      <link>https://arxiv.org/abs/2609.27213</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.27213</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Open-ended queries in modern Retrieval-Augmented Generation (RAG) are increasingly &amp;quot;diffuse,&amp;quot; requiring a large set of documents to be assembled into a finite LLM context window. To ensure retrieval q...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing</title>
+      <link>https://arxiv.org/abs/2609.25303</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25303</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models are increasingly deployed as course-specific tutors, but their usefulness depends on grounding in vetted instructional materials that are often revised mid-semester. Our prior work built a multimodal retrieval-augmented generation (RAG) system over an authentic machine learnin…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Beyond Accuracy: Community Perspectives on Machine Translation</title>
+      <link>https://arxiv.org/abs/2606.09655</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2606.09655</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rxwaqzy5c35v76ajrccydaua/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Despite remarkable progress in machine translation (MT), non-AI communities have raised growing concerns about MT systems, suggesting a noticeable gap between technical advancement and the needs of re...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rxwaqzy5c35v76ajrccydaua/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rxwaqzy5c35v76ajrccydaua/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>JEV-as-a-Judge: Accept When Confident, Escalate When Unsure</title>
+      <link>https://arxiv.org/abs/2609.26550</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.26550</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:guiqa7we62adfg3bsx6vlbpt/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLM-as-a-judge enables evaluation across diverse tasks, but inference cost and confidence reliability become critical at scale. We study whether a decision-only judge can provide an economical first p...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:guiqa7we62adfg3bsx6vlbpt/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:guiqa7we62adfg3bsx6vlbpt/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>LingLan: An Advancing Traditional Chinese Medicine Diagnosis LLM with Multimodal Data</title>
+      <link>https://arxiv.org/abs/2609.25715</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25715</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Though artificial intelligence (AI) increasingly transforms modern medicine, its integration into Traditional Chinese Medicine (TCM) has been relatively slow, primarily due to TCM&amp;#x27;s reliance on holistic, subjective diagnostic methods---namely Inspection, Auscultation and Olfaction, Inquiry, and Pal…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Yes, It's Already Illegal: Federal Criminal Prosecutions for AI-Generated Child Sexual Abuse Material, 2022-2025</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7474438</link>
@@ -417,66 +477,6 @@
       <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>A Disproof of Large Language Model Consciousness: The Necessity of Continual Learning for Consciousness</title>
-      <link>https://arxiv.org/abs/2512.12802</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2512.12802</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Scientific theories of consciousness should be falsifiable and non-trivial. Recent research has given us formal tools to analyze these requirements of falsifiability and non-triviality for theories of...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eheolvrmn7vchwe3n5bclsej/bafkreid2igg2nszsqfcgmgodcyiwambgidqap7cyjdwjqqwhk5dr2i4hsa" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Representation of syntax in LLMs through the lens of linear distance and similarity-aware entropy</title>
-      <link>https://arxiv.org/abs/2608.27813</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2608.27813</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vktsaojvisoeq5t73qd6tgk5/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Structural probes were introduced by Hewitt and Manning to reconstruct syntactic trees from a neural language model&amp;#x27;s latent representations. They are evaluated by calculating the proportion of syntac...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 06:08:56 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vktsaojvisoeq5t73qd6tgk5/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vktsaojvisoeq5t73qd6tgk5/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Course design in the age of AI</title>
-      <link>https://arxiv.org/abs/2607.18735</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2607.18735</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihgqjzzch36cny2v3mrsfdzvwbko6mmpxyqm6enbds6vlnjyjjqea" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Course design in the age of AI&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 3 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:09:06 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihgqjzzch36cny2v3mrsfdzvwbko6mmpxyqm6enbds6vlnjyjjqea" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihgqjzzch36cny2v3mrsfdzvwbko6mmpxyqm6enbds6vlnjyjjqea" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Symptom clusters in Long COVID in the UK: prospective community-based cohort study using unsupervised machine learning</title>
-      <link>https://arxiv.org/abs/2609.05213</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.05213</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlt4hjzdzkkmxc3m4y2nhat2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Long COVID is a condition usually defined by persisting symptoms following infection by the SARS-CoV-2 virus beyond the acute phase of infection. The condition has a significant impact on healthcare s...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 06:08:04 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlt4hjzdzkkmxc3m4y2nhat2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vlt4hjzdzkkmxc3m4y2nhat2/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation</title>
-      <link>https://arxiv.org/abs/2609.03407</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.03407</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;People increasingly turn to large language models (LLMs) for everyday advice, making ethically charged interpersonal problems a practical moral-advisory context. Most prior work has studied this context through single-turn judgments or pressure-laden rebuttals, assumptions that poorly match how gui…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 06:08:04 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Identifying AI Web Scrapers Using Canary Tokens</title>
-      <link>https://arxiv.org/abs/2605.13706</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.13706</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfqlzizu3yqo2ttgjo6pdouh/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;From pre-training to query-time augmentation, web-scraped data helps to improve the quality and contextual relevancy of content generated by large language models (LLMs). However, large-scale web scra...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 4 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 06:10:07 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfqlzizu3yqo2ttgjo6pdouh/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sfqlzizu3yqo2ttgjo6pdouh/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
