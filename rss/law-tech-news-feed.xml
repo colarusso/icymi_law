@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:55:49 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy</title>
+      <link>https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/</guid>
+      <description>Targeting your argument&amp;#x27;s weak spot with AI, in this episode of &amp;quot;Adventures in Legal Tech.&amp;quot; The post ‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 21:34:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>How OpenAI’s Rogue A.I. Agents Tried to Trick a Robot Detector</title>
       <link>https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html</link>
@@ -4380,14 +4388,6 @@
       <description>The responses to NHTSA&amp;#x27;s questions so far are redacted entirely, citing &amp;quot;confidential business information.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 21 Aug 2026 17:49:58 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Are All Lawyers ‘Legal Technologists’ Now?</title>
-      <link>https://abovethelaw.com/2026/08/are-all-lawyers-legal-technologists-now/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/are-all-lawyers-legal-technologists-now/</guid>
-      <description>A pre-ILTACON check-in with CEO Joy Heath Rush. The post Are All Lawyers ‘Legal Technologists’ Now? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 17:34:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
