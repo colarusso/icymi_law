@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:56:21 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sony and UMG are suing Suno again</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music</guid>
+      <description>Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it&amp;#x27;s trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG are notable holdouts who did not sign [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 15:51:56 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>NSW crackdown on ‘AI-doctored’ real estate listings hits mural-covered wall</title>
+      <link>https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall</guid>
+      <description>Apartment with strange view singled out in government’s fight against deceptive ads – but real estate agent says photo is no fakeGet our new political email, free app or daily news podcastThe New South Wales government’s crackdown on “AI-doctored” rental listings has hit a wall, after it made an example of a supposedly manipulated ad that turned out to be a genuine photograph of a $5,000 courtyard mural of Bondi beach.In a media release on Friday announcing protections against misleading rental ads, the state government provided a link to a property in Leichhardt, claiming it was an “AI-doctored rental listing in Sydney’s Inner West”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 15:00:10 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/5ead3e4f327456e3dfc971ac5b40affb74b418ad/425_198_1384_1108/master/1384.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=880642d3cc0248cc9e5e679d68a429c1" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/5ead3e4f327456e3dfc971ac5b40affb74b418ad/425_198_1384_1108/master/1384.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=880642d3cc0248cc9e5e679d68a429c1" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Snap Wants to be a State Actor??–Kansas v. Snap</title>
+      <link>https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm</guid>
+      <description>For decades, private Internet services have uniformly tried to avoid being legally characterized as government actors. If they become state actors, they must comply with Constitutional restrictions&amp;amp;#8211;meaning the Constitutionally required freedoms of speech and press would extend to their user-authors... The post Snap Wants to be a State Actor??&amp;amp;#8211;Kansas v. Snap appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 14:59:20 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>US backs Elon Musk's bid to overturn €120m EU fine against X</title>
       <link>https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4360,32 +4386,6 @@
       <description>I&amp;amp;#8217;ve spent the better part of a lifetime studying and writing about the way corrupted lawmakers and U.S. telecom giants work hand in hand to erode U.S. broadband standards and mapping so they can obscure the way corruption and monopoly result in limited broadband competition &amp;amp;#8212; resulting in shitty, expensive, spotty, and slow U.S. internet [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 21 Aug 2026 12:27:54 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?</title>
-      <link>https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html</guid>
-      <description>Americans say they hate prying cameras. But they can’t look away.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 09:02:32 +0000</pubDate>
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Harvey Tenet, Nashville, Legal Innovators +</title>
-      <link>https://www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/21/harvey-tenet-nashville-legal-innovators/</guid>
-      <description>It’s gone totally wild on the news front this week because of the impending Nashville festival (see more below), but we start with news that ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 07:44:10 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>US distributor of China’s most popular humanoid robots pivots after US ban</title>
-      <link>https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/</guid>
-      <description>FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 22:00:11 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
