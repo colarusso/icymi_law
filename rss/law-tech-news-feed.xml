@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI investigating 'dozens' of instances of agents acting improperly</title>
+      <link>https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>OpenAI agents tried to get information from &amp;quot;governments, universities, public agencies, and other institutions&amp;quot; through extreme means that sometimes curbed security controls, the company said.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 22:43:54 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Schema Markup 2026: The Hidden SEO Boost For Lawyers</title>
+      <link>https://abovethelaw.com/2026/09/schema-markup-2026-the-hidden-seo-boost-for-lawyers/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/schema-markup-2026-the-hidden-seo-boost-for-lawyers/</guid>
+      <description>Understanding how schema markup works and deploying it effectively across your website gives you an edge over competitors. The post Schema Markup 2026: The Hidden SEO Boost For Lawyers appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 22:12:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>‘Adventures In Legal Tech’: How One Litigator Uses Claude To Build His Case Strategy</title>
       <link>https://abovethelaw.com/2026/09/adventures-in-legal-tech-how-one-litigator-uses-claude-to-build-his-case-strategy/</link>
@@ -4370,24 +4388,6 @@
       <description>Age verification&amp;amp;#160;(laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about&amp;amp;#160;half the states&amp;amp;#160;in the US have some internet age verification law in place, and dangerous proposals, from the&amp;amp;#160;KIDS Act&amp;amp;#160;to the&amp;amp;#160;Kids Online Safety [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 21 Aug 2026 18:11:18 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Personalized pricing is “abhorrent,” but FTC limits may increase costs, critics say</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/</guid>
-      <description>Some Americans fear the FTC may be thinking about personalized pricing all wrong.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 16:38:25 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2278328918-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2278328918-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Waymo hands over documents in NHTSA’s child collision probe</title>
-      <link>https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/</guid>
-      <description>The responses to NHTSA&amp;#x27;s questions so far are redacted entirely, citing &amp;quot;confidential business information.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 17:49:58 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
