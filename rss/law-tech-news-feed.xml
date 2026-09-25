@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2026 19:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures</title>
+      <link>https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats</guid>
+      <description>Meta&amp;#x27;s lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens&amp;#x27; safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 24 Sep 2026 23:50:55 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>U.S. Intercedes for Elon Musk’s X Over European Fine</title>
       <link>https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html</link>
@@ -4376,14 +4384,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Australia says Roblox hasn&amp;#8217;t fixed its child predator problem</title>
-      <link>https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety</guid>
-      <description>Roblox is promising more changes to its child safety features following testing from Australia&amp;#x27;s online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn&amp;#x27;t been in compliance with Australia&amp;#x27;s Online Safety Act, including &amp;quot;allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16. While [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 20 Aug 2026 17:42:34 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
