@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 14:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Overviews Are Not Facts (per Google)</title>
+      <link>https://buttondown.com/LawyerExMachina/archive/ai-overviews-are-not-facts-per-google/</link>
+      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/ai-overviews-are-not-facts-per-google/</guid>
+      <description>AI Google is facing a defamation suit in federal court, over an AI overview summary that erroneously wrote that the plaintiff was “serving a life sentence without parole for the murders of three women”; Google’s motion to dismiss, arguing that “the AI Overviews are not statements of factbecause they are merely summaries that are susceptible to error,” was denied in part, allowing the case to continue [Above the Law | Keene v. Google Docket | Memorandum Opinion and Order]From the National Law Review: “The Fifth Circuit Warned Lawyers to Verify Citations, Then Cited the Wrong Rule Itself”More reports of hacking attempts by OpenAI AI agents against actual websites, including two Australian government sites, a digital library at the University of New Mexico, and a data visualization site of U.S. public data [NY Times ($) | TechCrunch | The Guardian ($)Venture capital firm Andreessen Horowitz is investing in a 2-year academy that will focus on “AI-native” education as an alternative to traditional undergraduate studies [WSJ ($) | TechCrunch | HA blog post]Legal geeks/quants seem excited about a new AI model called Jev, which provides AI-based classification to the masses … I think [ The Geek in Review (Substack) | Integrated Cognition | Explainer video (ed3d dot net) | AI for Legal Education] Cybersecurity From Wired [$]: “A tidal wave of vulnerabilities uncovered using AI has only accelerated in recent months—piling more pressure on under-resourced, and very human, IT and security teams and straining volunteers who maintain crucial open source software”A hacker group announced that it has breached FBI servers and gathered sensitive personnel information from the bureau, including names, job titles, contact and address data for current and former employees; the breach also includes members of the FBI’s own hacking unit [NYT ($) | 404 Media($): Initial hack &amp;amp;amp; hacking unit | PBS Newshour] Privacy Discord has initiated what it called its “age assurance solutions” that estimates the age groups of users based on user activity [Discord blog post]Meta introduced new smart glasses with audio features but no camera [BBC | Engadget | The Verge ($)] Miscellaneous From CNBC: “Kalshi asks CFTC to allow margin trading on its platform, letting users buy with borrowed funds” Long Reads Michael Ridley, Artificial Research Intelligence: Autonomously AI-Generated Science and the Implications for Research Libraries, 45 Information Technology and Libraries 3,(2026), https://doi.org/10.5860/ital.v45i3.17706&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 18:58:45 +0000</pubDate>
+      <source url="https://buttondown.com">buttondown.com</source>
+    </item>
+    <item>
+      <title>Trump administration takes Musk’s side in fight over EU tech rules</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/</guid>
+      <description>Washington says Brussels overreached when it fined X €120 million under the DSA.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 25 Sep 2026 13:45:49 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>OpenAI Accuses Plaintiffs’ Lawyers Of Paying For, Hiding, And Then Laundering Sketchy Key Evidence In AI Copyright Case</title>
       <link>https://www.techdirt.com/2026/09/25/openai-accuses-plaintiffs-lawyers-of-paying-for-hiding-and-then-laundering-sketchy-key-evidence-in-ai-copyright-case/</link>
@@ -4370,24 +4388,6 @@
       <media:content url="https://www.eff.org/files/banner_library/whyfacebanner.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/whyfacebanner.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Waymo doubles spending on lobbying in robotaxi battle with Uber</title>
-      <link>https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/</link>
-      <guid isPermaLink="true">https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/</guid>
-      <description>Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 13:11:35 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy</title>
-      <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</guid>
-      <description>The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 14:39:24 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
