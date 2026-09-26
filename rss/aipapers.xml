@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 06:08:42 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:09:27 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scoring Grant Applications with Large Language Models</title>
+      <link>https://arxiv.org/abs/2609.25327v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25327v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rl2szulxujlgdcmx4avx7jyn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Purpose: Assessing grant applications is time-consuming and difficult, adding to the overall burden of academic peer review. Whilst funders are exploring whether AI can help, there is no published res...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 06:09:27 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rl2szulxujlgdcmx4avx7jyn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rl2szulxujlgdcmx4avx7jyn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>CRISS: A Retrieval-Augmented AI Chatbot for Assisting Cancer Registrars</title>
+      <link>https://arxiv.org/abs/2609.29075</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.29075</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Cancer registrars, including Oncology Data Specialists (ODSs), must interpret complex and frequently updated coding and staging standards. We developed CRISS (Cancer Registry Intelligent Support System), a retrieval-augmented generation (RAG) conversational assistant that provides rapid, citation-s…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 06:09:27 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Characterizing Universal Object Representations Across Vision Models</title>
       <link>https://arxiv.org/abs/2605.13675</link>
@@ -457,26 +477,6 @@
       <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigpbjfuvbricnm5k4whmat5li5thizmgc2nyqfbqmjmqi4z5lnqk4" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreigpbjfuvbricnm5k4whmat5li5thizmgc2nyqfbqmjmqi4z5lnqk4" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Building Trustworthy Graph-Agentic RAG for Social Good: Architectures, Failure Propagation, and Assurance by Construction</title>
-      <link>https://arxiv.org/abs/2609.06391</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.06391</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zugrq46reu5aoeyd2wlb7bv7/bafkreieonxdg3mpl7m7br77wvu4l6dmxm2ff7gvm7wpaad2fenh6tametm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Graph-agentic retrieval-augmented generation combines structured evidence with adaptive controllers that can plan retrieval, traverse relations, verify intermediate claims, delegate subtasks, and use&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zugrq46reu5aoeyd2wlb7bv7/bafkreieonxdg3mpl7m7br77wvu4l6dmxm2ff7gvm7wpaad2fenh6tametm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zugrq46reu5aoeyd2wlb7bv7/bafkreieonxdg3mpl7m7br77wvu4l6dmxm2ff7gvm7wpaad2fenh6tametm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Bridging the Semantic-Utility Gap in Multimodal RAG via Generator-in-the-Loop Alignment</title>
-      <link>https://arxiv.org/abs/2609.08188</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.08188</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Vision-language models (VLMs) augmented with retrieval-augmented generation (RAG) benefit from access to external evidence. However, standard retrievers and rerankers optimize for semantic similarity rather than answer utility, creating a preference gap: documents that appear relevant may not help …&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
