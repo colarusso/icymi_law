@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 10:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:55:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fifth Circuit Does Fifth Circuit Things in Copyright Embedding Case–Emmerlich v. Particle</title>
+      <link>https://blog.ericgoldman.org/archives/2026/09/the-fifth-circuit-does-fifth-circuit-things-in-copyright-embedding-case-emmerlich-v-particle.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/09/the-fifth-circuit-does-fifth-circuit-things-in-copyright-embedding-case-emmerlich-v-particle.htm</guid>
+      <description>Here is a real-time video of me trying to read any new Fifth Circuit opinion on Internet Law: Odds are that the outcome will be terrible; and even if not, the reasoning will be 100% cringe. * * * This... The post The Fifth Circuit Does Fifth Circuit Things in Copyright Embedding Case&amp;amp;#8211;Emmerlich v. Particle appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 14:24:37 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village</title>
       <link>https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land</link>
@@ -4382,14 +4390,6 @@
       <description>Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 21 Aug 2026 20:25:21 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>The week the data center backlash exploded</title>
-      <link>https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan</link>
-      <guid isPermaLink="true">https://www.vox.com/today-explained-newsletter/500158/data-centers-2026-election-texas-ohio-michigan</guid>
-      <description>This story appeared in&amp;amp;#160;Today, Explained,&amp;amp;#160;a daily newsletter that helps you understand the most compelling news and stories of the day.&amp;amp;#160;Subscribe here. Do the words “data center” make you want to drop everything and call your congressional representative? You’re not alone, if we judge the nation’s mood by the actions of politicians who poll-test what they [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 20:15:00 +0000</pubDate>
-      <source url="https://www.vox.com">www.vox.com</source>
     </item>
   </channel>
 </rss>
