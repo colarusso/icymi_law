@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 20:55:47 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</guid>
+      <description>Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on SundayBill Gates has called on the US’s federal legislators and law enforcers to regulate the development of artificial intelligence (AI), saying in an interview airing on Sunday that the technology left unchecked could cause “a billion deaths” and “no one thinks self-regulation is enough”.“You need law enforcement and the politicians to get into the discussion about what safeguards and monitoring look like,” the Microsoft co-founder and philanthropist said to Kristen Welker, the NBC Meet the Press host. “And that has to be a required thing.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 09:00:01 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/d2aae42a2dc28cedd577d3fd2f184bc574dd9a83/0_0_2318_1855/master/2318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97afe3b0aa812cbfef571274d5bbc69c" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/d2aae42a2dc28cedd577d3fd2f184bc574dd9a83/0_0_2318_1855/master/2318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97afe3b0aa812cbfef571274d5bbc69c" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Apple hit with $5.7 billion in damages over haptic patents</title>
       <link>https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents</link>
@@ -4378,16 +4388,6 @@
       <description>I am so sorry, fellow US gadget fans: the FCC&amp;#x27;s drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 21 Aug 2026 22:14:11 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/</guid>
-      <description>Renters say hidden Zillow listings make it harder to afford living in New York City.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 20:10:50 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
