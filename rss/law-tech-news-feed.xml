@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 16:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia news live: Chalmers and Gallagher to present final budget outcome; RBA interest rate hike looms</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb</guid>
+      <description>Follow the day’s news liveGet our breaking news email, free app or daily news podcastFinance minister says OpenAI breach herald of a ‘new world’Katy Gallagher, the federal minister for government services, is speaking this morning about the OpenAI breach of Medicare, saying we are essentially “in a new world” with the brisk advancement of technology.I think this incident really adds weight to the arguments that the PM that has been putting forward about needing to legislate, to provide some protections, some guardrails, and also, you know, have an escalation pathway.I mean, the idea that something happened in June 18th and we weren’t aware of it until the 2nd week of September is just not acceptable.I think we have to have a look at this incident and deal with it on its merits, but the broader question of how we deal with these in the future. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 27 Sep 2026 21:47:42 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/a1f4b3035cc43c52775967b52d4bf5fa7245f8b4/1266_754_5164_4131/master/5164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=454d73dc657a1b7e06b37df52fdae2b6" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/a1f4b3035cc43c52775967b52d4bf5fa7245f8b4/1266_754_5164_4131/master/5164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=454d73dc657a1b7e06b37df52fdae2b6" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation</title>
       <link>https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</link>
@@ -4380,14 +4390,6 @@
       <description>Consider visiting with an experienced law firm marketing agency that understands SEO and AI, as well as understands the importance of legal accuracy and ethics compliance. The post How To Audit Your Law Firm Website For AI Readability appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 21 Aug 2026 22:33:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>HoverAir’s transforming modular drone has already been halted in the US</title>
-      <link>https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo</guid>
-      <description>I am so sorry, fellow US gadget fans: the FCC&amp;#x27;s drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 21 Aug 2026 22:14:11 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
