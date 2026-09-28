@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 09:56:15 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:56:40 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mitratech Buys BotDojo For Agent Orchestration</title>
+      <link>https://www.artificiallawyer.com/2026/09/28/mitratech-buys-botdojo-for-agent-orchestration/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/28/mitratech-buys-botdojo-for-agent-orchestration/</guid>
+      <description>Mitratech Legal has bought BotDojo, a small startup focused on agent orchestration. It will become part of the far larger company’s ARIES AI offering, they ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 14:34:09 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>When AI Gets Medicine Wrong, Who’s Liable?</title>
+      <link>https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/</link>
+      <guid isPermaLink="true">https://medcitynews.com/2026/09/when-ai-gets-medicine-wrong-whos-liable/</guid>
+      <description>As AI technology in healthcare becomes more deeply involved in the complex, high-stakes tasks of diagnosis and treatment planning, traditional lines of accountability will become less clear. Where does the buck stop for AI-supported medical care? The post When AI Gets Medicine Wrong, Who’s Liable? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 14:03:00 +0000</pubDate>
+      <source url="https://medcitynews.com">medcitynews.com</source>
+    </item>
+    <item>
+      <title>Morning Docket: 09.28.26</title>
+      <link>https://abovethelaw.com/2026/09/morning-docket-09-28-26/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/morning-docket-09-28-26/</guid>
+      <description>* Clients want Biglaw to start handing out AI discounts, managing to display ignorance of how both AI and lawyers operate. [NY Times] * Chicago federal prosecutor&amp;#x27;s retirement letter lays into Trump administration boss for setting her up with botched prosecution. [ABC News] * Trump goes on tirade after Supreme Court rejects Missouri gerrymander for the third time. [The Hill] * But, the Supreme Court also said Trump can do a little arbitrary voter disenfranchisement as a treat. [Courthouse News Service] * McClatchy is gutting its newsrooms, eviscerating local court coverage. [Court Watch] * Law firms training AI to act human. AI now capable of waiting until they&amp;#x27;re allowed to expense dinner before doing real work. [Reuters] * Law school grades prove excellent predictor of bar passage says Department of Obvious study. [ABA Journal] * Patent verdict takes $5.7 billion bite out of Apple. [Law360] * FBI removes counterintelligence officers for not moving fast enough on alleged threats received by Stephen Miller&amp;#x27;s wife. [Bloomberg Law News] The post Morning Docket: 09.28.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 12:54:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>The Download: rogue agent liability and the AI Hype Index</title>
       <link>https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/</link>
@@ -4366,30 +4390,6 @@
       <description>Interesting paper: Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process of façading: Entrepreneurs construct, perform, and protect illusory appearances (façades) that externally project high-growth performance to audiences while masking ventures’ actual underperformance. We identify three forms of façading&amp;amp;#8212;­surface, reinforced, and deep façading­&amp;amp;#8212;that are contingent on the severity of the gap that entrepreneurs face between audiences’ performance expectations and ventures’ performance reality. Our theoretical framework captures how entrepreneurs facing minor, wide, and extreme expectation-reality gaps engage in evermore sophisticated efforts to detach the venture’s externally projected appearance from its actual operational reality. Practically, we propose several approaches to deter and detect criminal deception, including the extension of U.S. Securities and Exchange Commission surveillance and whistleblower program, investor due diligence reform, and dedicated entrepreneurship education interventions that clearly demarcate when entrepreneurs transgress into criminal deception. We make contributions to literatures on cultural entrepreneurship, organizational wrongdoing, and the social effects of entrepreneurship. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 24 Aug 2026 10:38:29 +0000</pubDate>
       <source url="https://www.schneier.com">www.schneier.com</source>
-    </item>
-    <item>
-      <title>Legal AI Works, Why Is the Return So Hard to Find?</title>
-      <link>https://www.artificiallawyer.com/2026/08/24/legal-ai-works-why-is-the-return-so-hard-to-find/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/24/legal-ai-works-why-is-the-return-so-hard-to-find/</guid>
-      <description>By Alejandro Castellano, CEO, Caddi. Two years ago the question in front of every management committee was whether the AI worked. That question is largely ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 06:45:24 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies — See Generally</title>
-      <link>https://abovethelaw.com/2026/08/chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-generally/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/chatgpt-experts-700-million-law-firms-and-frat-house-felonies-see-generally/</guid>
-      <description>Expertly Flawed: An expert witness collected $90,000 from 3M to ask ChatGPT, &amp;quot;show how 3M is 0% at fault.&amp;quot; Plaintiffs&amp;#x27; counsel turned the resulting 350-page prompt log into the deposition of a lifetime. Barbarians Inside The Gate: Wood Smith Henning &amp;amp;#38; Berman reportedly signed a letter of intent to sell a stake to Charlesbank Capital Partners at a roughly $700 million valuation, which would make it the largest private equity investment in an American law firm... so far. Indisputably Disputed: The DOJ told a court there&amp;#x27;s &amp;quot;no serious dispute&amp;quot; that &amp;quot;86 47&amp;quot; means a threat, even though everyone outside the White House orbit seriously disputes exactly that. Run For Your Licenses: A whistleblower disclosure sent to Congress describes DOJ civil rights attorneys leaving the antisemitism task force because staying might cost them their law licenses. Like Father, Like Son... Allegedly: A prominent Pittsburgh product liability lawyer was charged alongside his son in an alleged cocaine trafficking operation run out of Penn State fraternity houses. The son has since lost his $188,000 law school scholarship over it. Group Chat Privileges Revoked: A UK barrister was disbarred after WhatsApp messages saying a former employee belonged in a &amp;quot;mental asylum&amp;quot; with &amp;quot;restraints lol,&amp;quot; conduct an employment tribunal had already found amounted to harassment. The Piece Of Me Practice: Greenberg Traurig&amp;#x27;s Mathew Rosengart has become the go-to litigator for Britney Spears, FKA twigs, and now Selena Gomez, who tapped him to defend the fraud suit over her mental-health startup Wondermind. A Bow Too Far?: Legal commentators are split on whether the Lindsay Clancy prosecutor&amp;#x27;s daily hair bows are a tribute to one of the young victims or a courtroom optics problem headed for an appellate brief. The post ChatGPT Experts, $700 Million Law Firms, And Frat House Felonies &amp;amp;#8212; See Generally appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sun, 23 Aug 2026 22:57:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Uber faces fine of nearly $1B over automated driver suspensions</title>
-      <link>https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/</guid>
-      <description>The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sun, 23 Aug 2026 19:30:00 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
