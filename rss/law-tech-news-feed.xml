@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 16:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Will Expose How Little Legal Judgment Companies Have Made Explicit</title>
+      <link>https://abovethelaw.com/2026/09/ai-will-expose-how-little-legal-judgment-companies-have-made-explicit/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/ai-will-expose-how-little-legal-judgment-companies-have-made-explicit/</guid>
+      <description>Humans have been quietly compensating for this gap for years. AI will make it visible. The post AI Will Expose How Little Legal Judgment Companies Have Made Explicit appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 21:33:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Find Some Good Reads with My Textbook Explorer &amp; Reading List</title>
+      <link>https://www.ailawlibrarians.com/2026/09/28/find-some-good-reads-with-my-textbook-explorer-reading-list/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=find-some-good-reads-with-my-textbook-explorer-reading-list</link>
+      <guid isPermaLink="true">https://www.ailawlibrarians.com/2026/09/28/find-some-good-reads-with-my-textbook-explorer-reading-list/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=find-some-good-reads-with-my-textbook-explorer-reading-list</guid>
+      <description>A few weeks ago I finally made a personal website, and I&amp;amp;#8217;ve been gradually putting things up there. It started as something I made mostly for myself (kind of like how I&amp;amp;#8217;m the primary user for most of my favorite &amp;amp;#8230; Continue reading &amp;amp;#8594; The post Find Some Good Reads with My Textbook Explorer &amp;amp; Reading List first appeared on AI Law Librarians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.ailawlibrarians.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 18:30:00 +0000</pubDate>
+      <source url="https://www.ailawlibrarians.com">www.ailawlibrarians.com</source>
+    </item>
     <item>
       <title>EFF to San Francisco Police: Drones are Powerful Surveillance Tools That Require a Robust Policy</title>
       <link>https://www.eff.org/deeplinks/2026/09/eff-san-francisco-police-drones-are-powerful-surveillance-tools-require-robust</link>
@@ -4372,22 +4388,6 @@
       <description>The legal AI company Harvey and the court data company PacerPro have announced an integration partnership that gives litigation teams working in Harvey access to their firm&amp;amp;#8217;s complete litigation record, including the filings and case context from matters the firm has previously handled and those currently on the docket. PacerPro captures state and federal court [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Mon, 24 Aug 2026 16:11:46 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Newcode Raises $13.5m, Relativity Invests</title>
-      <link>https://www.artificiallawyer.com/2026/08/24/newcode-raises-13-5m-relativity-invests/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/24/newcode-raises-13-5m-relativity-invests/</guid>
-      <description>Newcode, a ‘configurable AI harness’ for law firms has raised $13.5m in its Series A, with Relativity’s investment arm Rel Labs joining the round. See ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 14:06:34 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>This Week In Epic News: FTC Probe, AI Agents &amp; More</title>
-      <link>https://medcitynews.com/2026/08/epic-ftc-agentic-ai/</link>
-      <guid isPermaLink="true">https://medcitynews.com/2026/08/epic-ftc-agentic-ai/</guid>
-      <description>Epic faced an FTC antitrust probe this past week, but that didn&amp;#x27;t stop the EHR giant from unveiling a wave of new AI tools at its annual conference. The post This Week In Epic News: FTC Probe, AI Agents &amp;amp;amp; More appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 14:02:00 +0000</pubDate>
-      <source url="https://medcitynews.com">medcitynews.com</source>
     </item>
   </channel>
 </rss>
