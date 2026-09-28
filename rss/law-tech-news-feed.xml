@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 10:56:40 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Report Finds More Lawyers Use AI, But For What Tasks?</title>
+      <link>https://abovethelaw.com/2026/09/new-report-finds-more-lawyers-use-ai-but-for-what-tasks/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/09/new-report-finds-more-lawyers-use-ai-but-for-what-tasks/</guid>
+      <description>Adoption is up, but digging into DISCO&amp;#x27;s Legal AI Report reveals the industry isn&amp;#x27;t giving it the most worrying work. The post New Report Finds More Lawyers Use AI, But For What Tasks? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 15:33:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>In A Marriage of Two ALSPs, Repario Acquires UnitedLex to Strengthen Its AI Offerings</title>
+      <link>https://www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/in-a-marriage-of-two-alsps-repario-acquires-unitedlex-to-strengthen-its-ai-offerings.html</guid>
+      <description>In a marriage of two alternative legal services providers, Repario, a company with a focus on e-discovery and managed review, has acquired UnitedLex, a global company that provides a broader range of services spanning legal process outsourcing, legal operations, litigation, IP, contracts and technology. Repario said that by blending its agility and innovation with the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 15:08:03 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Mitratech Buys BotDojo For Agent Orchestration</title>
       <link>https://www.artificiallawyer.com/2026/09/28/mitratech-buys-botdojo-for-agent-orchestration/</link>
@@ -4374,22 +4390,6 @@
       <description>LexisNexis Legal &amp;amp;#38; Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal professionals to move from an initial idea to review-ready work product in one intuitive AI experience. Branding it the LexisNexis Legal Intelligence Engine, the release [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Mon, 24 Aug 2026 12:00:03 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Welcome To ILTACON 2026! Today’s Agenda, From Keynote To Exhibit Hall Reception</title>
-      <link>https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception/</guid>
-      <description>ILTACON attendees and legal tech watchers: Here&amp;#x27;s a rundown of what&amp;#x27;s set for today in Nashville. The post Welcome To ILTACON 2026! Today&amp;amp;#8217;s Agenda, From Keynote To Exhibit Hall Reception appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 11:00:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Criminal Deception in Silicon Valley</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html</link>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html</guid>
-      <description>Interesting paper: Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process of façading: Entrepreneurs construct, perform, and protect illusory appearances (façades) that externally project high-growth performance to audiences while masking ventures’ actual underperformance. We identify three forms of façading&amp;amp;#8212;­surface, reinforced, and deep façading­&amp;amp;#8212;that are contingent on the severity of the gap that entrepreneurs face between audiences’ performance expectations and ventures’ performance reality. Our theoretical framework captures how entrepreneurs facing minor, wide, and extreme expectation-reality gaps engage in evermore sophisticated efforts to detach the venture’s externally projected appearance from its actual operational reality. Practically, we propose several approaches to deter and detect criminal deception, including the extension of U.S. Securities and Exchange Commission surveillance and whistleblower program, investor due diligence reform, and dedicated entrepreneurship education interventions that clearly demarcate when entrepreneurs transgress into criminal deception. We make contributions to literatures on cultural entrepreneurship, organizational wrongdoing, and the social effects of entrepreneurship. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 10:38:29 +0000</pubDate>
-      <source url="https://www.schneier.com">www.schneier.com</source>
     </item>
   </channel>
 </rss>
