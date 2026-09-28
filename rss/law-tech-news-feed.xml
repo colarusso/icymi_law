@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Driver Ticketed For No Insurance Despite Having Insurance Just Because Flock Said She Didn’t</title>
+      <link>https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/</guid>
+      <description>We&amp;amp;#8217;ve moved past cops doing stuff because a dog gave them permission to do it. Now, we&amp;amp;#8217;re at the post-truth era of policing, where cops will do stuff because a machine told them to do it. We already know ALPRs (automated license plate readers) generate false positives. And we know that these false positives can [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 16:16:04 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>New Report Finds More Lawyers Use AI, But For What Tasks?</title>
       <link>https://abovethelaw.com/2026/09/new-report-finds-more-lawyers-use-ai-but-for-what-tasks/</link>
@@ -4382,14 +4390,6 @@
       <description>LexisNexis is rolling out a united and frictionless agentic offering, which works with its Legal Intelligence Engine harness. This brings together its mass of legal ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 24 Aug 2026 12:02:01 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>LexisNexis Unveils ‘Legal Intelligence Engine,’ Rebuilding Protégé Around Dynamic Agentic Orchestration</title>
-      <link>https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/lexisnexis-unveils-legal-intelligence-engine-rebuilding-protege-around-dynamic-agentic-orchestration.html</guid>
-      <description>LexisNexis Legal &amp;amp;#38; Professional today announced what it is calling the next generation of Lexis+ with Protégé, its generative AI legal assistant, unveiling new agentic capabilities designed to enable legal professionals to move from an initial idea to review-ready work product in one intuitive AI experience. Branding it the LexisNexis Legal Intelligence Engine, the release [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 12:00:03 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
