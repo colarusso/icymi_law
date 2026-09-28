@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2026 06:09:24 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:08:28 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shutdown Sabotage Propensities in Multi-Agent Systems</title>
+      <link>https://arxiv.org/abs/2609.28274</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.28274</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The final safeguard against rogue AI behavior is the human ability to shut systems down. It has been theorized that when an AI is instructed to perform a task, self-preservation can emerge as an instr...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 2 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 06:08:28 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale</title>
+      <link>https://arxiv.org/abs/2609.22978</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22978</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large-scale agentic training and evaluation with large language models (LLMs) rely on isolated, stateful execution environments in which models inspect repositories, invoke tools, execute commands, and interact with task-specific services. These workloads create sandboxes in large bursts, span heterogeneous functionality and isolation requirements, retain state across long interactions, and draw from large image corpora with limited reuse. Supporting them therefore requires an elastic execution platform rather than a single sandbox runtime. This report presents DeepSeek Elastic Compute (DSec), a production sandbox platform that exposes FnCall, container, microVM, and full-VM sandbox backends through a unified SDK. DSec coordinates placement and lifecycle management across the cluster, composes environments from independently versioned layers, combines memory sharing, reclamation, and CPU scheduling for high-density execution, and loads image data on demand from Fire-Flyer File System&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 06:08:28 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>"As a Language Model...": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It</title>
+      <link>https://arxiv.org/abs/2609.25021</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.25021</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Models (LLMs) tend to add disclaimers like &amp;quot;I&amp;#x27;m just an AI&amp;quot; when asked about something related to themselves. The self-reports from such responses are used in debates about AI safety or self-knowledge of the models, yet what drives them is not well understood. Are the models telling us about themselves or rather how they are deployed? In this work, we show that the chat template works like a switch - when present, it turns this disclaimer voice up and experiential voice like &amp;quot;I feel&amp;quot; down, across 8 popular open-source instruct models up to 9B parameters in size. And conversely when the chat template is not present, it turns the disclaimer voice down and experiential voice up. Inside the activations of 3 models, we find a direction that steers this behavior. Removing the direction in the model&amp;#x27;s activation space turns disclaimer voice down and adding it turns it up, while a random direction of the same size has little effect. We find that instruct models without chat template, when we add the disclaimer direction to them, disclaim like the template was there. Since the chat template controls the disclaimer voice of LLMs, then researchers studying self-reports or introspection of models might have a confound they need to control for. Our results show that there is a direction they can use to steer this voice. More broadly, our work shows that what models say about themselves is not a fact about them. What they say doesn&amp;#x27;t come only from weights, but it is partially set by the chat template, and because of that a model&amp;#x27;s self-description shouldn&amp;#x27;t be treated literally.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 06:08:28 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Learning to Discover Interesting Mathematics</title>
       <link>https://arxiv.org/abs/2609.28603</link>
@@ -450,34 +480,6 @@
       <description>In considering how to tackle this onslaught of industrial AI, we must first recognize that the “advances” in AI celebrated over the past decade were not due to&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 8&lt;/small&gt;</description>
       <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>How Developers Discuss Generative AI: A Longitudinal Study of the Visual Studio Code Community</title>
-      <link>https://arxiv.org/abs/2609.04680</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.04680</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vjfgmxv67sil5nzb4iyd4wif/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative AI tools such as GitHub Copilot, ChatGPT, and coding agents have rapidly become part of everyday software development, yet little is known about how mainstream open source communities discuss them in practice. This paper presents a longitudinal analysis of generative-AI-related discussions in the Visual Studio Code (VS Code) GitHub repository, using 43,806 candidate issues created between January 2021 and June 2026. To improve corpus quality, we combined keyword retrieval with semantic relevance filtering, yielding a filtered corpus of 25,227 AI-related issues. We applied BERTopic to the retrieved corpus to identify discussion topics, using the filtered corpus for theme validation and a robustness re-clustering, and analyzed their evolution over time using monthly prevalence and Mann-Kendall trend tests. The results show that developer discussions are dominated by practical concerns regarding the operation of AI-assisted development environments, including agent management, configuration, reliability, authentication, and billing, whereas risks frequently emphasized in survey-based studies, such as hallucination and licensing, rarely surface in this venue. This suggests that discussions of generative AI in the VS Code issue tracker primarily focus on operational aspects of AI-assisted software development. Furthermore, discussions evolved from AI-assisted code completion toward conversational and agent-based development, reflecting the increasing integration of generative AI into software development workflows. These findings suggest that GitHub Issues provide a practical, workflow-oriented perspective on generative AI that complements survey-based studies of developer perceptions.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vjfgmxv67sil5nzb4iyd4wif/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vjfgmxv67sil5nzb4iyd4wif/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Compile by Training: Turning Natural-Language Specifications into Local Neural Functions</title>
-      <link>https://arxiv.org/abs/2609.04199v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.04199v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sgzwcbgta3lha4gmnwvkgvbb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Citing Less Critically: LLMs Reshape the Rhetoric and Reach of Scientific Citation</title>
-      <link>https://arxiv.org/html/2609.01432v1</link>
-      <guid isPermaLink="true">https://arxiv.org/html/2609.01432v1</guid>
-      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
