@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dutch police arrest ShinyHunters hacker accused of planning two murders</title>
+      <link>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</guid>
+      <description>Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 17:27:09 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed</title>
       <link>https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html</link>
@@ -4382,14 +4390,6 @@
       <media:content url="https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33bacfd9ebaf3225667b2a1e7bfc1e8d" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33bacfd9ebaf3225667b2a1e7bfc1e8d" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Pablo Arredondo, Casetext Cofounder and Legal AI Pioneer, Joins Clio to Lead Its Expansion into the Judiciary</title>
-      <link>https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/pablo-arredondo-casetext-cofounder-and-legal-ai-pioneer-joins-clio-to-lead-its-expansion-into-the-judiciary.html</guid>
-      <description>Pablo Arredondo, the Casetext cofounder who helped build some of the earliest and most influential applications of AI in legal practice, is joining Clio as senior vice president, judiciary, where he will lead the company&amp;amp;#8217;s strategy for extending its technology into the courts. The hiring marks Clio&amp;amp;#8217;s first dedicated move into the judiciary, an expansion [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 14:47:01 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
