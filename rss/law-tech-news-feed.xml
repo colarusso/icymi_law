@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries</title>
+      <link>https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries</guid>
+      <description>People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recognition to creepy ads that – based on what we see and do online – seem to know everything we’re thinking and planning. It didn’t have to be this way, and since the early days of the internet, a dedicated band of activists, lawyers and technologists have fought for a better, more secure and private digital future – a future that’s still attainable. Cindy Cohn, who just finished a 26-year run with the Electronic Frontier Foundation including 11 years as its executive director, has lived this fight. She says privacy isn’t just about secrecy: It&amp;#x27;s ultimately about power – who has it, and who has the ability to protect themselves from it. Welcome to the first episode of “Privacy’s Defenders,” a podcast about the people – lawyers, journalists, hackers, and others – who’ve fought to secure your digital liberties since before most people even knew what the internet was. %3Ciframe%20height%3D%2252px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F2f955342-7675-4c8c-bb40-fa364d9a569d%3Fdark%3Dtrue%26amp%3Bcolor%3D000000%22%20allow%3D%22autoplay%22%3E%C2%A0%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com (You can also find this episode on the Internet Archive and on YouTube.) In this episode, Cindy talks with EFF cofounder John Gilmore about how he – an early employee at Sun Microsystems – came together with Lotus Development cofounder Mitch Kapor and cattle rancher, philosopher and Grateful Dead lyricist John Perry Barlow to create EFF as a bulwark against government investigation and prosecution of early internet users. It’s a story of the Secret Service’s “Operation Sundevil,” jet-setting tech titans, tie-dyed cypherpunks, and a fateful house party in San Francisco’s Haight-Ashbury district amid the earliest days of online communications, setting the stage for the battles that created the internet as we know it and issues we still grapple with today. The “Privacy’s Defenders” podcast is a follow-up to Cindy’s book, “Privacy’s Defender: My Thirty-Year Fight Against Digital Surveillance,” bringing to life pivotal moments in the voices of those who fought for your rights. Sales of “Privacy’s Defender” benefit EFF, so pick up your copy today! Joanne Elgart Jennings co-produced and created this podcast. Jarod Sport co-produced, mixed, and mastered it. Corinne Ruff is our story editor. We had additional help from Rachel Estabrook and Alison Broverman. The original music was composed and performed by Nat Keefe of Hot Buttered Rum with Ben Andrews on the fiddle. And other archival sound came from the Internet Archive&amp;#x27;s amazing collection, including the snippet of the Grateful Dead song “Cassidy” that John Perry Barlow co-wrote.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 15:00:32 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/pd-podcast-banner.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/pd-podcast-banner.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>LegalZoom Co-Founder Brian Lee Joins Steno Board</title>
       <link>https://www.artificiallawyer.com/2026/09/29/legalzoom-co-founder-brian-lee-joins-steno-board/</link>
@@ -4380,14 +4390,6 @@
       <description>Alabama&amp;#x27;s attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI&amp;#x27;s safety practices violated state consumer protection laws and pose a risk to Alabama [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Tue, 25 Aug 2026 09:15:03 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>AI Adoption Isn’t the Hard Part for Legal</title>
-      <link>https://www.artificiallawyer.com/2026/08/25/ai-adoption-isnt-the-hard-part-for-legal/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/25/ai-adoption-isnt-the-hard-part-for-legal/</guid>
-      <description>By Neil Smith, LawVu. Ask any legal team today whether they have adopted AI, and most will say yes. Contract review tools. Drafting assistants. A ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 06:45:07 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
