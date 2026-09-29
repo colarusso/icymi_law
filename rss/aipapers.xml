@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:08:28 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:08:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheap, open agents make LLM pollution harder to mitigate</title>
+      <link>https://arxiv.org/abs/2609.31054</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.31054</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large Language Model (LLM) pollution occurs when synthetic responses contaminate data intended to capture human behavior. High deployment costs have so far limited the risk posed by autonomous survey agents. However, open-weight models paired with open-source agentic frameworks may have removed thi…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 06:08:51 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Game-Theoretic Lens on LLM-based Multi-Agent Systems</title>
+      <link>https://arxiv.org/abs/2601.15047</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2601.15047</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) have demonstrated strong reasoning, planning, and communication abilities, enabling them to operate as autonomous agents in open environments. While single-agent systems r...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 06:08:51 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Shutdown Sabotage Propensities in Multi-Agent Systems</title>
       <link>https://arxiv.org/abs/2609.28274</link>
@@ -463,22 +483,6 @@
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6434818</guid>
       <description>Algorethics, as described in the Rome Call for AI Ethics (2020) and related documents, is an overarching field that includes algorithmic accountability, s&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
       <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>AI Corporate Governance and Ben &amp; Jerry's Risk</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6697999</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6697999</guid>
-      <description>This paper critically analyzes the governance arrangements of OpenAI and Anthropic. These firms have an unusual built-in conflict: each raises funds from profit&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 4 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>The Steep Cost of Capture</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135581</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135581</guid>
-      <description>In considering how to tackle this onslaught of industrial AI, we must first recognize that the “advances” in AI celebrated over the past decade were not due to&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 8&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 06:09:40 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
