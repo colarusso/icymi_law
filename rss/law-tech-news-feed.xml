@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 20:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:56:26 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack</title>
+      <link>https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites</guid>
+      <description>Executive to front parliamentary committee on AI as ministers reveal how brief message telling them about hack was signed off ‘best’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOpenAI has apologised to Australians for its agent attack on Medicare, and will front parliament next week as the tech company revealed more details about its June hack of Australian government websites.Ministers on Tuesday evening released a brief, five paragraph email which OpenAI used to inform the Australian government about the attack. The email was sent to a public inbox monitored by Services Australia on 10 September – nearly three months after the AI agent accessed the website on 18 June – and was signed off with the closing “best”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 11:04:05 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791d4d21f2548bf6d76fadd4457b467a" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/382f5ce9a99ca59f0295e666583b6b694b2ebb34/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791d4d21f2548bf6d76fadd4457b467a" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</guid>
+      <description>Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers. Germany&amp;amp;#8217;s Customs Office has been using these features to connect a police-controlled computer to a suspect&amp;amp;#8217;s account. Once connected, messages can be delivered to that computer without the police having to crack the encryption protecting them. Netzpoltik details that police are able to gain access in this way either through physical access to someone&amp;amp;#8217;s phone or by intercepting verification codes via a state-sanctioned phishing attack or intercepting SMS messages via telephone surveillance...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 11:02:19 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>With August, A Company’s Agents Ask Lawyers For Help</title>
+      <link>https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/</guid>
+      <description>Legal AI platform, August, is launching a new feature that allows AI agents working inside a company to request help from lawyers &amp;amp;#8211; which could ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 07:07:58 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Trump Is Rerunning His 2024 Campaign Ad And Sending Taxpayers The Bill — See Also</title>
       <link>https://abovethelaw.com/2026/09/trump-is-rerunning-his-2024-campaign-ad-and-sending-taxpayers-the-bill-see-also/</link>
@@ -4362,34 +4388,6 @@
       <description>Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 24 Aug 2026 19:58:17 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>GM vehicles under federal scrutiny after hundreds of reports</title>
-      <link>https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/</link>
-      <guid isPermaLink="true">https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/</guid>
-      <description>The eBoost brake-by-wire system is responsible for at least 22 crashes now.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 19:42:50 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/01/Lyriq-V015_v4-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The cat-and-mouse game over 3D-printed guns has begun</title>
-      <link>https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul</guid>
-      <description>The creator of the world&amp;#x27;s first 3D-printed gun claims he&amp;#x27;s developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It&amp;#x27;s an opening volley in what&amp;#x27;s shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 19:50:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/</guid>
-      <description>Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 16:41:45 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
