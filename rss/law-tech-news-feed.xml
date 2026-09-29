@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 14:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Gets Sued Over the Hugging Face Hack</title>
+      <link>https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/</guid>
+      <description>A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 19:05:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6abbb935c1a080d8e4e23844/master/pass/GettyImages-2265991617.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6abbb935c1a080d8e4e23844/master/pass/GettyImages-2265991617.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>Dutch police arrest ShinyHunters hacker accused of planning two murders</title>
       <link>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</link>
@@ -4380,16 +4390,6 @@
       <description>Polestar said the Trump administration strung it along for months before finally rejecting its request to continue selling its electric vehicles in the US under a rule outlawing vehicles with connected software from China. In an August 18th letter sent to dealers and obtained by The Verge, Polestar said it doesn&amp;#x27;t have a clear answer [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Tue, 25 Aug 2026 16:14:45 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say</link>
-      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say</guid>
-      <description>Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useGet our breaking news email, free app or daily news podcastPlanned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls growing for a moratorium.The prime minister is aiming to come to an agreement with national cabinet on federal regulations for datacentres at a meeting on Wednesday. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 15:00:19 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33bacfd9ebaf3225667b2a1e7bfc1e8d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/fcf83ae1000340be66ba4432fe0964ba774071ca/491_0_3833_3067/master/3833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33bacfd9ebaf3225667b2a1e7bfc1e8d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
