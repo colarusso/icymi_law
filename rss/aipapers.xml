@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:08:51 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:08:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JEV vs. LLMs as Rubric Judges: Cheaper, Faster, and Wrong in the Same Places</title>
+      <link>https://arxiv.org/abs/2609.29769</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.29769</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jzhspdifnucjszuc6w5itx3c/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We ask whether Jev, a typed classifier that returns probabilities over permitted answers without generating text, can replace an LLM rubric judge. We compare it with three flash-tier LLM judges on nin...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 0 · likes: 22&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 06:08:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jzhspdifnucjszuc6w5itx3c/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jzhspdifnucjszuc6w5itx3c/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Structural Alignment for Reliable Industrial AI: Bridging Physical Reality, Data, Models, and Human Intent</title>
+      <link>https://arxiv.org/abs/2609.35400</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.35400</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Artificial intelligence is increasingly deployed in critical industrial domains, including healthcare, energy grids, subsurface exploration, where failures can have severe consequences for human safety, system stability, and economic outcomes. Yet AI is still evaluated primarily through benchmark a…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 06:08:58 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Cheap, open agents make LLM pollution harder to mitigate</title>
       <link>https://arxiv.org/abs/2609.31054</link>
@@ -464,24 +484,6 @@
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442399</link>
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442399</guid>
       <description>It is no longer hypothetical: U.S. government agencies are using AI to write regulations. We therefore must grapple with the intersection of the Administrati&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 6 · likes: 15&lt;/small&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery</title>
-      <link>https://arxiv.org/abs/2609.09647</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.09647</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Agentic systems are rapidly moving to production, where they read untrusted inputs, call tools with real permissions, and act autonomously, expanding the security surface beyond chat-only models. Yet standard evaluations remain single-turn and fail to capture multi-step agent vulnerabilities. We pr…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Algorethics and Neuro-Symbolic Military AI: Ontologies, "Hellscapes," Just War, and Silicon Valley</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6434818</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6434818</guid>
-      <description>Algorethics, as described in the Rome Call for AI Ethics (2020) and related documents, is an overarching field that includes algorithmic accountability, s&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
       <pubDate>Fri, 11 Sep 2026 06:09:47 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
