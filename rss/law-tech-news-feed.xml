@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 11:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:56:24 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asus won’t say how it escaped the US router ban</title>
+      <link>https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing</guid>
+      <description>This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren&amp;#x27;t a national security threat, and 2) submit &amp;quot;a detailed, time-bound plan to establish or expand manufacturing in the United States.&amp;quot; As of September 9th, Asus now [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 16:44:20 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms</title>
+      <link>https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html</guid>
+      <description>The agency will examine whether A.I. labs have broken federal laws prohibiting companies from unfair and deceptive practices.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 15:58:41 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/30/multimedia/30biz-ftc-ai-investigation-tkwg/30biz-ftc-ai-investigation-tkwg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Clio Buys Learned Hand as Judiciary Strategy Expands</title>
       <link>https://www.artificiallawyer.com/2026/09/30/clio-buys-learned-hand-as-judiciary-strategy-expands/</link>
@@ -4370,24 +4388,6 @@
       <description>This week’s AL TV Product Walk Through is with Monjur, which handles the contract needs of Managed Service Providers. Tracy Lee Thibodeau, VP Product &amp;amp;#38; ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 26 Aug 2026 07:36:27 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Same Facts, Different Answer: Legal AI’s Consistency Problem</title>
-      <link>https://www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/26/same-facts-different-answer-legal-ais-consistency-problem/</guid>
-      <description>By Shaz Aziz, Neota Logic. It is August 2026. A lawyer with no technical background can now build a working legal AI tool in a ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 06:44:24 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Nine CEO sees ‘world of growth in publishing’ as network slashes costs</title>
-      <link>https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs</link>
-      <guid isPermaLink="true">https://www.theguardian.com/media/2026/aug/26/nine-entertainment-ai-deals-network-slashes-costs</guid>
-      <description>Matt Stanton says company has ‘good pipeline’ of AI deals ahead even as it aims to cut $160m in costsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe head of Nine Entertainment sees a “world of growth in publishing” on the horizon backed by laws designed to force tech platforms into commercial deals, even as the network cuts costs across its newsrooms.Parliament passed revamped media bargaining laws last week, clearing the way for levies on global tech platforms that fail to strike deals with Australian news outlets for the use of their journalism. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 04:18:16 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/2dbd704ccae84819fa14f48faa477d8aa4be5a12/498_0_5308_4247/master/5308.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=187e1dddcc4ed0499d74c48b8a00b777" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/2dbd704ccae84819fa14f48faa477d8aa4be5a12/498_0_5308_4247/master/5308.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=187e1dddcc4ed0499d74c48b8a00b777" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
