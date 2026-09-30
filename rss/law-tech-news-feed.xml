@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:56:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US trade regulator opens investigation into AI giants including Anthropic and OpenAI</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai</guid>
+      <description>FTC move is first official US enforcement ⁠action on rogue AI agents, following surge in incidents first reported in JulyThe US’s main trade regulator is conducting an industry-wide investigation ⁠into Anthropic, OpenAI and other ⁠AI labs ​to uncover the potential dangers their technology poses to consumers.The investigation by the Federal Trade Commission is the first official US enforcement ⁠action that delves into rogue AI agents, following a surge in incidents first reported in July that have stoked fears among the public that uncontrolled AI could one day ⁠harm humans. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 18:35:05 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/3d30d827d1d773b0eebf29cea6f8de1d46538a88/0_13_6445_5157/master/6445.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bfb111711df28e1f824344329e68032" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/3d30d827d1d773b0eebf29cea6f8de1d46538a88/0_13_6445_5157/master/6445.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bfb111711df28e1f824344329e68032" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/</guid>
+      <description>OpenAI makes others suffer &amp;quot;the harms of its unsafe decision-making,&amp;quot; nonprofit says.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 18:25:04 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Senate Democrats block datacenter energy bill, saying ‘toothless’ legislation ‘misses the mark’</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill</guid>
+      <description>Republicans supported legislation although Democrats said it wouldn’t effectively address energy consumptionSenate Democrats on Wednesday blocked legislation intended to offset the impact of datacenters on consumer electricity bills, calling it a “toothless” attempt to address a top voter concern ahead of November’s midterm elections.The Ratepayer Protection Act failed by a 57 to 43 vote, falling just shy of the 60 votes necessary to advance through the Republican-controlled chamber. Four Democrats – Maggie Hassan of New Hampshire, Amy Klobuchar of Minnesota and both Georgia senators, Jon Ossoff and Raphael Warnock – joined Republicans in support of the measure. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 17:48:30 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/10ca62493f7465548290fa226f629c987bfd9193/450_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0a94edaff36066b07e05b929657bada" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/10ca62493f7465548290fa226f629c987bfd9193/450_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0a94edaff36066b07e05b929657bada" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Asus won’t say how it escaped the US router ban</title>
       <link>https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing</link>
@@ -4361,32 +4391,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/</guid>
       <description>By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 26 Aug 2026 10:05:08 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>London rollout of robotaxis delayed amid lack of guidance for firms to follow</title>
-      <link>https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve</guid>
-      <description>Uber and Wayve had said they would start trips ‘later this summer’ but launch now looks unlikely this yearBusiness live – latest updatesThe rollout of robotaxis on the streets of London is unlikely to happen this year, as regulatory and technical hurdles push back the ambitious schedule set out by the UK government.Only weeks ago Uber and London-based Wayve were granted the first minicab licences in the capital to allow them to offer self-driving taxi rides to paying customers – but with a human safety driver in place, for now – and said they would start trips “later this summer” before a full public launch. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 08:48:43 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/ada086bceb21d1e283eff5dd443008604f95cc3c/73_34_3111_2491/master/3111.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40f40d6f596249965f485715ac243b5a" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/ada086bceb21d1e283eff5dd443008604f95cc3c/73_34_3111_2491/master/3111.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40f40d6f596249965f485715ac243b5a" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Gemini for Legal and the Battle for Centrality</title>
-      <link>https://www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/26/gemini-for-legal-and-the-battle-for-centrality/</guid>
-      <description>Google launching Gemini Enterprise for Legal (GEL) will have long-term ramifications for legal tech, however Artificial Lawyer can see one thing very clearly already: there ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 08:38:37 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Product Walk Through: Monjur</title>
-      <link>https://www.artificiallawyer.com/2026/08/26/product-walk-through-monjur/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/26/product-walk-through-monjur/</guid>
-      <description>This week’s AL TV Product Walk Through is with Monjur, which handles the contract needs of Managed Service Providers. Tracy Lee Thibodeau, VP Product &amp;amp;#38; ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 07:36:27 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
