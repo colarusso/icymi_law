@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 14:56:22 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS</title>
+      <link>https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html</guid>
+      <description>Yesterday I noted that th 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that the opinion was sealed and not viewable by the public. Today, it was revealed that the court has ruled in favor [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 19:29:33 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Clio Acquires Learned Hand, Giving Its New Judiciary Business An Existing Product</title>
+      <link>https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/09/clio-acquires-learned-hand-giving-its-new-judiciary-business-an-existing-product.html</guid>
+      <description>Clio today announced that it has acquired Learned Hand, a startup that builds AI exclusively for judges and courts, giving the legal tech company&amp;amp;#8217;s newly launched judiciary business an existing product already in use in a number of courthouses. Clio did not disclose the terms of the deal. The acquisition caps a rapid series of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 18:58:01 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>US trade regulator opens investigation into AI giants including Anthropic and OpenAI</title>
       <link>https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai</link>
@@ -4376,22 +4392,6 @@
       <description>Meta settled its latest kids online safety trial with a group of 29 state attorneys general, sparing it from the remainder of a trial that could have cost it hundreds of billions of dollars. Under the terms of the settlement, Meta agreed to come up with an age assurance standard that is subject to independent [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 26 Aug 2026 13:31:32 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Today At ILTACON: Kevin Fong Keynote, ILTA Authors Corner, Women Who Lead Reception</title>
-      <link>https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2/</guid>
-      <description>ILTACON attendees and legal tech watchers: Here&amp;#x27;s a rundown of what&amp;#x27;s set for today in Nashville. The post Today At ILTACON: Kevin Fong Keynote, ILTA Authors Corner, Women Who Lead Reception appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 11:00:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>California SB 574: Will AI’s Home State Kill Off AI for Law?</title>
-      <link>https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/26/california-sb-574-will-ais-home-state-kill-off-ai-for-law/</guid>
-      <description>By Erin Fraser. The California legislature will wrap its 2025-2026 legislative session on August 31, but there is a bill still alive in the legislature ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 10:05:08 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
