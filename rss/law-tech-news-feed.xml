@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gavin Newsom signs laws to protect California workers from AI threat</title>
+      <link>https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat</guid>
+      <description>Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulationsGovernor Gavin Newsom signed laws Wednesday aimed at protecting California workers from the threats of artificial intelligence , including potential job losses and workplace surveillance.The laws ban employers from using the technology to predict a worker’s emotional state by using their biometric data, require employers to send written notices to workers if AI is responsible for mass layoffs and ban employers from relying on AI to decide to fire someone. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 00:17:56 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/8fc5556b3133a76dad9330f3efb7b1cfb0aa2da1/233_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01b94822f711c75f5df478f1854be46c" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/8fc5556b3133a76dad9330f3efb7b1cfb0aa2da1/233_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01b94822f711c75f5df478f1854be46c" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Returning from vacation? The government can search your phone without a warrant.</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/</guid>
+      <description>Reminder: The &amp;quot;border exemption&amp;quot; to your rights is real.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 21:19:56 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>AI Can Read Between The Redacted Lines</title>
       <link>https://abovethelaw.com/2026/09/ai-can-read-between-the-redacted-lines/</link>
@@ -4374,24 +4394,6 @@
       <description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they&amp;#x27;re going to change your life. Opt in for Optimizer here. Oura&amp;#x27;s getting sued. A recently filed class-action complaint against the smart ring maker alleges that the company has duped customers [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children</title>
-      <link>https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/</guid>
-      <description>The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to young users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 13:43:01 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims</title>
-      <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</guid>
-      <description>The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endangered children.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 13:34:17 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/25/multimedia/00biz-meta-settlement-hfo-pfhj/00biz-meta-settlement-hfo-pfhj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/25/multimedia/00biz-meta-settlement-hfo-pfhj/00biz-meta-settlement-hfo-pfhj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
