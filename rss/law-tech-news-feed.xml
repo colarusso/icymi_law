@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘The Hardest Thing I’ve Ever Done’: Noah Waisberg on Why Selling a Business Hurts, and How Zuva Aims to Fix It</title>
+      <link>https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/the-hardest-thing-ive-ever-done-noah-waisberg-on-why-selling-a-business-hurts-and-how-zuva-aims-to-fix-it.html</guid>
+      <description>Five years ago, Noah Waisberg sold Kira Systems, the pioneering AI contract-analysis company he co-founded, to Litera. Even though the deal itself went well, the experience of going through the sale was hard, Waisberg now says. But that experience provided the fuel that turned into his next business. As part of the sale, he kept [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 18:42:25 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Judge dismisses antitrust lawsuits over Google’s AI Overviews</title>
       <link>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</link>
@@ -4388,14 +4396,6 @@
       <media:content url="https://i.guim.co.uk/img/media/10440af966025451b7747b90e8e511a3c1c14ada/342_0_3316_2654/master/3316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15d273047104d3d36b6ca9361784cde1" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/10440af966025451b7747b90e8e511a3c1c14ada/342_0_3316_2654/master/3316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15d273047104d3d36b6ca9361784cde1" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well</title>
-      <link>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</guid>
-      <description>The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 22:47:58 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
