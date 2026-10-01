@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:56:37 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirror life is dangerous. Regulators must act before it becomes real</title>
+      <link>https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real</guid>
+      <description>Playing catch-up with the technology is not an option&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.economist.com/leaders/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 12:45:03 +0000</pubDate>
+      <source url="https://www.economist.com">www.economist.com</source>
+    </item>
     <item>
       <title>Connected Cars Are a Surveillance Platform</title>
       <link>https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html</link>
@@ -4388,16 +4396,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-meta-numbers-pfkz/26biz-meta-numbers-pfkz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-meta-numbers-pfkz/26biz-meta-numbers-pfkz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>EFF Statement on Meta Settlement</title>
-      <link>https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/08/eff-statement-meta-settlement</guid>
-      <description>Under this settlement, young users will now have less access to Meta products, and a lesser ability to exercise their rights to speak, access information and art and culture, associate and form communities, and play. The settlement also embeds age assurance into every product, mandating the collection of even more personal information from users of all ages; this enshrines Meta&amp;#x27;s harmful surveillance into law, and it will compromise users&amp;#x27; privacy and anonymity while increasing their exposure to data breaches and government data requests. And the data minimization and security measures don’t keep states from using data collected under the agreement for other law enforcement purposes – which could include things like criminal investigations of abortions or gender-affirming care.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 26 Aug 2026 16:34:41 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
