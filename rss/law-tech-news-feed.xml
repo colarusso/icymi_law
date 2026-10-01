@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 16:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Challengers Approach: Third Party App Stores Arrive to Google Play</title>
+      <link>https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/challengers-approach-third-party-app-stores-arrive-google-play</guid>
+      <description>If you are an Android user, you may have noticed it already: Google has begun allowing rival, third-party app stores to be distributed through the Google Play Store. And if you are a developer, you may have noticed new options for billing and distributing your apps. For years, Epic Games, maker of games such as Fortnite, has been suing Google, alleging violations of antitrust law. Specifically at issue were Google&amp;#x27;s restrictions on the distribution of alternate app stores through the Play Store, restrictions on app developers who have little practical choice but to distribute their apps through the Play Store, and Google’s rules governing in-app payments and the fees associated with them. Epic’s challenge ultimately resulted in a court order requiring significant changes to Google’s practices. Among other changes, rival, third-party Android app stores are now allowed to access the Play Store’s catalog and to be distributed through the Google Play Store. Developers also have greater freedom to direct users to alternative payment and distribution options. These changes give users and developers more choices and create new opportunities for competition in the Android ecosystem, breaking the power Google once had over many facets of the app ecosystem. This is a win for competition and antitrust enforcement. But the benefits can extend beyond competition itself—more meaningful choice can also create opportunities for greater freedom of online expression, privacy, and security. With alternate app stores able to compete for Android users, Google no longer has the first and last say on what apps can reach users and on what terms. Developers have more options for reaching their audiences, rather than having a single company’s rules determine the terms of access. More importantly, Android users are no longer trapped in an arrangement of feudal security with Google, where users must depend on the goodwill of a monopolist to protect them and guarantee their safety. If Google does not adequately protect their data or security, Android users can now switch to a competitor that does a better job. And if that competitor fails them, they can choose another. Competition in the app store market therefore means competition not only over which apps are offered, the user experience, and developer fees, but also over privacy and security. Users and developers gain something fundamental in the process: the ability to choose. As we’ve previously written, antitrust has never been just about prices—it’s also about power. It is about who gets to control and shape the future of the internet. A world in which a handful of dominant platforms can dictate how users access apps or programs, how developers reach them, and what rules govern those interactions is one in which users have fewer meaningful choices. Without Epic’s successful antitrust challenge and the changes that followed, users would have remained in a world of feudal security, where they would have been left begging their feudal tech lord for more. The arrival of competitor app stores on Google Play does not solve every problem with the Android ecosystem. But it opens the door to something that dominant platforms have spent years trying to keep out: meaningful competition. And each new competitor gives users another opportunity to choose something better. Related Cases:&amp;amp;nbsp;Epic Games v. Google&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 21:25:19 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/competition_robot.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/competition_robot.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search</title>
       <link>https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/</link>
@@ -4390,16 +4400,6 @@
       <description>On September 15, at 12 noon ET / 9 am PT / 5PM BST, LegalOn CEO, Daniel Lewis, will lead a live conversation with Artificial ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 27 Aug 2026 11:06:05 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>UK expects Meta to match US child safety measures after $18bn settlement</title>
-      <link>https://www.theguardian.com/technology/2026/aug/27/uk-meta-child-safety-measures-us-social-media-instagram</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/27/uk-meta-child-safety-measures-us-social-media-instagram</guid>
-      <description>Minister calls for Instagram owner to extend sweeping new safeguards for young users to BritainUK politics live – latest updatesBusiness live – latest updatesThe UK government expects the Instagram owner Meta to roll out the same protections for children in Britain as those it agreed in the US on Wednesday, as part of a court settlement that could cost the company up to $18bn (£13bn).Pat McFadden, the work and pensions secretary, said on Thursday he did not want young people in the US to have “a higher rate of protection” than those in Britain, after Meta settled a lawsuit brought by dozens of US states accusing the company of harming children with dangerous products. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 10:30:22 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/4d8c4a856045f9bff055d4199099566e7c72cbb1/821_0_4865_3892/master/4865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2637afd2c1228a852b7406db0a45006" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/4d8c4a856045f9bff055d4199099566e7c72cbb1/821_0_4865_3892/master/4865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2637afd2c1228a852b7406db0a45006" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
