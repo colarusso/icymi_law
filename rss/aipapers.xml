@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:09:14 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:10:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fair Moderation, Equitable Access, and AI: arXiv’s Updated Rate Limit Policy</title>
+      <link>https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/</link>
+      <guid isPermaLink="true">https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3z4ctzvnje6wpg2stjgudgpn/bafkreif7gug4cvhf6qsb5kyhtpkpqwziyh7tupqzma6jpxnq7egxtuicku" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;arXiv, and the scientific community at large, are facing a watershed moment. Scholarly publishing is currently changing at a rapid pace, and we are seeing a…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥🔥🔥 · reposts: 39 · likes: 101&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 06:10:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3z4ctzvnje6wpg2stjgudgpn/bafkreif7gug4cvhf6qsb5kyhtpkpqwziyh7tupqzma6jpxnq7egxtuicku" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3z4ctzvnje6wpg2stjgudgpn/bafkreif7gug4cvhf6qsb5kyhtpkpqwziyh7tupqzma6jpxnq7egxtuicku" type="image/jpeg" length="0" />
+      <source url="https://blog.arxiv.org">blog.arxiv.org</source>
+    </item>
+    <item>
+      <title>Persona and Persuasive Framing in AI Voice Agents: A $2\times2$ Field Experiment with Children</title>
+      <link>https://arxiv.org/abs/2609.38782</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38782</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreieuwq23fs7qxafvptygo5csdqhfoou6wgbszbjsxiquu2dpu3tdfe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Persona and Persuasive Framing in AI Voice Agents: A $2\times2$ Field Experiment with Children&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 17&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 06:10:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreieuwq23fs7qxafvptygo5csdqhfoou6wgbszbjsxiquu2dpu3tdfe" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreieuwq23fs7qxafvptygo5csdqhfoou6wgbszbjsxiquu2dpu3tdfe" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Doc2LoRA Provides Decodable Representations of Scientific Ideas</title>
+      <link>https://arxiv.org/abs/2609.38374</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.38374</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uo3zzf2ieqdhriyszcu45wfz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Representing scientific papers as points in a space lets us search for similar papers and inquire about how fields relate to one another and drive innovation. Beyond search, the vector space of papers...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 06:10:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uo3zzf2ieqdhriyszcu45wfz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:uo3zzf2ieqdhriyszcu45wfz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Pretrain Once, Route Anywhere: Towards a Foundation Model for LLM Routing</title>
       <link>https://arxiv.org/abs/2609.37362</link>
@@ -460,34 +490,6 @@
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>How LLMs Build Fictional Worlds: Setting and Narrative Space in AI-Generated Creative Storytelling</title>
-      <link>https://arxiv.org/abs/2609.02482</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.02482</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stchfaogqwvezfveuwr253ll/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In this paper, we analyze how Large Language Models (LLMs) employ worldbuilding strategies, focusing on setting as one measurable dimension of storyworld construction. We compare 1,000 AI-generated st...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 7 · likes: 13&lt;/small&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 06:09:31 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stchfaogqwvezfveuwr253ll/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:stchfaogqwvezfveuwr253ll/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>More than half of recent astronomy papers are written with language-model assistance</title>
-      <link>https://arxiv.org/abs/2609.10664</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10664</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amp2btyek6kcpb4glek3v5kb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Language models leave a distinctive vocabulary in the prose they help write, and we measure how much of the astronomy literature now carries it. From the full text of 207,111 astro-ph papers spanning ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 06:09:31 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amp2btyek6kcpb4glek3v5kb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:amp2btyek6kcpb4glek3v5kb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Calibrating AI automation and its labor market impacts</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7448419</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7448419</guid>
-      <description>We are early in the latest AI technological revolution, and there are vastly different projections circulating about the impact of AI on the labor market; most&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 06:09:31 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
