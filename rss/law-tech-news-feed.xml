@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICE Has Been Dumping Protester Photos Into a Palantir Database</title>
+      <link>https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/</guid>
+      <description>DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 19:52:36 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6abfefc1a18993c6adb83fa3/master/pass/GettyImages-2285538235.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6abfefc1a18993c6adb83fa3/master/pass/GettyImages-2285538235.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>ROSS Says It Will Ask Supreme Court to Review 3rd Circuit Ruling for Thomson Reuters in Copyright Case</title>
+      <link>https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/ross-says-it-will-ask-supreme-court-to-review-3rd-circuit-ruling-for-thomson-reuters-in-copyright-case.html</guid>
+      <description>Following this week&amp;amp;#8217;s ruling by the 3rd U.S. Circuit Court of Appeals in favor of Thomson Reuters in its long-running copyright battle against the now-shuttered AI legal research company ROSS Intelligence, ROSS says it will seek review in the Supreme Court. Yar Chaikovsky, partner at White &amp;amp;#38; Case, issued a statement on behalf of ROSS [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 19:38:26 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Site-Blocking Will Not Defend IP, No Matter the Bill’s Name</title>
+      <link>https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name</guid>
+      <description>There has been a raft of site-blocking bills in the latest Congress, and the latest is called the “Deterring Extraterritorial Foreign Exploitation of Networks Damaging Intellectual Property” aka the “DEFEND IP Act.” The problem is that instead of “defending IP,” this bill will incentivize censorship, overblocking, and bad faith attempts to block access to a website. DEFEND IP Act, and all of these site-blocking proposals, threaten the open web. We keep seeing attempts to pass site-blocking legislation–from SOPA/PIPA in 2012 to Block BEARD, FADPA, and ACPA this year. Every one of them has at its core the rotten idea that enforcing copyrights requires building a censorship machine for websites into the architecture of the internet. This is, of course, a disaster for a free and open web. There is no way to create a mechanism for blocking access to an entire website that does not invite both deliberate abuse and lots of collateral harm to free and lawful speech. DEFEND IP deputizes every service provider into a copyright cop, so long as a rightsholder has accused a website of copyright infringement. Let’s be clear: this isn’t about removing access to an infringing work–that already exists via the DMCA. This isn’t about getting damages from the website or the uploader. It is about making an entire website inaccessible for everyone trying to visit it. DEFEND IP lets any rightsholder go to a court and get an order requiring service providers to block access to an entire website after alleging copyright infringement. What DEFEND IP does not have is any deterrent for someone seeking to block a website in bad faith. There are no punishments for getting a website blocked for protected speech. There are no meaningful remedies for those whose speech is vanished from the internet due to an entire website being disappeared. It creates a one-stop shop for getting an entire website–again, not an instance of infringement but an entire site hosting all sorts of user content–removed. But for those whose business, speech, or access to information is affected, there is no easy way to get the site restored. DEFEND IP scales up the extraordinary legal structures that already exist for copyright enforcement. In doing so, it likewise scales up the problems those regimes pose to protected speech. We see this with DMCA takedowns all the time. We see it with bad faith takedowns used to silence criticism or commentary. We see it with the voluntary use of copyright filters by sites like YouTube, where seconds of sound matching seconds of sound in another video can prevent an entire work from reaching its audience. In these existing systems, there are at least some mechanisms of challenge available to the targeted creator. DEFEND IP has none. Instead, site owners, users, or readers will have to find a lawyer and go to court and hope to challenge the order, a slow, expensive, and daunting process Those existing systems are already frustrating for the targeted creators and users, but under DEFEND IP a whole class of people doing protected speech will find themselves deplatformed because of the actions of others This bill is not a defense of creativity or creators. It is a way to reshape the internet by building a vast new infrastructure of censorship. Congress should put aside DEFEND IP and the failed idea of site-blocking laws, for good.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 18:59:23 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/og-copyrightbot-alt1_1_0.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/og-copyrightbot-alt1_1_0.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>US arrests California man for allegedly smuggling $300m worth of computer servers to China</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china</guid>
+      <description>Greg Lui allegedly used false paperwork to smuggle export-controlled gear from US to third countries and then ChinaUS authorities have arrested a man accused of smuggling more than $300m worth of computer servers to China, the Department of Justice announced.Greg Lui, 38, of California, also known as “Yiu Kong Lui”, allegedly used false paperwork and shipments through third countries to smuggle the export-controlled computer servers to China, the justice department said in a statement on Thursday. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 18:46:29 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dafbe2e6e35771a70bb5deec81cfabd2" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dafbe2e6e35771a70bb5deec81cfabd2" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>"Play Minecraft"</title>
       <link>https://buttondown.com/LawyerExMachina/archive/play-minecraft/</link>
@@ -4364,40 +4402,6 @@
       <description>On Thursday, a judge ruled that the Pentagon&amp;#x27;s blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting &amp;quot;red [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 28 Aug 2026 03:14:06 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Elon Musk’s xAI used child porn to train Grok models, lawsuit says</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/</guid>
-      <description>xAI accused of training Grok on real and AI-generated child pornography.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 20:52:31 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Buried in Meta’s $18B settlement is a legal pass on kids’ data</title>
-      <link>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</guid>
-      <description>Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 20:04:26 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Biglaw Is Riding The AI Boom To A Record First Half… If Only They Can Collect On It</title>
-      <link>https://abovethelaw.com/2026/08/biglaw-is-riding-the-ai-boom-to-a-record-first-half-if-only-they-can-collect-on-it/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/biglaw-is-riding-the-ai-boom-to-a-record-first-half-if-only-they-can-collect-on-it/</guid>
-      <description>Revenue and profits are booming. So is the pile of work firms have done and haven&amp;#x27;t collected a dime for. The post Biglaw Is Riding The AI Boom To A Record First Half&amp;amp;#8230; If Only They Can Collect On It appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 20:04:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>What Meta’s $17 Billion Settlement Means</title>
-      <link>https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</guid>
-      <description>Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 18:54:17 +0000</pubDate>
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
