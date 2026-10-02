@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 12:56:33 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)</title>
+      <link>https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/</guid>
+      <description>This week, the White House got&amp;amp;#160;nearly every&amp;amp;#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&amp;amp;#160;to sign an AI safety pledge&amp;amp;#160;that President&amp;amp;#160;Donald&amp;amp;#160;Trump called “morally binding.”&amp;amp;#160;Trump&amp;amp;#160;also&amp;amp;#160;signed an&amp;amp;#160;executive order&amp;amp;#160;officially rebranding AI as “super intelligence,” and meanwhile,&amp;amp;#160;Meta and OpenAI are putting&amp;amp;#160;friendlier faces on their AI products, even as the biggest money [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 17:48:16 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Congress Has Another Site-Blocking Bill, And This One Targets VPNs</title>
+      <link>https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns</guid>
+      <description>Congress is taking another run at site-blocking, a deeply flawed concept that would undermine basic internet infrastructure. Rep. Darrell Issa (R-CA) has introduced the American Copyright Protection Act (ACPA), H.R. 10364, a bill that would give copyright owners a new legal tool to block Americans’ access to foreign websites accused of copyright infringement. The basic idea is all too familiar, and it’s still dangerous. A copyright owner first asks a court to label a foreign website a “foreign piracy site.” Once that happens, the copyright owner could seek orders requiring internet service providers, DNS providers, and—new and explicit in this bill—VPN providers to take “commercially reasonable steps” to stop their users in the United States from accessing those sites. The decision to label a website as a “foreign piracy site” can happen without the accused site even showing up in court to defend itself. ACPA Goes Further Than Other Site-Blocking Proposals In some ways, the ACPA is even worse than a site-blocking legislation introduced last year, the Foreign Anti-Digital Piracy Act (FADPA), which EFF also opposed. That bill at least excluded companies that provide only VPN services, as well as providers that offer DNS resolution exclusively through encrypted DNS protocols. The ACPA drops those protections. In fact, the bill explicitly includes VPNs among the service providers that can be ordered to block access to a website. The bill also broadens the definition of a “piracy site.” Last year’s site blocking bill covered sites with “no commercially significant purpose or use” other than infringement. ACPA changes that to sites with “only limited commercially significant purpose or use” beyond infringement. In other words, under ACPA, even a website with legitimate commerce going on could still be labeled a “foreign piracy site” and ultimately blocked for all Americans. Better Process Still Doesn’t Fix The Problem The ACPA includes some procedural protections, such as requiring service providers that could be subject to a blocking order to receive legal notice and an opportunity to respond. The bill also requires courts to consider the potential harm to other websites and internet users before ordering intermediaries to block websites. It further requires the copyright owner to post a bond, in an amount determined by the court, sufficient to cover the costs and damages incurred by any service provider found to have been wrongfully enjoined. The bill also provides a mechanism for operators or users of third-party online services affected by erroneous blocking to seek compensation after the fact in certain circumstances. Finally, a site operator can ask a court to rescind its designation as a “foreign piracy site.” These safeguards are significant and positive changes, but they don’t solve the basic, and severe, due process problem. The initial decision to label a website a “foreign piracy site” can still be made without the site operator appearing to defend itself. The court can appoint a “special master,” which is an independent expert who helps the judge evaluate evidence, to review the copyright owner’s case—but that step is not required. In any case, a special master is not a lawyer who actually represents the accused website, nor the users whose access to information and speech may be affected. We know what site-blocking looks like when it’s put into practice. Supporters of site-blocking like to point to its use in other countries. But what we’re seeing in other countries is serious collateral damage to lawful websites. In Italy, 510 benign, non-streaming websites, including a Catholic convent and a telehealth platform, were blocked by the country’s “Piracy Shield” program. In Spain, a site-blocking system blocked more than 550,000 domains during soccer broadcasts, including sites belonging to Greenpeace and Harvard University. Congress Should Reject Site-Blocking Proposals More than a decade ago, Congress abandoned SOPA and PIPA after internet users pushed back against site-blocking and other threats to the open internet. We shouldn&amp;#x27;t start building that infrastructure now. ACPA adds some safeguards, but those don’t fundamentally change what Congress is being asked to create: a system for blocking Americans’ access to entire websites at the request of copyright owners. By explicitly bringing VPNs into that system, the bill also reaches into basic tools that people use to access the internet safely and privately. Adding somewhat better procedures to a bad idea doesn’t turn it into a good idea.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 17:41:08 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/copyright-orange_0.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/copyright-orange_0.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>RelFest’s Judicial Panel: At Last, Some Hallucination Perspective</title>
       <link>https://abovethelaw.com/2026/10/relfests-judicial-panel-at-last-some-hallucination-perspective/</link>
@@ -4380,24 +4398,6 @@
       <description>When it comes to AI, what does a litigator need to know — and know how to do — right now? The post AI Is Coming To Litigation. Get Up To Speed With Bellwether AI Litigator Early Bird Special. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 27 Aug 2026 18:34:00 +0000</pubDate>
       <source url="https://www.myshingle.com">www.myshingle.com</source>
-    </item>
-    <item>
-      <title>A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend</title>
-      <link>https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/</guid>
-      <description>After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 18:12:17 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a8d9086ba467cf540f2c239/master/pass/082526_Flock-Camera-Stalking-Police.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a8d9086ba467cf540f2c239/master/pass/082526_Flock-Camera-Stalking-Police.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Oracle Helped Kneecap Section 230, Then Bought 15% Of A Company That Needs It.</title>
-      <link>https://www.techdirt.com/2026/08/27/oracle-helped-kneecap-section-230-then-bought-15-of-a-company-that-needs-it/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/08/27/oracle-helped-kneecap-section-230-then-bought-15-of-a-company-that-needs-it/</guid>
-      <description>Six years ago, when Trump first tried to force ByteDance to sell TikTok&amp;amp;#8217;s US operations to his billionaire buddy Larry Ellison at Oracle, we wondered if this would finally get Oracle to change its tune on Section 230. While not as widely known outside of Silicon Valley, Oracle has been a driving force behind the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 18:04:02 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
