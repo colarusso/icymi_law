@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:56:14 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:57:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unidentified Flock Cameras in Florida</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html</guid>
+      <description>St. Lucie County in Florida discovered (alt link) a dozen Flock cameras whose ownership it can&amp;amp;#8217;t identify, and that the county government had not permitted. I am reminded of the decade-old story of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown. My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn&amp;amp;#8217;t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock network&amp;amp;#8212;like Israel ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 14:52:46 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
     <item>
       <title>Want to use AI to improve your work? Have it disagree with you</title>
       <link>https://theconversation.com/want-to-use-ai-to-improve-your-work-have-it-disagree-with-you-291760</link>
@@ -4390,14 +4398,6 @@
       <description>You read that right. There is a new social network called &amp;amp;#8220;Twitter.now&amp;amp;#8221; on the block, and it&amp;amp;#8217;s being operated by a startup called Operation Bluebird, whose founding team includes former Twitter trademark counsel Stephen Coates. As ArsTechnica reported, X sued the company last year and asked a Delaware judge to issue an injunction to stop [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 27 Aug 2026 14:40:22 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>If Meta&amp;#8217;s going down, it’s taking TikTok and YouTube with it</title>
-      <link>https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap</guid>
-      <description>Meta might be on the hook for $17.1 billion and a host of app changes under a new kids safety settlement, but it&amp;#x27;s already spinning the deal to its advantage. After years of being the national punching bag for social media harms, Meta has reached a settlement with 47 US states and several districts and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 14:24:29 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
