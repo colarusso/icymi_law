@@ -5,8 +5,42 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:56:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump Breaks Law(s), Uses $20 Million In Taxpayer Money To Fund Midterm Propaganda</title>
+      <link>https://www.techdirt.com/2026/10/02/trump-breaks-laws-uses-20-million-in-taxpayer-money-to-fund-midterm-propaganda/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/02/trump-breaks-laws-uses-20-million-in-taxpayer-money-to-fund-midterm-propaganda/</guid>
+      <description>Trump FCC boss Brendan Carr endlessly pays empty lip service to the &amp;amp;#8220;public interest&amp;amp;#8221; and the &amp;amp;#8220;value of broadcasting integrity&amp;amp;#8221; as he engages in ham-fisted censorship of comedians and journalists the president doesn&amp;amp;#8217;t like. Or the illegal dismantling of media consolidation limits. Or helps the president and his friends steal TikTok. But any time there&amp;amp;#8217;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 12:23:42 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>More kids are using AI for companionship — and it&amp;#8217;s making them lonely</title>
+      <link>https://www.vox.com/technology/504854/chatgpt-claude-character-ai</link>
+      <guid isPermaLink="true">https://www.vox.com/technology/504854/chatgpt-claude-character-ai</guid>
+      <description>There’s a lot to be anxious about as AI agents and bots get more integrated into every aspect of our lives. Meta, which recently agreed to pay over $17 billion to settle a lawsuit related to harming kids, now wants you to hand over all your online accounts to an inexplicably cute “agent” named Muse [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 11:30:00 +0000</pubDate>
+      <source url="https://www.vox.com">www.vox.com</source>
+    </item>
+    <item>
+      <title>OpenAI fires workers for 'mishandling sensitive information'</title>
+      <link>https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The former employees were investigated for sharing data with an outside AI evaluation group.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 08:20:32 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Robotaxi operators will face fines for blocking first responders</title>
+      <link>https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/</guid>
+      <description>A new California law places new rules on autonomous vehicles operators.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 00:57:57 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>We Demand More Information on How Marin Cops Illegally Shared Flock ALPR Data</title>
       <link>https://www.eff.org/deeplinks/2026/10/we-demand-more-information-how-marin-cops-illegally-shared-flock-alpr-data</link>
@@ -4364,44 +4398,6 @@
       <description>The case is reigniting questions about how much precision consumers should expect from AI-powered health wearables. The post Why Oura’s Sleep-Tracking Lawsuit Is Really About Trust appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 27 Aug 2026 14:02:00 +0000</pubDate>
       <source url="https://medcitynews.com">medcitynews.com</source>
-    </item>
-    <item>
-      <title>California Lawmakers Pass Plug-In Solar Bill</title>
-      <link>https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/business/energy-environment/california-legislature-plugin-solar.html</guid>
-      <description>Legislatures in nearly a dozen states have voted to legalize use of the technology, which can help homeowners reduce their rising electricity costs.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 13:31:20 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-plugin-solar-hcbj/27biz-plugin-solar-hcbj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-plugin-solar-hcbj/27biz-plugin-solar-hcbj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>What does the Meta settlement mean for the UK? Five things we learned</title>
-      <link>https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Other social media firms are yet to respond, while the debate from campaigners is far from over.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 13:24:03 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Meta will be happy with its $18bn US settlement – but the costs of child online safety will keep rising for big tech | Chris Stokel-Walker</title>
-      <link>https://www.theguardian.com/commentisfree/2026/aug/27/meta-social-media-settlement-18bn-us-child-safety-big-tech-lawsuits</link>
-      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2026/aug/27/meta-social-media-settlement-18bn-us-child-safety-big-tech-lawsuits</guid>
-      <description>This week’s settlement without liability was pragmatic, but it doesn’t change the inevitability of further lawsuits around the world Not many people would count paying $18bn they didn’t expect to when they woke up that morning as a victory. Yet for Meta, the owners of Facebook and Instagram, the agreement with 52 US attorneys general to settle claims that it designed its products to be addictive to children, and misled people about their safety, could be described as a win of sorts.Meta denies wrongdoing, and the amount it plans to pay will be spread over a decade. Some of it is contingent on other big tech firms not named in its case coughing up too. The cash is chump change for Meta, which made around $60bn in profit last year. More damaging to the tech giant in the long run could be the agreement to unwind some of the mechanics it has spent two decades perfecting to keep us on its platforms.Chris Stokel-Walker is the author of TikTok Boom: The Inside Story of the World’s Favourite App Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 13:11:16 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/ad7abdf53572b6a299b623200cecd84634ed160c/168_0_2508_2006/master/2508.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=370e2ec45e6bb3d565266df1561d108a" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/ad7abdf53572b6a299b623200cecd84634ed160c/168_0_2508_2006/master/2508.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=370e2ec45e6bb3d565266df1561d108a" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Today At ILTACON: Finishing Strong!</title>
-      <link>https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2-2/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/welcome-to-iltacon-2026-todays-agenda-from-keynote-to-exhibit-hall-reception-2-2-2/</guid>
-      <description>ILTACON attendees and legal tech watchers: Here&amp;#x27;s a rundown of what&amp;#x27;s set for today in Nashville. The post Today At ILTACON: Finishing Strong! appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 27 Aug 2026 11:00:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
