@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:55:51 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Federal judge calls Flock ‘indiscriminate mass surveillance’</title>
+      <link>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</guid>
+      <description>A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 19:33:15 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</title>
       <link>https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</link>
@@ -4390,16 +4398,6 @@
       <description>Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 28 Aug 2026 07:20:23 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Nicola Coughlan and Matt Lucas among stars backing campaign against AI voice cloning</title>
-      <link>https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas</guid>
-      <description>About 80 people sign open letter to Andy Burnham calling for legislation to protect voice ownershipNicola Coughlan, Hugh Bonneville and Matt Lucas are among a group of actors backing a campaign against artificial intelligence voice cloning.Save Our Voices Now, which is also being supported by Luke Evans, Jen Brister, Siobhán McSweeney and Pearl Mackie, aims to stop the practice in which AI technology is used to replicate a real person’s voice to say anything it is prompted to. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 07:15:00 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/master/4536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34fa44f9c5cbe9250e75f9fbf5370bfc" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/master/4536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34fa44f9c5cbe9250e75f9fbf5370bfc" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
