@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 19:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sanders introduces bill to ban the federal government from using Flock</title>
+      <link>https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/</guid>
+      <description>The proposed legislation would extend to all automotica license plate readers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 00:21:57 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>How To Create Evergreen Resource Libraries That Dominate Search</title>
       <link>https://abovethelaw.com/2026/10/how-to-create-evergreen-resource-libraries-that-dominate-search/</link>
@@ -4393,16 +4401,6 @@
       <pubDate>Fri, 28 Aug 2026 04:17:37 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/4db19f366382157a472cb02edd37dc8f7970a36b/555_41_2338_1870/master/2338.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac3952a6386aa9339bd59cadcb576c9c" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/4db19f366382157a472cb02edd37dc8f7970a36b/555_41_2338_1870/master/2338.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac3952a6386aa9339bd59cadcb576c9c" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>What could Meta’s US settlement mean around the world – and what now for other claims against firm?</title>
-      <link>https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact</guid>
-      <description>Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting Meareg’s lawsuit against the company in Kenya. These posts included photos of his father and his home address. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 04:00:48 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/0_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f58ec9e96959fdf76a9f7574e92bb3a" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/0_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f58ec9e96959fdf76a9f7574e92bb3a" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
