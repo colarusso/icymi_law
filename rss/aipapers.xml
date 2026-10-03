@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 06:10:22 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:08:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[2510.04226] What and Whose Knowledge? Measuring Epistemic Diversity in Large Language Models</title>
+      <link>https://arxiv.org/abs/2510.04226</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.04226</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2huvjvtixiynd2gm6nalh5yi/bafkreicjb5bauqh3cf6feei3btgnsqjyecshjdxuxa7xb2yzvfg6esbaau" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are increasingly used as primary knowledge sources, yet their epistemic diversity - defined as the diversity of real-world claims in their outputs - has never been measured. Low epistemic diversity would pose a risk of knowledge collapse as homogeneous LLMs mediate a shrinking in the range of accessible information over time. The dominant paradigm is that overall LLM diversity is low, but this is always with respect to a single point in time, with no reference baseline or consideration for variation across countries. We address this gap in knowledge by performing the first systematic study of epistemic diversity in LLMs across time and cultural context, testing 27 LLMs on 155 topics covering 12 countries, resulting in 1.7M responses and 70M individual claims. We find that epistemic diversity has increased substantially over the past three years, a positive counter to recent diversity pessimism. However, despite progress, we find that every system is less diverse than a search baseline. This gap is not uniform: RAG can improve diversity, while large models are counterintuitively less diverse than smaller ones. Moreover, LLM parametric knowledge systematically reflects English over local-language knowledge for country specific topics. Together, these results demonstrate that while progress on epistemic diversity is tangible, it is insufficient and unevenly distributed.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 37&lt;/small&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 06:08:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2huvjvtixiynd2gm6nalh5yi/bafkreicjb5bauqh3cf6feei3btgnsqjyecshjdxuxa7xb2yzvfg6esbaau" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2huvjvtixiynd2gm6nalh5yi/bafkreicjb5bauqh3cf6feei3btgnsqjyecshjdxuxa7xb2yzvfg6esbaau" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Generalizable experiment agents threaten online behavioral experiments</title>
+      <link>https://osf.io/preprints/psyarxiv/7k9am_v1</link>
+      <guid isPermaLink="true">https://osf.io/preprints/psyarxiv/7k9am_v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzlqpiw66h7oppkphl3ckosl/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Online behavioral experiments rely on the assumption that participants are human. Advances in large language models (LLMs) challenge this assumption, but previous demonstrations have largely focused o...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 11&lt;/small&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 06:08:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzlqpiw66h7oppkphl3ckosl/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yzlqpiw66h7oppkphl3ckosl/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" type="image/jpeg" length="0" />
+      <source url="https://osf.io">osf.io</source>
+    </item>
+    <item>
+      <title>Embedding Physics Priors in Robot Learning: A Survey</title>
+      <link>https://arxiv.org/abs/2609.22319</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.22319</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jluw7n4fejomwnuhvg7xlb4h/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The rapid progress of artificial intelligence is reshaping robotics and accelerating the adoption of learning-based approaches. While purely data-driven methods have achieved remarkable success in com...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 06:08:58 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jluw7n4fejomwnuhvg7xlb4h/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jluw7n4fejomwnuhvg7xlb4h/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Fair Moderation, Equitable Access, and AI: arXiv’s Updated Rate Limit Policy</title>
       <link>https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/</link>
@@ -456,36 +486,6 @@
       <link>https://arxiv.org/abs/2609.11737v1</link>
       <guid isPermaLink="true">https://arxiv.org/abs/2609.11737v1</guid>
       <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Collective intelligence depends not only on the capabilities of individual members, but also on how those members are organized. Yet artificial multi-agent systems are typically assembled using fixed&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>NovGauge: A Fine-Grained Benchmark for Diagnosing LLMs' Capability in Paper Novelty Assessment</title>
-      <link>https://arxiv.org/abs/2609.11234</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.11234</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are increasingly used in peer review at major AI conferences, yet novelty remains a persistent weak point. Existing benchmarks assess novelty as a single holistic score, making it difficult to diagnose which dimension a model misjudges or whether its evidence is faithfu…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Geospatial AI, Dataverse Metadata, and the Study of Place-Based Government</title>
-      <link>https://arxiv.org/abs/2609.11674</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.11674</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Harvard Dataverse hosts over 150,000 research datasets, but the geographic information those datasets carry is entered as free text by depositors and has never been assembled into a searchable structure. We construct a knowledge graph from the repository&amp;#x27;s public data and metadata, organizing 102,6…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Beyond Vector Similarity: Hierarchical Context-Aware Graph RAG vs Standard RAG in Enterprise Code Migration</title>
-      <link>https://arxiv.org/abs/2609.12464</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.12464</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As enterprises modernize legacy monolithic systems to microservices, Large Language Models (LLMs) are heavily utilized for automated code translation. However, traditional vector-based Retrieval-Augmented Generation (Standard RAG) struggles to capture topological relationships. It fetches isolated …&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
       <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
