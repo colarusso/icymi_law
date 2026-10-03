@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Oct 2026 10:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jack Dorsey’s Bitchat disappears from app stores in India after government order</title>
+      <link>https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</guid>
+      <description>Bitchat has become largely unavailable in India as a result of the restrictions.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 15:02:01 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>California’s new laws target workers’ biggest fear of AI taking their jobs</title>
       <link>https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection</link>
@@ -4392,16 +4400,6 @@
       <media:content url="https://i.guim.co.uk/img/media/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/master/4536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34fa44f9c5cbe9250e75f9fbf5370bfc" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/master/4536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34fa44f9c5cbe9250e75f9fbf5370bfc" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning</title>
-      <link>https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The performers are asking the government to give every person in the UK a legal right to own their voice.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 05:11:16 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
