@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:55:45 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentence Tossed After A.I. Video of Victim ‘Forgiving’ His Killer Is Played</title>
+      <link>https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html</guid>
+      <description>An appellate court in Arizona threw out the prison sentence of a man convicted of manslaughter after an A.I.-generated video of his victim was played in court.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 20:31:51 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/04/multimedia/04xp-ai-video1-ztmh/04xp-ai-video1-ztmh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
@@ -4390,16 +4400,6 @@
       <description>* Proskauer associates in UK appalled by firm&amp;#x27;s approach to maternity leave. &amp;#x27;Murica! [Roll on Friday] * According to a lawsuit, which AI model was trained on child porn and why is it you already knew it was Grok? [Ars Technica] * John Morgan says $30 million &amp;amp;#38; a fully paid-off house is the key to financial security. Tell me about it. [Polymarket via Twitter] * Deloitte agrees to pay $20 million to settle dubious claims raised by the administration. Surrendering to Trump... not just for law firms anymore! [ESG Today] * The health system related to the Boomer paradise known as The Villages will pay over half a billion to clear up allegations of fraud. [Bloomberg Law News] * Massive datacenter accused of breaking the law. If you can&amp;#x27;t trust a data center, then who can you even trust? [Guardian] * Bank of America settling with Epstein victims for $72.5 million. [Reuters] * Court rejects Defense Department&amp;#x27;s &amp;quot;maybe we can ban Anthropic&amp;#x27;s fancy autocorrect as a national security threat&amp;quot; argument. [Law360] The post Morning Docket: 08.28.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 28 Aug 2026 11:54:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT</title>
-      <link>https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html</guid>
-      <description>Meta negotiated an unusual provision in their landmark settlement: If TikTok and YouTube also agree to penalties and changes to their products, Meta will pay more.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 11:00:03 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/08/28/podcasts/28hardfork-meta/28hardfork-meta-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/28/podcasts/28hardfork-meta/28hardfork-meta-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
