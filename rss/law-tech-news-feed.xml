@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 14:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true</guid>
+      <description>New Jersey&amp;#x27;s lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 16:16:04 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Trump names intelligence chief Jay Clayton as new White House AI czar</title>
       <link>https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar</link>
@@ -4392,14 +4400,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/28/podcasts/28hardfork-meta/28hardfork-meta-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/28/podcasts/28hardfork-meta/28hardfork-meta-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>The three words that will decide whether robots can kill people in war</title>
-      <link>https://www.vox.com/future-perfect/500896/lethal-autonomous-weapons-ai-ukraine-appropriate-human-judgment</link>
-      <guid isPermaLink="true">https://www.vox.com/future-perfect/500896/lethal-autonomous-weapons-ai-ukraine-appropriate-human-judgment</guid>
-      <description>Imagine this: Two countries are at war. Country X sends a drone into a major industrial city in Country Y, aiming to take out two propane tanks. A routine sequence. But this time, the drone never reaches its targets. Instead, Country X’s drone accidentally strikes a wall nearby, explodes, and kills three young civilians. When [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 10:30:00 +0000</pubDate>
-      <source url="https://www.vox.com">www.vox.com</source>
     </item>
   </channel>
 </rss>
