@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump names intelligence chief Jay Clayton as new White House AI czar</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar</guid>
+      <description>Calyton said AI was a ‘gamechanger’ but it also posed ‘a threat’ during his DNI Senate confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence, to serve also as the new White House AI czar.Clayton, who leads the US’s 18 intelligence agencies, previously served as the top federal prosecutor in Manhattan and led the Securities and Exchange Commission during Trump’s first term. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 13:44:50 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/2296_881_2186_1748/master/2186.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c78eef28a6408c2241944a8febff928e" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/2296_881_2186_1748/master/2186.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c78eef28a6408c2241944a8febff928e" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Federal judge calls Flock ‘indiscriminate mass surveillance’</title>
       <link>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</link>
@@ -4390,14 +4400,6 @@
       <description>Imagine this: Two countries are at war. Country X sends a drone into a major industrial city in Country Y, aiming to take out two propane tanks. A routine sequence. But this time, the drone never reaches its targets. Instead, Country X’s drone accidentally strikes a wall nearby, explodes, and kills three young civilians. When [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 28 Aug 2026 10:30:00 +0000</pubDate>
       <source url="https://www.vox.com">www.vox.com</source>
-    </item>
-    <item>
-      <title>Legal World Is Booming, AI ROI OMG! + Legal Innovators</title>
-      <link>https://www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/08/28/legal-world-is-booming-ai-roi-omg-legal-innovators/</guid>
-      <description>Nashville had a party, but it was Google’s new Gemini Enterprise for Legal that stole the show – see AL coverage here – and what ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 07:20:23 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
