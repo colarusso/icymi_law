@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 06:08:43 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:08:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates</title>
+      <link>https://arxiv.org/abs/2603.11248</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2603.11248</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Efficient interaction with the visual world requires not only accurate object identification but also precise localization of objects in space. While spatial (&amp;quot;where&amp;quot;) processing has traditionally been attributed to dorsal stream pathways, recent work has shown that object position can also be decoded from responses in ventral stream areas such as the inferior temporal (IT) cortex. However, because object position in these paradigms is tightly coupled to pixel-based location, it remains unclear whether ventral stream position signals reflect perceptually meaningful spatial representations or simply inherited retinotopic structure. To address this question, we used the motion aftereffect, a classic visual illusion that shifts perceived object position without changing retinal input. Combining large-scale intracortical recordings in macaque IT with matched human psychophysics, we found that motion adaptation induces systematic direction-opponent biases in IT population codes for object position that mirror human perceptual reports, despite identical pixel-level stimuli. These effects are accompanied by adaptation-driven changes in the geometry of IT population representations. We further tested whether artificial vision systems exhibit similar dynamics. Standard feedforward, recurrent, and state-of-the-art video-based neural networks accurately encode object position but fail to produce adaptation-induced position shifts. However, applying empirically derived transformations based on IT adaptation dynamics to model feature spaces is sufficient to generate similar biases. Together, these results indicate that IT represents object position in perceptually aligned coordinates and also highlight a gap between biological and artificial vision systems in capturing history-dependent spatial coding.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 1&lt;/small&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 06:08:05 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Where is the Mind? Persona Vectors and LLM Individuation</title>
       <link>https://arxiv.org/abs/2604.17031v2</link>
@@ -479,16 +489,6 @@
       <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Governing AI Research Through Peer Review: A Mixed-Methods Study of the Longitudinal Effects of Ethics Flags Across Resubmissions</title>
-      <link>https://arxiv.org/abs/2609.10740</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.10740</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihw4c4n67z52hvtz3yphtzufnpejjuivcxymulg52ctyn754ownae" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Governing AI Research Through Peer Review: A Mixed-Methods Study of the Longitudinal Effects of Ethics Flags Across Resubmissions&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihw4c4n67z52hvtz3yphtzufnpejjuivcxymulg52ctyn754ownae" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihw4c4n67z52hvtz3yphtzufnpejjuivcxymulg52ctyn754ownae" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
