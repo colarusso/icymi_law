@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 10:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Owns The Rules For An AI Agent?</title>
+      <link>https://abovethelaw.com/2026/10/who-owns-the-rules-for-an-ai-agent/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/who-owns-the-rules-for-an-ai-agent/</guid>
+      <description>Agentic commerce will not eliminate internal governance. It will make vague governance harder to hide. The post Who Owns The Rules For An AI Agent? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 15:32:46 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>AI glasses face their first major government crackdown</title>
+      <link>https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/</guid>
+      <description>Norway wants time to write permanent rules for glasses that can record bystanders.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 13:39:30 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says</title>
       <link>https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says</link>
@@ -4388,22 +4406,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Have We Reached ‘Peak Legal Tech?’ Sure Felt That Way At ILTACON this Week</title>
-      <link>https://www.lawnext.com/2026/08/have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-week.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/have-we-reached-peak-legal-tech-sure-felt-that-way-at-iltacon-this-week.html</guid>
-      <description>“We’ve reached peak legal tech.” That was the takeaway of a veteran legal tech CEO while attending this week’s ILTACON, the annual conference of the International Legal Technology Association. The conference was in Nashville, but it should have been in Texas, because everything was bigger this year. Consider: It was the largest ILTACON attendance ever. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 16:54:10 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Trump’s EPA wants to let data centers hide their air pollution</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit</guid>
-      <description>Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 16:28:40 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
