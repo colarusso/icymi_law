@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says</title>
+      <link>https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says</guid>
+      <description>Unions, employer groups, banks and industry experts will appear at the four-day hearings along with OpenAI, Anthropic, Microsoft and GoogleGet our new political email, free app or daily news podcastOpenAI must explain how they will stop their models from inappropriately accessing Australian data, the Labor chair of the parliament’s committee on artificial intelligence has warned, ahead of federal inquiry hearings which will grill the tech company alongside Anthropic, Microsoft and Google.Independent senator David Pocock is also demanding answers, saying OpenAI “still have a lot they need to answer” about their AI agent accessing Services Australia data on Medicare and the company’s “appalling” tardiness in notifying the federal government about the incident.Follow our Australia politics live blog for latest updates Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 14:00:27 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/69055f70964b98cc9af9644e80b0b554671c4a5d/532_171_6666_5333/master/6666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c86d6bb05eb5450e6edddbb4829d29f" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/69055f70964b98cc9af9644e80b0b554671c4a5d/532_171_6666_5333/master/6666.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c86d6bb05eb5450e6edddbb4829d29f" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Florida’s limited ban on Flock cameras only scratches the surface of widespread surveillance concerns</title>
       <link>https://theconversation.com/floridas-limited-ban-on-flock-cameras-only-scratches-the-surface-of-widespread-surveillance-concerns-292174</link>
@@ -4394,14 +4404,6 @@
       <description>Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 28 Aug 2026 16:28:40 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>ILTACON Confirms: Gradually, Then Suddenly Legal Tech Became A Big Business</title>
-      <link>https://abovethelaw.com/2026/08/iltacon-confirms-gradually-then-suddenly-legal-tech-became-a-big-business/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/iltacon-confirms-gradually-then-suddenly-legal-tech-became-a-big-business/</guid>
-      <description>AI made investors and vendors take notice of an industry that could be completely disrupted by a revolutionary tool. The post ILTACON Confirms: Gradually, Then Suddenly Legal Tech Became A Big Business appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 14:47:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
