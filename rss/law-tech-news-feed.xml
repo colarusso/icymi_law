@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 17:55:49 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Can Never Give Lawyers All Their Time Back</title>
+      <link>https://abovethelaw.com/2026/10/ai-can-never-give-lawyers-all-their-time-back/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/ai-can-never-give-lawyers-all-their-time-back/</guid>
+      <description>8am&amp;#x27;s Kaleidoscope conference taught me that lawyers will just redistribute their time anyway. The post AI Can Never Give Lawyers All Their Time Back appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 05 Oct 2026 22:52:28 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Law School In The Age Of AI: Rethinking It From The Ground Up</title>
       <link>https://abovethelaw.com/2026/10/law-school-in-the-age-of-ai-rethinking-it-from-the-ground-up/</link>
@@ -4396,14 +4404,6 @@
       <media:content url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-meta-states-strategy--01-bkvc/27biz-meta-states-strategy--01-bkvc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-meta-states-strategy--01-bkvc/27biz-meta-states-strategy--01-bkvc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem — See Also</title>
-      <link>https://abovethelaw.com/2026/08/when-samuel-alito-is-the-one-calling-you-scary-you-know-theres-a-problem-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/when-samuel-alito-is-the-one-calling-you-scary-you-know-theres-a-problem-see-also/</guid>
-      <description>Clarence Thomas Was &amp;quot;Scary&amp;quot; In Law School: At least according to Samuel Alito. Court watchers still think he&amp;#x27;s plenty scary now, too. SCOTUS Said Come Back With A Final Rule. The States Did. They Won Again (At The District Court): The Postal Service finalized its plan. A fresh wave of lawsuits followed. Judge Talwani hit pause. Trump Accidentally Trolls His Own Legal Claims: Oopsie! These NYT and IRS suits aren’t mixing well. Legal Tech Has Hit The Big Time: Things can only continue to go up from here. Until the bubble bursts... The post When Samuel Alito Is The One Calling You ‘Scary,’ You Know There’s A Problem &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 28 Aug 2026 23:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
