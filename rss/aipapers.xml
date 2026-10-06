@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:08:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:08:35 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematical Illustration: Proof, Intuition and AI</title>
+      <link>https://arxiv.org/abs/2610.02655</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.02655</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kr2h7ms5mndgcqflvprpeyt/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In the French pedagogic tradition of Gaspard Monge, geometry was learned by drawing and handling models: drawing was knowing. The formalism of the early twentieth century placed illustration on the si...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 06:08:35 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kr2h7ms5mndgcqflvprpeyt/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kr2h7ms5mndgcqflvprpeyt/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates</title>
       <link>https://arxiv.org/abs/2603.11248</link>
@@ -480,16 +490,6 @@
       <description>How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance i&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
       <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce</title>
-      <link>https://arxiv.org/abs/2609.11190</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.11190</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI shopping assistants increasingly redirect consumer discovery, creating an urgent need for tools that support seller-side competitive decision-making. We present a multi-agent AI system that automates competitive visibility measurement and root cause diagnosis in LLM-mediated ecommerce. The syste…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
