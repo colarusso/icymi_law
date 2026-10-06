@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:55:47 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI In The Courtroom: The Rules Are Coming, Just Not How Lawyers Expect</title>
+      <link>https://abovethelaw.com/2026/10/ai-in-the-courtroom-the-rules-are-coming-just-not-how-lawyers-expect/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/ai-in-the-courtroom-the-rules-are-coming-just-not-how-lawyers-expect/</guid>
+      <description>The question isn’t when courts will &amp;#x27;catch up.&amp;#x27; It’s whether lawyers understand that, in many ways, they already have. The post AI In The Courtroom: The Rules Are Coming, Just Not How Lawyers Expect appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 15:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Who owns ‘brain rot’?: inside the international legal drama over a beloved meme</title>
       <link>https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video</link>
@@ -4406,14 +4414,6 @@
       <description>The legal profession has spent considerable energy teaching AI to answer. The next phase requires teaching it when an answer is not enough. The post Legal AI Needs An Escalation Layer appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 31 Aug 2026 15:46:42 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>New York governor to 3D-printed gun leader: &amp;#8216;tell Cody I will get ahead of him&amp;#8217;</title>
-      <link>https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response</guid>
-      <description>Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn&amp;#x27;t having it. In this week&amp;#x27;s episode of Decoder, Hochul responded to Wilson&amp;#x27;s &amp;quot;Hochulization&amp;quot; tool, warning [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 14:20:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
