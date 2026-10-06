@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 17:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta’s Settlement Isn’t Tech’s “Big Tobacco” Moment</title>
+      <link>https://www.techdirt.com/2026/10/06/metas-settlement-isnt-techs-big-tobacco-moment/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/06/metas-settlement-isnt-techs-big-tobacco-moment/</guid>
+      <description>I&amp;amp;#8217;ve written a few times now about why Meta&amp;amp;#8217;s big &amp;amp;#8220;settlement&amp;amp;#8221; with the states is a bad deal. It&amp;amp;#8217;s Meta seeking to control how the rest of the internet is regulated in a way that, as Eric Goldman&amp;amp;#8217;s op-ed we republished explains, is anti-competitive. It&amp;amp;#8217;s also bad for kids (while everyone is pretending it protects [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 22:00:50 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Department Of Justice Ordered To Call Artificial Intelligence ‘SI’ To Satisfy Donald Trump Fever Dreams</title>
       <link>https://abovethelaw.com/2026/10/department-of-justice-ordered-to-call-artificial-intelligence-si-to-satisfy-donald-trump-fever-dreams/</link>
@@ -4402,14 +4410,6 @@
       <media:content url="https://www.eff.org/files/banner_library/communityprivacy-kittens.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/communityprivacy-kittens.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Series A Round for Newcode, An AI Harness for Legal, Brings Its Funding To $20M and Fuels U.S. Expansion</title>
-      <link>https://www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/08/series-a-round-for-newcode-an-ai-harness-for-legal-brings-its-funding-to-20m-and-fuels-u-s-expansion.html</guid>
-      <description>Newcode, an Oslo-based legal AI company that sells law firms a configurable AI harness rather than a finished assistant, has raised a Series A led by OnDean Forward, the investment firm founded by Relativity founder Andrew Sieja. The round brings the company&amp;amp;#8217;s total capital raised this year to $20 million and will fund its expansion [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 17:17:47 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
