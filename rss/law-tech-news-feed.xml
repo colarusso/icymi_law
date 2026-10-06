@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:56:21 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appeals Court Pauses Minnesota’s Nudify Law, Which Ignored Its Own Supreme Court’s Roadmap.</title>
+      <link>https://www.techdirt.com/2026/10/06/appeals-court-pauses-minnesotas-nudify-law-which-ignored-its-own-supreme-courts-roadmap/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/06/appeals-court-pauses-minnesotas-nudify-law-which-ignored-its-own-supreme-courts-roadmap/</guid>
+      <description>I feel I need to start out posts like this by reminding anyone that nudification apps are bad. They&amp;amp;#8217;re almost exclusively used to abuse and harass people, most often women. That said, if you&amp;amp;#8217;re going to ban them legally, you can&amp;amp;#8217;t just say &amp;amp;#8220;nudification apps are illegal.&amp;amp;#8221; That&amp;amp;#8217;s not how the First Amendment works. And, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 17:54:50 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>AI In The Courtroom: The Rules Are Coming, Just Not How Lawyers Expect</title>
       <link>https://abovethelaw.com/2026/10/ai-in-the-courtroom-the-rules-are-coming-just-not-how-lawyers-expect/</link>
@@ -4406,14 +4414,6 @@
       <media:content url="https://www.citationneeded.news/content/images/2026/08/109-header.png" medium="image" type="image/png" />
       <enclosure url="https://www.citationneeded.news/content/images/2026/08/109-header.png" type="image/png" length="0" />
       <source url="https://www.citationneeded.news">www.citationneeded.news</source>
-    </item>
-    <item>
-      <title>Legal AI Needs An Escalation Layer</title>
-      <link>https://abovethelaw.com/2026/08/legal-ai-needs-an-escalation-layer/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/08/legal-ai-needs-an-escalation-layer/</guid>
-      <description>The legal profession has spent considerable energy teaching AI to answer. The next phase requires teaching it when an answer is not enough. The post Legal AI Needs An Escalation Layer appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 15:46:42 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
