@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 09:56:24 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:56:07 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who owns ‘brain rot’?: inside the international legal drama over a beloved meme</title>
+      <link>https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video</guid>
+      <description>Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging thatOne of the most beloved characters in an absurdist genre of online video content has become the center of an international legal battle that could determine where human creativity ends and artificial intelligence begins.Tung Tung Tung Sahur, also known as Triple T, was created in 2025 by an Indonesian teen who goes by the username Noxa, using OpenAI’s image-generation tool. Based on a kentongan – a type of drum used to wake south-east Asian Muslims for their pre-dawn meal during Ramadan – the character is an anthropomorphized version of the instrument with a broad smile and a vacant stare. He sits under the umbrella of “Italian brain rot” internet videos. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 14:00:16 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/c2dfa51f1648c91edd6ddfc5ab431cd670b80eba/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba022b4f5e38c1610212b48f33491b5d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/c2dfa51f1648c91edd6ddfc5ab431cd670b80eba/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba022b4f5e38c1610212b48f33491b5d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>‘We’re not going to go away’: the mom fighting for social media reform after her son’s suicide</title>
+      <link>https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary</link>
+      <guid isPermaLink="true">https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary</guid>
+      <description>A new documentary follows Kristin Bride as she takes on Congress after the death of her 16-year-old son who was cyberbulliedAt this point in time, going anywhere without your smartphone feels almost like leaving behind a limb. Whether it’s for directions, distraction or the discourse on social media, our phones have become both a necessity and a crutch in our everyday lives, with our bodies literally evolving around the glow of the screen.But no matter how much we think we need all the bells and whistles of the attention economy, the attention economy actually needs us more than we need it. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 09:00:07 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/4971251b3047fc99e1490b9c193a858d7c4da03c/509_0_2697_2160/master/2697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30dc8d165e3207f44f7382f4d1a69344" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/4971251b3047fc99e1490b9c193a858d7c4da03c/509_0_2697_2160/master/2697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30dc8d165e3207f44f7382f4d1a69344" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Trump makes it clear his power is becoming entwined with AI</title>
       <link>https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape</link>
@@ -4393,24 +4413,6 @@
       <guid isPermaLink="true">https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response</guid>
       <description>Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn&amp;#x27;t having it. In this week&amp;#x27;s episode of Decoder, Hochul responded to Wilson&amp;#x27;s &amp;quot;Hochulization&amp;quot; tool, warning [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 31 Aug 2026 14:20:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>ChatGPT and Reddit now face EU's toughest online safety rules</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/</guid>
-      <description>Explosive growth comes with a new regulatory burden in the European Union.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 13:41:40 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>ChatGPT to face tougher regulation in the EU</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</guid>
-      <description>OpenAI will soon be held accountable for mitigating risks related to ChatGPT&amp;#x27;s impact on minors, user mental health, and the spread of illegal content in the European Union. That&amp;#x27;s because ChatGPT is now considered a Very Large Online Search Engine under the EU&amp;#x27;s Digital Services Act, a set of laws regulating major online services and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 13:27:36 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
