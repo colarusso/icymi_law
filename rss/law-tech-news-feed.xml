@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:57:06 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:56:24 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump makes it clear his power is becoming entwined with AI</title>
+      <link>https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape</guid>
+      <description>New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominouslyHello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy.OpenAI safety leader quits, warning AI company’s culture is ‘broken’Forget ‘superintelligence’: error-prone AI nearly sparked world war three this monthAI chatbots remove hijabs from images of Muslim women when promptedGoogle rolls out new Gemini AI model but restricts access over safety concernsCalifornia issues investigative subpoena to OpenAI over rogue agents’ hackingThe AI industry is booming. Women are getting left behind‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to WashingtonRural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’Georgia holds emergency meeting on AI exposing voters’ secret ballotsPeter Thiel revealed as secret buyer of Bel Air mansion that sold for $130mNew Google Maps images reveal massive scale of devastation in Gaza Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 13:23:45 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/816_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5efe6c1f549ab8c841b7053371a5d5d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/816_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5efe6c1f549ab8c841b7053371a5d5d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>OpenAI admits misstep in handling AI agent interactions with Australian government sites – video</title>
+      <link>https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video</guid>
+      <description>In a parliamentary inquiry, OpenAI chief strategy officer Jason Kwon is questioned by independent senator David Pocock about the company&amp;#x27;s notification process after OpenAI agents accessed Australian government website data in June. Asked why OpenAI relied on an arbitrary department email rather than direct government contacts, Kwon acknowledges that &amp;#x27;in retrospect, we should have done what you&amp;#x27;re suggesting&amp;#x27;. He explains that staff had treated the incident as a &amp;#x27;technical situation&amp;#x27; and sought to contact technical counterparts, which he says was &amp;#x27;not good enough&amp;#x27;OpenAI has &amp;#x27;work to do to rebuild trust&amp;#x27; in Australia, executive tells AI inquiry Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 06 Oct 2026 07:32:25 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/9f3c49ed886fe6452020bb458ef7a0bd5b62a8fe/1131_926_2152_1722/master/2152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b9635d09a6896fdefd8b22d7cf726b" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/9f3c49ed886fe6452020bb458ef7a0bd5b62a8fe/1131_926_2152_1722/master/2152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b9635d09a6896fdefd8b22d7cf726b" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Italian PM files to trademark her voice against AI threats</title>
       <link>https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4392,24 +4412,6 @@
       <description>OpenAI will soon be held accountable for mitigating risks related to ChatGPT&amp;#x27;s impact on minors, user mental health, and the spread of illegal content in the European Union. That&amp;#x27;s because ChatGPT is now considered a Very Large Online Search Engine under the EU&amp;#x27;s Digital Services Act, a set of laws regulating major online services and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 31 Aug 2026 13:27:36 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Anthropic sued over alleged theft of ‘tens of thousands’ of songs</title>
-      <link>https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude</link>
-      <guid isPermaLink="true">https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude</guid>
-      <description>AI company faces multi-billion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot.Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and composers, are seeking damages for alleged misuse of “tens of thousands” of copyrighted works by Anthropic. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 12:42:05 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/f71f04d5df9421a55778aa4dd343ea33aae6a545/378_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49aec32ea2c2154d23ee128d847e52d6" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/f71f04d5df9421a55778aa4dd343ea33aae6a545/378_0_4500_3600/master/4500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49aec32ea2c2154d23ee128d847e52d6" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Hiding Prompt Injection in Legal Filing</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html</link>
-      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html</guid>
-      <description>Someone hid AI instructions into a legal filing. Alternate link.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 31 Aug 2026 11:03:40 +0000</pubDate>
-      <source url="https://www.schneier.com">www.schneier.com</source>
     </item>
   </channel>
 </rss>
