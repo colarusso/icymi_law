@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 09:56:41 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:56:36 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spellbook’s Autonomous Contract Management on General Release</title>
+      <link>https://www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/07/spellbooks-autonomous-contract-management-on-general-release/</guid>
+      <description>CLM isn’t dead. But it does have a lot of competition&amp;amp;#8230;.as Spellbook’s Autonomous Contract Management (ACM) capability goes on general release after an initial limited ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 13:24:04 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>Pilot5 Launches Adversarial AI for Lawyers</title>
       <link>https://www.artificiallawyer.com/2026/10/07/pilot5-launches-adversarial-ai-for-lawyers/</link>
@@ -4398,14 +4406,6 @@
       <description>Payments giant Stripe has taken a step into the legal tech world with Clerky, a company formed by ex-Orrick lawyers that helps startups with their ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 01 Sep 2026 07:02:18 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI</title>
-      <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</guid>
-      <description>Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 00:13:00 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
