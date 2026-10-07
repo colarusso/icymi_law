@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 15:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Copyright Is Being Abused To Censor Albania’s Flamingo Revolution</title>
+      <link>https://www.techdirt.com/2026/10/07/how-copyright-is-being-abused-to-censor-albanias-flamingo-revolution/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/07/how-copyright-is-being-abused-to-censor-albanias-flamingo-revolution/</guid>
+      <description>For the last couple of years, the copyright world has been grappling with the latest generation of AI, as numerous posts on Walled Culture attest. That’s hardly surprising, since AI is currently delivering the greatest challenge to the foundations of copyright since the arrival of the computer, which was discussed at length in Walled Culture [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 20:13:13 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift</title>
       <link>https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/</link>
@@ -4402,14 +4410,6 @@
       <description>[Sponsored] In the age of AI, the firms that win are the ones that unify how they practice law and how they grow their business. Speed alone is not the strategy. Earned intelligence is. The post Saving Time Is Not The Win. Turning It Into Growth Is. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 01 Sep 2026 16:16:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Florida and Texas move to block Flock cameras over privacy concerns</title>
-      <link>https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/</guid>
-      <description>Flock&amp;#x27;s searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 15:00:10 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
