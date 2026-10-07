@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:08:35 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:09:32 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>math/preprints at main · openai/math</title>
+      <link>https://github.com/openai/math/tree/main/preprints</link>
+      <guid isPermaLink="true">https://github.com/openai/math/tree/main/preprints</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥🔥 · reposts: 29 · likes: 144&lt;/small&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" type="image/jpeg" length="0" />
+      <source url="https://github.com">github.com</source>
+    </item>
+    <item>
+      <title>math/preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/paper.pdf at main · openai/math</title>
+      <link>https://github.com/openai/math/blob/main/preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/paper.pdf</link>
+      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/paper.pdf</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" type="image/jpeg" length="0" />
+      <source url="https://github.com">github.com</source>
+    </item>
+    <item>
+      <title>math/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf at main · openai/math</title>
+      <link>https://github.com/openai/math/blob/main/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf</link>
+      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cbijfp3k2ku45tdi2kjc4wvp/bafkreidj4mhum6bhqsctdavrdt46apemg7gfkjyaosm2zl6xjqtxjpaa7a" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cbijfp3k2ku45tdi2kjc4wvp/bafkreidj4mhum6bhqsctdavrdt46apemg7gfkjyaosm2zl6xjqtxjpaa7a" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cbijfp3k2ku45tdi2kjc4wvp/bafkreidj4mhum6bhqsctdavrdt46apemg7gfkjyaosm2zl6xjqtxjpaa7a" type="image/jpeg" length="0" />
+      <source url="https://github.com">github.com</source>
+    </item>
+    <item>
+      <title>math/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf at main · openai/math</title>
+      <link>https://github.com/openai/math/blob/main/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf</link>
+      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" type="image/jpeg" length="0" />
+      <source url="https://github.com">github.com</source>
+    </item>
     <item>
       <title>Mathematical Illustration: Proof, Intuition and AI</title>
       <link>https://arxiv.org/abs/2610.02655</link>
@@ -451,44 +491,6 @@
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7456700</guid>
       <description>Public predictions of the arrival of artificial general intelligence, the technological Singularity, and human extinction caused by AI shape investment, policy,&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 4&lt;/small&gt;</description>
       <pubDate>Wed, 16 Sep 2026 06:09:37 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms</title>
-      <link>https://arxiv.org/abs/2609.04170v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.04170v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwjcgn5pt2krm2lmav2mdcyz/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other&amp;#x27;s work. Yet this shared infrastructure can also introduce vulnerab...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥 · reposts: 8 · likes: 31&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 06:09:06 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwjcgn5pt2krm2lmav2mdcyz/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iwjcgn5pt2krm2lmav2mdcyz/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>VEX-Bench: Benchmarking LLM Agents for Assessing Exploitability of Software Supply Chain Vulnerabilities</title>
-      <link>https://arxiv.org/abs/2609.08040</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.08040</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wb4chyxecnojex7l6vyha2xf/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The software supply chain has become an increasingly exposed attack surface because of its reliance on intricate yet fragile dependencies. Existing defenses such as GitHub Dependabot often raise many ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 12&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 06:09:06 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wb4chyxecnojex7l6vyha2xf/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wb4chyxecnojex7l6vyha2xf/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>How LLMs Distort Our Written Language</title>
-      <link>https://arxiv.org/abs/2603.18161</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.18161</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pj7ufwrz2uua2afdrgcrdbwp/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) are used by over a billion people globally, most often to assist with writing. In this work, we demonstrate that LLMs not only alter the voice and tone of human writing bu...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 06:09:06 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pj7ufwrz2uua2afdrgcrdbwp/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pj7ufwrz2uua2afdrgcrdbwp/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Navigating Software Vulnerabilities: Eighteen Years of Evidence from Medium and Large U.S. Organizations</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901031</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4901031</guid>
-      <description>How prevalent are severe software vulnerabilities, how fast do software users respond to the availability of secure versions, and what determines the variance i&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 2 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 06:07:34 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
