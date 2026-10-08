@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 14:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside</title>
+      <link>https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</link>
+      <guid isPermaLink="true">https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video</guid>
+      <description>Four men detained at an ICE detention center in rural Georgia used the facility&amp;#x27;s video conferencing software to expose both the conditions inside and President Donald Trump&amp;#x27;s hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 19:45:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Your Law School’s AI Training Could Make Or Break Your Biglaw Prospects</title>
+      <link>https://abovethelaw.com/2026/10/your-law-schools-ai-training-could-make-or-break-your-biglaw-prospects/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/your-law-schools-ai-training-could-make-or-break-your-biglaw-prospects/</guid>
+      <description>Firms will remember which schools consistently deliver AI-ready associates. The post Your Law School’s AI Training Could Make Or Break Your Biglaw Prospects appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 19:15:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Contracts Are Becoming Infrastructure For AI Agents</title>
       <link>https://abovethelaw.com/2026/10/contracts-are-becoming-infrastructure-for-ai-agents/</link>
@@ -4392,24 +4408,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The Trump administration is supporting OpenAI in the NYT copyright lawsuit</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit</guid>
-      <description>The Trump administration has intervened in The New York Times&amp;#x27; copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup &amp;quot;billions of dollars&amp;quot; in damages from [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 16:12:25 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm</title>
-      <link>https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm</guid>
-      <description>Landmark lawsuit claims tech company’s pay-setting system has breached privacy laws and pushed down earningsUber drivers have launched a landmark legal action against the ride-hailing company claiming they live in “constant fear” of a “soulless” algorithm it uses to set pay and allocate jobs.Drivers from the UK, the Netherlands and other countries have joined the compensation claim that could run into billions of dollars. It alleges an AI-powered pay-setting system breaches data protection laws and pushes down their earnings. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 15:37:26 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23cd7fbd9c09e9b25577395465cbb1d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23cd7fbd9c09e9b25577395465cbb1d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
