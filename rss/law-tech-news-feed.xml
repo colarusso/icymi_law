@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:55:53 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The World’s Richest Law Firm Has Decided Money Isn’t Everything — See Also</title>
+      <link>https://abovethelaw.com/2026/10/the-worlds-richest-law-firm-has-decided-money-isnt-everything-see-also/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/the-worlds-richest-law-firm-has-decided-money-isnt-everything-see-also/</guid>
+      <description>Kirkland &amp;amp;#38; Ellis Is Done Sharing Its Revenue With The Media: Turns out $10 billion is right where the numbers stop providing &amp;#x27;meaningful value.&amp;#x27; Biglaw Wants Lawyers Who Know How To Use AI: But some law schools are outright banning it. This could turn into a recruitment problem... &amp;quot;Cartel Attorney&amp;quot; Shouldn&amp;#x27;t Be A Professional Goal: You may wind up behind bars for decades. DOJ Says The Press Ban Is Due To National Security, But Trump Keeps Pointing To The Bad Coverage: Judge says DOJ&amp;#x27;s argument is &amp;#x27;an uphill climb.&amp;#x27; Have A Super Day: Donald Trump rebranded AI as &amp;quot;super intelligence&amp;quot; and now he&amp;#x27;s rebranding everyone who doesn&amp;#x27;t go along &amp;quot;THE ENEMY!&amp;quot; The post The World&amp;amp;#8217;s Richest Law Firm Has Decided Money Isn&amp;amp;#8217;t Everything &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 23:31:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>The Worst Of Us</title>
       <link>https://www.myshingle.com/2026/10/the-worst-of-us/</link>
@@ -4396,16 +4404,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Justice Dept. Sides With OpenAI in New York Times Copyright Suit</title>
-      <link>https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/justice-department-openai-copyright-suit.html</guid>
-      <description>The department argued in a court filing that OpenAI legally used articles by The New York Times to develop A.I., adding that national security depended on American tech dominance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 18:48:36 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
