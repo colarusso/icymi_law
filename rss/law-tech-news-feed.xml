@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump administration says Microsoft &amp;#8216;abused&amp;#8217; worker visa program and is cutting off access</title>
+      <link>https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance</guid>
+      <description>The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Vance claimed the permanent labor certification program - intended for use when there aren&amp;#x27;t &amp;quot;sufficient&amp;quot; US [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 16:57:27 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>New York accuses TikTok of serving users ‘placebo’ safety features</title>
       <link>https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features</link>
@@ -4406,14 +4414,6 @@
       <media:content url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Norway considers ban on camera-enabled wearable ‘pervert glasses’</title>
-      <link>https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/</guid>
-      <description>The Nordic country says wearable camera headsets need to be regulated given their privacy risks.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 13:11:47 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
