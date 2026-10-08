@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:56:41 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:56:21 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal Front Door Coheso Launches Memory + AL Interview</title>
+      <link>https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/</guid>
+      <description>Coheso, the legal front door pioneer, has launched Memory, which turns resolved legal requests into institutional knowledge. See AL Interview with CEO, Ned Gannon, below. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 13:50:32 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Liability law will not tame AI</title>
+      <link>https://www.economist.com/united-states/2026/10/08/liability-law-will-not-tame-ai</link>
+      <guid isPermaLink="true">https://www.economist.com/united-states/2026/10/08/liability-law-will-not-tame-ai</guid>
+      <description>Courts may take years to sort out legal standards for frontier firms&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.economist.com/united-states/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
+      <source url="https://www.economist.com">www.economist.com</source>
+    </item>
     <item>
       <title>OpenAI Decisions – Cheaper Bulk Review For Lawyers</title>
       <link>https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/</link>
@@ -4398,22 +4414,6 @@
       <description>Kyra Law is a pioneering UK-based NewMod law firm. Artificial Lawyer spoke to co-founder Julian Ritter about leveraging AI with this new business model, the ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 02 Sep 2026 07:46:53 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Webinar: Why is the Legal AI ROI Conversation Still Broken?</title>
-      <link>https://www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/02/webinar-why-is-the-legal-ai-roi-conversation-still-broken/</guid>
-      <description>On Wednesday, September 16, 4 PM BST, 11 AM ET, 8 AM PT, Chamelio and Artificial Lawyer will be holding a live webinar to explore the increasingly ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 06:43:15 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>It’s Not Illegal If Nobody Has Standing To Say So — See Also</title>
-      <link>https://abovethelaw.com/2026/09/its-not-illegal-if-nobody-has-standing-to-say-so-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/its-not-illegal-if-nobody-has-standing-to-say-so-see-also/</guid>
-      <description>Nice Office You Got There: Let&amp;#x27;s tear down the Supreme Court building! After all, the Court says no one can stop a president from unilaterally destroying a historic building. &amp;#x27;A Whorehouse And Las Vegas&amp;#x27;: Ty Cobb reviews Trump&amp;#x27;s ballroom. Legal Tech Love-In: Everyone in legal tech is hopping into bed with each other. Figuratively (we hope). The big rundown on last week&amp;#x27;s ILTACON and how it relates to swinging. Fools For Clients: Wall Street banks want Biglaw to cut its bills because they can get answers from AI. These are not serious people. Pangram Perils: Law professors up in arms about AI have put their faith in AI tools to detect AI. That&amp;#x27;s a dangerous proposition. Erin Piacenti, Fordham Law &amp;#x27;21 And Bank Of America VP, Killed In Times Square Attack: The 32-year-old had celebrated her second wedding anniversary three weeks earlier. The post It&amp;amp;#8217;s Not Illegal If Nobody Has Standing To Say So &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 23:01:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
