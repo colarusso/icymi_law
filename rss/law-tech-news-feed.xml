@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:56:07 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contracts Are Becoming Infrastructure For AI Agents</title>
+      <link>https://abovethelaw.com/2026/10/contracts-are-becoming-infrastructure-for-ai-agents/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/contracts-are-becoming-infrastructure-for-ai-agents/</guid>
+      <description>In-house lawyers should prepare for a world in which contracts are not merely documents that explain what happened. The post Contracts Are Becoming Infrastructure For AI Agents appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Anthropic changes usage policy to ban model abuse and election interference</title>
+      <link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</guid>
+      <description>Anthropic&amp;#x27;s updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 18:16:24 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>USA Today becomes the latest publisher to sue OpenAI</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</guid>
+      <description>USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied &amp;quot;hundreds of thousands&amp;quot; of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI&amp;#x27;s unauthorized use of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 17:58:33 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Trump administration says Microsoft &amp;#8216;abused&amp;#8217; worker visa program and is cutting off access</title>
       <link>https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance</link>
@@ -4385,34 +4409,6 @@
       <pubDate>Wed, 02 Sep 2026 15:37:26 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23cd7fbd9c09e9b25577395465cbb1d" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23cd7fbd9c09e9b25577395465cbb1d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Federal Judge Declines to Break Up Google’s Ad Technology Business</title>
-      <link>https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</guid>
-      <description>In a long awaited ruling, the judge said Google must make some changes to its ad tech business to handle antitrust issues, but did not disclose the measures publicly.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 14:43:30 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Filevine Takes On Shepard’s and KeyCite With Its Own AI Case Law Citator and Hallucination Checker</title>
-      <link>https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/filevine-takes-on-shepards-and-keycite-with-its-own-ai-case-law-citator-and-hallucination-checker.html</guid>
-      <description>The legal technology company Filevine has launched an AI-native citator and a companion brief-checking tool inside LOIS, its Legal Operating Intelligence System AI platform, that its CEO says perform as well as or better than the leading legal citators from LexisNexis and Thomson Reuters. The citator has two core features. One checks a filed or [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 14:24:33 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI</title>
-      <link>https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting</guid>
-      <description>The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in CanadaOpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.The suits, filed on Wednesday, allege the company’s ChatGPT chatbot induced the shooter to carry out the attack in rural Canada in February, in which eight people were killed and dozens more wounded – most of them children. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 13:22:57 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
