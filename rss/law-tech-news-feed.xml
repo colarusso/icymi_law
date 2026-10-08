@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Worst Of Us</title>
+      <link>https://www.myshingle.com/2026/10/the-worst-of-us/</link>
+      <guid isPermaLink="true">https://www.myshingle.com/2026/10/the-worst-of-us/</guid>
+      <description>AI didn’t create the problems we’re now seeing in the legal profession. It revealed them. The post The Worst Of Us appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 22:15:00 +0000</pubDate>
+      <source url="https://www.myshingle.com">www.myshingle.com</source>
+    </item>
     <item>
       <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
       <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
@@ -4398,14 +4406,6 @@
       <media:content url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/09/02/multimedia/02biz-openai-justice-NYT-fwmc/02biz-openai-justice-NYT-fwmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>AI ROI For Law Firms: There’s Not Any</title>
-      <link>https://abovethelaw.com/2026/09/ai-roi-for-law-firms-theres-not-any/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/ai-roi-for-law-firms-theres-not-any/</guid>
-      <description>Clients need some ownership in how their firms use the technology. Firms and clients need to design workflows together. The post AI ROI For Law Firms: There’s Not Any appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 18:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
