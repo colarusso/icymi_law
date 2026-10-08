@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
+      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</guid>
+      <description>With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder&amp;#x27;s desk.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>California is trying to shut down robot vs. human cage matches</title>
       <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
@@ -4398,16 +4406,6 @@
       <description>Clients need some ownership in how their firms use the technology. Firms and clients need to design workflows together. The post AI ROI For Law Firms: There’s Not Any appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 02 Sep 2026 18:32:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Texas and Florida Step Back from ALPRs</title>
-      <link>https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/texas-and-florida-step-back-alprs</guid>
-      <description>Within the last few days, two important state actions have dealt a big blow to automated license plate reader (ALPR) networks. This is just the latest proof of the growing tide of public opposition to mass surveillance. After years of successful grassroots battles to pull these cameras from local streets, bipartisan momentum is sweeping the country. On August 28, Texas Governor Greg Abbott banned state agencies from spending public funds on Flock cameras. The order dropped just as The Texas Tribune prepared to publish an investigation revealing that a state agency had quietly funneled at least $30 million into building a sprawling surveillance network. Then on August 31, the Florida Department of Transportation (FDOT) issued a memo, announced by Governor Ron DeSantis, ordering the removal of all ALPRs from the right-of-way on state highways within 30 days. The order revokes all previously approved permits to install ALPRs, and bars transportation officials from issuing future permits. FDOT officials stated that “the recent exponential increase in deployments along our roadways, coupled with concerning reports of misuse, data privacy concerns, and surveillance schemes merit immediate action to preserve Floridians’ sovereignty and quality of life.” FDOT’s action has been followed by a surge of local governments in Florida canceling or pausing their vendor contracts. Much more work remains. Many ALPRs in Florida are not on state highways, but sit on city streets, county roads, residential driveways, and shopping center parking lots—and FDOT&amp;#x27;s order doesn&amp;#x27;t touch any of them. Likewise, the Texas directive leaves local agencies free to use city, county, federal, and private funds to install cameras. This week’s good news follows years of pushback from local advocates that has seen dozens of cities sever ties with surveillance companies. According to some metrics, during the last 30 days, an average of three localities per day has halted contracts with Flock. Other advocates have been resisting ALPRs in statehouses and court houses, and by blowing the whistle with investigative activism. The moves in Florida and Texas also illustrate the power that the executive branch can wield to curtail mass surveillance with almost immediate results. We hope that the California Governor Gavin Newsom and the California Department of Transportation will take notice and initiate steps to curb this technology, starting with removing the ALPRs that U.S. Border Patrol and the Drug Enforcement Administration have installed on California highways. EFF’s position remains: ALPR mass surveillance – the indiscriminate, continuous collection and retention of location data on every driver, regardless of suspicion – should not exist. This past week’s actions in Texas and Florida are good steps forward, but we are still far from the finish line. We will continue working alongside community groups to keep cameras off local streets, while urging judges and state lawmakers to impose enforceable restraints on this warrantless mass surveillance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 02 Sep 2026 17:31:31 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
