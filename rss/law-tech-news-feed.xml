@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:56:19 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I'm the enemy ...</title>
+      <link>https://buttondown.com/LawyerExMachina/archive/im-the-enemy/</link>
+      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/im-the-enemy/</guid>
+      <description>AI The Arizona Court of Appeals has vacated the sentence of a man convicted of manslaughter arising from a road rage incident, finding that the victim statement video made by an AI avatar of the murder victim programmed by his sister was prejudicial against the defendant and the judge improperly relied on the video [ABA Journal | NBC News | NY Times ($) | Reuters ($)| Opinion]An app developer has used AI to reverse-engineer Adobe’s Creative Clouds suite of programs (which include Photoshop, Lightroom, and Acrobat Pro) and release free, open-source apps with similar features and tools [Ars Technica | PetaPixel | Bluesky post]A woman in Florida was arrested after she wrote that she wanted to shoot up a Sheriff’s office in a chat with Claude that she apparently used as a personal diary; Anthropic human reviewers flagged the entry and sent it to local law enforcement [Gulf Coast News Now (FL) | Inc.]From 60 Minutes: “Columbus, Ohio, law firm Vorys, Sater, Seymour and Pease … worked with Stanford University&amp;#x27;s Liftlab to build AI personas trained on the experience and philosophy of some of its senior lawyers” [Tiktok excerpt | CBS News article | 60 Minutes transcript - “Artificial intelligence and the future of work”]Florida’s Attorney General, who opted out of the settlement between Meta and state AGs over social media addiction and young users, has requested a temporary injunction against the company to remove all users under 14 years of age [Politico | Reuters ($) | AG’s announcement (Twitter post w/ video) | Plaintiff’s Motion for Temporary Injunction] Privacy Norway is moving forward with a proposed temporary ban on the use/wearing of AI-enhanced smartglasses in certain public places: “parks, beaches, schools, and kindergartens” [Ars Technica | AP News | CBC News | Wall St. Journal] Long Reads Deborah DeMott, When Agentic AI Met the Common Law of Agency (May 27, 2026). Duke Law School Public Law &amp;amp;amp; Legal Theory Series No. 2026-35, Available at SSRN: https://ssrn.com/abstract=6838660 [Review &amp;amp;amp; summary at JOTWELL]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 20:41:06 +0000</pubDate>
+      <source url="https://buttondown.com">buttondown.com</source>
+    </item>
     <item>
       <title>Pluralistic: Thwarted (09 Oct 2026)</title>
       <link>https://pluralistic.net/2026/10/09/impunitism/</link>
@@ -4387,14 +4395,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/09/california-is-coming-for-lawyers-who-file-ai-generated-nonsense/</guid>
       <description>Lawyers may soon face additional consequences for failing to check for AI hallucinations in their filings. The post California Is Coming For Lawyers Who File AI-Generated Nonsense appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 03 Sep 2026 16:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>From ‘Associate’ To ‘Doppelganger’: The Evolution Of The Legal AI Persona</title>
-      <link>https://abovethelaw.com/2026/09/from-associate-to-doppelganger-the-evolution-of-the-legal-ai-persona/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/from-associate-to-doppelganger-the-evolution-of-the-legal-ai-persona/</guid>
-      <description>[Sponsored] Confronting Biglaw’s ‘snake eating its own tail’ problem. The post From ‘Associate’ To ‘Doppelganger’: The Evolution Of The Legal AI Persona appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 16:01:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
