@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 06:10:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:11:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems</title>
+      <link>https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/</link>
+      <guid isPermaLink="true">https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fi7n3ciupc4o3iktnd4nenon/bafkreiawctwnzv5zthizgxpnihzd3uulli6uj5nix7foom2a7txvaelfz4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Less than 24 hours after OpenAI posted over 700 preprints describing major math results by an internal AI model, the company has withdrawn three of the manuscripts for errors. On Oct. 6, Open…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 14 · likes: 36&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 11:11:56 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fi7n3ciupc4o3iktnd4nenon/bafkreiawctwnzv5zthizgxpnihzd3uulli6uj5nix7foom2a7txvaelfz4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fi7n3ciupc4o3iktnd4nenon/bafkreiawctwnzv5zthizgxpnihzd3uulli6uj5nix7foom2a7txvaelfz4" type="image/jpeg" length="0" />
+      <source url="https://retractionwatch.com">retractionwatch.com</source>
+    </item>
+    <item>
+      <title>A gauge-invariant measure for lattice chiral fermions</title>
+      <link>https://arxiv.org/abs/2610.09093</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.09093</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lznhdtijhz2e2yhtfge6jd3v/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We nonperturbatively construct a gauge-invariant measure for overlap fermions on four-dimensional Euclidean lattices in a class of nonabelian chiral gauge theories that includes the Standard Model. On...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 12&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 11:11:56 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lznhdtijhz2e2yhtfge6jd3v/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lznhdtijhz2e2yhtfge6jd3v/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Is this machine playing?</title>
+      <link>https://arxiv.org/html/2610.07130v1</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2610.07130v1</guid>
+      <description>https://arxiv.org/html/2610.07130v1&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 11:11:56 -0400</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Information-Dense Synthesis for Molecular Discovery</title>
+      <link>https://arxiv.org/abs/2610.08495</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.08495</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drguvy5znjsvdlib237ofobt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Machine learning can accelerate molecular discovery by designing molecules and planning experiments. However, many scientific challenges demand molecules with very rare properties, and in this sparse ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 11:11:56 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drguvy5znjsvdlib237ofobt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drguvy5znjsvdlib237ofobt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs</title>
       <link>https://arxiv.org/abs/2610.08144</link>
@@ -456,44 +494,6 @@
       <description>An autonomous LLM pipeline rebuilds each result from the paper and available databases, with independent audits of every replication. I obtain 1,328 in-sample r&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 2 · likes: 15&lt;/small&gt;</description>
       <pubDate>Fri, 18 Sep 2026 06:09:44 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>One Size Does Not Fit All! Dynamic Retriever and Generator Selection for RAG</title>
-      <link>https://arxiv.org/abs/2609.17709</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.17709</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihdparirrupotwjc3dlyisnpfcencdv5ub6i6obcctalgc27a26iq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for One Size Does Not Fit All! Dynamic Retriever and Generator Selection for RAG&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:09:44 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihdparirrupotwjc3dlyisnpfcencdv5ub6i6obcctalgc27a26iq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreihdparirrupotwjc3dlyisnpfcencdv5ub6i6obcctalgc27a26iq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>When Does AI Augment Work? A Workflow-Level Framework for Human-Agent Collaboration</title>
-      <link>https://arxiv.org/abs/2609.12482</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.12482</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicd7nazg2vddc2o3rdqsvlxqr7ncndxvlbrsefceewrbrs22bykny" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for When Does AI Augment Work? A Workflow-Level Framework for Human-Agent Collaboration&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:09:44 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicd7nazg2vddc2o3rdqsvlxqr7ncndxvlbrsefceewrbrs22bykny" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreicd7nazg2vddc2o3rdqsvlxqr7ncndxvlbrsefceewrbrs22bykny" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Potemkin Understanding in Large Language Models</title>
-      <link>https://arxiv.org/html/2506.21521v2</link>
-      <guid isPermaLink="true">https://arxiv.org/html/2506.21521v2</guid>
-      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:09:44 -0400</pubDate>
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Harness or Model? Isolating the Harness Effect in Agentic Coding with a Contamination-Controlled Private Suite</title>
-      <link>https://arxiv.org/abs/2609.11987</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.11987</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey2zyxibayrjphbw4yxw7wiy/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;An agentic coding system couples a language model to a harness: the tools, prompts and control flow that turn a chat model into an autonomous software engineer. Vendors ship harnesses tuned to their o...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:09:44 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey2zyxibayrjphbw4yxw7wiy/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ey2zyxibayrjphbw4yxw7wiy/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
