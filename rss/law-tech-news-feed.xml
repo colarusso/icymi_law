@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon and others are done keeping data center deals secret. Is it enough to build trust?</title>
+      <link>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</guid>
+      <description>Amazon says it will&amp;amp;#160;stop using NDAs&amp;amp;#160;when negotiating data center deals with local governments, following&amp;amp;#160;a&amp;amp;#160;similar move from Microsoft&amp;amp;#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&amp;amp;#160;hundreds of&amp;amp;#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 16:56:42 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)</title>
       <link>https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/</link>
@@ -4390,16 +4398,6 @@
       <description>Last week&amp;amp;#8217;s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week&amp;amp;#8217;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 03 Sep 2026 12:45:14 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?</title>
-      <link>https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei</guid>
-      <description>Relocation coincides with proposed laws that opponents say would entrench power of US tech billionaires in countryDozens of protesters converged on Peter Thiel’s mansion in Buenos Aires this week after a congressional session raised questions about the billionaire’s presence in the country.In white masks, they held signs saying “Peter Thief” and “No to the Peter Thiel law” in front of the wrought-iron gates of the $12m (£8.9m) residence, which Thiel bought in April as he moved his family to Argentina. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 12:00:29 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c45d55214b9c33ad27cfe0e81baa5d7a" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c45d55214b9c33ad27cfe0e81baa5d7a" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
