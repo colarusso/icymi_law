@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:56:24 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise)</title>
+      <link>https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/</guid>
+      <description>It&amp;#x27;s the only way to learn AI, and this firm has figured that out. The post Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise) appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 16:14:31 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>YouTube, Meta, and Twitch won&amp;#8217;t say if they&amp;#8217;ll allow the US government to livestream an execution</title>
       <link>https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream</link>
@@ -4391,16 +4399,6 @@
       <pubDate>Thu, 03 Sep 2026 12:00:29 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c45d55214b9c33ad27cfe0e81baa5d7a" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c45d55214b9c33ad27cfe0e81baa5d7a" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images</title>
-      <link>https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit</guid>
-      <description>Musk denied he was aware Grok ever produced ‘any naked underage images’A survivor of child sexual abuse has sued Elon Musk’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal pornographic images that depict her.“Using real images of Plaintiff and class members, Grok generated child pornography depicting Plaintiff and class members,” states the complaint, which was filed last week in a US district court in California. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 09:00:49 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/e9d36343cdbab318e46647b8e2016dc7b54b5e82/462_0_3280_2624/master/3280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f82af36aa95ba3b687b7f4d9be815d96" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/e9d36343cdbab318e46647b8e2016dc7b54b5e82/462_0_3280_2624/master/3280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f82af36aa95ba3b687b7f4d9be815d96" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
