@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:56:08 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alabama’s TikTok Settlement Comes With An Affiliate Program For Getting Other AGs To Go After TikTok</title>
+      <link>https://www.techdirt.com/2026/10/09/alabamas-tiktok-settlement-comes-with-an-affiliate-program-for-getting-other-ags-to-go-after-tiktok/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/09/alabamas-tiktok-settlement-comes-with-an-affiliate-program-for-getting-other-ags-to-go-after-tiktok/</guid>
+      <description>The big Meta multi-state settlement got most of the headlines, and there&amp;amp;#8217;s been plenty of discussion about how it&amp;amp;#8217;s a bad deal for kids and pretty clearly anti-competitive. That&amp;amp;#8217;s thanks to a very strange clause that encourages Meta to make its own required feature changes the &amp;amp;#8220;industry standard&amp;amp;#8221; by convincing other platforms to cut similar [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 09 Oct 2026 18:10:16 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Amazon and others are done keeping data center deals secret. Is it enough to build trust?</title>
       <link>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</link>
@@ -4390,14 +4398,6 @@
       <media:content url="https://static01.nyt.com/images/2026/02/13/multimedia/00antitrust-courts-ztvc/00antitrust-courts-ztvc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/02/13/multimedia/00antitrust-courts-ztvc/00antitrust-courts-ztvc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>ILTACON News Round-Up Part 1, E-Discovery: DISCO, Everlaw, Nuix, Relativity, Reveal</title>
-      <link>https://www.lawnext.com/2026/09/iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity-reveal.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/iltacon-news-round-up-part-1-e-discovery-disco-everlaw-nuix-relativity-reveal.html</guid>
-      <description>Last week&amp;amp;#8217;s ILTACON, the annual conference of the International Legal Technology Association, brought what may have been the busiest news cycle I can remember for this conference, with a torrent of product announcements dominated by two themes: agentic AI and the Model Context Protocol. I have already covered the conference and several of the week&amp;amp;#8217;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 12:45:14 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
