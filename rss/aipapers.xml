@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:11:56 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:08:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors</title>
+      <link>https://arxiv.org/abs/2610.10657</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10657</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvys4nxbae54ntu32tad3t2p/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In subliminal learning (SL), a teacher model passes on a trait to a student model by distillation on data semantically unrelated to the trait. So far, SL has been demonstrated for only a limited range...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 52&lt;/small&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 06:08:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvys4nxbae54ntu32tad3t2p/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvys4nxbae54ntu32tad3t2p/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Invariant Primes in Lubin-Tate Space and Hovey-Strickland at Every Height</title>
+      <link>https://arxiv.org/abs/2610.10072</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10072</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6st2p3o4niwz5olbxkuimxlk/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Let $H_n$ be the one-dimensional Honda formal group of height $n$ over $\mathbf F_{p^n}$ and let \[ R_n=W(\mathbf F_{p^n})[[u_1,\ldots,u_{n-1}]],\qquad A_n=R_n/(p). \] We prove, for every height $n$ a...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 16&lt;/small&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 06:08:22 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6st2p3o4niwz5olbxkuimxlk/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6st2p3o4niwz5olbxkuimxlk/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>OpenAI withdraws three preprints a day after releasing 722 manuscripts on unsolved math problems</title>
       <link>https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/</link>
@@ -476,24 +496,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibzhx2m2k2xmwkuz3z7q45zyvfq4vt4hayc3xapt54sqpurueerzi" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreibzhx2m2k2xmwkuz3z7q45zyvfq4vt4hayc3xapt54sqpurueerzi" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Dream-RSI: Recursive Self-Improvement through Evolving Worlds</title>
-      <link>https://arxiv.org/abs/2609.14858</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.14858</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5crd3j6y2fneszfht23ji4k/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effe...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5crd3j6y2fneszfht23ji4k/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:j5crd3j6y2fneszfht23ji4k/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Does Empirical Finance Replicate?</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7439099</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7439099</guid>
-      <description>An autonomous LLM pipeline rebuilds each result from the paper and available databases, with independent audits of every replication. I obtain 1,328 in-sample r&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 2 · likes: 15&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:09:44 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
