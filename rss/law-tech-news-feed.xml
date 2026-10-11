@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 11:56:14 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Lessons of Direct File</title>
+      <link>https://civic.io/2026/10/11/the-lessons-of-direct-file/</link>
+      <guid isPermaLink="true">https://civic.io/2026/10/11/the-lessons-of-direct-file/</guid>
+      <description>The Direct File project may have been terminated, but its legacy lives on in lessons for the future of Civic Tech and how it can help improve government services.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://civic.io/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 11 Oct 2026 16:51:20 +0000</pubDate>
+      <media:content url="https://civic.io/wp-content/uploads/2026/10/pexels-photo-21912672.jpeg" medium="image" type="image/jpeg" />
+      <enclosure url="https://civic.io/wp-content/uploads/2026/10/pexels-photo-21912672.jpeg" type="image/jpeg" length="0" />
+      <source url="https://civic.io">civic.io</source>
+    </item>
     <item>
       <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
       <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
@@ -4390,16 +4400,6 @@
       <description>At this point all fifty states have considered passing &amp;amp;#8220;right to repair&amp;amp;#8221; law aimed at making it easier and cheaper for consumers (and independent repair shops) to repair their tech. That said, only Massachusetts, New York, Texas, Minnesota, Colorado,&amp;amp;#160;California, Oregon, and Washington have actually passed laws. And of those states, none have seen any enforcement [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 03 Sep 2026 22:19:09 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Prediction Market Betting Is Getting People Banned and Arrested</title>
-      <link>https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/</guid>
-      <description>This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 21:48:24 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
