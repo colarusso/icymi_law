@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 10:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
+      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</guid>
+      <description>Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an &amp;quot;AI-slop pipeline.&amp;quot; Artists are saying that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones</title>
       <link>https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall</link>
@@ -4392,14 +4400,6 @@
       <media:content url="https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Finding Our Way By Paying Our Dues</title>
-      <link>https://abovethelaw.com/2026/09/finding-our-way-by-paying-our-dues/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/finding-our-way-by-paying-our-dues/</guid>
-      <description>If AI takes all the scut work, then how will lawyers pay their dues? The post Finding Our Way By Paying Our Dues appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 03 Sep 2026 21:14:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
