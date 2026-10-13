@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI employee arrested after recording device found in office</title>
+      <link>https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device</guid>
+      <description>Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agentsOpenAI said it has found a hidden recording device in one of its offices and has referred the matter to the FBI. One of its employees has been arrested.In a statement on Tuesday, the San Francisco-based AI company said it discovered the “sophisticated recording device” and used one of its “models to understand the device and where it had come from”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 22:08:48 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/7b5088f5e0909e5150ddb0e2ef56a16db65c1165/335_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a6f69f3bc8d4cfd932fd88ac3831d21" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/7b5088f5e0909e5150ddb0e2ef56a16db65c1165/335_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a6f69f3bc8d4cfd932fd88ac3831d21" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>ESA targets Anbernic emulation handhelds as "superfake" piracy enablers</title>
+      <link>https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/</guid>
+      <description>But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 21:55:49 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>‘Adventures In Legal Tech’: Where Knowledge Management Meets AI</title>
       <link>https://abovethelaw.com/2026/10/adventures-in-legal-tech-where-knowledge-management-meets-ai/</link>
@@ -4368,26 +4388,6 @@
       <description>The plaintiff is Guangzhou Tinpod Electronic Technology Co. The plaintiff initially sued under the XYZ pseudonym and hasn&amp;amp;#8217;t updated the case caption, even though its identity is no longer sealed. I presume the plaintiff and many of the 44 defendants... The post SAD Scheme Plaintiff Must Pay $40k to Defendant&amp;amp;#8211;Guangzhou Tinpod v. Schedule A Defendants appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Mon, 07 Sep 2026 18:06:52 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>The complex corporate web behind a $3.2 billion AI data center</title>
-      <link>https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</link>
-      <guid isPermaLink="true">https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/</guid>
-      <description>When multiple companies are behind one project, who bears responsibility for problems?&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 11:00:03 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png" medium="image" type="image/png" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png" type="image/png" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Grindr to pay £26m to settle claims it allegedly shared users' HIV status</title>
-      <link>https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 15:27:50 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
