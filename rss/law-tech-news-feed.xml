@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:56:27 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where Am I Now? A Legal Tech Evangelist Checks In</title>
+      <link>https://abovethelaw.com/2026/10/where-am-i-now-a-legal-tech-evangelist-checks-in/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/where-am-i-now-a-legal-tech-evangelist-checks-in/</guid>
+      <description>I made a bold prediction in 2017. Let’s see how each of those statements has aged over the last decade. The post Where Am I Now? A Legal Tech Evangelist Checks In appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>The feds are looking into reports of Tesla’s robotaxis speeding through school zones</title>
       <link>https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</link>
@@ -4386,14 +4394,6 @@
       <media:content url="https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01357a23b7d88287431fcbbc8cad2a60" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01357a23b7d88287431fcbbc8cad2a60" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft</title>
-      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</guid>
-      <description>Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
