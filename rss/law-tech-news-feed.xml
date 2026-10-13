@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 15:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
+      <description>An OpenAI engineer was arrested after the company said it discovered a &amp;quot;sophisticated recording device&amp;quot; hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The San Francisco Standard. OpenAI&amp;#x27;s post about the incident says [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>AI And Front-End Loading: The Highest And Best Use</title>
+      <link>https://abovethelaw.com/2026/10/ai-and-front-end-loading-the-highest-and-best-use/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/ai-and-front-end-loading-the-highest-and-best-use/</guid>
+      <description>Front-end loading is the most important thing you will do in litigation -- and now there&amp;#x27;s a tool that will do most of the work at a fraction of the time and cost. The post AI And Front-End Loading: The Highest And Best Use appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 20:44:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Judge orders OpenAI to turn over hiring records in Apple trade secrets case</title>
+      <link>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</guid>
+      <description>A federal judge ruled that Apple can access OpenAI&amp;#x27;s interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 20:36:44 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Where Am I Now? A Legal Tech Evangelist Checks In</title>
       <link>https://abovethelaw.com/2026/10/where-am-i-now-a-legal-tech-evangelist-checks-in/</link>
@@ -4365,34 +4389,6 @@
       <pubDate>Mon, 07 Sep 2026 02:00:21 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/a4f08e1f200842c5b0cfe79a96b5f89b3209d6ac/383_0_2779_2223/master/2779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1d59fda9baf18c583296825d43eb67e" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/a4f08e1f200842c5b0cfe79a96b5f89b3209d6ac/383_0_2779_2223/master/2779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1d59fda9baf18c583296825d43eb67e" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Seattle Times and Newsday sue OpenAI and Microsoft for infringement</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft</guid>
-      <description>The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 23:36:04 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips</title>
-      <link>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html</guid>
-      <description>Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A.I. firms.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 10:45:11 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/01/multimedia/00biz-china-ai-smuggle-Aivres-lvjb/00biz-china-ai-smuggle-Aivres-lvjb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Online bookies accused of UK privacy breaches with use of cookie banners</title>
-      <link>https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking</guid>
-      <description>Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study showsOnline bookmakers and casinos have been accused of widespread non-compliance of information privacy requirements, including “data surveillance” of customers, according to a study.Nearly nine out of 10 (86%) licensed British gambling websites appear to be flouting the general data protection regulation (GDPR), the strict rules governing how organisations can collect, store and process personal data, according to the research. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Sun, 06 Sep 2026 07:00:01 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01357a23b7d88287431fcbbc8cad2a60" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01357a23b7d88287431fcbbc8cad2a60" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
