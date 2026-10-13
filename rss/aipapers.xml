@@ -5,8 +5,56 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 06:08:32 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:08:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Large-Language Models as a Cognitive Virus</title>
+      <link>https://arxiv.org/abs/2609.03344</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.03344</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsml3a4a7d3okv2mo2priwjn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 15 · likes: 35&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsml3a4a7d3okv2mo2priwjn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsml3a4a7d3okv2mo2priwjn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Who Can Say No? Control, Accountability and the Pace of Frontier AI</title>
+      <link>https://arxiv.org/abs/2610.13340</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.13340</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:elh2asjy66yduzgcosp3nmnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In September 2026, the leaders of the largest frontier AI laboratories said in public that the pace of capability improvement is too fast and that none of them can slow down alone, and agents under ev...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:elh2asjy66yduzgcosp3nmnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:elh2asjy66yduzgcosp3nmnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Has LLM Screening Performance Stalled in Software Engineering Systematic Reviews?</title>
+      <link>https://arxiv.org/abs/2610.10633</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.10633</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fodyg35g25joa5rpplt4y43g/bafkreiekglrbojnb4waq5nqd4uq64xjy6esmvnyk4w2mjdeakopnqrzdhe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Screening in systematic reviews (SRs) is manual and time-consuming. Prior work has explored large language models (LLMs) for automating this step, but LLMs are evolving rapidly, so earlier performance...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fodyg35g25joa5rpplt4y43g/bafkreiekglrbojnb4waq5nqd4uq64xjy6esmvnyk4w2mjdeakopnqrzdhe" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fodyg35g25joa5rpplt4y43g/bafkreiekglrbojnb4waq5nqd4uq64xjy6esmvnyk4w2mjdeakopnqrzdhe" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation</title>
+      <link>https://arxiv.org/abs/2609.03874</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.03874</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:djozy23idbsbi7mtooglt6nb/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Retrieval Augmented Generation (RAG) is a key component for generating accurate and hallucination free answers using Large Language Models (LLMs). LLMs are improving at handling long context, but stil...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:djozy23idbsbi7mtooglt6nb/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:djozy23idbsbi7mtooglt6nb/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>AI's Reference Class Problem: Beyond Adversarialism</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583780</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583780</guid>
+      <description>When public and private authorities make predictions about people’s future behavior, they must begin by identifying “reference classes”. A reference class is co&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Weekend reads: OpenAI’s preprint dump; Taylor &amp; Francis to leave Informa; arXiv’s preprint cap</title>
       <link>https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/</link>
@@ -448,54 +496,6 @@
       <description>Nietzsche&amp;#x27;s declaration that &amp;quot;God is dead&amp;quot; was not a celebration of atheism but a warning about what happens when a society loses the transcendent aut&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 6&lt;/small&gt;</description>
       <pubDate>Mon, 21 Sep 2026 06:09:55 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices</title>
-      <link>https://arxiv.org/abs/2503.08223?hl=de-DE</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2503.08223?hl=de-DE</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The remarkable success of foundation models has been driven by scaling laws, demonstrating that model performance improves predictably with increased training data and model size. However, this scalin...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 11&lt;/small&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 06:09:15 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>A Strongly Aperiodic Monotile in Three Dimensions</title>
-      <link>https://arxiv.org/abs/2609.19214</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.19214</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhakixcsmdow4avnqxtfy6c6/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Socolar and Taylor asked for a single, simply connected three-dimensional prototile that forces nonperiodicity by shape alone, admitting no weakly nonperiodic tiling; the Schmitt-Conway-Danzer biprism and the three-dimensional Socolar-Taylor tile admit screw motions or a periodic stacking direction. We exhibit a rational polyhedral $3$-ball $Q$, which we call Chair44 (R44): a seven-cube chair whose $24$ exposed unit panels carry tiny square-pyramid features, and prove, as a proof submission, that $Q$ admits tilings of $\mathbb{R}^3$ by congruent copies, reflections allowed, and that every such tiling has no translational period and a symmetry group of order at most $24$; every tiling is homochiral and carries a unique infinite hierarchy of nested supertiles. The solid was designed to a reading of the aperiodic-monotile phenomenon reached with the Six Birds emergence calculus (Section 3.3), and the construction turns on a single finite test, checked by machine: the tile&amp;#x27;s own contact rule survives coarsening, so that the decoded parent tiling obeys the tile&amp;#x27;s rule and no other. The proof combines a written geometric argument, that the features force every tiling onto a registered lattice, with exhaustive finite enumerations; the companion census is replayed by two independent implementations, every finite gate is kernel-checked in Lean 4 (modulo a named compiler hook per native_decide theorem), and the written geometric lemmas and the logical assembly are Lean theorems as well, so that the theorem is kernel-checked modulo the named compiler hooks; the written proofs remain as exposition.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 06:09:15 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhakixcsmdow4avnqxtfy6c6/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nhakixcsmdow4avnqxtfy6c6/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Strong Secretary Conjecture is True for Linear Matroids</title>
-      <link>https://arxiv.org/abs/2609.20797v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.20797v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ac6qioenkpl3jmmnib3tpbhb/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We prove a $1/e$ guarantee for the matroid secretary problem on linear matroids, therefore settling the strong secretary conjecture in this class of matroids. The result holds both when the matroid is...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥 · reposts: 4 · likes: 22&lt;/small&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ac6qioenkpl3jmmnib3tpbhb/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ac6qioenkpl3jmmnib3tpbhb/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The Evaluation Differential:When Frontier AI Models Recognise They Are Being Tested</title>
-      <link>https://arxiv.org/html/2605.11496v1</link>
-      <guid isPermaLink="true">https://arxiv.org/html/2605.11496v1</guid>
-      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 3 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Language Models Use Trigonometry to Do Addition</title>
-      <link>https://arxiv.org/abs/2502.00873</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2502.00873</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbvdchux22p3dblf47xgtq3m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Mathematical reasoning is an increasingly important indicator of large language model (LLM) capabilities, yet we lack understanding of how LLMs process even simple mathematical tasks. To address this,...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 06:11:15 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbvdchux22p3dblf47xgtq3m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:pbvdchux22p3dblf47xgtq3m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
