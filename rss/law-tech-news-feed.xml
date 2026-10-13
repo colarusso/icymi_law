@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:55:59 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Former Big Law M&amp;A Lawyer Launches useABI, an AI ‘Associate’ That Produces Deal Docs Without Prompting</title>
+      <link>https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html</guid>
+      <description>A former mergers-and-acquisitions lawyer at Greenberg Traurig today launched useABI, a legal AI platform for M&amp;amp;#38;A lawyers that is designed to function not as just another AI assistant but as something closer to a working member of a deal team. “With useABI, an M&amp;amp;#38;A lawyer gets the purchase agreement markup, issues list, diligence report and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 14:01:19 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>AFL tells Sportsbet to stop using players in AI generated content</title>
+      <link>https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content</guid>
+      <description>Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’Get our breaking news email, free app or daily news podcastThe AFL has told its official gambling partner, Sportsbet, to stop featuring its high-profile athletes in AI-generated social media content without their permission.Sportsbet has also been told to delete AI videos depicting AFL stars delivering lines from movies, television shows or speeches to react to real events. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 14:00:06 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/da4ea25084485353b9189695120198ae84ce7050/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e145cb2fe400af54a5ebb0114d21a2ed" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/da4ea25084485353b9189695120198ae84ce7050/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e145cb2fe400af54a5ebb0114d21a2ed" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>In First Major Release Since PayChex Acquisition, SixFifty Launches Agentic HR Compliance Feature</title>
       <link>https://www.lawnext.com/2026/10/in-first-major-release-since-paychex-acquisition-sixfifty-launches-agentic-hr-compliance-feature.html</link>
@@ -4378,24 +4396,6 @@
       <description>OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 04 Sep 2026 23:15:11 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>F.B.I. Investigates Sale of Millions of Stolen Driver’s Licenses</title>
-      <link>https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/us/nexus-identity-theft-data-breach-fbi.html</guid>
-      <description>The blog Krebs on Security reported on an identity theft service trying to sell scans of licenses and other documents belonging to people in Canada and the United States.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 20:44:02 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-breach-bgmq/03xp-breach-bgmq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>De-flocking</title>
-      <link>https://buttondown.com/LawyerExMachina/archive/de-flocking/</link>
-      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/de-flocking/</guid>
-      <description>AI A guest editorial at AI for Legal Education goes into detail as to the plethora of AI use policies being issued by law schools across the countryRelated: UCSF School of Law has launched AI-enabled labs for students as a required course for the Class of 2029 and onward, which will provide “hands-on experience using AI for core legal tasks while also covering the ethical dimensions of AI use, including privilege, conflicts, and professional responsibility” [TaxProf Blog | Press Release] There are two new lawsuits against AI developers arising out of the music industry: Sony Music Publishing and Warner Chappell Music are suing Anthropic for copyright infringement of “tens of thousands” of musical compositions, including lyrics and sheet music [The Guardian (UK) [$] | Variety | Music Business Worldwide | Docket | Complaint]A group of musicians, including David Lowery and Jason Isbell, filed suit against AI music platform Suno on the basis of rights of publicity and state privacy claims, accusing the company of using their voices, styles and overall identities without authorization [Consequence of Sound | NY Times ($) | Docket | Complaint]From Bloomberg Law [$]: “Legal AI Insurance Exposes That ‘Practice of Law’ Needs Defining”The Department of Education for New York City has adopted a new policy that will bar AI use by elementary and middle school students, as well as limit individual screen use for school work [AP News | NY Times ($) | Dept of Ed. guidance document] Fabrication Follies Newbern v. DeSoto County School District [Docket | Order] AI &amp;amp;amp; Law Stuff - by Damien Charlotin - Artificial Authority #26 Data Privacy Flock News A wave of cities are opting out of their contracts with Flock, with some moving to a competing automated license plate reader (ALPR) company, Axon [ Ars Technica | 404 Media ($)] The Florida Department of Transportation has ordered all Flock cameras installed by local law enforcement on state roads to be removed within 30 days [ABC News | NBC News] In response to the FDOT order, a few local governments and law enforcement agencies in Florida are removing all of their ALPR cameras [Fox35 Orlando] | Orlando Sentinel] 404 Media [$] interviews the man behind the viral Darth Vader City Council meeting testimony regarding Flock cameras in San Diego, CA From Wired [$]: “I Demanded My Data From Over 100 Companies. Deletion Notices Started Arriving Instead” Miscellaneous Kalshi has suspended Laurie Buckhout, who is running for a North Carolina Congressional seat, for “betting on her own campaign”; former congressperson George Santos has been permanently banned from Kalshi on the basis of insider trading A Ninth Circuit Court of Appeals panel has found that Nevada can regulate sports events contracts by Kalshi and other entities offering prediction market because such contracts are not pre-empted by the federal Commodity Exchange Act [ CNN | Reason | Docket | Opinion] From Damien Charlotin: A Chilean lawyer filed 38,477 documents in the national court’s e-filing system, causing the system to crash Long Reads Julie Tedjeske Crane, Teaching Legal Research Students to be the “Human in the Loop,” 32 (2) Perspectives: Teaching Legal Research and Writing (Spring 2026) https://drive.google.com/file/d/1ldpaweHgad67gux8wbLBoAozpAN5pCqo/view Elizabeth Ruiz Frost, Reading Is Dead: Can Law Schools Make Lawyers from Non-Readers?, 104 Neb. L. Rev. 293 (2025) https://digitalcommons.unl.edu/nlr/vol104/iss2/4 Shucha, Bonnie J., Closing the AI Readiness Gap: A Framework for Law Schools (June 19, 2026). Univ. of Wisconsin Legal Studies Research Paper No. 1921, 32 (2) Perspectives: Teaching Legal Research and Writing (Spring 2026), available at: https://ssrn.com/abstract=6971418&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 18:53:33 +0000</pubDate>
-      <source url="https://buttondown.com">buttondown.com</source>
     </item>
   </channel>
 </rss>
