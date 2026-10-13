@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:55:46 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:55:46 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Watch Him As He Goes — See Generally</title>
+      <link>https://abovethelaw.com/2026/10/watch-him-as-he-goes-see-generally/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/watch-him-as-he-goes-see-generally/</guid>
+      <description>Foo Fighting: Dave Grohl dedicated &amp;quot;My Hero&amp;quot; to &amp;quot;my new friend Jack&amp;quot; at the Power to the People festival while wearing an Iowa Hawkeyes shirt. Meanwhile, Eric Schmitt is still trying to figure out how he got so humiliated. Trump Fails Again: South African jurist and former U.N. human rights chief Navi Pillay won the Nobel Peace Prize... Donald Trump did not take it well. Prompt Payment: Ropes &amp;amp;#38; Gray expanded its AI program so that associates can count up to 100 hours of AI testing and training toward their billable targets. Jury-Rigged: Justice Sotomayor warned that arresting a tardy prospective juror in front of the whole jury pool can have a &amp;quot;profoundly negative impact&amp;quot; on the people about to decide a man&amp;#x27;s fate. Sam Spade: Justice Alito told Fox News Sunday that he has a pretty good idea who leaked the Dobbs draft. So do we buddy... and we all know exactly why you know. Callback Pending: Judge James Ho used a Fifth Circuit concurrence to complain that accusing judges of auditioning for higher office is an unanswerable &amp;quot;audition trap.&amp;quot; Witness Protection: Responding to a FOIA suit, the Justice Department argued the EEOC can&amp;#x27;t release records from the probe of Biglaw diversity programs that they already publicly accused. Hush Money: Fresh off becoming the first law firm to clear $10 billion in revenue, Kirkland &amp;amp;#38; Ellis announced it will stop disclosing its financials because rankings supposedly offer clients little &amp;quot;meaningful value.&amp;quot; The post Watch Him As He Goes &amp;amp;#8212; See Generally appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 12 Oct 2026 23:43:43 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>California Emerges as the Leader in Regulating Attorneys’ Use of Generative Artificial Intelligence</title>
       <link>https://www.ailawlibrarians.com/2026/10/12/california-emerges-as-the-leader-in-regulating-attorneys-use-of-generative-artificial-intelligence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=california-emerges-as-the-leader-in-regulating-attorneys-use-of-generative-artificial-intelligence</link>
@@ -4392,16 +4400,6 @@
       <description>Elon Musk&amp;#x27;s gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle&amp;#x27;s lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab &amp;quot;to examine the process and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 04 Sep 2026 13:33:38 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Tesla’s Cybercab Is Being Investigated by Federal Regulators</title>
-      <link>https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html</guid>
-      <description>The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulations.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 04 Sep 2026 13:19:46 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-cybercab-jglq/04biz-cybercab-jglq-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/04/multimedia/04biz-cybercab-jglq/04biz-cybercab-jglq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
