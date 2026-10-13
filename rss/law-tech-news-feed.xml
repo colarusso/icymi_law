@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:56:07 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The feds are looking into reports of Tesla’s robotaxis speeding through school zones</title>
+      <link>https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation</guid>
+      <description>The National Highway Traffic Safety Administration says it&amp;#x27;s evaluating allegations that Tesla&amp;#x27;s 1,000 or so robotaxis using its automated driving system are exceeding &amp;quot;posted speed limits in active school zones.&amp;quot; Waymo&amp;#x27;s robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:40:15 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling</title>
+      <link>https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling</guid>
+      <description>In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless searches of its vast stores of Automatic License Plate Reader (ALPR) data. EFF and the ACLU of Northern California represent SIREN and CAIR California, two non-profits that serve San Jose residents, in this case. Make no mistake: we believe this ruling is wrong on the law, and we will appeal. The ruling ignores the importance of landmark rulings from the U.S. Supreme Court regarding the invasiveness of aggregating collected data on an individual over time, including one issued just months ago. It also severely underestimates the harm that ALPRs cause, in San Jose and around the country. San Jose’s ALPR surveillance system is inescapable. It blankets the city’s streets in nearly five hundred cameras that continuously photograph every car that passes by and retains the collected data for a month or longer. In our briefs, we argued that law enforcement officers who warrantlessly search the resulting ALPR database are violating the California Constitution’s ban on unreasonable searches and its guarantee of privacy. The court disagreed, explaining that based on one California appeals court case involving individual streetlight cameras, people do not have a reasonable expectation of privacy when driving on a public road. This is wrong. Networked ALPRs are not individual streetlight cameras. Their net effect of tracking and mapping cars as they travel reveals patterns of life, intimate relationships, and much more. Fortunately, there are signs that the tide is turning against ALPRS in the courts. Just a day before the ruling in our case, a federal district court in Oklahoma called ALPRs “a type of indiscriminate mass surveillance” and decided that a law enforcement officer’s warrantless search of ALPR data violated the Fourth Amendment. The officer was observing traffic on an Oklahoma highway when he saw a woman driving a car with California plates. According to the court order, the officer began following the woman “for no apparent reason” other than her out of state plates. While following her, the officer decided to run the woman’s license plate number through Flock’s ALPR system – again, with no apparent reason other than her California plates. The Flock search returned at least 30 days of data, allowing the officer to track the car across at least three states, over the span of a month, from a single search. The facts of this case demonstrate how ALPRs allow law enforcement to grab a breathtakingly vast sweep of information about a car (and the driver within) with no more effort than a Google search. It’s true that when a person drives on public roads, they can be observed, including by police. But as the Supreme Court has explained, we don’t expect law enforcement to be able to secretly track and store every movement our cars while we’re driving. The federal court in the Oklahoma case aptly illustrated this difference in societal expectations: We might reasonably expect our friends and family to tell us something like: “Hey, I saw you out driving by the store last week.” But we do not expect people we know—let alone strangers, and especially not law enforcement—to randomly approach us to say: “Hey, I have been following your car for the last 30 days, and here is a detailed log of every place your vehicle has been with supporting photographic evidence. I am also going to share this information with law enforcement throughout the country so they know your whereabouts, too. This decision is the first of its kind, and EFF will continue working to ensure that it is the first of many. Outside the courts, we’ve seen people across the country step up to reject ALPRs at the state and local level. EFF will continue challenging this technology on every front as well. Related Cases:&amp;amp;nbsp;SIREN and CAIR-CA v. San Jose&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:19:19 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/flock-vector-2b.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/flock-vector-2b.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce</link>
@@ -4376,26 +4394,6 @@
       <description>Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Sat, 05 Sep 2026 22:49:55 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Tesla’s Cybercab has been deployed, and it’s already under investigation</title>
-      <link>https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/</link>
-      <guid isPermaLink="true">https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/</guid>
-      <description>The US government is investigating whether the Cybercab meets vehicle safety standards.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 15:17:36 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement</title>
-      <link>https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html</guid>
-      <description>The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Sat, 05 Sep 2026 09:03:10 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-publishers-settlement-qgpj/03xp-publishers-settlement-qgpj-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/03/multimedia/03xp-publishers-settlement-qgpj/03xp-publishers-settlement-qgpj-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
