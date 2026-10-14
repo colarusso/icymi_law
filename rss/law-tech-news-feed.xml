@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 12:56:10 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some New Data on Age Authentication Balk Rates</title>
+      <link>https://blog.ericgoldman.org/archives/2026/10/some-new-data-on-age-authentication-balk-rates.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/10/some-new-data-on-age-authentication-balk-rates.htm</guid>
+      <description>The issue is: if a website imposes a government-compelled age authentication wall, what percentage of users will stop at the authentication wall, either because the users turn around or fail to navigate the process? I call that percentage the &amp;amp;#8220;balk&amp;amp;#8221;... The post Some New Data on Age Authentication Balk Rates appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 16:46:19 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
@@ -4380,14 +4388,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Chamelio Launches ‘Always On’ AI Agent Hub</title>
-      <link>https://www.artificiallawyer.com/2026/09/08/chamelio-launches-always-on-ai-agent-hub/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/08/chamelio-launches-always-on-ai-agent-hub/</guid>
-      <description>Legal intelligence platform, Chamelio, has launched Agent Hub, which lets inhouse lawyers use a suite of ‘always-on AI agents’ that can work independently, monitor what ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 16:01:05 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
