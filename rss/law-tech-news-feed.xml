@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 16:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
+      <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</guid>
+      <description>Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 21:30:33 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Eight states sue OpenAI, saying ChatGPT isn&amp;#8217;t safe for kids</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
+      <description>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/</guid>
+      <description>Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 19:53:01 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>OpenAI accuses employee who left for Apple of leaking plans for unreleased device</title>
       <link>https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit</link>
@@ -4366,32 +4392,6 @@
       <description>In a handful of known cases, large social media companies have privately pushed back against Immigration and Customs Enforcement (ICE) subpoenas when the agency tried to unmask anonymous users who tracked immigration activities or criticized the government. As ICE engages in&amp;amp;#160;a pattern&amp;amp;#160;of illegal and chilling investigations, any resistance is welcome. But&amp;amp;#160;social media companies can do [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 08 Sep 2026 21:58:19 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Pangram Loving Law Professors Have Reached Peak AI Slop Brain</title>
-      <link>https://abovethelaw.com/2026/09/pangram-loving-law-professors-have-reached-peak-ai-slop-brain/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/pangram-loving-law-professors-have-reached-peak-ai-slop-brain/</guid>
-      <description>Pangram-mania is everywhere and all it proves is how little its fans care about critical thinking. The post Pangram Loving Law Professors Have Reached Peak AI Slop Brain appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 21:33:48 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Tech Life</title>
-      <link>https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Scammers demand money from Instagram users over fake copyright claims.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 20:00:00 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0p8m9xk.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0p8m9xk.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>On LawNext: Casefleet Founder Jeff Kerr on Fact Management in the Age of AI</title>
-      <link>https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/on-lawnext-casefleet-founder-jeff-kerr-on-fact-management-in-the-age-of-ai.html</guid>
-      <description>Chronologies have become one of legal tech&amp;amp;#8217;s hottest categories, with a wave of AI startups promising to turn a messy evidentiary record into a structured timeline in minutes. Jeff Kerr and his company Casefleet were more than a decade ahead of the pack. Kerr finished law school in 2010 and made what he calls the crazy decision to start [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 18:54:33 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
