@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 10:56:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer</title>
+      <link>https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 15:54:04 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster</title>
+      <link>https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban</guid>
+      <description>Jason O’Connell’s suspected use of the specs to aid his speech in the Senedd reignites debate over the AI-enabled devicesIt was a flowing speech packed full of precise statistics – but Jason O’Connell, a Reform UK Senedd member, was not quite the gifted orator he had first appeared. The periodic flashing in his spectacles seemed to give the game away as he spoke for five minutes in the Senedd chamber without a glance at his notes.“Cardiff reviewed 192 roads, following 933 requests, and only four routes have returned to 30mph,” he said as he led the party’s charge to abolish 20mph traffic zones. “£38.3m wasted to implement this policy and up to £8.9bn in an act of economic self-harm.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 15:05:53 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/4c63fd3569598d1424cf7662c053ed995980c8e5/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37f0eac17e8aa21c3ce4e7ea567d6b56" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/4c63fd3569598d1424cf7662c053ed995980c8e5/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37f0eac17e8aa21c3ce4e7ea567d6b56" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Senators Question Meta’s Data Center Tax Strategy</title>
       <link>https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html</link>
@@ -4364,26 +4384,6 @@
       <description>Italy’s leading legal AI company, Lexroom – which raised $50m in a Series B round this summer – has acquired French legal tech startup Query ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 08 Sep 2026 13:49:06 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>OpenAI releases new AI agent – which promptly goes rogue</title>
-      <link>https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue</guid>
-      <description>Plus: Americans think they have it bad with unwanted surveillance. They should visit LondonHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian, writing to you after visiting Coney Island in New York City, where I ate a hotdog, rode a ferris wheel and enjoyed a quintessentially American summer holiday.Today in tech, we’re examining OpenAI’s new model release and the Silicon Valley’s monopoly power, and wondering why Brits and Americans have such vastly different opinions about surveillance cameras.Nvidia to buy developer platform Hugging Face in $12.9bn dealNew York City to ban student AI use in public schools until high schoolFreelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAIChild sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 13:29:51 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/543_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edc613311b23bef4dbd09d3959a137ba" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/ed224d2eb6e632e734dfce88169dcbb73007b858/543_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edc613311b23bef4dbd09d3959a137ba" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids</title>
-      <link>https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/</guid>
-      <description>Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
