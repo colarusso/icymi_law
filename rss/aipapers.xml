@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 06:08:12 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:08:33 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accurate but Not Humble: Evaluating Epistemic Humility in LLM...</title>
+      <link>https://arxiv.org/abs/2610.12360v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.12360v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlecnsuk4k525pspiwamhzfy/bafkreidqzrwyqi3uoncgmop2zozlmmqw3ir6yo6ew4gqyvd2dqsfzm4yhy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When retrieved evidence contradicts an agent&amp;#x27;s prior beliefs, does it revise its answer, acknowledge uncertainty, or persist with an incorrect conclusion? Existing evaluations of agentic systems...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 06:08:33 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlecnsuk4k525pspiwamhzfy/bafkreidqzrwyqi3uoncgmop2zozlmmqw3ir6yo6ew4gqyvd2dqsfzm4yhy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlecnsuk4k525pspiwamhzfy/bafkreidqzrwyqi3uoncgmop2zozlmmqw3ir6yo6ew4gqyvd2dqsfzm4yhy" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Large-Language Models as a Cognitive Virus</title>
       <link>https://arxiv.org/abs/2609.03344</link>
@@ -488,14 +498,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:44ybard66vv44zksje25o7dz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:44ybard66vv44zksje25o7dz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Has AI Assassinated God? Technology, Secularism, and the Death of the Divine</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7460218</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7460218</guid>
-      <description>Nietzsche&amp;#x27;s declaration that &amp;quot;God is dead&amp;quot; was not a celebration of atheism but a warning about what happens when a society loses the transcendent aut&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 06:09:55 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
 </rss>
