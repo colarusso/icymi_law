@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recording device hidden in toilet paper found in top-secret OpenAI meeting room</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/</guid>
+      <description>OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 16:41:49 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
       <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
@@ -4376,16 +4386,6 @@
       <description>This essay was written with Barath Raghavan, and originally appeared in Lawfare. In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model hacked onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 08 Sep 2026 17:12:42 +0000</pubDate>
       <source url="https://www.schneier.com">www.schneier.com</source>
-    </item>
-    <item>
-      <title>Google complies with EU rules for travel searches, says the new results stink</title>
-      <link>https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/</guid>
-      <description>The EU continues to go after Google search practices it sees as anticompetitive.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 16:49:55 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
