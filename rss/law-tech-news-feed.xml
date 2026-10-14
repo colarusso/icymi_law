@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:56:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:56:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senators Question Meta’s Data Center Tax Strategy</title>
+      <link>https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html</guid>
+      <description>Democrats on the Senate Finance Committee sent a letter to Mark Zuckerberg, Meta’s chief executive, questioning the company’s $6.6 billion in tax breaks.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 14:48:05 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-meta-tax-senators-thgz/14biz-meta-tax-senators-thgz-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/14/multimedia/14biz-meta-tax-senators-thgz/14biz-meta-tax-senators-thgz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>Morning Docket: 10.14.26</title>
       <link>https://abovethelaw.com/2026/10/morning-docket-10-14-26/</link>
@@ -4374,14 +4384,6 @@
       <media:content url="https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6a9b3f0d799e9933049ab28f/master/pass/Security_Meta%20Published%20Ads%20Containing%20CSAM%20of%20Real%20Children_v1.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Why NewMod, Not AI-First?</title>
-      <link>https://www.artificiallawyer.com/2026/09/08/why-newmod-not-ai-first/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/08/why-newmod-not-ai-first/</guid>
-      <description>In mid-2026, to call a law firm AI-first, or even AI-native, seems out of step with present day reality. Which major law firm is not ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 10:30:36 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
