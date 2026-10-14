@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:56:18 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:56:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morning Docket: 10.14.26</title>
+      <link>https://abovethelaw.com/2026/10/morning-docket-10-14-26/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/morning-docket-10-14-26/</guid>
+      <description>* New press secretary claims to be a lawyer, but she&amp;#x27;s never passed a bar in the United States. In response, she says she passed the bar exam in China... even though China doesn&amp;#x27;t let foreign nationals take their bar exam. [Popular Information] * Reddit wants Proskauer blocked from representing Perplexity in data case. [Reuters] * Anthropic asks for en banc rehearing after panel rubberstamps Pentagon&amp;#x27;s decision to label the company a supply chain risk without evidence. [CNBC] * Neil Gorsuch seems peeved to learn that his conservative colleagues only care about gutting independent agency power when Democrats are in charge. [Balls and Strikes] *Schillings partners with Clare Locke in private investigations business. [Financial Times] * Former OpenAI engineer from Saudi Arabia charged with bugging the company. [Law360] * CVS paying $315 million to settle with the DOJ over opioids. [NBC News] * Google settles case over Google Assistant recording conversations without notification and using them for ad targeting, which is basically how everything works today. [Courthouse News Service] * Man charged with murder set to become new sheriff. [Slate] The post Morning Docket: 10.14.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 12:53:26 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Goodwin Partner Launches US AI-Native Law Firm Arm</title>
       <link>https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/</link>
@@ -4374,16 +4382,6 @@
       <description>In mid-2026, to call a law firm AI-first, or even AI-native, seems out of step with present day reality. Which major law firm is not ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 08 Sep 2026 10:30:36 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>US police fear Meta smart glasses could be used to secretly record them</title>
-      <link>https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses</guid>
-      <description>Exclusive: Documents show officers from Maine to California worry Meta’s camera-equipped glasses will be used either to secretly record them or aid acts of terrorismIn January, the New York Police Department’s counterterrorism unit sent out a memo warning police officers about a new potential “security and counterintelligence” threat: Ray-Ban Meta glasses.The memo directed officers to “conduct thorough inspections of all eyewear permitted within inmate cells” and cautioned that people who have been arrested could use these glasses, equipped with small cameras and microphones, to record inside police facilities. The memo cited two examples of such videos posted on social media. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 10:00:02 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e37dc23041d9600783c7e06f5e5207" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e37dc23041d9600783c7e06f5e5207" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
