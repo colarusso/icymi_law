@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 20:55:44 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:56:18 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodwin Partner Launches US AI-Native Law Firm Arm</title>
+      <link>https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/14/goodwin-partner-launches-us-ai-native-law-firm-arm/</guid>
+      <description>Leon Johnson, most recently a partner at Goodwin in San Francisco and previously a partner at Kirkland &amp;amp;#38; Ellis, is joining Omnilex, an AI-native law ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 10:02:03 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism</title>
+      <link>https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism</guid>
+      <description>From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats In May 2025, a 25-year-old man detonated a car bomb outside a Palm Springs fertility clinic, killing himself and injuring four others. For many, it was a wake up call about the threats to reproductive care facilities. For the FBI, though, it was also a sign of what the agency had feared for years: bad actors were using generative AI to plan and execute terror plots.The suspect used an unnamed generative AI tool that failed to detect his request for bomb-making instructions, law enforcement officers wrote in a previously unreported document reviewed by the Guardian. The privacy of his conversation with the AI chatbot hindered alerting police that someone was looking up how to make a bomb, according to the memo.How extremists could use AI to devise attacks and recruit new membersHow AI could be used to disseminate and produce everything from deepfakes to election misinformation and child sexual abuse material (CSAM)How people seeking information on how to make weaponry or bombs could use AI to circumvent police detectionHow to ensure that officers could take advantage of AI tools in policing, for things like social media monitoring, while managing public concern over the use of these toolsMonitoring social media for opposition to AI and potential extremist attacks on datacenters Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 10:00:03 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59704e3f5fbb09ed03fcee1e21ac0c41" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59704e3f5fbb09ed03fcee1e21ac0c41" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Harvey Launches Intake for Inhouse Teams</title>
+      <link>https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/14/harvey-launches-intake-for-inhouse-teams/</guid>
+      <description>Harvey has launched Intake, its new legal front door for the inhouse world, which not only helps to funnel contracts to the right lawyers, but ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 07:56:04 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
     <item>
       <title>This Biglaw Co-Founder’s Side Project Was Engineering A Revolution</title>
       <link>https://abovethelaw.com/2026/10/this-biglaw-co-founders-side-project-was-engineering-a-revolution/</link>
@@ -4357,36 +4383,6 @@
       <pubDate>Tue, 08 Sep 2026 10:00:02 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e37dc23041d9600783c7e06f5e5207" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1e37dc23041d9600783c7e06f5e5207" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Scammers demand ransoms from Instagram users over fake copyright claims</title>
-      <link>https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:49:56 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Social media users could opt out of the algorithm if Australian government has its way – but that’s a big if</title>
-      <link>https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia</guid>
-      <description>Even if the legislation passes, tech companies may still find ways to frustrate its intent and keep Australians hooked on their feedSocial media could become a “choose your own adventure” between the doom-scrolling status quo, or just the feed of the friends you want to see, if the government’s planned digital duty of care legislation passes, and the tech companies don’t muck around on compliance.But that’s a big if. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 06:23:42 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/67e9ede5a7b9b9595b896014b10300d6c74da510/423_0_3928_3142/master/3928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d65ff0c13f40fd9bf0be65c51ec42a08" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/67e9ede5a7b9b9595b896014b10300d6c74da510/423_0_3928_3142/master/3928.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d65ff0c13f40fd9bf0be65c51ec42a08" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Architect of UK’s AI policy quits after Anthropic conflict of interest concerns</title>
-      <link>https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns</guid>
-      <description>Matt Clifford forced to stand down amid disquiet from senior MPs over his new full-time job at AI company The chair of the UK government’s “moonshot” science and technology research unit has been forced to stand down after taking a job with the San Francisco AI firm Anthropic, in a move senior MPs called a “clear conflict of interest”.Matt Clifford announced last week that he was taking a full-time job working for the company behind the Claude chatbot, “leading its engagement” with governments outside the US – including the UK. But he retained his leadership at the UK’s Advanced Research and Invention Agency (Aria), which funds frontier science and tech projects. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 07 Sep 2026 14:42:24 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/292_110_1937_1549/master/1937.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e4fbb6e073cd532034ee551789bf20" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/292_110_1937_1549/master/1937.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e4fbb6e073cd532034ee551789bf20" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
