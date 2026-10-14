@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:56:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now that Character.AI is going bankrupt, what happens to all of its users&amp;#8217; data?</title>
+      <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</guid>
+      <description>New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI&amp;#x27;s bankruptcy case &amp;quot;to put all parties on notice of the regulatory issues that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Court appears likely to allow internet suit based on decades-old video privacy law to go forward</title>
+      <link>https://www.scotusblog.com/2026/10/court-appears-likely-to-allow-internet-suit-based-on-decades-old-video-privacy-law-to-go-forward/</link>
+      <guid isPermaLink="true">https://www.scotusblog.com/2026/10/court-appears-likely-to-allow-internet-suit-based-on-decades-old-video-privacy-law-to-go-forward/</guid>
+      <description>Court appears likely to allow internet suit based on decades-old video privacy law to go forward&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 18:46:22 +0000</pubDate>
+      <media:content url="https://cdn.sanity.io/images/pito4za5/production/ee58f01367d8cce78cd8a7bc182f04e56b4fe381-1024x683.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/ee58f01367d8cce78cd8a7bc182f04e56b4fe381-1024x683.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
+      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
+    </item>
     <item>
       <title>Some New Data on Age Authentication Balk Rates</title>
       <link>https://blog.ericgoldman.org/archives/2026/10/some-new-data-on-age-authentication-balk-rates.htm</link>
@@ -4368,26 +4386,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The White House made a "Tetris" clone. The Tetris Company was not amused.</title>
-      <link>https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/</guid>
-      <description>Trump admin&amp;#x27;s propaganda &amp;quot;arcade&amp;quot; hits some apparent legal limits.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 16:31:21 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png" medium="image" type="image/png" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png" type="image/png" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>New law to force tech firms to prevent children from taking nude images</title>
-      <link>https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The government said it will legislate &amp;quot;as soon as they can&amp;quot; but may &amp;quot;reassess&amp;quot; its plans if firms make the desired changes sooner.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 16:48:29 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8e/live/f2e6ac40-ab90-11f1-aa04-efbf6a882854.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
