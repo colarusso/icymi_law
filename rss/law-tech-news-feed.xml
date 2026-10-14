@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches</title>
+      <link>https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches</guid>
+      <description>Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent a religious organization, the Wisconsin Council of Churches, as well as an individual pastor in Green Bay. As the petition explains: Right now, Automated License Plate Readers (“ALPRs”) are recording the movements of vast numbers of Wisconsin drivers as they seek medical care, attend 12-step recovery meetings, attend religious services, participate in protests, attend political meetings, and engage in many other private, sensitive activities. Law enforcement entities throughout Wisconsin collect, store, share, and aggregate this ALPR data. Then they search it, retrospectively tracking the movements of individuals and entire communities in ways that would have been prohibitively costly, if not outright impossible, before the advent of ALPR technology. We all deserve to be free of warrantless mass surveillance. We all deserve to live in a country where surveillance vendors cannot help police upend our system of individualized suspicion. Religious organizations and officials like our clients have a heightened interest in protecting their location privacy because of the range of expressive associations their work entails, including facilitating gatherings for religious worship, as well as offering pastoral care, confidential counseling, and community support. Likewise, the people who visit houses of worship have a strong right to privacy against police monitoring of when they pray, seek addiction counseling, or attend a domestic violence survivor meeting. This is our second lawsuit challenging warrantless ALPR searches, following SIREN v. San Jose. Earlier this month, a federal court in Oklahoma became the first to rule that ALPRs are a “type of indiscriminate mass surveillance” and suppress evidence from a warrantless ALPR search. We hope the Wisconsin Supreme Court will agree. Read the Wisconsin Supreme Court petition Read the press release Related Cases:&amp;amp;nbsp;Wisconsin Council of Churches v. Milwaukee, Racine, Kenosha &amp;amp;amp; Green Bay&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 14 Oct 2026 23:21:37 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/siren_v._san_jose.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/siren_v._san_jose.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Will Universities Respond To The AI Moment?</title>
       <link>https://www.techdirt.com/2026/10/14/will-universities-respond-to-the-ai-moment/</link>
@@ -4384,14 +4394,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>White House takes down ‘Build the Wall’ game after the Tetris Company complains</title>
-      <link>https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/</guid>
-      <description>The Trump administration&amp;#x27;s short-lived arcade game &amp;quot;Build the Wall&amp;quot; is now nowhere to be found after the Tetris Company posted that it takes &amp;quot;copyright infringement very seriously.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 23:23:23 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
