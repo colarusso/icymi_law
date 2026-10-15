@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:56:24 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:56:23 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Copilot for Legal: What Will Be the Fallout?</title>
+      <link>https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/</guid>
+      <description>Microsoft has fully launched itself into the legal vertical with Copilot for Legal, an AI-powered venture with over 20 skills that overlap with plenty of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 15:32:13 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Microsoft Launches Copilot for Legal – Brace for Impact!</title>
+      <link>https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/</guid>
+      <description>Microsoft – the software company the world’s lawyers rely upon because of Word – has gone nuclear and launched Copilot for Legal, its own multi-capability ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 15:00:16 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company</title>
+      <link>https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html</guid>
+      <description>Control Risks, a global strategic intelligence and security firm, said today that it has entered into an agreement to spin off two of its businesses, Discovery + Data Insights and Forensics, into a new, stand-alone company that will operate initially under the name of Control Risks – Compliance, Investigations &amp;amp;#38; eDiscovery. The new company will [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 13:00:31 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Morning Docket: 10.15.26</title>
       <link>https://abovethelaw.com/2026/10/morning-docket-10-15-26/</link>
@@ -4364,32 +4388,6 @@
       <description>Calling it the “intelligence foundation” of its platform, Casepoint today launched Casepoint IQ, a suite of tools within a single AI framework that spans the company’s products for e-discovery, legal holds, FOIA and investigations. The company says that Casepoint IQ pulls together all of its AI capabilities – including new semi- and fully autonomous agents, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Wed, 09 Sep 2026 13:15:03 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms</title>
-      <link>https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/</guid>
-      <description>The three Indian companies are accused of using hackers to steal information used to sway litigation.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 13:01:00 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>White House pulls Tetris-style 'Build The Wall' game after copyright concern</title>
-      <link>https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The Tetris Company says it takes &amp;quot;copyright infringement very seriously&amp;quot; and is not involved with the game.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 12:06:40 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4129/live/deb20cc0-ac39-11f1-b483-f5be285e6b7e.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4129/live/deb20cc0-ac39-11f1-b483-f5be285e6b7e.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up</title>
-      <link>https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/</guid>
-      <description>As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 12:05:34 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
