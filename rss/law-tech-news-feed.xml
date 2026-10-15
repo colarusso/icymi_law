@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:56:14 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:56:11 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical</title>
+      <link>https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html</guid>
+      <description>Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its agentic workspace, along with plugins from more than two dozen legal technology partners. Microsoft now becomes the fourth major AI company in five months to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 17:56:34 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>The Most Innovative Law Schools (2026)</title>
       <link>https://abovethelaw.com/2026/10/the-most-innovative-law-schools-2026/</link>
@@ -4378,16 +4386,6 @@
       <description>The legal AI company Harvey said today that it has raised another $550 million at a $15.5 billion valuation, co-led by Diffusion and Lightspeed. By my calculations, that puts the total amount Harvey has raised since its 2022 launch at north of $1.5 billion. Other investors participating in this round were Sequoia, Kleiner Perkins, a16z, Coatue, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Wed, 09 Sep 2026 15:36:42 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Introducing SCOTUSblog Plus</title>
-      <link>https://www.scotusblog.com/2026/09/introducing-scotusblog-plus/</link>
-      <guid isPermaLink="true">https://www.scotusblog.com/2026/09/introducing-scotusblog-plus/</guid>
-      <description>Introducing SCOTUSblog Plus&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 +0000</pubDate>
-      <media:content url="https://cdn.sanity.io/images/pito4za5/production/c9c1cd7e75af5d2c9f9149c40430b744dd57cbe3-1800x1400.png?w=1200&amp;fit=max" medium="image" type="image/png" />
-      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/c9c1cd7e75af5d2c9f9149c40430b744dd57cbe3-1800x1400.png?w=1200&amp;fit=max" type="image/png" length="0" />
-      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
     </item>
   </channel>
 </rss>
