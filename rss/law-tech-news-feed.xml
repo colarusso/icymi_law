@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:55:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The states come for OpenAI</title>
+      <link>https://www.platformer.news/openai-states-lawsuit-liability/</link>
+      <guid isPermaLink="true">https://www.platformer.news/openai-states-lawsuit-liability/</guid>
+      <description>Will the approach that beat Meta in New Mexico work against ChatGPT?&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.platformer.news/rss/&lt;/small&gt;</description>
+      <pubDate>Thu, 15 Oct 2026 00:52:13 +0000</pubDate>
+      <media:content url="https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.platformer.news">www.platformer.news</source>
+    </item>
     <item>
       <title>We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches</title>
       <link>https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches</link>
@@ -4384,16 +4394,6 @@
       <media:content url="https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb262bbbdaae623d9485392fff1188a7" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/master/1477.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb262bbbdaae623d9485392fff1188a7" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Meta continues to run ads promoting child sexual abuse material in India - report</title>
-      <link>https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 08 Sep 2026 23:27:23 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
