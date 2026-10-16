@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 10:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:55:55 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 111 – Back the winners</title>
+      <link>https://www.citationneeded.news/issue-111/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/issue-111/</guid>
+      <description>A Trump crypto adviser’s firm took millions from Tether while he shaped stablecoin rules in their favor, a Senate probe targets Commerce Secretary Lutnick’s not-so-former firm, and crypto’s biggest super PAC plays it safe&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 15:43:31 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/10/back-the-winners.png" medium="image" type="image/png" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/10/back-the-winners.png" type="image/png" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
+    <item>
+      <title>Is ‘ROT’ Data Thwarting Your Firm’s AI Adoption?</title>
+      <link>https://abovethelaw.com/2026/10/is-rot-data-thwarting-your-firms-ai-adoption/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/is-rot-data-thwarting-your-firms-ai-adoption/</guid>
+      <description>[Sponsored] If you&amp;#x27;re like most lawyers, redundant, obsolete, and trivial data is probably playing an unwelcome role in your AI outputs. Here&amp;#x27;s why. The post Is &amp;amp;#8216;ROT&amp;amp;#8217; Data Thwarting Your Firm&amp;amp;#8217;s AI Adoption? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 15:30:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Meta’s new terms may allow it to train AI on news sites for free</title>
       <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
@@ -4370,22 +4388,6 @@
       <description>Use AI where it helps, recognize where it fails, and help your colleagues understand the difference. The post How Young Lawyers Can Build A Career That Outlasts The Next AI Update appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 10 Sep 2026 15:32:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>AI agents are flooding public services with new requests</title>
-      <link>https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</guid>
-      <description>“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 14:53:50 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Automakers Pressure Congress To Ban Chinese EVs To ‘Protect Privacy’</title>
-      <link>https://www.techdirt.com/2026/09/10/automakers-pressure-congress-to-ban-chinese-evs-to-protect-privacy/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/09/10/automakers-pressure-congress-to-ban-chinese-evs-to-protect-privacy/</guid>
-      <description>If you enjoy badly written bipartisan protectionist tech legislation designed primarily to coddle giant U.S. companies under the xenophobia-tinged breathless pretense of privacy and national security, you are really going to enjoy the next twelve to twenty-four months. While the U.S. drowns in corrupt kakistocracy, the Chinese are making significant market inroads in everything from [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:39:07 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
