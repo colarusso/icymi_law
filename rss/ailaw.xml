@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:07:27 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:06:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence</title>
+      <link>https://reut.rs/4Brgc3t</link>
+      <guid isPermaLink="true">https://reut.rs/4Brgc3t</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreidkbmn72d3kjnnuweu2wwgbfcr6gzoamf6klt3hs7khljcek3cgti" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Tech experts at OpenAI and Meta Platforms warned a federal judicial panel on Thursday that AI-generated &amp;quot;deepfakes&amp;quot; are becoming so sophisticated that it will become increasingly challenging to determine the authenticity of audio and video evidence presented at trial.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 60 · likes: 105&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 06:06:54 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreidkbmn72d3kjnnuweu2wwgbfcr6gzoamf6klt3hs7khljcek3cgti" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreidkbmn72d3kjnnuweu2wwgbfcr6gzoamf6klt3hs7khljcek3cgti" type="image/jpeg" length="0" />
+      <source url="https://reut.rs">reut.rs</source>
+    </item>
     <item>
       <title>OpenAI Sued Over Children’s Data Used to Train ChatGPT - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/chatgpt-accused-using-childrens-data/</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreigxafired2yjnreeaft7or4nitrw55zlpypymfgldb2hj7jbjhofq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreigxafired2yjnreeaft7or4nitrw55zlpypymfgldb2hj7jbjhofq" type="image/jpeg" length="0" />
       <source url="https://www.forbes.com">www.forbes.com</source>
-    </item>
-    <item>
-      <title>AI Love Song for Mistress Played at Murder Trial Is Most Excruciating Watch in Recent Memory</title>
-      <link>https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/</link>
-      <guid isPermaLink="true">https://www.404media.co/caleb-flynn-ai-love-song-for-mistress-played-at-murder-trial-is-most-excruciating-watch-in-recent-memory/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cjfcz3t36f6nrprarkhkycxo/bafkreicecupgpb47wcbhukwkcrt647rt3godfqhrqmhjkxool33ymgikxy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&amp;quot;One’s like a happy or upbeat sad song if that makes any sense, and one’s a sad, sad song. I think one’s in a minor key, one’s in a major key, but I’m not a music professional.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 24 · likes: 178&lt;/small&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 06:07:17 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cjfcz3t36f6nrprarkhkycxo/bafkreicecupgpb47wcbhukwkcrt647rt3godfqhrqmhjkxool33ymgikxy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cjfcz3t36f6nrprarkhkycxo/bafkreicecupgpb47wcbhukwkcrt647rt3godfqhrqmhjkxool33ymgikxy" type="image/jpeg" length="0" />
-      <source url="https://www.404media.co">www.404media.co</source>
     </item>
   </channel>
 </rss>
