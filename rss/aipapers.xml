@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 06:08:55 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:08:37 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fork-and-Flush: Escaping Idea Basins in Autoresearch Agents</title>
+      <link>https://arxiv.org/abs/2610.07447v1</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.07447v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Autoresearch agents tackle open-ended problems by repeatedly proposing candidate solutions, evaluating them, and using feedback to guide subsequent experiments. We show that independent runs of the sa...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 2 · likes: 33&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 06:08:37 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Machine Learning Models Trained on a Longitudinal Survey Dataset Poorly Predict Hundreds of Life Outcomes</title>
       <link>http://arxiv.org/abs/2610.17115</link>
@@ -488,16 +498,6 @@
       <description>Generative artificial intelligence (AI) is now capable of creating realistic-looking images and videos with just a text prompt. This capacity has been mi&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 29 · likes: 60&lt;/small&gt;</description>
       <pubDate>Wed, 23 Sep 2026 06:09:16 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>When AI Tutors Speak: Evidence from a Randomized Field Experiment</title>
-      <link>https://arxiv.org/abs/2609.23958</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.23958</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5zwyygnkcdgblepvwused47/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Students increasingly study alongside generative artificial intelligence (AI), yet unguided access to fluent answers invites cognitive offloading, and there is little evidence on which configurations ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 10 · likes: 41&lt;/small&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 06:09:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5zwyygnkcdgblepvwused47/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:s5zwyygnkcdgblepvwused47/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
