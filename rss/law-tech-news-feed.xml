@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 09:55:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:55:52 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta’s new terms may allow it to train AI on news sites for free</title>
+      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
+      <description>Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations</title>
       <link>https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html</link>
@@ -4378,14 +4386,6 @@
       <description>If you enjoy badly written bipartisan protectionist tech legislation designed primarily to coddle giant U.S. companies under the xenophobia-tinged breathless pretense of privacy and national security, you are really going to enjoy the next twelve to twenty-four months. While the U.S. drowns in corrupt kakistocracy, the Chinese are making significant market inroads in everything from [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 10 Sep 2026 12:39:07 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>European founders and VCs urge lawmakers ‘to get EU Inc right’</title>
-      <link>https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/</guid>
-      <description>Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that &amp;#x27;EU Inc&amp;#x27; shouldn’t be watered down.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 12:25:08 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
