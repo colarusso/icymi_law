@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Memoriam: Barry Steinhardt</title>
+      <link>https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/memoriam-barry-steinhardt</guid>
+      <description>Barry Steinhardt, a lifelong privacy champion and an early leader in the battle for digital civil liberties who served as EFF’s president in 1998-99, died last week at age 73. A Connecticut native, Steinhardt led the Vermont and Pennsylvania affiliates of the American Civil Liberties Union before becoming associate director of the national ACLU. There, he helped spearhead the fight to overturn much of the Communications Decency Act, resulting in the U.S. Supreme Court’s landmark Reno v. ACLU ruling in 1997. When the internet was still young, Steinhardt became one of the first attorneys to specialize in the intersection of technology and privacy. In early 1998 he took a leave of absence from the ACLU to become EFF’s president, and then returned to the ACLU in 1999. In 2002 he founded the ACLU’s Program on Technology and Liberty. After retiring from the ACLU, he continued on as a senior advisor to London-based Privacy International. Steinhardt chaired the 2003 Computer Freedom and Privacy Conference and served on a wide variety of significant panels and boards, including the Department of Transportation’s Negotiated Rule Making on national driver’s license standards, the Advisory Committee to the US Census, and the Blue Ribbon Panel on Genetics of the National Conference of State Legislatures. He also was selected to be a member of the US delegation to the G-8 Government and Private Sector Tokyo conference on Cyber Crime and served as an advisor to the Czech Helsinki Committee. “Barry led many critical technology and civil liberties fights and was an important mentor to me and others in the field,” said EFF Executive Director Nicole Ozer. “Barry’s influential work across strategy to defend and advance privacy rights and safeguard people against surveillance has made its mark on the law and policy of our digital world and protected the rights and safety of people across the United States and around the world.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 00:07:22 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/barry-steinhardt2b.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/barry-steinhardt2b.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Cops Play Hide And Seek About Using Spy Tech To Avoid Scrutiny And Bad PR</title>
       <link>https://www.techdirt.com/2026/10/15/cops-play-hide-and-seek-about-using-spy-tech-to-avoid-scrutiny-and-bad-pr/</link>
@@ -4376,14 +4386,6 @@
       <media:content url="https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>DOJ wants more answers on Fox’s $22B Roku deal</title>
-      <link>https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/</guid>
-      <description>Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 09 Sep 2026 16:44:21 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
