@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 19:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:55:49 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</title>
+      <link>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</guid>
+      <description>Apple&amp;#x27;s App Store rules now more explicitly ban so-called &amp;quot;nudify&amp;quot; apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn&amp;#x27;t pull X or Grok from the App [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 22:51:22 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Exciting Salary News For Biglaw Associates — See Also</title>
       <link>https://abovethelaw.com/2026/10/exciting-salary-news-for-biglaw-associates-see-also/</link>
@@ -4378,16 +4386,6 @@
       <description>Let’s start this Wrap with some news, then a reminder about two great webinars with LegalOn and also Chamelio next week, and then some videos. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 11 Sep 2026 06:43:00 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>China’s Huawei branded a criminal enterprise as tech firm’s US trial opens</title>
-      <link>https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/10/china-huawei-trial-us</guid>
-      <description>The defense says: ‘It’s about competition, not conspiracy’ A US prosecutor described China’s Huawei as a criminal enterprise that stole from US companies to build its telecommunications empire, as ⁠the trial against the tech company kicked off in Brooklyn federal court on Wednesday.“Theft, lies, cover-up,” Taylor Stout, a trial attorney from the US Department of Justice, said in the government’s opening statement. “For 20 years, that’s how Huawei, a massive Chinese telecommunications company, victimized American companies ⁠and abused the American financial system, all ⁠in an effort to dominate the telecommunications ​industry around the world.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 10 Sep 2026 17:41:19 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52342d5262fc8d58850f7428b22361bf" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/1c0ebe6cd755ca7247566fffc54b1df729dd3658/93_0_2813_2250/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52342d5262fc8d58850f7428b22361bf" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
