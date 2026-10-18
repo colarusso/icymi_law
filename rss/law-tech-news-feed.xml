@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:56:27 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Funniest/Most Insightful Comments Of The Week At Techdirt</title>
+      <link>https://www.techdirt.com/2026/10/18/funniest-most-insightful-comments-of-the-week-at-techdirt-230/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/18/funniest-most-insightful-comments-of-the-week-at-techdirt-230/</guid>
+      <description>This week, our first place winner on the insightful side is n00bdragon with a comment about Florida&amp;amp;#8217;s age-gating law and its esoteric definition of addiction: Is anyone else bothered by this incredibly strange definition of “addiction”? Is YMCA soccer addicting if 10% of a youth soccer team (one player) plays soccer for more than two [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 19:00:00 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>A woman was arrested in Philly for blocking a delivery robot</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</link>
@@ -4374,16 +4382,6 @@
       <media:content url="https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>New Mexico lawyer fined for using AI-generated brief containing fabricated police testimony</title>
-      <link>https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony</guid>
-      <description>Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appealA defense lawyer appealing his client’s murder conviction submitted a legal brief containing ⁠made-up police testimony and ⁠witnesses fabricated by OpenAI’s ChatGPT, ​New Mexico’s highest court said.The New Mexico supreme court on Wednesday fined the attorney, Stephen Aarons, and held him in contempt for failing to verify the accuracy of the court ⁠filing, which Aarons said he prepared with help from the artificial intelligence (AI) application. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 18:04:05 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0d0bfe5daa05172d576ccc02bb14e6a" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/372f56916f0dae58bb508ebabb72e6037a90f7b4/336_0_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0d0bfe5daa05172d576ccc02bb14e6a" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
