@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 11:55:51 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:56:01 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video game ownership bill introduced in Congress</title>
+      <link>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</guid>
+      <description>Rep. Ritchie Torres of New York&amp;#x27;s 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It&amp;#x27;s increasingly common for [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 16:27:51 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Cities want to put the boot on robotaxis</title>
       <link>https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws</link>
@@ -4378,16 +4386,6 @@
       <media:content url="https://www.eff.org/files/banner_library/ring_banner.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/ring_banner.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Self-driving cars should be taxed to offset job losses, thinktank urges</title>
-      <link>https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges</guid>
-      <description>Report warns widespread autonomous vehicle adoption would put hundreds of thousands of private hire jobs at riskTaxes on self-driving cars should be introduced now in the UK to offset the rise in congestion and threats to jobs they pose, a thinktank has urged.The first robotaxis on London’s streets only started this month, but government projections are that up to 40% of cars sold could be capable of self-driving capability by the middle of the next decade. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 11 Sep 2026 16:31:07 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/master/3254.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15ee5d8c6706ede2fede130a5e3a041d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/master/3254.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15ee5d8c6706ede2fede130a5e3a041d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
