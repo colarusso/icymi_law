@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 09:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff</title>
+      <link>https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff</guid>
+      <description>Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informedGet our breaking news email, free app or daily news podcastEmployers are increasingly using technology, from CCTV to keystroke monitoring, to track workers’ moves and it is being accelerated by the use of AI, the Human Technology Institute has warned.Examples provided to Guardian Australia by the institute include a fast-food restaurant using surveillance cameras to stop workers using their phones, and AI tracking leading to a cashier warned over making a mistake once every 533 scans. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 14:00:03 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e61c50558629b38b8338b4760dbec44c" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e61c50558629b38b8338b4760dbec44c" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Why calling for a ‘kill switch’ is the wrong way to think about reining in AI</title>
       <link>https://theconversation.com/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai-293329</link>
@@ -4368,14 +4378,6 @@
       <media:content url="https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/340_0_4590_3673/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dba004de17ce9964c95a6dffb68ec482" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/c0964c5c069ea10a999ebc43dd184effb88e8bad/340_0_4590_3673/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dba004de17ce9964c95a6dffb68ec482" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Revolut confirms customer data breach through fake government requests</title>
-      <link>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</guid>
-      <description>Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sat, 12 Sep 2026 14:40:00 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
