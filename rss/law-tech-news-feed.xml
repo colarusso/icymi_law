@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:56:33 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody</title>
+      <link>https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/</guid>
+      <description>A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 19:49:17 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</title>
       <link>https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html</link>
@@ -4374,14 +4384,6 @@
       <media:content url="https://i.guim.co.uk/img/media/0fa1e24c8026a54f3f1dcbcd747f7ee270db7c77/1527_365_5799_4642/master/5799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1bf30f1b705ab581f5095514ba65a57" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/0fa1e24c8026a54f3f1dcbcd747f7ee270db7c77/1527_365_5799_4642/master/5799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1bf30f1b705ab581f5095514ba65a57" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>What happens after a town de-Flocks</title>
-      <link>https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy</guid>
-      <description>From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn&amp;#x27;t necessarily mean the cameras will come down immediately - or that the information they&amp;#x27;ve gathered will be deleted anytime soon. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 11:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
