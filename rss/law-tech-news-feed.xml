@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:56:33 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</title>
+      <link>https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html</guid>
+      <description>A Saudi military official paid for the OpenAI engineer’s wife and infant son to fly out of the United States a day after his arrest, according to a court filing. The Saudi government also offered to cover his bail.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 18:44:56 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Freshfields Leader Accidentally Sends Secret AI Spinoff Plan To The Whole Firm, With A Bonus Insult To Some Very Important Clients</title>
+      <link>https://abovethelaw.com/2026/10/freshfields-leader-accidentally-sends-secret-ai-spinoff-plan-to-the-whole-firm-with-a-bonus-insult-to-some-very-important-clients/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/freshfields-leader-accidentally-sends-secret-ai-spinoff-plan-to-the-whole-firm-with-a-bonus-insult-to-some-very-important-clients/</guid>
+      <description>The recall button is not a time machine. The post Freshfields Leader Accidentally Sends Secret AI Spinoff Plan To The Whole Firm, With A Bonus Insult To Some Very Important Clients appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 18:32:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>US bans DeepSeek AI from government use as tech tension with China continues</title>
+      <link>https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 18:21:54 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Huge DMV data breach impacted current and former Florida residents</title>
       <link>https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/</link>
@@ -4354,30 +4382,6 @@
       <description>From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn&amp;#x27;t necessarily mean the cameras will come down immediately - or that the information they&amp;#x27;ve gathered will be deleted anytime soon. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 14 Sep 2026 11:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Legora To Launch Ontology + AI Native Citator</title>
-      <link>https://www.artificiallawyer.com/2026/09/14/legora-to-launch-ontology-ai-native-citator/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/14/legora-to-launch-ontology-ai-native-citator/</guid>
-      <description>Legora is ramping up its legal research capabilities by offering &amp;amp;#8216;a full ontology of law and an AI-native citator’. The move follows deals with Qura and ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 10:33:26 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>What Latham’s AI Recruitment Shows Us</title>
-      <link>https://www.artificiallawyer.com/2026/09/14/what-lathams-ai-recruitment-shows-us/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/14/what-lathams-ai-recruitment-shows-us/</guid>
-      <description>If you take a look at the recruitment page of Latham &amp;amp;#38; Watkins and search for roles that relate to AI, it paints a picture ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 10:01:24 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Latham, GPUs and AI Sovereignty</title>
-      <link>https://www.artificiallawyer.com/2026/09/14/latham-gpus-and-ai-sovereignty/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/14/latham-gpus-and-ai-sovereignty/</guid>
-      <description>The more this site thinks about law firms training open weight models and renting their own GPUs, the less it seems to make sense. Here’s ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 07:25:59 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
