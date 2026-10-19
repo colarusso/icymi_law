@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 06:08:45 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:08:02 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Probabilistic AI models outperform numerical weather prediction models on record breaking heat extremes</title>
+      <link>https://arxiv.org/abs/2610.20519</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.20519</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7v7gmbew24c4tr433ugc5g4a/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI weather prediction (AIWP) models have emerged as a key complement to physics-based numerical weather prediction (NWP) models, and now often outperform them on aggregate skill. Yet, several studies ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 6 · likes: 23&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 06:08:02 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7v7gmbew24c4tr433ugc5g4a/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7v7gmbew24c4tr433ugc5g4a/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>[2307.09288] Llama 2: Open Foundation and Fine-Tuned Chat Models</title>
+      <link>https://arxiv.org/abs/2307.09288</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2307.09288</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreibstpz7567gwbuizaeaiq43ieclktxepjugqn7fhztx5x7ljubajy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The paper presents Llama 2, a collection of language models from 7 to 70 billion parameters, designed for dialogue applications. Llama 2-Chat models outperform current open-source options, with enhanc&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 06:08:02 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreibstpz7567gwbuizaeaiq43ieclktxepjugqn7fhztx5x7ljubajy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreibstpz7567gwbuizaeaiq43ieclktxepjugqn7fhztx5x7ljubajy" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>FDE-Gym: The Last Mile of AI Delivery</title>
+      <link>https://arxiv.org/abs/2610.22350</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.22350</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must clarify ambiguous requirements, work in live systems, and uncover unstated constra…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 06:08:02 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>MSP: Modality Self-Play for Training Multimodal LLMs Without Paired Cross-Modal Data</title>
+      <link>https://arxiv.org/abs/2610.20965</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.20965</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large multimodal models have achieved remarkable progress by scaling model capacity and training on massive paired multimodal data. However, this paradigm introduces a fundamental bottleneck: aligned multimodal datasets are expensive to curate, difficult to scale across diverse modality combination…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 06:08:02 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>You Only Index Once: Cross-Layer Sparse Attention with Shared Routing</title>
       <link>https://arxiv.org/abs/2606.06467</link>
@@ -459,46 +499,6 @@
       <pubDate>Sat, 26 Sep 2026 06:09:27 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rl2szulxujlgdcmx4avx7jyn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rl2szulxujlgdcmx4avx7jyn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>CRISS: A Retrieval-Augmented AI Chatbot for Assisting Cancer Registrars</title>
-      <link>https://arxiv.org/abs/2609.29075</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.29075</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Cancer registrars, including Oncology Data Specialists (ODSs), must interpret complex and frequently updated coding and staging standards. We developed CRISS (Cancer Registry Intelligent Support System), a retrieval-augmented generation (RAG) conversational assistant that provides rapid, citation-s…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 06:09:27 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Characterizing Universal Object Representations Across Vision Models</title>
-      <link>https://arxiv.org/abs/2605.13675</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.13675</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ceiesovhvnyepj43ynetoxrz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Deep neural networks trained with different architectures, objectives, and datasets have been reported to converge on similar visual representations. However, what remains unknown is which visual prop...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 1 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ceiesovhvnyepj43ynetoxrz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ceiesovhvnyepj43ynetoxrz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>BoundaryMORPH: Budgeted Reranking via Active Set Selection for Diffuse Retrieval</title>
-      <link>https://arxiv.org/abs/2609.27213</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.27213</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Open-ended queries in modern Retrieval-Augmented Generation (RAG) are increasingly &amp;quot;diffuse,&amp;quot; requiring a large set of documents to be assembled into a finite LLM context window. To ensure retrieval q...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:iakjx7d3ypfa5ycegrylvt2m/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing</title>
-      <link>https://arxiv.org/abs/2609.25303</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.25303</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models are increasingly deployed as course-specific tutors, but their usefulness depends on grounding in vetted instructional materials that are often revised mid-semester. Our prior work built a multimodal retrieval-augmented generation (RAG) system over an authentic machine learnin…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 06:08:42 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
