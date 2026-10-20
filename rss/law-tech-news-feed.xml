@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:56:51 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:56:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
+      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</guid>
+      <description>The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model&amp;#x27;s release without the permission of a judge.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>AI Innovation On Trial</title>
       <link>https://abovethelaw.com/2026/10/ai-innovation-on-trial/</link>
@@ -4368,14 +4376,6 @@
       <media:content url="https://i.guim.co.uk/img/media/a725dd07e2ae5e7c8ef13c06bdecc2ba0bbae768/250_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0ef591f3a4ecd2be4fab9a97f020235" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/a725dd07e2ae5e7c8ef13c06bdecc2ba0bbae768/250_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0ef591f3a4ecd2be4fab9a97f020235" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Lawyers Are Burning Out, Can AI Help?</title>
-      <link>https://www.artificiallawyer.com/2026/09/15/lawyers-are-burning-out-can-ai-help/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/15/lawyers-are-burning-out-can-ai-help/</guid>
-      <description>A major survey by the American Bar Association has found that ‘nearly half of all lawyers (47.4%) screened positive for high burnout, including 15.6% meeting ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 07:18:18 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
