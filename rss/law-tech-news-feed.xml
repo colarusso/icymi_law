@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:56:05 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Innovation On Trial</title>
+      <link>https://abovethelaw.com/2026/10/ai-innovation-on-trial/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/ai-innovation-on-trial/</guid>
+      <description>RelFest asked the key question -- who is doing the innovating. The post AI Innovation On Trial appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 17:01:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>30 Months on the Exponential (in Charts)</title>
       <link>https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts</link>
@@ -4368,16 +4376,6 @@
       <description>A major survey by the American Bar Association has found that ‘nearly half of all lawyers (47.4%) screened positive for high burnout, including 15.6% meeting ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 15 Sep 2026 07:18:18 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Digital ID comes of age as pubs and bars get go-ahead for biometric scan tech</title>
-      <link>https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech</link>
-      <guid isPermaLink="true">https://www.theguardian.com/business/2026/sep/15/pubs-and-bars-get-go-ahead-digital-id-biometric-scan-tech</guid>
-      <description>New laws coming into force this week aim to streamline age checks although old-style plastic IDs will still be allowedYounger drinkers in England and Wales will be able to prove their age with a digital ID starting this week as new laws give pubs, off-licences, nightclubs and restaurants the right to use biometric scanning technology to check customers are over 18.Customers will be able to download software that scans their faces into their own phone to generate a QR code proving their age based on a stored proof of age. Other tech under consideration as part of the government push to digitise age verification for alcohol sales include a device which scans the veins in a drinker’s finger to verify their age. That system has not yet been approved for use. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 04:00:26 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/8e6bfbbf36fa6708d454758291759e5b871c46e0/1610_1304_2483_1986/master/2483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b57712a2a767f58d430db4f03c8b68e" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/8e6bfbbf36fa6708d454758291759e5b871c46e0/1610_1304_2483_1986/master/2483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b57712a2a767f58d430db4f03c8b68e" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
