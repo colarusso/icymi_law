@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:56:12 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google cloud failure hits millions as UK courts and banks knocked offline</title>
+      <link>https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption</link>
+      <guid isPermaLink="true">https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption</guid>
+      <description>Power glitch stalls hearings and Revolut, Lloyds and HSBC customers unable to pay or move moneyBusiness live – latest updatesAn outage at Google’s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of customers unable to access and send cash at banks including Lloyds, HSBC and Revolut.Google has blamed a “power event” for the failure at its London-based Cloud computing operations on Tuesday, which affected its “europe-west2-b zone”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 09:45:39 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/d58e3aac6f0229d8898fb9662f67f64e3d40e5f7/213_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6602b6b92ce9f819c1b55dc25b46f9e" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/d58e3aac6f0229d8898fb9662f67f64e3d40e5f7/213_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6602b6b92ce9f819c1b55dc25b46f9e" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>TikTok employees said they knew about child safety issues, but execs failed to act</title>
       <link>https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings</link>
@@ -4370,16 +4380,6 @@
       <media:content url="https://www.citationneeded.news/content/images/2026/09/Cynthia_Lummis_-6266107864-.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.citationneeded.news/content/images/2026/09/Cynthia_Lummis_-6266107864-.jpg" type="image/jpeg" length="0" />
       <source url="https://www.citationneeded.news">www.citationneeded.news</source>
-    </item>
-    <item>
-      <title>OpenAI stuck fighting Musk antitrust suit after Apple finds a way out</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/</guid>
-      <description>Musk stops attacking Apple over ChatGPT integration but not OpenAI.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 19:45:13 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
