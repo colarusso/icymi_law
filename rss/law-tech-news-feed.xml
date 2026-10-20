@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:56:45 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TikTok employees said they knew about child safety issues, but execs failed to act</title>
+      <link>https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings</guid>
+      <description>TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted content, and appearing in &amp;quot;transactional sexual content&amp;quot; the company could [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 13:11:23 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Morning Docket: 10.20.26</title>
+      <link>https://abovethelaw.com/2026/10/morning-docket-10-20-26/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/morning-docket-10-20-26/</guid>
+      <description>* Cooley ready for AI to upend billable hours. [Business Insider] * Judge Reyes is getting a lot of abuse on social media for finally telling the government to follow the rules. [One First] * Book deals prevent Supreme Court from reaching quorum. [Courthouse News Service] * Judge orders cyberstalker to warn future boyfriends. [Volokh Conspiracy] * Having long ago allowed geography to de facto resegregate schools, the Supreme Court eyes now looks to dismantling integrated magnet schools. [Washington Post] * Administration talking points assert that law schools will become cheaper once they aren&amp;#x27;t accredited. [Fox News] * Meta shut down anti-Trump account and blamed it on Claude. [Popular Information] The post Morning Docket: 10.20.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 12:57:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>US bans use of China’s DeepSeek AI tools by government agencies</title>
       <link>https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies</link>
@@ -4364,24 +4380,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2256018320-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Online hate researcher keeps hammering X despite deportation threat</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/</guid>
-      <description>US won’t back down from fight to deport technology researchers.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 18:24:09 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/headshot3-1152x648-1789406043.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The AI Workplace Gender Gap In The Legal Profession</title>
-      <link>https://abovethelaw.com/2026/09/the-ai-workplace-gender-gap-in-the-legal-profession/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/the-ai-workplace-gender-gap-in-the-legal-profession/</guid>
-      <description>Women’s reluctance to use AI may also impact career advancement. The post The AI Workplace Gender Gap In The Legal Profession appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 19:13:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
