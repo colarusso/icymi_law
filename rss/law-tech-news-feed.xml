@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:56:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>30 Months on the Exponential (in Charts)</title>
+      <link>https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts</link>
+      <guid isPermaLink="true">https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts</guid>
+      <description>My new book is out today... what happened since the last one&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.oneusefulthing.org/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 20 Oct 2026 15:57:59 +0000</pubDate>
+      <media:content url="https://substackcdn.com/image/fetch/$s_!wAVc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72ebc127-a405-42e0-8086-f5db8d444a0f_2912x1632.png" medium="image" type="image/png" />
+      <enclosure url="https://substackcdn.com/image/fetch/$s_!wAVc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72ebc127-a405-42e0-8086-f5db8d444a0f_2912x1632.png" type="image/png" length="0" />
+      <source url="https://www.oneusefulthing.org">www.oneusefulthing.org</source>
+    </item>
     <item>
       <title>Womble Bond Dickinson Launches ‘AI Labs’</title>
       <link>https://www.artificiallawyer.com/2026/10/20/womble-bond-dickinson-launches-ai-labs/</link>
@@ -4368,14 +4378,6 @@
       <media:content url="https://i.guim.co.uk/img/media/8e6bfbbf36fa6708d454758291759e5b871c46e0/1610_1304_2483_1986/master/2483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b57712a2a767f58d430db4f03c8b68e" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/8e6bfbbf36fa6708d454758291759e5b871c46e0/1610_1304_2483_1986/master/2483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b57712a2a767f58d430db4f03c8b68e" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Weil Isn’t Even Pretending To Be Sad About Losing Its Most Powerful Partner — See Also</title>
-      <link>https://abovethelaw.com/2026/09/weil-isnt-even-pretending-to-be-sad-about-losing-its-most-powerful-partner-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/weil-isnt-even-pretending-to-be-sad-about-losing-its-most-powerful-partner-see-also/</guid>
-      <description>Weil Insiders To Mike Aiello: Don&amp;#x27;t let the door hit you on the way out! AI Is Now Making Up Witness Testimony: It&amp;#x27;s not just fake cites anymore, but fake humans, too! Watch your filings, lest you face a benchslap like this lawyer. A Federal Judge Just Hit Pause On Trump&amp;#x27;s Federal Hiring Loyalty Question: Turns out you can&amp;#x27;t make career applicants write an essay praising the president&amp;#x27;s executive orders. Trump&amp;#x27;s DOJ Lawyers Try To Save His Personal Lawyers: One of these things is not like the other... sort of. The post Weil Isn&amp;amp;#8217;t Even Pretending To Be Sad About Losing Its Most Powerful Partner &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 14 Sep 2026 23:02:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
