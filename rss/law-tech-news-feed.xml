@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:56:22 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:56:23 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal</title>
+      <link>https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/</guid>
+      <description>The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 19:42:32 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Legal AI startup Legora raises $550M Series E at $8.8B valuation</title>
       <link>https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/</link>
@@ -4362,14 +4370,6 @@
       <description>* Is Biglaw paying too much for lateral partners? [Reuters] * Trump administration attempting to reinstall Lindsey Halligan. [Politico] * Morgan &amp;amp;#38; Morgan laying out $1 billion to build internal AI system. System will automate takeover of the few remaining billboards in America without Morgan &amp;amp;#38; Morgan ads. [ABA Journal] * Crypto bill blocked by many of the lawmakers lobbying for it. [Law360] * New Hampshire Chief Justice resigns amidst ethics questions. [NHPR] * Associated Press sues entire federal judiciary over rules designed to restrict information about immigration cases. [Reuters] * Federal judge accuses DA of criminality because prosecutors had internal disagreements over an exoneration case. [Philadelphia Inquirer] * Congress contemplates contempt for Leon Black. [CNBC] * College sports bill passes Senate, proving there&amp;#x27;s bipartisan support for making college less expensive but ONLY if it&amp;#x27;s at the expense of athletes. [ABC] The post Morning Docket: 09.16.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 16 Sep 2026 12:45:33 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>A brief history of AI executives calling for regulation</title>
-      <link>https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation</guid>
-      <description>Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it&amp;#x27;s time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
