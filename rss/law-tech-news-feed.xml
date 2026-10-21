@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:55:54 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Our New Surveillance Self-Defense Guide: Online Privacy for Parents and Youth</title>
+      <link>https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/introducing-our-new-surveillance-self-defense-guide-online-privacy-parents-and</guid>
+      <description>The internet is a vast and confusing place no matter your age. Trying to help youth engage with it safely and privately is a complicated topic that touches on many different skillsets and ideas. But just because it’s complicated doesn’t mean it’s impossible. We’ve launched our Online Privacy for Parents and Youth Surveillance Self-Defense guide in hopes to provide a framework for finding solutions that work for you. EFF rolls out this crucial resource as state and local governments consider ill-advised laws that cut young people off from essential information and experiences. This particularly harms vulnerable youth and marginalized groups who often find safety in supportive online communities they can&amp;#x27;t access offline. Such laws also entail age gating, which compromises the privacy of all internet users and stifles young users’ ability to learn, grow, and express themselves. Young people have unique needs and those needs change over time. Trying to protect from everything all the time is an exhausting process, but the security community has long had a solution for this: security planning (also called threat modeling). The idea is to provide a series of questions designed to help you focus on what’s truly important. When it comes to online privacy, this is as applicable for youth and parents as it is for anyone else. We used a security plan as our foundation for this guide because deciding what is and isn’t important is the first step we should all take when assessing our privacy risks. But this isn’t a place for quick fixes, and every young person has their unique needs and considerations. There is no single tool or technology fix that can substitute for spending time learning, and then teaching a young person, how the internet works, how to use it, what sorts of harms exist, and how to navigate those harms. Solutions are rarely about the tools or software you use. It’s about understanding the threats and concerns you have, and then determining what steps you can take to mitigate those risks. We hope our Online Privacy for Parents and Youth guide can help provide the outline to get the conversation started. Donate Today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 23:07:38 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/og-ssd-logo.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/og-ssd-logo.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Trump's green card curbs test Indian tech workers' American dream</title>
+      <link>https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 23:06:37 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Interoperability vs. Security: Why not both?</title>
       <link>https://www.eff.org/deeplinks/2026/10/interoperability-vs-security-why-not-both</link>
@@ -4356,24 +4376,6 @@
       <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Beyond CLM: The Road To An Agentic Future</title>
-      <link>https://abovethelaw.com/2026/09/beyond-clm-the-road-to-an-agentic-future/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/beyond-clm-the-road-to-an-agentic-future/</guid>
-      <description>[Sponsored] Join this CLE-eligible webinar to see where law departments stand — and where they’re headed — when it comes to agentic AI. The post Beyond CLM: The Road To An Agentic Future appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 15:35:26 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment</title>
-      <link>https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio</guid>
-      <description>Safety crisis makes it more likely that governments will be spurred into action, says Yoshua BengioConcerns over AI safety are reaching a point where governments realise they must act to protect the public, similarly to in the Covid pandemic, according to one of the “godfathers” of the technology.Yoshua Bengio said recent events, including a “swarm” of OpenAI agents hacking a startup and tech insider warnings of an existential threat, were cutting through – making government action more likely. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 15:00:23 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/b4261d7b8dd8d6c71cd2325bbb24b1f8a7a83d36/379_84_2522_2017/master/2522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74e890e316ab98125f2af673c84b0c60" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/b4261d7b8dd8d6c71cd2325bbb24b1f8a7a83d36/379_84_2522_2017/master/2522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74e890e316ab98125f2af673c84b0c60" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
