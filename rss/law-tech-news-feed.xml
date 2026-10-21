@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:56:21 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:56:22 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal AI startup Legora raises $550M Series E at $8.8B valuation</title>
+      <link>https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/</guid>
+      <description>Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 18:51:56 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Will TP-Link really make routers in the US? Here’s what it told us</title>
+      <link>https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview</guid>
+      <description>TP-Link, one of the world&amp;#x27;s leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can&amp;#x27;t bring them here because of President Donald Trump&amp;#x27;s foreign router ban. Even though competitors Netgear and Asus make their routers in Asia, they&amp;#x27;ve mysteriously obtained [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy</title>
       <link>https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html</link>
@@ -4354,26 +4370,6 @@
       <description>Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it&amp;#x27;s time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Scotland imposes mandatory environmental assessments on new datacentres</title>
-      <link>https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom</link>
-      <guid isPermaLink="true">https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom</guid>
-      <description>Government announces before vote on moratorium that any projects above 50MW must submit assessments in planning processLarge-scale datacentres will face mandatory environmental assessments before they can go ahead, the Scottish government has announced, amid growing public concern about the impact of the AI boom.Ahead of a vote on a moratorium on new hyperscale datacentres in Holyrood on Wednesday, the Scottish government has tightened rules for new projects by requiring any above 50MW to submit environmental impact assessments, but stopped short of agreeing to an outright halt. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 11:55:33 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/f4c35ffc77668ec92a724e23db360ec4f31b7a93/1126_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5e093ca3022632469e3a1ac93e82e0e" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/f4c35ffc77668ec92a724e23db360ec4f31b7a93/1126_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b5e093ca3022632469e3a1ac93e82e0e" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Age Limits for Social Media Outlined by European Union</title>
-      <link>https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html</guid>
-      <description>A proposed law would bar children under 13 from using social media across the 27-nation bloc.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 08:20:37 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/16/world/16biz-eu-kids-afad/16biz-eu-kids-afad-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/16/world/16biz-eu-kids-afad/16biz-eu-kids-afad-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
