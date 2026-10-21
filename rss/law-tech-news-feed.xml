@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The court’s third-country removal case has high stakes but will likely be decided on technical grounds</title>
+      <link>https://www.scotusblog.com/2026/10/the-courts-third-country-removal-case-has-high-stakes-but-will-likely-be-decided-on-technical-gr/</link>
+      <guid isPermaLink="true">https://www.scotusblog.com/2026/10/the-courts-third-country-removal-case-has-high-stakes-but-will-likely-be-decided-on-technical-gr/</guid>
+      <description>The court’s third-country removal case has high stakes but will likely be decided on technical grounds&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+      <media:content url="https://cdn.sanity.io/images/pito4za5/production/e18dc5b880419ae75bb58fd395300175f6f12af1-1024x683.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/e18dc5b880419ae75bb58fd395300175f6f12af1-1024x683.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
+      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
+    </item>
     <item>
       <title>The Supreme Court website, the interim docket, and a whole lot of inside baseball</title>
       <link>https://www.scotusblog.com/2026/10/the-supreme-court-website-the-interim-docket-and-a-whole-lot-of-inside-baseball/</link>
@@ -4362,16 +4372,6 @@
       <description>Here&amp;amp;#8217;s a riddle: Why did a Goshen Police Department officer search 6,474 automated license plate reader (ALPR) networks, representing data from 82,413 cameras, on May 7, 2025?&amp;amp;#160; If your answer is &amp;amp;#8220;I don&amp;amp;#8217;t know,&amp;amp;#8221; it turns out you&amp;amp;#8217;re 100% correct. The officer left the letters &amp;amp;#8220;idk&amp;amp;#8221; in the search field where cops are supposed to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 15 Sep 2026 22:18:54 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Labor accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus</link>
-      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus</guid>
-      <description>Compromise revealed as senior personnel from OpenAI, creator of ChatGPT, meets Albanese ministersFollow our Australia news live blog for latest updatesGet our new political email, free app or daily news podcastThe Albanese government is considering giving AI companies access to Australian creatives’ works by default as it pursues a compromise with US tech giants.The proposals were revealed as senior personnel from OpenAI, the creator of ChatGPT, met with Labor ministers and warned that Australia’s copyright laws were preventing the company from training models locally.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 21:29:11 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/404c214c82597236079d8c3857f64b0a493ba841/144_0_2953_2363/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30fa0c49fa8af873a03b3ee8fbec2437" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/404c214c82597236079d8c3857f64b0a493ba841/144_0_2953_2363/master/2953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30fa0c49fa8af873a03b3ee8fbec2437" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
