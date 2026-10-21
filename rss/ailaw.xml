@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:07:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:07:40 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delivery Robots Accused Of Scanning Customers’ Faces, Sharing Biometric Data</title>
+      <link>https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d</link>
+      <guid isPermaLink="true">https://apnews.com/article/chicago-food-delivery-robots-biometric-data-lawsuits-16ead54eb7dc7c6eacbf011c53b9b20d</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreicsyam4qjkkv6cb2525q6k4dfcpmjqacxd2htlw4mbnzlneh6m6qm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The battle over Chicago’s food delivery robots has reached the courts, with two customers accusing the companies behind them of collecting their biometric data without consent.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥 · reposts: 420 · likes: 1042&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 06:07:40 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreicsyam4qjkkv6cb2525q6k4dfcpmjqacxd2htlw4mbnzlneh6m6qm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreicsyam4qjkkv6cb2525q6k4dfcpmjqacxd2htlw4mbnzlneh6m6qm" type="image/jpeg" length="0" />
+      <source url="https://apnews.com">apnews.com</source>
+    </item>
     <item>
       <title>Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports</title>
       <link>https://www.reuters.com/legal/litigation/anthropic-quietly-pitches-its-own-ai-safety-bill-lawmakers-politico-reports-2026-10-16/</link>
@@ -494,16 +504,6 @@
       <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 202 · likes: 597&lt;/small&gt;</description>
       <pubDate>Thu, 01 Oct 2026 06:07:22 -0400</pubDate>
       <source url="https://newsletters.democracydocket.com">newsletters.democracydocket.com</source>
-    </item>
-    <item>
-      <title>Eric Schmitts the Bed</title>
-      <link>https://lnk.thebulwark.com/4y0hkbb</link>
-      <guid isPermaLink="true">https://lnk.thebulwark.com/4y0hkbb</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreiasmrjdbgy22vw54tnzcmkhomr7zuu7e2zhwkdoc675dxesktntwy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Plus: Trump’s dangerous, reckless embrace of AI.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 114 · likes: 600&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 06:07:22 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreiasmrjdbgy22vw54tnzcmkhomr7zuu7e2zhwkdoc675dxesktntwy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:aunpu65mdrhwfie7ynymlzeh/bafkreiasmrjdbgy22vw54tnzcmkhomr7zuu7e2zhwkdoc675dxesktntwy" type="image/jpeg" length="0" />
-      <source url="https://lnk.thebulwark.com">lnk.thebulwark.com</source>
     </item>
   </channel>
 </rss>
