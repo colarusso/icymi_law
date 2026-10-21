@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expert For News Orgs Suing OpenAI Warned ‘Always Verify’ AI, Then Didn’t Verify His AI-Made Charts In His Expert Report</title>
+      <link>https://www.techdirt.com/2026/10/21/expert-for-news-orgs-suing-openai-warned-always-verify-ai-then-didnt-verify-his-ai-made-charts-in-his-expert-report/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/21/expert-for-news-orgs-suing-openai-warned-always-verify-ai-then-didnt-verify-his-ai-made-charts-in-his-expert-report/</guid>
+      <description>A few weeks ago we wrote about how the lawyers for OpenAI and Microsoft in the massive multi-district litigation (MDL) against the companies over how they trained their AI had called for the exclusion of an expert witness report after it was revealed that lawyers for the plaintiffs had apparently surreptitiously paid for the report, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 16:24:41 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>EFF Launches Guide to Help Parents and Youth Protect Privacy Online</title>
+      <link>https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online</link>
+      <guid isPermaLink="true">https://www.eff.org/press/releases/eff-launches-guide-help-parents-and-youth-protect-privacy-online</guid>
+      <description>Guide Includes Easy, Quick Ways To Identify and Protect Against Online Threats SAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “Online Privacy for Parents and Youth,” a new guide to help families protect themselves online. &amp;quot;Parents don’t need to be technology experts to help their children navigate the digital world safely” said EFF Public Interest Technology Director Babette Ngene. “At EFF, we believe in empowering families with the knowledge and confidence to make informed decisions about their digital lives. It’s about meeting families where they are and giving parents the guidance they need to have meaningful conversations with their children about digital safety, based on what works best for their families.” EFF launches this crucial resource as state and local governments consider enacting well-meaning but ill-advised laws that cut young people off from essential information and experiences, particularly harming vulnerable youth and marginalized groups who often find safety in supportive online communities they can&amp;#x27;t access offline. Such laws also entail age gating, which compromises the privacy of all internet users and stifles young users’ ability to learn, grow, and express themselves. “Deciding how to help your young people use the internet—including engaging with video games, social media, web search, and everything else—is a complicated topic that touches on many different skillsets and ideas,” said EFF Senior Security and Privacy Activist Thorin Klosowski. “But ultimately it&amp;#x27;s up to families – not governments – to decide when and how to engage with these sorts of questions.” Each young person has unique needs, and, just like their wardrobe, that changes as they age. Parents can engage in thoughtful planning to find the best, most efficient solutions that evolve along with their children. EFF’s guide is about helping parents explore their concerns and identify the threats their children face – like trusting AI chatbots or sharing personal information with strangers – and then determine steps they and their children can take to mitigate those risks while still using the games, educational materials, and communication platforms that help them grow. The guide also compiles links to parental control setup documentation for a variety of popular devices and platforms, and advises parents on quick, easy tasks they can perform to advance their children’s online privacy. For the guide: https://ssd.eff.org/module/online-privacy-for-parents-and-youth Contact:&amp;amp;nbsp; ThorinKlosowskiSenior Security and Privacy Activistthorin@eff.org&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 16:19:59 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/og-ssd-logo.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/og-ssd-logo.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>The court’s third-country removal case has high stakes but will likely be decided on technical grounds</title>
       <link>https://www.scotusblog.com/2026/10/the-courts-third-country-removal-case-has-high-stakes-but-will-likely-be-decided-on-technical-gr/</link>
@@ -4354,24 +4372,6 @@
       <description>A new pricing survey by BigHand shows that 31% of law firms – which had scrutinised their data – found that AI had ‘improved profitability ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 16 Sep 2026 07:45:29 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>AI app ads promoting 'objectification of women' banned by watchdog</title>
-      <link>https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The ad regulator said it had &amp;quot;zero-tolerance&amp;quot; for ads promoting AI tools that could sexualise or objectify women.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 23:27:17 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e86/live/e6499b60-b111-11f1-8907-39a652c5e20e.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e86/live/e6499b60-b111-11f1-8907-39a652c5e20e.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>The High Crime Of “LMAO”: How Cops Are Treating Flock Mass Surveillance As A Joke</title>
-      <link>https://www.techdirt.com/2026/09/15/the-high-crime-of-lmao-how-cops-are-treating-flock-mass-surveillance-as-a-joke/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/09/15/the-high-crime-of-lmao-how-cops-are-treating-flock-mass-surveillance-as-a-joke/</guid>
-      <description>Here&amp;amp;#8217;s a riddle: Why did a Goshen Police Department officer search 6,474 automated license plate reader (ALPR) networks, representing data from 82,413 cameras, on May 7, 2025?&amp;amp;#160; If your answer is &amp;amp;#8220;I don&amp;amp;#8217;t know,&amp;amp;#8221; it turns out you&amp;amp;#8217;re 100% correct. The officer left the letters &amp;amp;#8220;idk&amp;amp;#8221; in the search field where cops are supposed to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 15 Sep 2026 22:18:54 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
