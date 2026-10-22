@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:56:18 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta&amp;#8217;s AI could still scrape news sites, legal experts say</title>
+      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</guid>
+      <description>Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren&amp;#x27;t enough to address their concerns. &amp;quot;This does nothing to restrict the &amp;#x27;associated with your products or services&amp;#x27; [language] that would let Meta scrape [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Leveling Up With AI In Civil Defense: A Dungeons And Dragons Adventure For The Defense Team</title>
       <link>https://abovethelaw.com/2026/10/leveling-up-with-ai-in-civil-defense-a-dungeons-and-dragons-adventure-for-the-defense-team/</link>
@@ -4364,14 +4372,6 @@
       <media:content url="https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04523bbe91eb53df6183ee56df64209f" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04523bbe91eb53df6183ee56df64209f" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Your robotaxi might be a narc</title>
-      <link>https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance</link>
-      <guid isPermaLink="true">https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance</guid>
-      <description>In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected &amp;quot;a violation of our terms of service involving a firearm,&amp;quot; pulled the car over, and alerted emergency services, according to the Los Angeles Times. Police arrested the passengers after [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 15:00:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
