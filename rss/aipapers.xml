@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:08:57 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:09:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI and Government Disinformation: Vaccine Disinformation</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7612158#</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7612158#</guid>
+      <description>Vaccine hesitancy and measle cases are up in the United States. Indeed, the United States is on the brink of losing its measles-elimination status. Wid&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 11&lt;/small&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 06:09:50 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>A sub-Earth-sized TESS planet candidate in the nearby M-dwarf binary GJ 774, most likely orbiting GJ 774 A (TIC 351339274)</title>
       <link>https://arxiv.org/abs/2610.28575</link>
@@ -487,16 +495,6 @@
       <pubDate>Tue, 29 Sep 2026 06:08:51 -0400</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Game-Theoretic Lens on LLM-based Multi-Agent Systems</title>
-      <link>https://arxiv.org/abs/2601.15047</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2601.15047</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) have demonstrated strong reasoning, planning, and communication abilities, enabling them to operate as autonomous agents in open environments. While single-agent systems r...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 06:08:51 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
