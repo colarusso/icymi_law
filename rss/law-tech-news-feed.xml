@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 10:56:40 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:56:21 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My.</title>
+      <link>https://abovethelaw.com/2026/10/netdocuments-inspire-keynote-lions-and-tigers-and-bears-oh-my/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/netdocuments-inspire-keynote-lions-and-tigers-and-bears-oh-my/</guid>
+      <description>Most everyone in legal tech knows (or should know) what’s coming. The post NetDocuments Inspire Keynote: Lions, And Tigers, And Bears. Oh My. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 14:47:30 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Morning Docket: 10.22.26</title>
+      <link>https://abovethelaw.com/2026/10/morning-docket-10-22-26/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/morning-docket-10-22-26/</guid>
+      <description>* Justice Department Inspector General refuses to investigate handling of Reflecting Pool matter... you know, the one where the administration ruined the pool and tried to send an innocent Olympian to jail as part of the cover up. [AP News] * Administration attacks voting rolls with election around the corner. [Slate] * Former career DOJ attorney offers candid, on-the-record account of representing the government in court under the current Trump administration. [Bloomberg Law News] * Anthropic tried to enter the legal tech market directly and it&amp;#x27;s... not going well. [Bloomberg Law News] * Judge decimates Meta&amp;#x27;s data privacy verdict. [CNBC] * Alex Berenson sued Twitter over the company banning him during the pandemic while he posted goofy stuff about vaccines. The court pointed to the terms of service and kicked the suit into the sun. [Volokh Conspiracy] * DOJ asks Eighth Circuit to ban trial judges from imposing fines upon government lawyers in contempt. [Courthouse News Service] The post Morning Docket: 10.22.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 22 Oct 2026 13:10:56 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>How a Legal Backlash Against Big Tech Is Forcing Big Changes</title>
       <link>https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html</link>
@@ -4357,26 +4373,6 @@
       <pubDate>Wed, 16 Sep 2026 16:04:50 +0000</pubDate>
       <media:content url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/ageverificationbanner-3.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly</title>
-      <link>https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html</guid>
-      <description>The measures, which fall short of a breakup demanded by the government, effectively ensure that the tech titan’s business will continue largely unscathed.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 23:50:26 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/04/multimedia/00biz-google-adtech-HFO-lqpb/00biz-google-adtech-HFO-lqpb-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/04/multimedia/00biz-google-adtech-HFO-lqpb/00biz-google-adtech-HFO-lqpb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Victory! Appeals Court Rejects Expansive New Copyright Claim</title>
-      <link>https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim</guid>
-      <description>The U.S. Court of Appeals for the Ninth Circuit handed internet users and programmers a big win today, by rejecting an attempt to stretch a narrow provision of the Digital Millennium Copyright Act (DMCA) into a new source of copyright liability. The case involves Section 1202 of the DMCA, which prohibits intentionally removing copyright management information (CMI) like an author’s name or a copyright notice, from a copyrighted work. Open AI and Microsoft used code from Github as part of the training data for their LLMs, along with billions of other works. A group of anonymous Github contributors sued, alleging the new code coming out of these LLMs was similar to theirs—but with the CMI stripped out. The Ninth Circuit correctly agreed with what we said in our brief: removing copyright information from a copyrighted work is fundamentally different from creating a new work that didn&amp;#x27;t have CMI in the first place. Section 1202 of the Digital Millennium Copyright Act was intended to serve as a backstop for traditional copyrights in the digital age—not to create a new, more expansive right to inhibit otherwise non-infringing uses. As we also explained, accepting the Does’ theory would have created a brand-new source of liability for otherwise perfectly lawful activities, undermining creativity and innovation far beyond the specific context of AI development. Copyright holders would be able to file costly lawsuits against all kinds of legitimate users, such as artists making remixes based on older works, teachers adapting works for a classroom presentation, engineers reverse engineering code to understand it better, and search engines that help us all navigate the web. The risks would have fallen especially hard on independent software developers and other small creators. Large companies can afford to litigate these claims in federal court for years, if necessary. But an independent programmer facing massive statutory damages may simply have to settle, even when their underlying use is completely lawful. That’s why EFF fights to make sure courts don’t expand copyright beyond what Congress authorized. Copyright law still protects programmers when their work is unlawfully copied. They can still bring copyright infringement claims if someone uses a model to reproduce their code. Additionally, the plaintiffs’ contract claims against the AI companies are still in play. The specific holding here was narrow but important: that the absence of copyright information from a new work does not mean, by itself, that someone illegally removed it. That’s the correct result. New technologies will keep raising hard questions about copyright. Courts should answer those questions by applying the rights that Congress actually authorized, not by inventing new rights that could harm expression and lawful use for everyone. Additional Reading: 9th Circuit Opinion in Doe v. GitHub EFF’s Amicus Brief in Doe v. GitHub&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 16 Sep 2026 22:47:35 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/dmca-copyright-1.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/dmca-copyright-1.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
