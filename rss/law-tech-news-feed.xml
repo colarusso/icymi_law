@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:56:16 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:56:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo</title>
+      <link>https://www.citationneeded.news/meidas-defense-interview/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/meidas-defense-interview/</guid>
+      <description>Last week I joined Joe Plenzler on the Meidas Defense podcast to talk about crypto. Meidas Defense is the MeidasTouch Network&amp;amp;#x2019;s national security show, so we spent more time than I usually do on crypto as a geopolitical problem, in addition to a consumer protection one. The full&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 20:10:04 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/10/meidas-interview.png" medium="image" type="image/png" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/10/meidas-interview.png" type="image/png" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
     <item>
       <title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</title>
       <link>https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided</link>
@@ -4358,14 +4368,6 @@
       <media:content url="https://i.guim.co.uk/img/media/f792a8ee2b382758d94e16c10914ed5ffc4405fe/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e03fefb1e28e9bd413e1d65c3f9df3cc" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/f792a8ee2b382758d94e16c10914ed5ffc4405fe/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e03fefb1e28e9bd413e1d65c3f9df3cc" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Astra for Law’s 26 Legal Tech Plugins</title>
-      <link>https://www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/18/astra-for-laws-26-legal-tech-plugins/</guid>
-      <description>Alongside the launch of Astra for Law, OpenAI has also announced that there are already 26 ‘partner-built plugins’ (see full list below), that help lawyers ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 07:23:42 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
