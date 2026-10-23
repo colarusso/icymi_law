@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:56:32 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:56:16 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</title>
+      <link>https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided</guid>
+      <description>Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA&amp;#x27;s least-favorite app of the 2010s has been abandoned for years, but the &amp;quot;Netflix of Piracy&amp;quot; software is still installed on millions of devices that are just waiting to join a bot [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 19:35:15 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Pwn Day 2026</title>
+      <link>https://buttondown.com/LawyerExMachina/archive/pwn-day-2026/</link>
+      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/pwn-day-2026/</guid>
+      <description>If you wondered why so many websites were offline for part of this week … AI Meta has temporarily turned of the sharing feature for its Muse agent after researchers that the shared links of Muse conversations were easily available and a few contained private information [Ars Technica | Claroc blog post] Major banks are moving to restrict access by third-party AI agents of account holders after several institutions detected activity by such agents [Axios ($) | Gizmodo | Reuters ($) | KRON4 News (SF) | Yahoo! Finance] From Ars Technica: “Last week, Meta faced backlash after legal experts warned that the tech giant’s sweeping new commercial terms of service seemed to give Meta permission to endlessly scrape websites linked on business pages” The Florida Bar is accepting comments on a proposed advisory opinion on the use of AI tools, including agentic AI, AI transcription/recording services, and more Montana is considering a proposed rule of evidence to address potential deepfakes submitted in court [Kevin Misener - LinkedIn post | e-Discovery LLC] From The Verge [$]: As more AI developers start releasing AI agents as personal assistants, certain websites are blocking access/critical functions for those agents Fabrication Follies Mercante v. Tarzia [Docket | Order] Miscellaneous A number of websites were taken down temporarily this week to patch vulnerabilities in PHP, a programming language used extensively for websites and web applications [Ars Technica | The Hacker News | The PHP Foundation | The Verge ($)] Related: “Security personnel around the world are on high alert Tuesday following the discovery of eight TLS certificates with private keys so weak they could allow anyone to mint trusted browser and app credentials for any site on the Internet” [Ars Technica] A law firm in Carlsbad, CA is suing Thomson Reuters and West Publishing over the acquisition of Casetext by Westlaw, alleging violations of California and federal anti-trust law [ABA Journal ($) | Bloomberg Law ($) | Law360 ($) | Docket | Complaint]An analysis of “billing and payment practices at small and midsized law firms” by 8am found that flat-fee billing by such firms has not grown from the first half of 2025 to the first half of 2026 [LawSites] A retired professor in Philadelphia was arrested last week for deliberating blocking the path of a delivery robot; meanwhile, two men in Chicago filed separate class action suits against companies operating delivery robots, accusing them of violating Illinois’ Biometric Privacy Act [ABC7 (Chicago) | Block Club Chicago | Chicago Tribune] Milwaukee, WI’s Common Council has approved a one-year moratorium on new data center projects Meta has been ordered to pay US$25 billion in a judgment in New Mexico state court after the company was found to have intentionally deceived users over privacy and handling of user data [AP News | Lourdes Turrecha - LinkedIn post | Law360 ($)] Long Reads Justin Tung, Retrieval Capabilities of Legal AI Tools, Biddle Speaker Series at Penn Carey Law, Univ. of PA (Oct. 15, 2026) [Paper | Video]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 19:11:50 +0000</pubDate>
+      <source url="https://buttondown.com">buttondown.com</source>
+    </item>
     <item>
       <title>Two States Can Now Restrict Social Media Access—Here’s What To Do Next</title>
       <link>https://www.eff.org/deeplinks/2026/10/two-states-can-now-restrict-social-media-access-heres-what-do-next</link>
@@ -4350,24 +4366,6 @@
       <description>Alongside the launch of Astra for Law, OpenAI has also announced that there are already 26 ‘partner-built plugins’ (see full list below), that help lawyers ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 18 Sep 2026 07:23:42 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>OpenAI Launches Astra For Law</title>
-      <link>https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/18/openai-launches-astra-for-law/</guid>
-      <description>After plenty of waiting, OpenAI has launched Astra for Law, a ‘new offering powered by GPT-6 Astra with tools, settings, and context to support the ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:43:50 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Former Labour deputy leader Tom Watson joins Palantir</title>
-      <link>https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir</link>
-      <guid isPermaLink="true">https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir</guid>
-      <description>Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq KhanAnother former government minister has been hired by a controversial US AI company, this time Palantir, which has appointed Andy Burnham’s former ministerial colleague Tom Watson.The Labour peer and former deputy leader will operate alongside Palantir’s UK and Europe chief executive, Louis Mosley, as the company attempts to fend off pressure on Burnham’s government to axe its £330m NHS contract. It is also fighting Sadiq Khan in court over the Labour London mayor’s block on a £50m contract to use its AI in Metropolitan police investigations. Palantir also wants to win more public sector work in the UK, where it already has an annual turnover of £427m. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:00:11 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/4eeeb008fa1bfcf7714a89458b0a5c560c3edc99/176_0_2660_2128/master/2660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cf345bf66e1a6343d7abf66879df82f" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/4eeeb008fa1bfcf7714a89458b0a5c560c3edc99/176_0_2660_2128/master/2660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cf345bf66e1a6343d7abf66879df82f" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
