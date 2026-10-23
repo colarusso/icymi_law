@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:55:50 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights</title>
+      <link>https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss</guid>
+      <description>After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 15:24:45 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Meta delays new business terms after publisher pushback on AI scraping</title>
+      <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</guid>
+      <description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th &amp;quot;to allow [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Netflix can’t fire its way out of this downward spiral</title>
       <link>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</link>
@@ -4352,24 +4368,6 @@
       <media:content url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/</guid>
-      <description>Bill would help rightsholders obtain court orders to block foreign piracy sites.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 19:07:28 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/fiber-illustration-1152x648-1738189217.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry</title>
-      <link>https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html</guid>
-      <description>Newly unsealed court documents show Microsoft employees discussing whether OpenAI was involved in the “largest theft of labor in human history.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 23:16:43 +0000</pubDate>
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
