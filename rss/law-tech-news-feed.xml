@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:55:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netflix can’t fire its way out of this downward spiral</title>
+      <link>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</link>
+      <guid isPermaLink="true">https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</guid>
+      <description>Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product, tech, and legal departments, and was ousting its chief content officer, film chairman, and film vice president. But it had also hired a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Morning Docket: 10.23.26</title>
       <link>https://abovethelaw.com/2026/10/morning-docket-10-23-26/</link>
@@ -4362,14 +4370,6 @@
       <description>Newly unsealed court documents show Microsoft employees discussing whether OpenAI was involved in the “largest theft of labor in human history.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
       <pubDate>Thu, 17 Sep 2026 23:16:43 +0000</pubDate>
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>AI Native Law Firms Aren’t Just For Biglaw Lawyers</title>
-      <link>https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/</link>
-      <guid isPermaLink="true">https://www.myshingle.com/2026/09/ai-native-law-firms-arent-just-for-biglaw-lawyers/</guid>
-      <description>AI native firms are finally attracting Biglaw attorneys’ attention but the underlying philosophy remains relevant to more traditional solos and smalls. The post AI Native Law Firms Aren’t Just For Biglaw Lawyers appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 17 Sep 2026 20:44:00 +0000</pubDate>
-      <source url="https://www.myshingle.com">www.myshingle.com</source>
     </item>
   </channel>
 </rss>
