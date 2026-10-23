@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:56:18 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Over 80 Percent Of Citations ‘Fictitious, Erroneous, or Irrelevant’ In Trump Admin Brief</title>
+      <link>https://abovethelaw.com/2026/10/over-80-percent-of-citations-fictitious-erroneous-or-irrelevant-in-trump-admin-brief/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/over-80-percent-of-citations-fictitious-erroneous-or-irrelevant-in-trump-admin-brief/</guid>
+      <description>Labor board politely suggested RFK Jr shouldn&amp;#x27;t let a chatbot write the brief. The post Over 80 Percent Of Citations &amp;amp;#8216;Fictitious, Erroneous, or Irrelevant&amp;amp;#8217; In Trump Admin Brief appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 21:36:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>On Meidas Defense: cryptocurrency, sanctions, and Trump quid pro quo</title>
       <link>https://www.citationneeded.news/meidas-defense-interview/</link>
@@ -4358,16 +4366,6 @@
       <description>The battle for centrality is now legal tech’s greatest strategic challenge – and Astra for Law just raised the stakes for everyone. That is to ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 18 Sep 2026 08:29:23 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>‘Brutal’: thousands of T-shirt designs stolen and listed on Temu, Sydney label claims</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/18/ai-copyright-t-shirt-designs-stolen-temu-sydney-clothing-label-lonely-kids-club</link>
-      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/sep/18/ai-copyright-t-shirt-designs-stolen-temu-sydney-clothing-label-lonely-kids-club</guid>
-      <description>Warwick Levy, who runs Lonely Kids Club, says AI may have been used to scrape his entire website and replicate designsGet our breaking news email, free app or daily news podcastAfter 15 years running a small business making T-shirts, Warwick Levy says it was “brutal” when he first discovered an identical design for sale on Temu.It turned out there was an overwhelming amount of T-shirts identical to his own for sale on the Chinese e-commerce marketplace. Between 2025 and earlier this year, Levy, 37, found thousands of rip-offs. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 07:35:47 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/f792a8ee2b382758d94e16c10914ed5ffc4405fe/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e03fefb1e28e9bd413e1d65c3f9df3cc" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/f792a8ee2b382758d94e16c10914ed5ffc4405fe/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e03fefb1e28e9bd413e1d65c3f9df3cc" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
