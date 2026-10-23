@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:07:17 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:07:34 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors</title>
+      <link>https://reut.rs/4skvJhe</link>
+      <guid isPermaLink="true">https://reut.rs/4skvJhe</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreidixkznmyfhng7yuxqyis64gjuqnhc5y3a3bb2axmof56sraayejm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A federal appeals court on Thursday vacated a ruling that blocked ​Mississippi&amp;#x27;s ban on diversity, equity and inclusion programs in public schools, reassigning the case away from a district court judge who had acknowledged ‌that a key ruling contained AI-generated errors.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 29 · likes: 88&lt;/small&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 06:07:34 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreidixkznmyfhng7yuxqyis64gjuqnhc5y3a3bb2axmof56sraayejm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreidixkznmyfhng7yuxqyis64gjuqnhc5y3a3bb2axmof56sraayejm" type="image/jpeg" length="0" />
+      <source url="https://reut.rs">reut.rs</source>
+    </item>
     <item>
       <title>Save Seattle journalism — fair wages and AI protections now!</title>
       <link>https://actionnetwork.org/petitions/save-seattle-journalism-fair-wages-and-ai-protections-now</link>
@@ -495,16 +505,6 @@
       <pubDate>Fri, 02 Oct 2026 06:07:17 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e62gb2ushvtvjvqcbrxeaw2n/bafkreicrxyp7xiiox3gbrx5hcc6dl23avt6c6zlygydqhlxfqvghitizqe" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e62gb2ushvtvjvqcbrxeaw2n/bafkreicrxyp7xiiox3gbrx5hcc6dl23avt6c6zlygydqhlxfqvghitizqe" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Opinion | Trump Wants A.I. Companies to Police Themselves. What Can Go Wrong? (Gift Article)</title>
-      <link>https://www.nytimes.com/2026/09/30/opinion/ai-anthropic-amodei-self-regulation.html?unlocked_article_code=1.FVE.TPda.2tUqSmey_h1k&amp;smid=nytcore-ios-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/opinion/ai-anthropic-amodei-self-regulation.html?unlocked_article_code=1.FVE.TPda.2tUqSmey_h1k&amp;smid=nytcore-ios-share</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jdjwmydknwnaljoxntmrt5lu/bafkreiehrtftep5lqwxzaem52neofzncsrbx6cv7okob6vgdjnbb6mw6fy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Government enforcers have the laws and the experience to control A.I.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 105 · likes: 321&lt;/small&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 06:07:17 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jdjwmydknwnaljoxntmrt5lu/bafkreiehrtftep5lqwxzaem52neofzncsrbx6cv7okob6vgdjnbb6mw6fy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jdjwmydknwnaljoxntmrt5lu/bafkreiehrtftep5lqwxzaem52neofzncsrbx6cv7okob6vgdjnbb6mw6fy" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
