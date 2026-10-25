@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:55:50 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:55:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can machines be war criminals?</title>
+      <link>https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility</link>
+      <guid isPermaLink="true">https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility</guid>
+      <description>On the first day of its war against Iran, the United States killed 123 children when it targeted and struck an elementary school.&amp;amp;#160; The strikes, ultimately approved by humans, were facilitated by the US’s Maven Smart System, an AI-enabled software platform developed by Palantir Technologies that allows the military to aggregate, organize, and process battlefield [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 10:00:00 +0000</pubDate>
+      <source url="https://www.vox.com">www.vox.com</source>
+    </item>
     <item>
       <title>‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone</title>
       <link>https://www.theguardian.com/technology/2026/oct/25/synthetic-twin-why-socceroo-cristian-volpato-is-the-latest-footballer-to-license-his-ai-clone</link>
@@ -4358,14 +4366,6 @@
       <description>Yesterday, OpenAI released Astra for Law, a GPT-6 model tailored for legal work, as I reported here. The announcement included news of 26 new ChatGPT plugins from legal tech vendors, but it mentioned only four: Harvey, iManage, Legora and Thomson Reuters. When I asked OpenAI for the full list, I got no answer. However, no [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Fri, 18 Sep 2026 12:43:24 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Different Kinds of Differences in Kind</title>
-      <link>https://feedpress.me/link/16850/17465888/different-kinds-of-differences-in-kind</link>
-      <guid isPermaLink="true">https://feedpress.me/link/16850/17465888/different-kinds-of-differences-in-kind</guid>
-      <description>Mark McKenna &amp;amp;#38; Woodrow Hartzog, Taking Scale Seriously in Technology Law, 61 Wake Forest L. Rev. 393 (2026). Rebecca Crootof When does a difference in degree become a difference in kind? Answers to this perennial techlaw question inevitably include mentions of “scale”—but what exactly does “scale” mean? In Taking Scale Seriously in Technology Law, Mark McKenna and Woodrow Hartzog clarify and complicate the concept of “scale.” Certainly, “scale” can simply mean more of something (what the authors refer to as “scale as [...] The post Different Kinds of Differences in Kind appeared first on Technology Law. The post Different Kinds of Differences in Kind appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 10:30:13 +0000</pubDate>
-      <source url="https://feedpress.me">feedpress.me</source>
     </item>
   </channel>
 </rss>
