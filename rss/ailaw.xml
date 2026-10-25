@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 06:06:55 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:07:05 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Age Checks, AI Regulation and Censorship Put Internet Freedom Under Pressure</title>
+      <link>https://buff.ly/uvuc1XC</link>
+      <guid isPermaLink="true">https://buff.ly/uvuc1XC</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreihhunicacwkis7rm5xy6xzhudnxmb7noigeucorvqgelqbdsbojzy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The global fight for internet freedom is getting harder, according to the latest iteration of the Freedom on the Net report from Freedom House.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 34 · likes: 57&lt;/small&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 06:07:05 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreihhunicacwkis7rm5xy6xzhudnxmb7noigeucorvqgelqbdsbojzy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k3sjdodbk2cofbfzxucculeb/bafkreihhunicacwkis7rm5xy6xzhudnxmb7noigeucorvqgelqbdsbojzy" type="image/jpeg" length="0" />
+      <source url="https://buff.ly">buff.ly</source>
+    </item>
     <item>
       <title>US banks are blocking third-party AI agents access to customer accounts, sources say</title>
       <link>https://www.reuters.com/legal/government/us-banks-detect-unauthorized-ai-agents-customer-accounts-axios-reports-2026-10-22/</link>
@@ -496,16 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldb6hx3aef2vhrctg2xdepjw/bafkreig3tjnueinafngzwhtiotrxxmb72rwsilfovcjt3mschggw3pfxna" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldb6hx3aef2vhrctg2xdepjw/bafkreig3tjnueinafngzwhtiotrxxmb72rwsilfovcjt3mschggw3pfxna" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Experts Urge Federal Lawmakers to Regulate AI. Will Anyone Heed Their Alarm? | KQED</title>
-      <link>https://www.kqed.org/news/12102152/experts-urge-federal-lawmakers-to-regulate-ai-will-anyone-heed-their-alarm</link>
-      <guid isPermaLink="true">https://www.kqed.org/news/12102152/experts-urge-federal-lawmakers-to-regulate-ai-will-anyone-heed-their-alarm</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreigvbqjmtwlo34n3u73jhbudqxlodonqrrtze7doxsalfrkazx3o3e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;At a Senate subcommittee hearing, safety advocates decried the lack of federal action to protect Americans from fast-evolving AI-enabled threats.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 18 · likes: 79&lt;/small&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 06:06:56 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreigvbqjmtwlo34n3u73jhbudqxlodonqrrtze7doxsalfrkazx3o3e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreigvbqjmtwlo34n3u73jhbudqxlodonqrrtze7doxsalfrkazx3o3e" type="image/jpeg" length="0" />
-      <source url="https://www.kqed.org">www.kqed.org</source>
     </item>
   </channel>
 </rss>
