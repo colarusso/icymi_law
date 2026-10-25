@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 13:55:59 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:56:17 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music</guid>
+      <description>Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in LoveThe owners of Elvis Presley’s music catalogue are suing artificial intelligence (AI) company Anthropic for allegedly using Presley’s songs to train their models without permission.Authentic Brands Group, the licensing organization that has ownership of both Presley’s music and likeness, is accusing Anthropic of infringing on the rights of 274 songs by Presley. The lawsuit, first reported by Billboard, was filed on Friday. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 25 Oct 2026 18:25:59 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b314d5ff58cb339d8ba3616e98aa3000" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b314d5ff58cb339d8ba3616e98aa3000" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Can machines be war criminals?</title>
       <link>https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility</link>
@@ -4358,14 +4368,6 @@
       <media:content url="https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Yesterday Came OpenAI’s Launch Into Legal, Now Come the Litany of Vendor Integrations</title>
-      <link>https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/yesterday-came-openais-launch-into-legal-now-come-the-litany-of-vendor-integrations.html</guid>
-      <description>Yesterday, OpenAI released Astra for Law, a GPT-6 model tailored for legal work, as I reported here. The announcement included news of 26 new ChatGPT plugins from legal tech vendors, but it mentioned only four: Harvey, iManage, Legora and Thomson Reuters. When I asked OpenAI for the full list, I got no answer. However, no [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 12:43:24 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
