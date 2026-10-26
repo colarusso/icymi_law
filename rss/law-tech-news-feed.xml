@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:56:12 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:56:15 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will the real Anthropic please stand up</title>
+      <link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</guid>
+      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 17:45:43 +0000</pubDate>
+      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
+    </item>
+    <item>
+      <title>Anti-Circumvention Laws Raise the Cost of Knowledge</title>
+      <link>https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/anti-circumvention-laws-raise-cost-knowledge</guid>
+      <description>The vast amount of information on the open web requires researchers and journalists to adapt with new tools to make sense of it all. Checking facts, gauging public opinion, and other lines of inquiry depend on being able to analyze the overwhelming amount of material posted online every day. Unfortunately, responding to the AI industry’s voracious appetite for data, companies stewarding this public data are looking to cash in and block access to the open web. This makes the web harder to navigate, and threatens all kinds of important research. Reddit’s lawsuit against SerpAPI and Perplexity threatens to do exactly that. Reddit was once a very open platform, fostering a community of alternative apps and extensions putting users in control of their experience. Since the rise of AI however, it changed tack. Over the last three years Reddit has closed APIs to users, limited UI features, and otherwise restrained access without login. By making the voices on the platform harder to access, the company has positioned itself as a gatekeeper, and has since struck a lucrative data-sharing arrangement with Google. SerpAPI, in contrast, is a tool which offers automated access to Google’s search engine results pages. It’s used by Perplexity, an AI-based search tool. Reddit sued to stop SerpAPI and Perplexity from bypassing Reddit’s own arrangement with Google. (Google brought a similar suit, which was dismissed by another court.) It comes as little surprise that the legal weapon Reddit employed in this case is Section 1201 of the Digital Millennium Copyright Act, the same “anti-circumvention” law that has caused so much trouble for artists, innovators, and researchers over the years—and that EFF has fought against from the beginning. Reddit’s suit claimed that SerpAPI’s use of widely used techniques to access Google search results amounted to “circumventing” access controls on copyrighted works. There are major problems with this argument. First, Reddit doesn’t own the copyright in its users’ posts—the users do, and they grant Reddit the right to distribute the posted content freely. Second, there’s no meaningful copyright infringement going on here. Perplexity functions like a search engine, responding to users’ queries with relevant links and optionally an AI-generated summary. Crawling and indexing the web to create a search engine was long ago ruled a fair use under copyright law. And third, Google’s efforts to put rate limits on search queries and block some kinds of automated querying aren’t the sort of “access controls” that Section 1201 was written for. The law was passed in 1998 and targeted things like breaking the encryption on DVDs and other digital media. In contrast to physical or paywalled media, Reddit posts are visible to everyone, without a paywall and generally without a login. Unfortunately, a federal district judge ruled in July that the suit could proceed, concluding that Section 1201 applied. That’s a dangerous ruling, because it casts a cloud of legal uncertainty over lots of important research, including efforts to study public sentiment through social media and to preserve records of historical events. Without tools that can look at the web at scale, many kinds of research are simply impossible today. But if employing those tools risks Section 1201 liability, only the wealthiest institutions will be able to use them. We cannot let the internet be rebuilt such that information is divided up among a handful of gatekeepers and sold back to us like cable subscription packages. If our knowledge of the online world comes only through wealthy institutions, the cost of knowledge will only increase and access to unbiased answers diminishes.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 17:20:40 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/competition_reddit_robot.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/competition_reddit_robot.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Fortune 500 Healthcare Company Asks For AI To Negotiate Contracts With No Human Lawyers</title>
       <link>https://abovethelaw.com/2026/10/fortune-500-healthcare-company-asks-for-ai-to-negotiate-contracts-with-no-human-lawyers/</link>
@@ -4348,22 +4366,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero</guid>
-      <description>Recently unsealed court documents in the New York Times&amp;#x27; case against OpenAI and Microsoft are pretty damning. The companies&amp;#x27; own documentation warned that it was starting a &amp;quot;doom loop&amp;quot; that would damage the web, characterized its scraping of data to train its models as the &amp;quot;largest theft of labor in human history,&amp;quot; and that it [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 21:07:24 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing</title>
-      <link>https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/adventures-in-legal-tech-the-risks-of-ai-generated-legal-marketing/</guid>
-      <description>The compliance issue almost nobody in legal marketing is talking about. The post ‘Adventures In Legal Tech’: The Risks Of AI-Generated Legal Marketing appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
