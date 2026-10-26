@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:56:15 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:56:20 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ClioCon 2026: A Quick Wrap-Up of Everything Clio Announced Today (And It’s A Lot)</title>
+      <link>https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/cliocon-2026-a-quick-wrap-up-of-everything-clio-announced-today-and-its-a-lot.html</guid>
+      <description>Clio rolled out a ton of news today, as founder and CEO Jack Newton delivered the opening keynote at the annual ClioCon conference in Boston — from major new products and features, to a new acquisition, and even new branding. While I am too busy here for the next two days to write a detailed [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 19:47:25 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Will the real Anthropic please stand up</title>
       <link>https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/</link>
@@ -4356,16 +4364,6 @@
       <media:content url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://www.eff.org/files/banner_library/ai-brain-surgery-banner.jpg" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Would Australians support a smart glasses ban?</title>
-      <link>https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 23:15:10 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6e5/live/6cb55ee0-b32a-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
