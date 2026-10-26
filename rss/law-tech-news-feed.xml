@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:56:01 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:56:10 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans</title>
+      <link>https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</guid>
+      <description>Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 14:09:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>Anthropic’s IPO filing lays out a plan to &amp;#8216;revolutionize every area of human endeavor&amp;#8217; with AI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</link>
@@ -4356,14 +4366,6 @@
       <description>The SEC and the frontier AI labs are running the same broken playbook. The post Lane Kiffin Is EXACTLY The Guy Who Uses ChatGPT For Legal Advice appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 18 Sep 2026 17:50:24 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Guest Post: The Rise Of The Contracting ‘Stack’</title>
-      <link>https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/guest-post-the-rise-of-the-contracting-stack.html</guid>
-      <description>A legal operations professional requested a demo earlier this year with a note that intrigued me. She said that she was going to &amp;amp;#8220;stack&amp;amp;#8221; a CLM solution, and she was looking for the workflow portion (which is what my product, Josef, does). When we met, I dug in further, finding that she&amp;amp;#8217;d piloted three CLM [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 16:00:13 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
