@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 11:55:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City Government Can Use Facebook’s Anti-Bot Tool–Jalisi v. Poway</title>
+      <link>https://blog.ericgoldman.org/archives/2026/10/city-government-can-use-facebooks-anti-bot-tool-jalisi-v-poway.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/10/city-government-can-use-facebooks-anti-bot-tool-jalisi-v-poway.htm</guid>
+      <description>The City of Poway has a public Facebook page. Jalisi has been a critic of the city government, and he made critical posts on the city&amp;amp;#8217;s Facebook page. He claims that his posts were hidden or shadowbanned there. The City... The post City Government Can Use Facebook&amp;amp;#8217;s Anti-Bot Tool&amp;amp;#8211;Jalisi v. Poway appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 15:39:58 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>Pluralistic: Sovereign citizens, but for news (26 Oct 2026)</title>
       <link>https://pluralistic.net/2026/10/26/abandon-hope/</link>
@@ -4356,16 +4364,6 @@
       <description>Well, this is unfortunate. Late last year, Marco Rubio&amp;amp;#8217;s State Department declared that it had banned five people from entering the US because of their speech. Most of them work, in one way or another, on fighting hate speech online, including Imran Ahmed, the head of the Center for Countering Digital Hate (CCDH). As I&amp;amp;#8217;ve [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 18 Sep 2026 18:09:10 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>The Overhang</title>
-      <link>https://www.oneusefulthing.org/p/the-overhang</link>
-      <guid isPermaLink="true">https://www.oneusefulthing.org/p/the-overhang</guid>
-      <description>Using your deep knowledge, wide knowledge, taste, and agency&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.oneusefulthing.org/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 17:54:32 +0000</pubDate>
-      <media:content url="https://substackcdn.com/image/fetch/$s_!lOLb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47cb24b9-02ec-426b-960f-8429df91be29_1942x1016.png" medium="image" type="image/png" />
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!lOLb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47cb24b9-02ec-426b-960f-8429df91be29_1942x1016.png" type="image/png" length="0" />
-      <source url="https://www.oneusefulthing.org">www.oneusefulthing.org</source>
     </item>
   </channel>
 </rss>
