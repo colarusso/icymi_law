@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:08:06 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:09:48 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>math/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf at main · openai/math</title>
+      <link>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</link>
+      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yym5dkfbnzf6lspvh4hnstjg/bafkreih3m5aw5v2ny3b2sk5xmfmlpf2camrzx4odnf5vpvubpftf26pwge" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 13 · likes: 64&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 06:09:48 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yym5dkfbnzf6lspvh4hnstjg/bafkreih3m5aw5v2ny3b2sk5xmfmlpf2camrzx4odnf5vpvubpftf26pwge" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yym5dkfbnzf6lspvh4hnstjg/bafkreih3m5aw5v2ny3b2sk5xmfmlpf2camrzx4odnf5vpvubpftf26pwge" type="image/jpeg" length="0" />
+      <source url="https://github.com">github.com</source>
+    </item>
+    <item>
+      <title>Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits</title>
+      <link>https://arxiv.org/abs/2605.18890</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.18890</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The scientific claims drawn from LLM social simulations should be no stronger than the robustness audits that support them. Generative agents bring new expressive power to agent-based modeling, enabli...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 3 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 06:09:48 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Network topology shapes consensus and vulnerability in LLM populations</title>
+      <link>https://arxiv.org/abs/2610.31165</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.31165</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As large language models (LLMs) are deployed in interacting populations, their collective behaviour depends not only on the models but also on who interacts with whom. Studies of convention formation ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 3 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 06:09:48 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Why is AI-generated language so hard to understand?</title>
       <link>https://arxiv.org/abs/2610.29162</link>
@@ -464,36 +494,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" type="image/jpeg" length="0" />
       <source url="https://github.com">github.com</source>
-    </item>
-    <item>
-      <title>Mathematical Illustration: Proof, Intuition and AI</title>
-      <link>https://arxiv.org/abs/2610.02655</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.02655</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kr2h7ms5mndgcqflvprpeyt/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In the French pedagogic tradition of Gaspard Monge, geometry was learned by drawing and handling models: drawing was knowing. The formalism of the early twentieth century placed illustration on the si...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 06:08:35 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kr2h7ms5mndgcqflvprpeyt/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kr2h7ms5mndgcqflvprpeyt/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates</title>
-      <link>https://arxiv.org/abs/2603.11248</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2603.11248</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Efficient interaction with the visual world requires not only accurate object identification but also precise localization of objects in space. While spatial (&amp;quot;where&amp;quot;) processing has traditionally been attributed to dorsal stream pathways, recent work has shown that object position can also be decoded from responses in ventral stream areas such as the inferior temporal (IT) cortex. However, because object position in these paradigms is tightly coupled to pixel-based location, it remains unclear whether ventral stream position signals reflect perceptually meaningful spatial representations or simply inherited retinotopic structure. To address this question, we used the motion aftereffect, a classic visual illusion that shifts perceived object position without changing retinal input. Combining large-scale intracortical recordings in macaque IT with matched human psychophysics, we found that motion adaptation induces systematic direction-opponent biases in IT population codes for object position that mirror human perceptual reports, despite identical pixel-level stimuli. These effects are accompanied by adaptation-driven changes in the geometry of IT population representations. We further tested whether artificial vision systems exhibit similar dynamics. Standard feedforward, recurrent, and state-of-the-art video-based neural networks accurately encode object position but fail to produce adaptation-induced position shifts. However, applying empirically derived transformations based on IT adaptation dynamics to model feature spaces is sufficient to generate similar biases. Together, these results indicate that IT represents object position in perceptually aligned coordinates and also highlight a gap between biological and artificial vision systems in capturing history-dependent spatial coding.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 4 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 06:08:05 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:thuyuxdvfz5iuw2hvedtvblk/bafkreiflo6xt7is6b2iafwghkjahlgggocme5jwjsbeuqqwcywuvjhmszm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Where is the Mind? Persona Vectors and LLM Individuation</title>
-      <link>https://arxiv.org/abs/2604.17031v2</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.17031v2</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The individuation problem for large language models asks which entities associated with them, if any, should be identified as minds. We approach this problem through mechanistic interpretability, enga...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 6 · likes: 62&lt;/small&gt;</description>
-      <pubDate>Sun, 04 Oct 2026 06:08:43 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
