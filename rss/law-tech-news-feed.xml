@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 18:57:04 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:55:53 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</title>
+      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</guid>
+      <description>A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>"No human at the helm": Delaware plan would let AI agents run entire businesses</title>
       <link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/</link>
@@ -4359,14 +4367,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/09/google-ai-said-man-killed-3-people-defamation-defense-lol-no-one-trusts-ai-summaries/</guid>
       <description>Federal judge disagreed. Case moving forward. The post Google AI Said Man Killed 3 People. Defamation Defense: &amp;amp;#8216;LOL, No One Trusts AI Summaries!&amp;amp;#8217; appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 21 Sep 2026 15:49:03 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Lawyer Retention In Three Words: Automate The Crap</title>
-      <link>https://abovethelaw.com/2026/09/lawyer-retention-in-three-words-automate-the-crap/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/lawyer-retention-in-three-words-automate-the-crap/</guid>
-      <description>Make the office a place where lawyers spend more of their day being lawyers. The post Lawyer Retention In Three Words: Automate The Crap appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 14:54:43 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
