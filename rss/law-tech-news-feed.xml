@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:56:18 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:56:06 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Billionaires Are Fighting the Prop 40 California Wealth Tax</title>
+      <link>https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billioniare-tax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billioniare-tax.html</guid>
+      <description>The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 14:05:55 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court</title>
       <link>https://www.wired.com/story/the-big-interview-podcast-jess-asato/</link>
@@ -4354,14 +4364,6 @@
       <description>By Deepak Kapoor, CEO, Manupatra. The legal AI conversation has, understandably, been dominated by models. Which model reasons better? Which has the larger context window? ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 21 Sep 2026 06:52:48 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Biglaw Move That Everyone Seems Happy About — See Generally</title>
-      <link>https://abovethelaw.com/2026/09/biglaw-move-that-everyone-seems-happy-about-see-generally/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/biglaw-move-that-everyone-seems-happy-about-see-generally/</guid>
-      <description>Weil See You Later!: Weil, Gotshal &amp;amp;#38; Manges lost rainmaker Michael Aiello, another big departure for them. But... partners spent the week explaining how they&amp;#x27;re actually not all that sad to see him go. In Loco Parentis: Brett Kavanaugh, whose confirmation hearings unearthed an account of sexual misconduct at a drunken college dorm party, turned up in a Notre Dame dorm hanging out with a bunch of undergrads. Prompt And Circumstance: ESPN&amp;#x27;s account of LSU&amp;#x27;s near-expulsion from the SEC includes Lane Kiffin answering a veteran lawyer&amp;#x27;s warnings with ChatGPT screenshots... and somehow this all explains AI regulation and the Protect College Sports Ac. Personal Statement: Judge George O&amp;#x27;Toole stayed &amp;quot;Question Three,&amp;quot; the Merit Hiring Plan prompt asking federal job applicants to identify the Trump executive orders most significant to them. The Happiest Place On Somebody Else&amp;#x27;s Earth: Illinois disciplinary authorities allege former managing partner Leslie Joy Allred took $348,056.30 from O&amp;#x27;Dekirk, Allred &amp;amp;#38; Rhodes over six years, including more than $170,000 in firm credit card charges for Disney World trips, cruises, liquor, and axe throwing. Carousel Of Progress: Chief Judge Albert Diaz got the DOJ&amp;#x27;s lawyer to concede that the government&amp;#x27;s theory of Lindsey Halligan&amp;#x27;s appointment would let a &amp;quot;nefarious, ne&amp;#x27;er-do-well executive&amp;quot; run an endless succession of interim U.S. attorneys past both the district court and the Senate. Match Now, Pay Later: Troutman Pepper Locke matched the Milbank scale for first- through fourth-year associates effective January 1, 2027. Co-Counsel Culture: Amy Wax has retained John Eastman -- disbarred in California this year over the 2020 elector scheme -- to help argue that Penn denied her adequate process. The post Biglaw Move That Everyone Seems Happy About &amp;amp;#8212; See Generally appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 22:10:13 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
