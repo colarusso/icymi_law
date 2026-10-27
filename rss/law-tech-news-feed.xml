@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:56:06 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:56:04 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Billionaires Are Fighting the Prop 40 California Wealth Tax</title>
+      <link>https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html</guid>
+      <description>The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 14:55:35 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/26/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>How Billionaires Are Fighting the Prop 40 California Wealth Tax</title>
       <link>https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billioniare-tax.html</link>
@@ -4356,14 +4366,6 @@
       <description>Meta&amp;#x27;s Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that &amp;quot;continued access by an unauthorized AI agent violates Amazon&amp;#x27;s Conditions of Use, to which our customers have agreed.&amp;quot; According to GeekWire, Meta didn&amp;#x27;t notify Amazon that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 21 Sep 2026 09:21:47 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>When Every Legal AI Has a Good Model, What Differentiates It?</title>
-      <link>https://www.artificiallawyer.com/2026/09/21/when-every-legal-ai-has-a-good-model-what-differentiates-it/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/21/when-every-legal-ai-has-a-good-model-what-differentiates-it/</guid>
-      <description>By Deepak Kapoor, CEO, Manupatra. The legal AI conversation has, understandably, been dominated by models. Which model reasons better? Which has the larger context window? ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 06:52:48 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
