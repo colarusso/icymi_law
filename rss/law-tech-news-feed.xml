@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:56:04 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:56:28 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The State Lawsuits Against Internet Companies Will Continue Until Humans Improve</title>
+      <link>https://www.techdirt.com/2026/10/27/the-state-lawsuits-against-internet-companies-will-continue-until-humans-improve/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/10/27/the-state-lawsuits-against-internet-companies-will-continue-until-humans-improve/</guid>
+      <description>The big Meta settlement with a bunch of states got most of the headlines, but state AGs have gone all in on suing tech companies of late, and it shows no signs of slowing down. Last week things went ballistic when the judge in New Mexico&amp;amp;#8217;s case (New Mexico being one of the few states [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 27 Oct 2026 18:06:05 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>The Jack Newton Keynote: Doubling Down On Unification</title>
       <link>https://abovethelaw.com/2026/10/the-jack-newton-keynote-doubling-down-on-unification/</link>
@@ -4358,14 +4366,6 @@
       <media:content url="https://cdn.sanity.io/images/pito4za5/production/d9859e7706474213efb48f53e5f281d6f579f544-2560x1708.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.sanity.io/images/pito4za5/production/d9859e7706474213efb48f53e5f281d6f579f544-2560x1708.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
       <source url="https://www.scotusblog.com">www.scotusblog.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 09.21.26</title>
-      <link>https://abovethelaw.com/2026/09/morning-docket-09-21-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/morning-docket-09-21-26/</guid>
-      <description>* Trump claims that the new arch he&amp;#x27;s been planning is necessary for national security now that he knows courts are dumb enough to rubberstamp that. [NY Times] * Law schools continue to struggle with AI. How much do professors hate in-person exams that they&amp;#x27;re still making this a weekly headline? [Reuters] * David Boies proposes a patent-inspired twist on copyright fair use to allow AI training, but without stripping authors of compensation. [Bloomberg Law News] * First Circuit strikes down third country removal policy where Trump sent migrants to countries where they had no connections. [American Prospect] * News outlets sue over new White House ban. [NPR] * &amp;quot;Does copyright cover brainrot?&amp;quot; Today in: Questions We Ask In A Civilization In Decline. [Law360] * ICE shoots man delivering food. [NBC News] The post Morning Docket: 09.21.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 12:52:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
