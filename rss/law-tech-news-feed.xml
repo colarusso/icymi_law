@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:56:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:56:09 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>xAI is buying out homeowners who promise not to sue over data center noise</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit</guid>
+      <description>A subsidiary of Elon Musk&amp;#x27;s xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don&amp;#x27;t join a lawsuit targeting the company&amp;#x27;s nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 14:44:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Morning Docket: 10.28.26</title>
       <link>https://abovethelaw.com/2026/10/morning-docket-10-28-26/</link>
@@ -4366,14 +4374,6 @@
       <description>You have just started at a technology-forward organization, and your first big assignment is to evaluate an AI contract-analysis platform. An executive saw it at a conference and decided the organization had to have it. The platform reads contracts, extracts &amp;amp;#8230; Continue reading &amp;amp;#8594; The post Six Questions and Three Tests Before You Adopt an AI Tool first appeared on AI Law Librarians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.ailawlibrarians.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 21 Sep 2026 21:45:20 +0000</pubDate>
       <source url="https://www.ailawlibrarians.com">www.ailawlibrarians.com</source>
-    </item>
-    <item>
-      <title>On LawNext: An Offer She Could Not Turn Down — Bridget McCormack on Joining Clio to Transform Technology for Judges</title>
-      <link>https://www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/on-lawnext-an-offer-she-could-not-turn-down-bridget-mccormack-on-joining-clio-to-transform-technology-for-judges.html</guid>
-      <description>Legal tech company Clio has long said that its mission is to transform the legal experience for all. Until now, that “all” has largely focused on law firms and their clients, but recently Clio announced a major initiative to develop technology for the judiciary. As part of that initiative, it hired Pablo Arredondo, the former [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 20:55:43 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
