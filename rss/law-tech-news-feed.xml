@@ -5,8 +5,44 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:56:09 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:56:20 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Want To Show Legal Tech ROI? Start By Getting Your Data In Order</title>
+      <link>https://abovethelaw.com/2026/10/want-to-show-legal-tech-roi-start-by-getting-your-data-in-order/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/want-to-show-legal-tech-roi-start-by-getting-your-data-in-order/</guid>
+      <description>[Sponsored] Information governance has moved from a compliance nuisance to a productivity cornerstone. Here are 4 steps to position your firm for success. The post Want To Show Legal Tech ROI? Start By Getting Your Data In Order appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 15:32:09 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>💾 Fighting DOGE's Data Grab | EFFector 38.19</title>
+      <link>https://www.eff.org/deeplinks/2026/10/fighting-doges-data-grab-effector-3819</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/fighting-doges-data-grab-effector-3819</guid>
+      <description>When we give our private information to the government to pay taxes, apply for a job, or vote, we should be able to trust that our data won&amp;#x27;t later be used against us. But in a betrayal of that trust, the federal government has been pooling the information it has about us on an unprecedented scale—and using it for purposes we never agreed to. EFF and other groups are fighting back. In our latest EFFector newsletter, we&amp;#x27;re talking about a recent victory in our lawsuit against the government for sharing federal workers&amp;#x27; confidential personnel files with DOGE. JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers our free tracker blocker coming to Safari, a call to action for net neutrality in California, and a big win in our lawsuit against the DOGE data grab. Prefer to listen in? EFFector is now available on all major podcast platforms. This time we&amp;#x27;re talking to EFF&amp;#x27;s F. Mario Trujillo about the dangers of government data grabs—and what defenders of privacy are doing to stop it. You can find the episode and subscribe on your podcast platform of choice: %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F59368254-4a09-4fcf-89fc-911a7c26dcc9%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your right to digital privacy? Sign up for EFF&amp;#x27;s EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 15:21:42 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/effector-green-web.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/effector-green-web.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Anthropic Increases Legal Vertical Push With ‘Artifacts’</title>
+      <link>https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/28/anthropic-increases-legal-vertical-push-with-artifacts/</guid>
+      <description>After the initial launch of Claude for Legal, and as it prepares for its IPO, Anthropic is now pushing deeper into this vertical with Artifacts ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 15:15:33 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Social media is full of weird video game mashups. Where are they all coming from?</title>
+      <link>https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from</link>
+      <guid isPermaLink="true">https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from</guid>
+      <description>AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry• Don’t get Pushing Buttons delivered to your inbox? Sign up hereIf your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games. Skyrim in Minecraft. Halo, except the main character is Mario. Skate 2 in Call of Duty maps. A flood of professional-looking fan-coded game mods that are mildly interesting to look at for 30 seconds, but ultimately inconsequential. Would I download a mod that lets me play Wii Bowling inside a zombie shooter? No, but I am very interested in where they came from.Of course, the answer – or at least, most of the answer – is AI. After a week of researching this (thanks especially to Replay Mode on YouTube for this informative video, which set me down this track) I now understand that these mashup mods are not just AI-generated videos, but AI-assisted coding. Basically, as of a few weeks ago, Anthropic’s Claude has become extremely good at decompiling video game code. Games are written by humans in readable code and then compiled into binary 1s and 0s that the PC or console running it can read; decompiling is the reversal of that process, revealing a game’s source code, which humans can then edit and mess around with for fun. This used to be an extremely laborious process. But now it is not, because humans aren’t doing much of it any more. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 15:00:05 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dd35296366ccefbef8f4253e48d3c25" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9dd35296366ccefbef8f4253e48d3c25" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>xAI is buying out homeowners who promise not to sue over data center noise</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit</link>
@@ -4336,44 +4372,6 @@
       <description>Can lawyers learn from how other professionals train, such as pilots? Can simulators become a key part of training for lawyers, especially for litigators? You ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 22 Sep 2026 10:46:30 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting</title>
-      <link>https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting</guid>
-      <description>Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT useBritish Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre.The lawsuit filed in San Francisco federal court on Monday names OpenAI and its CEO, Sam Altman, as defendants. It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 04:29:22 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd084ea8eff0a89d37edf644c6807fce" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>D.C. Circuit Must Vacate a Drone Flight Restriction That Criminalized Recording Immigration Agents</title>
-      <link>https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration</guid>
-      <description>EFF joined an amicus brief with ACLU, ACLU of D.C., National Press Photographers Association, and Professional Photographers of America to urge the D.C. Circuit to vacate an FAA drone flight restriction that violated the First Amendment right to record law enforcement. This is an important case—Levine v. FAA—challenging the ability of the government to punish drone pilots who record law enforcement officers engaged in official business. As we wrote about earlier this year, the FAA issued a flight restriction for drones that had effectively criminalized the recording of Department of Homeland Security officers, including immigration agents from ICE and CBP, and their vehicles (what the FAA called “mobile assets” including “ground vehicle convoys and their associated escorts”) even if the drone was over half a mile away. A drone operator, represented by the Reporters Committee for Freedom of the Press, sued the FAA in March [PDF]. But in April, the FAA rescinded the flight restriction. The petitioner argued in his opening brief that the court should evaluate the legality of the flight restriction even though it was withdrawn. Drone pilots could still be punished for violations that occurred when the flight restriction was in effect. And the FAA could reinstate the flight restriction at any time, given that the rescission did not seem to reflect “a true change of heart” but rather an effort by the agency to avoid judicial review. The amicus brief, filed in support of the petitioner, noted that drones are unique because they provide “perspectives that cannot be captured by ground-based imagery,” and they “are far more maneuverable than ground-level cameras, and they are both much cheaper and much safer than using a chartered plane or helicopter to record newsworthy events from above.” The brief highlighted that drones have captured “bird’s-eye images of protest activity” and “police uses of force against protestors,” and have “allowed journalists to provide the public with up-to-the-minute information about natural disasters without putting themselves in harm’s way.” The brief argued that using drones to capture images and video is information-gathering activity protected by the First Amendment (similar to using cell phones to record law enforcement). The brief also argued that the FAA’s flight restriction appeared to be issued specifically to ban the recording of immigration agents and thus hinder accountability for their enforcement actions—it surely wasn’t a coincidence that the FAA imposed “no-drone zones around all roving DHS patrols just as those patrols were provoking intense national backlash.” If that’s true, it would make the FAA’s action a content-based restriction on speech that is subject to strict scrutiny—the highest First Amendment standard—and presumptively unconstitutional. And even under less rigorous standards of First Amendment scrutiny, the flight restriction is unconstitutional because the FAA can’t articulate any valid governmental interest justifying such a sweeping restriction on speech. Resolving this issue to protect First Amendment rights is especially urgent as government agencies continue to sink billions of dollars into technology designed to counter drones—technology that could easily be deployed against journalists and other people hoping to use drones to document government abuse. We urge the D.C. Circuit to review the petition and to vacate the FAA’s flight restriction, which would send a message that the government can’t avoid accountability by punishing those who exercise their First Amendment rights.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 22:59:32 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://www.eff.org/files/banner_library/protest-recording-bigboot.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say</title>
-      <link>https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference</link>
-      <guid isPermaLink="true">https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference</guid>
-      <description>At Lib Dems’ conference in Brighton, leader will accuse Andy Burnham of relying on Donald Trump and ‘tech bros’ to solve problemEd Davey is to call for a global nuclear-style non-proliferation treaty to halt the development of super-intelligent AI when he makes his keynote speech at the Liberal Democrat conference, accusing Andy Burnham of relying on Donald Trump and “tech bros” to solve the problem.When he addresses the faithful on the final day of the gathering in Brighton, the party leader will call for a global pause on super-intelligent AI, comparing it to a nuclear arms race that could result in technology that could “destroy us all”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 21:30:26 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/8b34809ab945c631baf069850af883b4c987dc05/433_0_3753_3003/master/3753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=120fd967a5800d8cbe4f74993b34fce0" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/8b34809ab945c631baf069850af883b4c987dc05/433_0_3753_3003/master/3753.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=120fd967a5800d8cbe4f74993b34fce0" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Six Questions and Three Tests Before You Adopt an AI Tool</title>
-      <link>https://www.ailawlibrarians.com/2026/09/21/six-questions-and-three-tests-before-you-adopt-an-ai-tool/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=six-questions-and-three-tests-before-you-adopt-an-ai-tool</link>
-      <guid isPermaLink="true">https://www.ailawlibrarians.com/2026/09/21/six-questions-and-three-tests-before-you-adopt-an-ai-tool/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=six-questions-and-three-tests-before-you-adopt-an-ai-tool</guid>
-      <description>You have just started at a technology-forward organization, and your first big assignment is to evaluate an AI contract-analysis platform. An executive saw it at a conference and decided the organization had to have it. The platform reads contracts, extracts &amp;amp;#8230; Continue reading &amp;amp;#8594; The post Six Questions and Three Tests Before You Adopt an AI Tool first appeared on AI Law Librarians.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.ailawlibrarians.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 21 Sep 2026 21:45:20 +0000</pubDate>
-      <source url="https://www.ailawlibrarians.com">www.ailawlibrarians.com</source>
     </item>
   </channel>
 </rss>
