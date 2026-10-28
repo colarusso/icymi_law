@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:07:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:07:30 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy</title>
+      <link>https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/</link>
+      <guid isPermaLink="true">https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreicz7fn2f46o24if65u4hw36gfgvei64selgdcvjnkqh32hj27rism" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&amp;quot;Historically, decompilation has been a brutally difficult, time consuming task.&amp;quot; Now, AI is trivially doing it.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 42 · likes: 150&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:07:30 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreicz7fn2f46o24if65u4hw36gfgvei64selgdcvjnkqh32hj27rism" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vcepp6trx4vpe5ourxso4tjl/bafkreicz7fn2f46o24if65u4hw36gfgvei64selgdcvjnkqh32hj27rism" type="image/jpeg" length="0" />
+      <source url="https://www.404media.co">www.404media.co</source>
+    </item>
+    <item>
+      <title>New Records Obtained by EFF Expose More Problems with Medicare’s AI Experiment</title>
+      <link>https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/new-records-obtained-eff-expose-more-problems-medicares-ai-experiment</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreia6i5uteliszdma5amujzlk4l3genxydem5wfgasdvwxh5rfmzdbe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;New records obtained by EFF expose additional issues with Medicare’s AI-driven prior authorization program and show why we need stronger legal limits around government use of automated decision-making...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 52 · likes: 126&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:07:30 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreia6i5uteliszdma5amujzlk4l3genxydem5wfgasdvwxh5rfmzdbe" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreia6i5uteliszdma5amujzlk4l3genxydem5wfgasdvwxh5rfmzdbe" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>This Might Be the Trump DOJ’s Stupidest Legal Argument Yet</title>
+      <link>https://ballsandstrikes.org/law-politics/alaska-senate-race-trump-doj-lawsuit-humiliating/</link>
+      <guid isPermaLink="true">https://ballsandstrikes.org/law-politics/alaska-senate-race-trump-doj-lawsuit-humiliating/</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bpna2qi2e44fafbhhtqjak3x/bafkreicpwxmatrujhzwp5rq5hpviw67cqway7smxoql4urlao5k3bdysxi" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In Alaska, Trump lawyers are now functionally rewriting federal statutes and hoping judges won&amp;#x27;t notice.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 34 · likes: 107&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:07:30 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bpna2qi2e44fafbhhtqjak3x/bafkreicpwxmatrujhzwp5rq5hpviw67cqway7smxoql4urlao5k3bdysxi" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bpna2qi2e44fafbhhtqjak3x/bafkreicpwxmatrujhzwp5rq5hpviw67cqway7smxoql4urlao5k3bdysxi" type="image/jpeg" length="0" />
+      <source url="https://ballsandstrikes.org">ballsandstrikes.org</source>
+    </item>
     <item>
       <title>We cannot under any circumstances let AI firms govern the future</title>
       <link>https://www.bloodinthemachine.com/p/we-cannot-under-any-circumstances</link>
@@ -476,36 +506,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreihuuex2iaxon43edszgd5blzcx5c6x7kd7ihpf4cq7bncxxxjxjvy" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreihuuex2iaxon43edszgd5blzcx5c6x7kd7ihpf4cq7bncxxxjxjvy" type="image/jpeg" length="0" />
       <source url="https://bit.ly">bit.ly</source>
-    </item>
-    <item>
-      <title>AI training of copyrighted material not fair use: Third Circuit</title>
-      <link>https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/</link>
-      <guid isPermaLink="true">https://www.courthousenews.com/ai-training-of-copyrighted-material-not-fair-use-third-circuit/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreiclbth3dnbssuab5tzzm6dq3aoklc5wrpp7fx5mkji3ogksv3s7ma" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Using someone else&amp;#x27;s &amp;quot;creative spark&amp;quot; to start a competing business runs afoul of copyright law, the panel found.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 857 · likes: 3583&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:07:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreiclbth3dnbssuab5tzzm6dq3aoklc5wrpp7fx5mkji3ogksv3s7ma" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qvzn322kmcvd7xtnips5xaun/bafkreiclbth3dnbssuab5tzzm6dq3aoklc5wrpp7fx5mkji3ogksv3s7ma" type="image/jpeg" length="0" />
-      <source url="https://www.courthousenews.com">www.courthousenews.com</source>
-    </item>
-    <item>
-      <title>Here’s How To Reduce the Existential Risks</title>
-      <link>https://robertreich.substack.com/p/who-will-reduce-the-existential-risks</link>
-      <guid isPermaLink="true">https://robertreich.substack.com/p/who-will-reduce-the-existential-risks</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreiazzqdwo7wkv7arjljhdu5nct3nccxfm47qbtut3rqarec7df5mcq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;If there’s no other way&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 247 · likes: 651&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:07:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreiazzqdwo7wkv7arjljhdu5nct3nccxfm47qbtut3rqarec7df5mcq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreiazzqdwo7wkv7arjljhdu5nct3nccxfm47qbtut3rqarec7df5mcq" type="image/jpeg" length="0" />
-      <source url="https://robertreich.substack.com">robertreich.substack.com</source>
-    </item>
-    <item>
-      <title>Legal risks pile up for Altman as OpenAI uncovers dozens of hacks</title>
-      <link>https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreih3tia5y3isfd5aixvx3etug534sfptirh4yntpdzrxxnjoyih75e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Cyber security incidents involving company’s AI tools leave ChatGPT maker vulnerable to wave of lawsuits&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 43 · likes: 115&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:07:16 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreih3tia5y3isfd5aixvx3etug534sfptirh4yntpdzrxxnjoyih75e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wk7sybhegd37i7ljsltxbef6/bafkreih3tia5y3isfd5aixvx3etug534sfptirh4yntpdzrxxnjoyih75e" type="image/jpeg" length="0" />
-      <source url="https://www.ft.com">www.ft.com</source>
     </item>
   </channel>
 </rss>
