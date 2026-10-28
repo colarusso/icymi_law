@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:56:29 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents</title>
+      <link>https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</guid>
+      <description>The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 20:00:00 +0000</pubDate>
+      <media:content url="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/master/pass/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/master/pass/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
+    <item>
+      <title>Trump admin sues Utah to save Kalshi from the state's total ban on gambling</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/</guid>
+      <description>US agency has sued 10 states for trying to stop gambling on prediction markets.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 19:30:33 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Court Should Curb Abuse of Grand Jury Subpoenas Targeting Social Media Users</title>
       <link>https://www.eff.org/deeplinks/2026/10/court-should-curb-abuse-grand-jury-subpoenas-targeting-social-media-users</link>
@@ -4354,22 +4374,6 @@
       <description>San Francisco is suing the Trump Media &amp;amp;#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump&amp;#x27;s posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a &amp;quot;corrupt business scheme&amp;quot; that violates both California&amp;#x27;s Unfair Competition [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Tue, 22 Sep 2026 17:43:50 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Harvey Launches Pro Bono Program, Collaborating with Pro Bono Leaders At Major Firms</title>
-      <link>https://www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/harvey-launches-pro-bono-program-collaborating-with-pro-bono-leaders-at-major-firms.html</guid>
-      <description>Legal AI company Harvey said today that it is launching a dedicated pro bono program in the United States, the United Kingdom and Australia. In the first phase of the program, the company will work with a selected group of it law firm customers as design partners. Initially, this group consists of senior pro bono [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:05:22 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Biglaw Firm’s Cybersecurity Headache Just Got Even Worse</title>
-      <link>https://abovethelaw.com/2026/09/biglaw-firms-cybersecurity-headache-just-got-even-worse/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/biglaw-firms-cybersecurity-headache-just-got-even-worse/</guid>
-      <description>The firm is now facing two proposed class actions over its data breach. The post Biglaw Firm&amp;amp;#8217;s Cybersecurity Headache Just Got Even Worse appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:02:06 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
