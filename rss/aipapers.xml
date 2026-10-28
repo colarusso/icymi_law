@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:09:48 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:10:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cheap AI-Assisted Reverse Engineering and What It Will Do</title>
+      <link>https://arxiv.org/abs/2610.35633</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.35633</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hnika5hsjnw3c4z3v7rjby7/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative AI is putting the law of reverse engineering (RE) under severe strain. Existing IP and technology laws assume that RE is expensive and time-consuming, and that it requires specialized exper...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 20 · likes: 36&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:10:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hnika5hsjnw3c4z3v7rjby7/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hnika5hsjnw3c4z3v7rjby7/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Atlas of Human-AI Interaction: An Interactive Knowledge Graph for Research Sensemaking at Scale</title>
+      <link>https://arxiv.org/abs/2509.25499</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2509.25499</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifvz3me7pynrqmzpprrqmecmqp5jkanpqzjjluw6dhypap2okttae" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Atlas of Human-AI Interaction: An Interactive Knowledge Graph for Research Sensemaking at Scale&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 12&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:10:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifvz3me7pynrqmzpprrqmecmqp5jkanpqzjjluw6dhypap2okttae" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifvz3me7pynrqmzpprrqmecmqp5jkanpqzjjluw6dhypap2okttae" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>math/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf at main · openai/math</title>
       <link>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</link>
@@ -473,26 +493,6 @@
       <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" type="image/jpeg" length="0" />
-      <source url="https://github.com">github.com</source>
-    </item>
-    <item>
-      <title>math/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf at main · openai/math</title>
-      <link>https://github.com/openai/math/blob/main/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf</link>
-      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026/paper.pdf</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cbijfp3k2ku45tdi2kjc4wvp/bafkreidj4mhum6bhqsctdavrdt46apemg7gfkjyaosm2zl6xjqtxjpaa7a" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cbijfp3k2ku45tdi2kjc4wvp/bafkreidj4mhum6bhqsctdavrdt46apemg7gfkjyaosm2zl6xjqtxjpaa7a" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:cbijfp3k2ku45tdi2kjc4wvp/bafkreidj4mhum6bhqsctdavrdt46apemg7gfkjyaosm2zl6xjqtxjpaa7a" type="image/jpeg" length="0" />
-      <source url="https://github.com">github.com</source>
-    </item>
-    <item>
-      <title>math/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf at main · openai/math</title>
-      <link>https://github.com/openai/math/blob/main/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf</link>
-      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026/paper.pdf</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:saogsmfn3uydux7jsdlzvlzw/bafkreiaeroeygugaina4qrriszct76bjywqhaqoyf3mdtax3nwxg3zse3e" type="image/jpeg" length="0" />
       <source url="https://github.com">github.com</source>
     </item>
   </channel>
