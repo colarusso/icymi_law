@@ -1,12 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>ICYMI Law — Law Review-like Link Feed</title>
     <link>https://icymilaw.org/#papers</link>
     <description>Popular law review-like and scholarly legal links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:07:26 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:08:03 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/papers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THE RESILIENCE OF COPYRIGHT LAW: AFTER THE SUPREME COURT SPEAKS</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7675378</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7675378</guid>
+      <description>The federal judiciary plays a central role in developing copyright law. With Congress largely inactive in recent decades and with no administrative age&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:08:03 -0400</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>How to Cite Artificial Intelligence in Court Filings by Catherine Martin Christopher, Chandler Davis, Loryn McFall :: SSRN</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7410698&amp;dgcid=ejournal_htmlemail_legal:information,:technology:law:librarianship_abstractlink</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7410698&amp;dgcid=ejournal_htmlemail_legal:information,:technology:law:librarianship_abstractlink</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4k3yjosoji5ijiy6f54bix5r/bafkreihdye4w47np3atqdseoceb4evjxbsnimdq6dhlkkc3pucqczy4zrm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Little advice exists on when and how responsible, ethical lawyers should cite AI in court filings. This Article provides common-sense guidance to litigation par&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 0&lt;/small&gt;</description>
+      <pubDate>Wed, 28 Oct 2026 06:08:03 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4k3yjosoji5ijiy6f54bix5r/bafkreihdye4w47np3atqdseoceb4evjxbsnimdq6dhlkkc3pucqczy4zrm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4k3yjosoji5ijiy6f54bix5r/bafkreihdye4w47np3atqdseoceb4evjxbsnimdq6dhlkkc3pucqczy4zrm" type="image/jpeg" length="0" />
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
     <item>
       <title>Election-Related Search Warrants</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7227158</link>
@@ -389,22 +407,6 @@
       <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4938642</guid>
       <description>This study explores the relationship between legalized sports gambling, unexpected emotional cues, and reported intimate partner violence (IPV). Using crime dat&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 5&lt;/small&gt;</description>
       <pubDate>Sun, 20 Sep 2026 06:07:49 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Defendant Pinching &amp; Pressing</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479758</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6479758</guid>
-      <description>“Schedule A” cases, in which plaintiffs bring cookie-cutter complaints alleging IP infringement against groups of online sellers, continue to be filed&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Sat, 19 Sep 2026 06:08:22 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Tradition and the Federal Judicial Power</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7479060</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7479060</guid>
-      <description>Tradition is most well known today for starring in blockbuster Supreme Court cases about controversial social issues, notably abortion and firearms. Bu&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 0&lt;/small&gt;</description>
-      <pubDate>Fri, 18 Sep 2026 06:08:09 -0400</pubDate>
       <source url="https://papers.ssrn.com">papers.ssrn.com</source>
     </item>
   </channel>
