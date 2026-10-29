@@ -5,8 +5,40 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:56:58 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Didn’t Cause the Weil Crisis</title>
+      <link>https://www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/29/ai-didnt-cause-the-weil-crisis/</guid>
+      <description>Some have suggested that Weil’s impending dissolution has been caused by AI’s impact. Artificial Lawyer has got to say: technology is the least of the ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 10:15:26 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>The 4 Es Inhouse AI Framework – Emily Bull</title>
+      <link>https://www.artificiallawyer.com/2026/10/29/the-4-es-inhouse-ai-framework-emily-bull/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/29/the-4-es-inhouse-ai-framework-emily-bull/</guid>
+      <description>For Emily Bull, Director of Legal, Property, Planning and Consenting at SSE &amp;amp;#8211; and a speaker at Legal Innovators UK on Inhouse Day, November 5th, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 09:02:28 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>AI Governance Must Keep Pace with Legal Practice</title>
+      <link>https://www.artificiallawyer.com/2026/10/29/ai-governance-must-keep-pace-with-legal-practice/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/29/ai-governance-must-keep-pace-with-legal-practice/</guid>
+      <description>By Karen Waldron, LexisNexis. Two of your best associates could review the same client document and reach slightly different recommendations, each reflecting their respective experience ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 07:40:58 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>Bluesky Is Blocking Links to a Major Leak of DHS Employee Records</title>
+      <link>https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/</guid>
+      <description>Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 03:34:46 +0000</pubDate>
+      <source url="https://www.wired.com">www.wired.com</source>
+    </item>
     <item>
       <title>Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents</title>
       <link>https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</link>
@@ -4338,42 +4370,6 @@
       <description>The risks of treating marketing as the place where the rules get loose. The post Why &amp;amp;#8216;We Only Use AI For Marketing&amp;amp;#8217; Is Still A Bar Complaint Waiting To Happen appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 22 Sep 2026 21:15:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Cities across US oppose Trump FCC plan to preempt local broadband rules</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/</guid>
-      <description>Cities defend permit requirements, say ISPs aren&amp;#x27;t building networks fast enough.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 20:38:30 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/</guid>
-      <description>British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 19:28:23 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260756748-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Soldiers can refuse to commit war crimes. Can AI?</title>
-      <link>https://www.vox.com/future-perfect/503564/military-ai-minimally-refuse-war-crimes</link>
-      <guid isPermaLink="true">https://www.vox.com/future-perfect/503564/military-ai-minimally-refuse-war-crimes</guid>
-      <description>Who gets to tell the military “no”? That question has become even more important after the Pentagon pushed AI companies to loosen limits on how their technology may be used in war — including how much human control must remain over autonomous weapons. When Anthropic said no, it lost a major government deal. OpenAI stepped [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 18:10:00 +0000</pubDate>
-      <source url="https://www.vox.com">www.vox.com</source>
-    </item>
-    <item>
-      <title>San Francisco sues Trump Media for selling early access to Trump posts</title>
-      <link>https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco</guid>
-      <description>San Francisco is suing the Trump Media &amp;amp;#38; Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump&amp;#x27;s posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a &amp;quot;corrupt business scheme&amp;quot; that violates both California&amp;#x27;s Unfair Competition [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 22 Sep 2026 17:43:50 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
