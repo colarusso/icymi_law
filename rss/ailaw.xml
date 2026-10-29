@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:07:30 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:07:27 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise</title>
+      <link>https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreihftteziweo5bhncvtqvdtib3hymnmf5inij7zh4nawrtyb7yvqne" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Several homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 53 · likes: 75&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 06:07:27 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreihftteziweo5bhncvtqvdtib3hymnmf5inij7zh4nawrtyb7yvqne" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hakzua5btcgcfjye2yujlhos/bafkreihftteziweo5bhncvtqvdtib3hymnmf5inij7zh4nawrtyb7yvqne" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>AI and Liability - Schneier on Security</title>
+      <link>https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html</guid>
+      <description>Earlier this month, a German court ruled that Google is liable for its AI search summaries. Rejecting defenses like “users can check for themselves,” and that they generally know “that information gen...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 31 · likes: 78&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 06:07:27 -0400</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
     <item>
       <title>Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy</title>
       <link>https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/</link>
@@ -486,26 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreibwjxlnp23a6e6stkqhpyzmlvq25xvlfbxqnyirmnzvoa22u52dh4" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2w45zyhuklwihpdc7oj3mi63/bafkreibwjxlnp23a6e6stkqhpyzmlvq25xvlfbxqnyirmnzvoa22u52dh4" type="image/jpeg" length="0" />
       <source url="https://www.forbes.com">www.forbes.com</source>
-    </item>
-    <item>
-      <title>A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers</title>
-      <link>https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vaznsq6z7zughxjapim2nazy/bafkreibjxspzexqtijevklv5p4qje2frv6wtd7rx32sok3u6mfmhcwyxkm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The National Design Studio has been something of a successor agency to DOGE. A WIRED investigation finds some of its members are on loan from a nonprofit run by SpaceXAI’s general counsel.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 94 · likes: 138&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 06:07:14 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vaznsq6z7zughxjapim2nazy/bafkreibjxspzexqtijevklv5p4qje2frv6wtd7rx32sok3u6mfmhcwyxkm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vaznsq6z7zughxjapim2nazy/bafkreibjxspzexqtijevklv5p4qje2frv6wtd7rx32sok3u6mfmhcwyxkm" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>McDonald's sued over AI tool that recommends prices to US franchisees</title>
-      <link>https://bit.ly/4hG2a4I</link>
-      <guid isPermaLink="true">https://bit.ly/4hG2a4I</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreihuuex2iaxon43edszgd5blzcx5c6x7kd7ihpf4cq7bncxxxjxjvy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;McDonald’s is facing a federal lawsuit that alleges its AI-enhanced pricing tool violates antitrust laws because it shares nonpublic data with competing franchisees.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 58 · likes: 154&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 06:07:14 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreihuuex2iaxon43edszgd5blzcx5c6x7kd7ihpf4cq7bncxxxjxjvy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:a67zdrt4nl2tv2qojpngogbq/bafkreihuuex2iaxon43edszgd5blzcx5c6x7kd7ihpf4cq7bncxxxjxjvy" type="image/jpeg" length="0" />
-      <source url="https://bit.ly">bit.ly</source>
     </item>
   </channel>
 </rss>
