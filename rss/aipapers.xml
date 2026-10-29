@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:10:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:11:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepInfer-Mac: Running a 750B-Class MoE on a 24 GB Laptop</title>
+      <link>https://arxiv.org/abs/2610.36564</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36564</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for DeepInfer-Mac: Running a 750B-Class MoE on a 24 GB Laptop&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 2 · likes: 25&lt;/small&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 06:11:08 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Cheap AI-Assisted Reverse Engineering and What It Will Do</title>
       <link>https://arxiv.org/abs/2610.35633</link>
@@ -483,16 +493,6 @@
       <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" type="image/jpeg" length="0" />
-      <source url="https://github.com">github.com</source>
-    </item>
-    <item>
-      <title>math/preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/paper.pdf at main · openai/math</title>
-      <link>https://github.com/openai/math/blob/main/preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/paper.pdf</link>
-      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026/paper.pdf</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrax426oeioc66dlmcj66ujw/bafkreigelmsqj66isedmgaa7mv56xnejcq3a4czsbht6erobcww7cj7ghi" type="image/jpeg" length="0" />
       <source url="https://github.com">github.com</source>
     </item>
   </channel>
