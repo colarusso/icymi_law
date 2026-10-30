@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:56:36 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:55:57 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm’s ‘Intelligence Layer’</title>
+      <link>https://www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html</guid>
+      <description>NetDocuments CEO Josh Baxter believes the document management system is becoming something even greater — a law firm&amp;amp;#8217;s organizational intelligence layer. As lawyers increasingly do their work inside AI tools such as Claude, Harvey, Legora and ChatGPT, Baxter says NetDocuments&amp;amp;#8217; job is to build and preserve the firm&amp;amp;#8217;s context, then make it accessible through whatever interface [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 13:21:39 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>At Its Annual Summit, Everlaw Unveils Omni, Its Agentic AI Suite, But CEO Says Customers Are Even More Excited About Opening Its Platform to Other AI Tools</title>
       <link>https://www.lawnext.com/2026/10/at-its-annual-summit-everlaw-unveils-omni-its-agentic-ai-suite-but-ceo-says-customers-are-even-more-excited-about-opening-its-platform-to-other-ai-tools.html</link>
@@ -4362,16 +4370,6 @@
       <description>By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 24 Sep 2026 06:40:21 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>OpenAI and Anthropic bosses push UN for global terms on AI</title>
-      <link>https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>OpenAI&amp;#x27;s Sam Altman has called for risk evaluation standards, as have Anthropic&amp;#x27;s Dario Amodei and Hugging Face&amp;#x27;s Clement Delangue.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 23 Sep 2026 22:35:14 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
