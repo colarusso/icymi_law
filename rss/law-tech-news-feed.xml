@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 16:56:11 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:56:14 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why VPNs Are Worth Defending</title>
+      <link>https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending</guid>
+      <description>Developers of virtual private network (VPN) apps are reporting that their products are again being pulled from Apple’s App Store in Russia. This is an unacceptable crackdown on a vital tool to protect privacy and speech online. Why? VPNs give people a way to control their own online activities. When you visit a website through a VPN, that website only sees the VPN server&amp;#x27;s location (well, IP address) rather than your actual location. It&amp;#x27;s like sending a letter through a P.O. box so the recipient doesn&amp;#x27;t know where you really live. It can also disguise where you’re accessing information from, which can make it possible to access information banned by your government. This is an unacceptable crackdown on a vital tool to protect privacy and speech online. Going after tools that give people the space to communicate and access information freely is a common tactic from the totalitarian playbook. This latest demand comes after several steps the Russian government’s taken to surveil speech specifically on Apple products. In 2024, the Moscow Times reported that Russia’s state media watchdog, Roskomnadzor, went after VPN apps on the Apple App Store, after banning access to Western social media platforms and blacklisting opposition media sites. Russia then blocked Apple’s FaceTime software in 2025, according to Apple Insider. Bloomberg also recently reported that the Russian government has added Apple and Microsoft to its state surveillance registry. This gives Roskomnadzor access to local users’ correspondence, Apple Insider reported, and puts both companies in a position to turn over customer information to the country’s security services as required. With government control encroaching on their devices and less access to tools that give them alternate methods, people in Russia are left with shrinking options to communicate online or find information that isn’t state-sanctioned. While Russia’s actions offer a more extreme vision of what happens when the government tries to enforce speech rules by attacking vital privacy tools, it is far from the only government doing so. Several states in the U.S., bent on making it difficult to circumvent invasive age-gating laws, have suggested banning VPNs—either to access certain content or in some cases to simply ban them outright. EFF has publicly (and loudly) criticized these proposals, because going after VPNs is a dangerous step down the road of censorship. Attacks on speech and privacy online are deeply troubling, no matter where they happen. What those in power may see as a “loophole” in their invasive laws is actually an expression of user control. We’ll continue to speak out when we see governments going after them to take that control away.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 20:55:24 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit</title>
       <link>https://www.nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html</link>
@@ -4368,14 +4378,6 @@
       <description>Originally published as an op-ed in The Mercury News. Republished here with permission from the author. Meta’s settlement with the state attorneys general (currently awaiting court approval) has been touted as industry-redefining. Indeed, Meta desperately hopes it will be. Although Meta was the only industry player to negotiate its terms, the settlement agreement is structured [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 24 Sep 2026 20:09:54 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human</title>
-      <link>https://abovethelaw.com/2026/09/biglaws-latest-ai-strategy-teach-lawyers-how-to-be-human/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/biglaws-latest-ai-strategy-teach-lawyers-how-to-be-human/</guid>
-      <description>When clients can outsource the work to AI, human connection becomes the real selling point. The post Biglaw’s Latest AI Strategy: Teach Lawyers How To Be Human appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 19:12:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
