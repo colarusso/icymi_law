@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 09:55:57 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:56:00 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In</title>
+      <link>https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html</guid>
+      <description>Got conferences? If so, then probably one or more of Legaltech Week&amp;amp;#8217;s regular panelists has been there in the last couple weeks — from ClioCon in Boston to the Everlaw Summit in San Francisco to NetDocuments Inspire in Orland0 and some smaller ones along the way — and we will be sharing our reports and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 14:40:32 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>LawNext Podcast: NetDocs CEO Josh Baxter on Why the DMS is Becoming the Law Firm’s ‘Intelligence Layer’</title>
       <link>https://www.lawnext.com/2026/10/lawnext-podcast-netdocs-ceo-josh-baxter-on-why-the-dms-is-becoming-the-law-firms-intelligence-layer.html</link>
@@ -4361,14 +4369,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/24/webinar-why-context-governance-will-shape-legal-ais-future/</guid>
       <description>iManage is holding a live webinar on October 8 at 10AM ET / 3PM UK time, to explore how ‘Context and Governance Will Shape Legal ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 24 Sep 2026 07:40:05 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>The Human Clipboard: Closing the Operational Gap in Legal AI</title>
-      <link>https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/</guid>
-      <description>By Katja Nikolaus, Co-Founder, JUNE. Few technologies have been adopted by legal departments as quickly as generative artificial intelligence. In an international survey by ACC ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 06:40:21 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
