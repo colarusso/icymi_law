@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:56:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:56:08 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms</title>
+      <link>https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax</guid>
+      <description>It was an ambitious notion – now Californians will vote on a one-time 5% billionaire tax, and state’s super rich have pulled out all the stops in oppositionOne year ago, the idea of a billionaire tax in California was still in its infancy.It wasn’t yet one of the most contentious ballot measure fights in state history – pitting Democrats against Democrats, drawing national attention from political heavyweights, and netting hundreds of millions of Silicon Valley dollars to fight it. Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 15:00:19 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3e08772ea4eae20d747d5b40f7669cf" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3e08772ea4eae20d747d5b40f7669cf" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch</title>
       <link>https://abovethelaw.com/2026/10/clio-shows-off-clean-intuitive-design-reminiscent-of-an-apple-product-launch/</link>
@@ -4366,14 +4376,6 @@
       <description>A fake IT help desk request exposed sensitive client information. The post Biglaw Firm Claims Employee Was &amp;amp;#8216;Deceived&amp;amp;#8217; Into Sending Client Documents To Hacker appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 24 Sep 2026 16:17:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The vibes are bad for Flock in Washington</title>
-      <link>https://www.theverge.com/policy/1000005/flock-senate-hearing</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1000005/flock-senate-hearing</guid>
-      <description>Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its &amp;quot;AI Surveillance Network&amp;quot; on Wednesday. &amp;quot;There&amp;#x27;s many players in this industry, but there&amp;#x27;s one name that really stands out above the rest, and that is Flock,&amp;quot; Senate Judiciary crime and counterterrorism subcommittee chair [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 14:15:05 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
