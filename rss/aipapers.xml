@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 06:11:08 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:10:36 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning</title>
+      <link>https://arxiv.org/abs/2610.36335</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36335</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augmented generation (RAG) mitigates this problem by…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 06:10:36 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Elias in the Lighthouse, Again? Diagnosing Low Diversity in LLM Stories</title>
+      <link>https://arxiv.org/abs/2605.26492</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2605.26492</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;LLM-generated stories are a popular use case, but they show very low variability. We sample 20,000 total stories from four current models using five prompts. We find that 11 words occur in 88.3% of ge...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 10&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 06:10:36 -0400</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal Document RAG</title>
+      <link>https://arxiv.org/abs/2610.36444</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.36444</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Web-based applications increasingly rely on understanding long multimodal documents, where answering questions often requires combining information across pages, tables, and figures. Agentic retrieval-augmented generation addresses these tasks through iterative retrieval and reasoning. However, Age…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 06:10:36 -0400</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>DeepInfer-Mac: Running a 750B-Class MoE on a 24 GB Laptop</title>
       <link>https://arxiv.org/abs/2610.36564</link>
@@ -464,36 +494,6 @@
       <description>https://arxiv.org/html/2610.07130v1&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 4&lt;/small&gt;</description>
       <pubDate>Fri, 09 Oct 2026 11:11:56 -0400</pubDate>
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Information-Dense Synthesis for Molecular Discovery</title>
-      <link>https://arxiv.org/abs/2610.08495</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.08495</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drguvy5znjsvdlib237ofobt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Machine learning can accelerate molecular discovery by designing molecules and planning experiments. However, many scientific challenges demand molecules with very rare properties, and in this sparse ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 11:11:56 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drguvy5znjsvdlib237ofobt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:drguvy5znjsvdlib237ofobt/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Navier-Stokes lost in translation: Why Lean verification of AI autoformalisation does not guarantee correct natural language proofs</title>
-      <link>https://arxiv.org/abs/2610.08144</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.08144</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bsyvbbxtk2uezc4ciqcj7z3s/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Autoformalisation is increasingly used to verify mathematical texts, including those generated by AI, as in OpenAI&amp;#x27;s announced proof of blow-up of solutions to the Navier-Stokes equations. In this pro...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 28 · likes: 57&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 06:10:03 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bsyvbbxtk2uezc4ciqcj7z3s/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bsyvbbxtk2uezc4ciqcj7z3s/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>math/preprints at main · openai/math</title>
-      <link>https://github.com/openai/math/tree/main/preprints</link>
-      <guid isPermaLink="true">https://github.com/openai/math/tree/main/preprints</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥🔥 · reposts: 29 · likes: 144&lt;/small&gt;</description>
-      <pubDate>Wed, 07 Oct 2026 06:09:32 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o72ypk5c474zqklkukaphuy3/bafkreih7wiw7ovgbwbcn2cmhpwdbcoj6luzjocsikc736cbe3vyidrq5ti" type="image/jpeg" length="0" />
-      <source url="https://github.com">github.com</source>
     </item>
   </channel>
 </rss>
