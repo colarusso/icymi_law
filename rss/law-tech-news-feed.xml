@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:55:52 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:56:13 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch</title>
+      <link>https://abovethelaw.com/2026/10/clio-shows-off-clean-intuitive-design-reminiscent-of-an-apple-product-launch/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/10/clio-shows-off-clean-intuitive-design-reminiscent-of-an-apple-product-launch/</guid>
+      <description>But as the company looks more like Apple, do its partners have reason to worry? The post Clio Shows Off Clean, Intuitive Design Reminiscent Of An Apple Product Launch appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 17:48:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>It’s always North Korea</title>
+      <link>https://www.citationneeded.news/its-always-north-korea/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/its-always-north-korea/</guid>
+      <description>Answering your questions about who was behind the Binance hack, how they launder the money, and where it goes&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 17:03:56 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/10/dprk-binance.png" medium="image" type="image/png" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/10/dprk-binance.png" type="image/png" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
+    <item>
+      <title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/</guid>
+      <description>Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 16:53:49 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case</title>
+      <link>https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case</link>
+      <guid isPermaLink="true">https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case</guid>
+      <description>Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey saysGet our daily political email, free app or daily news podcastAltering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears it could open Australia to massive legal action and compensation claims from rights holders worldwide.The attorney general’s department admitted it was “extremely alive” to the issue, and Australia’s leading constitutional expert, Anne Twomey, agreed there was “potentially” a concern – depending how legislation was drafted – that granting AI companies permission to scrape copyrighted material from the internet could amount to an acquisition of property by the government. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 14:00:18 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2593b4fbc81435c52aba38620941ff0c" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/3e7a0fdd3ee1b88bfd479f84f93eb5b6dec2668e/703_0_4478_3583/master/4478.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2593b4fbc81435c52aba38620941ff0c" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</link>
@@ -4336,40 +4374,6 @@
       <description>Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its &amp;quot;AI Surveillance Network&amp;quot; on Wednesday. &amp;quot;There&amp;#x27;s many players in this industry, but there&amp;#x27;s one name that really stands out above the rest, and that is Flock,&amp;quot; Senate Judiciary crime and counterterrorism subcommittee chair [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 24 Sep 2026 14:15:05 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Everything is spying on you and there&amp;#8217;s no opting out</title>
-      <link>https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance</guid>
-      <description>Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever&amp;#x27;s going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the features, especially in nonpublic spaces and states [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 13:30:00 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Australia to investigate if OpenAI hack of government health website broke the law</title>
-      <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</guid>
-      <description>The incident is the first known breach to affect a government agency, and Australia&amp;#x27;s prime minister has vowed to hold OpenAI accountable.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 12:54:19 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>The Download: a bid to scrap the virtual wall and AI hits Climate Week</title>
-      <link>https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/</guid>
-      <description>This is today&amp;amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;amp;#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 12:10:00 +0000</pubDate>
-      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
-    </item>
-    <item>
-      <title>An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</title>
-      <link>https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/</guid>
-      <description>The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 10:46:56 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
