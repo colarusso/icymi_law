@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:56:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:55:56 -0400</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</guid>
+      <description>Pope Leo XIV says AI systems should be &amp;quot;disarmed,&amp;quot; adding that humans &amp;quot;have the responsibility to guide, change and, when necessary, reject its applications.&amp;quot; In Friday&amp;#x27;s Papal Address, Pope Leo encourages United Nations member states to &amp;quot;take concrete steps toward banning lethal autonomous weapons&amp;quot; during their meeting in Geneva next month. The address reflects many [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 14:58:06 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Today on Legaltech Week: Conference Round-Up – Reports from ClioCon, Everlaw and NetDocs – Plus Law360’s Rachel Rippetoe Sits In</title>
       <link>https://www.lawnext.com/2026/10/today-on-legaltech-week-conference-round-up-reports-from-cliocon-everlaw-and-netdocs-plus-law360s-rachel-rippetoe-sits-in.html</link>
@@ -4362,14 +4370,6 @@
       <media:content url="https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg" type="image/jpeg" length="0" />
       <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Webinar: Why Context + Governance Will Shape Legal AI’s Future</title>
-      <link>https://www.artificiallawyer.com/2026/09/24/webinar-why-context-governance-will-shape-legal-ais-future/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/24/webinar-why-context-governance-will-shape-legal-ais-future/</guid>
-      <description>iManage is holding a live webinar on October 8 at 10AM ET / 3PM UK time, to explore how ‘Context and Governance Will Shape Legal ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 24 Sep 2026 07:40:05 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
