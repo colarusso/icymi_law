@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 20:55:38 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 08:55:54 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prop 45 in California could be hiding a loophole for data centers</title>
+      <link>https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy</guid>
+      <description>A high-stakes California ballot measure pitched as a fast track for &amp;quot;essential&amp;quot; infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated environmental assessments for eligible projects and make it more difficult for residents to challenge those projects in court. Proponents [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal</title>
+      <link>https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west</guid>
+      <description>Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news podcastThe prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online.Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative fields – compared with 4.2% nationally. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 19:00:52 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f774176952b35a2f6f87a9e3e6fa6a60" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/807757f27fc7edd5bb144e03b8fbb5e5681bfa56/196_36_2835_2268/master/2835.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f774176952b35a2f6f87a9e3e6fa6a60" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
       <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
@@ -4356,24 +4374,6 @@
       <description>For decades, private Internet services have uniformly tried to avoid being legally characterized as government actors. If they become state actors, they must comply with Constitutional restrictions&amp;amp;#8211;meaning the Constitutionally required freedoms of speech and press would extend to their user-authors... The post Snap Wants to be a State Actor??&amp;amp;#8211;Kansas v. Snap appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Fri, 25 Sep 2026 14:59:20 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>US backs Elon Musk's bid to overturn €120m EU fine against X</title>
-      <link>https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The EU had said X &amp;quot;deceives users&amp;quot; by selling blue ticks without &amp;quot;meaningfully verifying&amp;quot; accounts.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 09:48:33 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Artificial Lawyer on Tour, iManage, AltaClaro +</title>
-      <link>https://www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/25/artificial-lawyer-on-tour-imanage-altaclaro/</guid>
-      <description>It’s conference season and Artificial Lawyer is on tour! AL’s founder will be lugging his legal AI guitar from London to Paris to Boston and ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 07:26:57 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
