@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:07:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:06:56 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inside the weird and legally dubious phenomenon of AI replicas that copy content creators for views and profit</title>
+      <link>https://www.fastcompany.com/91630743/ai-replicas-copying-content-creators-profit-is-it-legal</link>
+      <guid isPermaLink="true">https://www.fastcompany.com/91630743/ai-replicas-copying-content-creators-profit-is-it-legal</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:66lbtw2porscqpmair6mir37/bafkreiaqojqvhfzrnwewxrft4myj56zkqtbpzn3tc6ms5eplhcpouan7tq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Creators who have spent years building audiences are being outperformed by AI-generated copycat videos that skirt the boundaries of copyright law.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 5 · likes: 46&lt;/small&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 05:06:56 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:66lbtw2porscqpmair6mir37/bafkreiaqojqvhfzrnwewxrft4myj56zkqtbpzn3tc6ms5eplhcpouan7tq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:66lbtw2porscqpmair6mir37/bafkreiaqojqvhfzrnwewxrft4myj56zkqtbpzn3tc6ms5eplhcpouan7tq" type="image/jpeg" length="0" />
+      <source url="https://www.fastcompany.com">www.fastcompany.com</source>
+    </item>
     <item>
       <title>#139 in National Association for the Advancement of Colored People v. X.AI Corp. (N.D. Miss., 3:26-cv-00074) – CourtListener.com</title>
       <link>https://storage.courtlistener.com/recap/gov.uscourts.msnd.52261/gov.uscourts.msnd.52261.139.0.pdf</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreiee35pw3ufehfd4qlfvsizbic5kkxzvhgzsnwqlfdxogbmwz2y2gu" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:inz4fkbbp7ms3ixufw6xuvdi/bafkreiee35pw3ufehfd4qlfvsizbic5kkxzvhgzsnwqlfdxogbmwz2y2gu" type="image/jpeg" length="0" />
       <source url="https://buff.ly">buff.ly</source>
-    </item>
-    <item>
-      <title>The Fight for Serious AI Regulation Just Won a Big Victory in Massachusetts</title>
-      <link>https://www.thenation.com/article/politics/ed-markey-ai-regulation/</link>
-      <guid isPermaLink="true">https://www.thenation.com/article/politics/ed-markey-ai-regulation/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:we7sidyj3b5or2r7trtpfzt7/bafkreibnqd2v3klxbkpvnxd7wfwk5vterjrxlyhmulk5uvxnpb6aov6emu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;After his primary win, Ed Markey says he’s ready to take on “the criminal enterprises” of Big Tech.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 43 · likes: 122&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 06:07:18 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:we7sidyj3b5or2r7trtpfzt7/bafkreibnqd2v3klxbkpvnxd7wfwk5vterjrxlyhmulk5uvxnpb6aov6emu" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:we7sidyj3b5or2r7trtpfzt7/bafkreibnqd2v3klxbkpvnxd7wfwk5vterjrxlyhmulk5uvxnpb6aov6emu" type="image/jpeg" length="0" />
-      <source url="https://www.thenation.com">www.thenation.com</source>
     </item>
   </channel>
 </rss>
