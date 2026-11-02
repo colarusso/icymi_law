@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:56:12 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:56:00 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Content Layer Wins: Why Treatises Matter More In The Age Of Agentic AI</title>
+      <link>https://bit.ly/4iNAQTR</link>
+      <guid isPermaLink="true">https://bit.ly/4iNAQTR</guid>
+      <description>[Sponsored] AI agents can orchestrate work, but they can only be as reliable as what they’re grounded in. That is where the real competitive question sits … and where lawyers should focus their attention. The post The Content Layer Wins: Why Treatises Matter More In The Age Of Agentic AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 16:32:00 +0000</pubDate>
+      <source url="https://bit.ly">bit.ly</source>
+    </item>
     <item>
       <title>Independent Digital Media Is Not a Privilege Governments Can Revoke: The Fight to Save Egypt’s Mada Masr</title>
       <link>https://www.eff.org/deeplinks/2026/11/independent-digital-media-not-privilege-governments-can-revoke-fight-save-egypts</link>
@@ -4360,16 +4368,6 @@
       <media:content url="https://i.guim.co.uk/img/media/53a6fc26e72f406fb287640e2b4afc903b862957/330_0_5354_4284/master/5354.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c4805b4437cccff1673ae9dedab8f8b" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/53a6fc26e72f406fb287640e2b4afc903b862957/330_0_5354_4284/master/5354.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c4805b4437cccff1673ae9dedab8f8b" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/</guid>
-      <description>&amp;quot;Overly constrained AI models&amp;quot; could cause military operations to fail, judges say.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 25 Sep 2026 21:36:20 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
