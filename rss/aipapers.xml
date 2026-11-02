@@ -5,8 +5,98 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:10:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:09:19 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models</title>
+      <link>https://arxiv.org/abs/2511.15304</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2511.15304</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rkaxxuwbgdusr73ub3qpdtc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We present evidence that adversarial poetry functions as a universal single-turn jailbreak technique for Large Language Models (LLMs). Across 25 frontier proprietary and open-weight models, curated po...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 2 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rkaxxuwbgdusr73ub3qpdtc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rkaxxuwbgdusr73ub3qpdtc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Fundamental Impossibility Results in AI Safety: Trading Off between Desiderata</title>
+      <link>https://arxiv.org/abs/2610.27373</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.27373</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Is there a fundamental tradeoff between desiderata for safe AI systems, such as harmlessness and helpfulness? We answer by formalizing the interaction between AI systems and users as a game with three...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 1 · likes: 9&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning</title>
+      <link>https://arxiv.org/abs/2602.06600</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.06600</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifkopn7yx6vvvyitnsl4svllzcrctkz3fv7regcf6d4erwiaxwhm4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifkopn7yx6vvvyitnsl4svllzcrctkz3fv7regcf6d4erwiaxwhm4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifkopn7yx6vvvyitnsl4svllzcrctkz3fv7regcf6d4erwiaxwhm4" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Training Foundation Models with a Single Algorithm</title>
+      <link>https://arxiv.org/abs/2610.40564</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40564</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiab7bfh7i56xogbw7qkx5tq26jtwsye4wh5prbrhkd37c2aryfyya" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Training Foundation Models with a Single Algorithm&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiab7bfh7i56xogbw7qkx5tq26jtwsye4wh5prbrhkd37c2aryfyya" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiab7bfh7i56xogbw7qkx5tq26jtwsye4wh5prbrhkd37c2aryfyya" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Incentives Shape How Humans Co-Create with Generative AI</title>
+      <link>https://arxiv.org/abs/2604.03529</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2604.03529</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Incentives Shape How Humans Co-Create with Generative AI&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>TreasuryQA Bench: Can AI Agents Work an Archive of Scanned Financial Records?</title>
+      <link>https://arxiv.org/abs/2610.38924</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.38924</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Organisations keep decades of financial records as scanned PDFs on shared drives, and AI agents can now reach those drives through Model Context Protocol (MCP) servers. Existing benchmarks do not mirror this production setting because they simplify the task. In some, the relevant documents are hand…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?</title>
+      <link>https://arxiv.org/abs/2610.39497</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39497</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Progress toward artificial general intelligence (AGI) has largely relied on scaling a resource-intensive executive, System-2, through larger models, more data and compute, longer reasoning, and more agents. We ask whether the next stage may come instead from co-designing it with System-1, a lightwe…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Letting AI Formulate the Research Question: Autonomous Research Agents</title>
+      <link>https://arxiv.org/abs/2610.39620</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39620</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Systems such as The AI Scientist have shown that AI agents can carry out and write up research, but in those demonstrations humans chose the research area and selected the outputs to show. We study letting the AI formulate the research question itself, and we report every run. Our system gives an o…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Human--AI Interactions as First-Class Data: A Formal Interaction Model and Runtime for Explainable AI Collaboration</title>
+      <link>https://arxiv.org/abs/2610.40006</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40006</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;AI assistants are increasingly embedded in computational notebooks, scientific workflows, software engineering tools, and learning systems, yet human-AI interactions are often treated as transient prompt-response exchanges rather than durable data products, hindering reproducibility, explainability…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Bouba Beats Kiki, and Other Regularities in the Subjective Preferences of LLMs</title>
       <link>https://arxiv.org/abs/2610.37692</link>
@@ -408,94 +498,6 @@
       <description>This article adapts the 5Cs framework of news literacy—context, creation, content, circulation, and consumption—to media environments shaped by generative artificial intelligence. We argue that prevai...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 14&lt;/small&gt;</description>
       <pubDate>Thu, 15 Oct 2026 06:08:55 -0400</pubDate>
       <source url="https://digitalcommons.uri.edu">digitalcommons.uri.edu</source>
-    </item>
-    <item>
-      <title>Generative AI enables human-centered design of sustainable plant-based foods</title>
-      <link>https://arxiv.org/abs/2610.15616</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.15616</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiecm7ut6h6ymvbyo2jjomi3g42o3zhljjitijgmd2tirwps3nesii" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Generative AI enables human-centered design of sustainable plant-based foods&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 19&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 06:08:55 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiecm7ut6h6ymvbyo2jjomi3g42o3zhljjitijgmd2tirwps3nesii" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiecm7ut6h6ymvbyo2jjomi3g42o3zhljjitijgmd2tirwps3nesii" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Accurate but Not Humble: Evaluating Epistemic Humility in LLM...</title>
-      <link>https://arxiv.org/abs/2610.12360v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.12360v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlecnsuk4k525pspiwamhzfy/bafkreidqzrwyqi3uoncgmop2zozlmmqw3ir6yo6ew4gqyvd2dqsfzm4yhy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;When retrieved evidence contradicts an agent&amp;#x27;s prior beliefs, does it revise its answer, acknowledge uncertainty, or persist with an incorrect conclusion? Existing evaluations of agentic systems...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlecnsuk4k525pspiwamhzfy/bafkreidqzrwyqi3uoncgmop2zozlmmqw3ir6yo6ew4gqyvd2dqsfzm4yhy" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wlecnsuk4k525pspiwamhzfy/bafkreidqzrwyqi3uoncgmop2zozlmmqw3ir6yo6ew4gqyvd2dqsfzm4yhy" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Large-Language Models as a Cognitive Virus</title>
-      <link>https://arxiv.org/abs/2609.03344</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.03344</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsml3a4a7d3okv2mo2priwjn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥 · reposts: 15 · likes: 35&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsml3a4a7d3okv2mo2priwjn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tsml3a4a7d3okv2mo2priwjn/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Who Can Say No? Control, Accountability and the Pace of Frontier AI</title>
-      <link>https://arxiv.org/abs/2610.13340</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.13340</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:elh2asjy66yduzgcosp3nmnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In September 2026, the leaders of the largest frontier AI laboratories said in public that the pace of capability improvement is too fast and that none of them can slow down alone, and agents under ev...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:elh2asjy66yduzgcosp3nmnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:elh2asjy66yduzgcosp3nmnb/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Has LLM Screening Performance Stalled in Software Engineering Systematic Reviews?</title>
-      <link>https://arxiv.org/abs/2610.10633</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.10633</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fodyg35g25joa5rpplt4y43g/bafkreiekglrbojnb4waq5nqd4uq64xjy6esmvnyk4w2mjdeakopnqrzdhe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Screening in systematic reviews (SRs) is manual and time-consuming. Prior work has explored large language models (LLMs) for automating this step, but LLMs are evolving rapidly, so earlier performance...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fodyg35g25joa5rpplt4y43g/bafkreiekglrbojnb4waq5nqd4uq64xjy6esmvnyk4w2mjdeakopnqrzdhe" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fodyg35g25joa5rpplt4y43g/bafkreiekglrbojnb4waq5nqd4uq64xjy6esmvnyk4w2mjdeakopnqrzdhe" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation</title>
-      <link>https://arxiv.org/abs/2609.03874</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.03874</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:djozy23idbsbi7mtooglt6nb/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Retrieval Augmented Generation (RAG) is a key component for generating accurate and hallucination free answers using Large Language Models (LLMs). LLMs are improving at handling long context, but stil...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:djozy23idbsbi7mtooglt6nb/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:djozy23idbsbi7mtooglt6nb/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI's Reference Class Problem: Beyond Adversarialism</title>
-      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583780</link>
-      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583780</guid>
-      <description>When public and private authorities make predictions about people’s future behavior, they must begin by identifying “reference classes”. A reference class is co&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 06:08:12 -0400</pubDate>
-      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
-    </item>
-    <item>
-      <title>Weekend reads: OpenAI’s preprint dump; Taylor &amp; Francis to leave Informa; arXiv’s preprint cap</title>
-      <link>https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/</link>
-      <guid isPermaLink="true">https://retractionwatch.com/2026/10/10/weekend-reads-openais-preprint-dump-taylor-francis-to-leave-informa-arxivs-preprint-cap/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fi7n3ciupc4o3iktnd4nenon/bafkreibwdzj2t6ir544ylsupdhzrbzgfuyt5oilgffcuh3zq5pl6jfsx2a" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;If your week flew by — we know ours did — catch up here with what you might have missed. The week at Retraction Watch featured: Editor-in-chief resigns amid probes of alleged citation manipulation,…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 10&lt;/small&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 06:08:41 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fi7n3ciupc4o3iktnd4nenon/bafkreibwdzj2t6ir544ylsupdhzrbzgfuyt5oilgffcuh3zq5pl6jfsx2a" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fi7n3ciupc4o3iktnd4nenon/bafkreibwdzj2t6ir544ylsupdhzrbzgfuyt5oilgffcuh3zq5pl6jfsx2a" type="image/jpeg" length="0" />
-      <source url="https://retractionwatch.com">retractionwatch.com</source>
-    </item>
-    <item>
-      <title>Beyond Owls: Subliminal Learning Can Transfer Learned Capabilities and Backdoors</title>
-      <link>https://arxiv.org/abs/2610.10657</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.10657</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvys4nxbae54ntu32tad3t2p/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;In subliminal learning (SL), a teacher model passes on a trait to a student model by distillation on data semantically unrelated to the trait. So far, SL has been demonstrated for only a limited range...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 5 · likes: 52&lt;/small&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 06:08:22 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvys4nxbae54ntu32tad3t2p/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hvys4nxbae54ntu32tad3t2p/bafkreibmwume2q2jvfyf5jvz62lbuyuyxmwh2ewnlggfcjyro263dps63m" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
