@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:56:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:56:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The New York Times and other publications sue Brave web browser for AI scraping and bypassing paywalls</title>
+      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
+      <description>The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the companies that run New York Daily News, the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 17:51:19 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>The Content Layer Wins: Why Treatises Matter More In The Age Of Agentic AI</title>
       <link>https://bit.ly/4iNAQTR</link>
@@ -4358,16 +4366,6 @@
       <description>Here is a real-time video of me trying to read any new Fifth Circuit opinion on Internet Law: Odds are that the outcome will be terrible; and even if not, the reasoning will be 100% cringe. * * * This... The post The Fifth Circuit Does Fifth Circuit Things in Copyright Embedding Case&amp;amp;#8211;Emmerlich v. Particle appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Sat, 26 Sep 2026 14:24:37 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village</title>
-      <link>https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land</guid>
-      <description>Locals say Google’s $15bn project in Andhra Pradesh has resulted in smallholdings being taken back off them by the governmentWhen the government officials arrived in Tarluvada last year, they came with abundant promises.Google, one of the world’s richest and most powerful tech companies, would soon be bringing a “golden opportunity” to this tiny village in south India: a $15bn AI datacentre. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 11:00:34 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/53a6fc26e72f406fb287640e2b4afc903b862957/330_0_5354_4284/master/5354.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c4805b4437cccff1673ae9dedab8f8b" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/53a6fc26e72f406fb287640e2b4afc903b862957/330_0_5354_4284/master/5354.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c4805b4437cccff1673ae9dedab8f8b" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
