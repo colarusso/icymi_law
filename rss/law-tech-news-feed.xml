@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 12:56:13 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:56:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Legal Tech Awards ‘Ask Why’ — And The Answer Keeps Coming Back To Lawyers Can’t Do It Alone</title>
+      <link>https://abovethelaw.com/2026/11/legal-tech-awards-ask-why-and-the-answer-keeps-coming-back-to-lawyers-cant-do-it-alone/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/legal-tech-awards-ask-why-and-the-answer-keeps-coming-back-to-lawyers-cant-do-it-alone/</guid>
+      <description>The American Legal Technology Awards refocused on what matters this year. The post Legal Tech Awards &amp;amp;#8216;Ask Why&amp;amp;#8217; &amp;amp;#8212; And The Answer Keeps Coming Back To Lawyers Can&amp;amp;#8217;t Do It Alone appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 18:45:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>The New York Times and other publications sue Brave web browser for AI scraping and bypassing paywalls</title>
       <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
@@ -4358,14 +4366,6 @@
       <description>TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Sat, 26 Sep 2026 20:24:45 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>The Fifth Circuit Does Fifth Circuit Things in Copyright Embedding Case–Emmerlich v. Particle</title>
-      <link>https://blog.ericgoldman.org/archives/2026/09/the-fifth-circuit-does-fifth-circuit-things-in-copyright-embedding-case-emmerlich-v-particle.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/09/the-fifth-circuit-does-fifth-circuit-things-in-copyright-embedding-case-emmerlich-v-particle.htm</guid>
-      <description>Here is a real-time video of me trying to read any new Fifth Circuit opinion on Internet Law: Odds are that the outcome will be terrible; and even if not, the reasoning will be 100% cringe. * * * This... The post The Fifth Circuit Does Fifth Circuit Things in Copyright Embedding Case&amp;amp;#8211;Emmerlich v. Particle appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 14:24:37 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
