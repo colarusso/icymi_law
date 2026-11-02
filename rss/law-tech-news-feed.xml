@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 13:56:13 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:56:18 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New York Times and other outlets sue web browser Brave over alleged content scraping</title>
+      <link>https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</guid>
+      <description>The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 19:19:17 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Snap settles lawsuit accusing platform of fueling teen depression and eating disorders</title>
+      <link>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</guid>
+      <description>The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 19:11:49 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Ford promises not to sell your driving habits to data brokers</title>
+      <link>https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers</guid>
+      <description>Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 02 Nov 2026 19:05:46 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Legal Tech Awards ‘Ask Why’ — And The Answer Keeps Coming Back To Lawyers Can’t Do It Alone</title>
       <link>https://abovethelaw.com/2026/11/legal-tech-awards-ask-why-and-the-answer-keeps-coming-back-to-lawyers-cant-do-it-alone/</link>
@@ -4340,32 +4364,6 @@
       <media:content url="https://i.guim.co.uk/img/media/a1f4b3035cc43c52775967b52d4bf5fa7245f8b4/1266_754_5164_4131/master/5164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=454d73dc657a1b7e06b37df52fdae2b6" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/a1f4b3035cc43c52775967b52d4bf5fa7245f8b4/1266_754_5164_4131/master/5164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=454d73dc657a1b7e06b37df52fdae2b6" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker</guid>
-      <description>Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on SundayBill Gates has called on the US’s federal legislators and law enforcers to regulate the development of artificial intelligence (AI), saying in an interview airing on Sunday that the technology left unchecked could cause “a billion deaths” and “no one thinks self-regulation is enough”.“You need law enforcement and the politicians to get into the discussion about what safeguards and monitoring look like,” the Microsoft co-founder and philanthropist said to Kristen Welker, the NBC Meet the Press host. “And that has to be a required thing.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 09:00:01 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/d2aae42a2dc28cedd577d3fd2f184bc574dd9a83/0_0_2318_1855/master/2318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97afe3b0aa812cbfef571274d5bbc69c" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/d2aae42a2dc28cedd577d3fd2f184bc574dd9a83/0_0_2318_1855/master/2318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97afe3b0aa812cbfef571274d5bbc69c" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Apple hit with $5.7 billion in damages over haptic patents</title>
-      <link>https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents</guid>
-      <description>Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, &amp;quot;The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 21:30:01 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>TikTok agrees to pay at least $100M in Alabama settlement</title>
-      <link>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</guid>
-      <description>TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Sat, 26 Sep 2026 20:24:45 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
