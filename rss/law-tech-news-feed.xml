@@ -5,8 +5,50 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:55:56 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:56:44 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta’s $25B fine left out accountability for the Cambridge Analytica data privacy scandal</title>
+      <link>https://theconversation.com/metas-25b-fine-left-out-accountability-for-the-cambridge-analytica-data-privacy-scandal-295620</link>
+      <guid isPermaLink="true">https://theconversation.com/metas-25b-fine-left-out-accountability-for-the-cambridge-analytica-data-privacy-scandal-295620</guid>
+      <description>Meta CEO Mark Zuckerberg&amp;#x27;s deposition in a New Mexico court case is played for jurors on March 4, 2026. Jim Weber/Santa Fe New Mexican via AP, Pool“The harm in this matter is difficult to overstate,” wrote a New Mexico judge who ordered tech giant Meta to pay one of the largest data privacy case penalties in American history. The US$25 billion fine came in a case about how Trump campaign firm Cambridge Analytica deceptively used data from Facebook users without their permission to create psychographic profiles to target voters in the lead-up to the 2016 presidential election. But the New Mexico penalty was for statements Facebook made that deceived users about data privacy and its response to Cambridge Analytica – not for the harm caused by how the harvested data was used. Those harms are alleged to include exploiting psychological vulnerabilities, targeting people’s fears and discouraging them from voting. I’m a political communication scholar who studies propaganda, surveillance and information warfare. My research helped expose the Cambridge Analytica scandal through U.K. newspaper The Guardian’s reporting on whistelblower accounts and the evidence I uncovered. That evidence was submitted to parliamentary and congressional investigations. I have followed the unfolding legal cases closely. My takeaway from a decade of litigation is that Facebook has been penalized for misleading users and regulators about its data practices and its response to the Cambridge Analytica scandal. But I would contend that the company has largely escaped accountability for the underlying political exploitation of that data. Investigative failures The failure to bring cases around harms may be partly due to earlier failures to fully investigate the data misuse. The Senate Intelligence Committee’s investigation into Russian interference in the 2016 presidential election encompassed Cambridge Analytica. However, the committee stated in its final report that it “was unable to obtain the corporate communications of Cambridge Analytica or its parent company SCL Group, which had already been seized by U.K. authorities.” The relevant U.K. authorities, the Information Commissioner’s Office, which governs data protection and took possession of Cambridge Analytica’s servers, told me in response to my 2021 Freedom of Information Act request that the Senate committee staff made initial inquiries to the office but appear not to have followed up with a formal request, “so no information sharing has taken place.” Without a formal request, the Senate Intelligence Committee’s investigation lacked important data. At the same time, the U.K. investigations of Cambridge Analytica’s use of personal data to manipulate voting behavior focused on the referendum of British voters over whether to leave the E.U., not events in the U.S. Facebook user data was at the heart of the Cambridge Analytica scandal. A 2020 documentary film I advised as a researcher, “People You May Know,” raised questions about Cambridge Analytica’s work with an app marketed to American churches, called Gloo, that used Cambridge Analytica’s Facebook data-derived psychographic profiling in their communities. Evidence in the New Mexico case reinvigorates these questions about the full extent of the Cambridge Analytica scandal. The judge in the case ruled Facebook knew that its own processes for investigating whether apps misused personal data were inadequate and that it could not enforce deletion of the data. The judge also concluded the company failed to notify users about thousands of applications associated with data misuse. Meta said it would appeal the decision. Meta responded to a request for comment with the company’s official statement about the New Mexico ruling, arguing the case “seeks to impose a tax on speech to enforce new rules for what people can say online.” Meta did not address the issue of its own role in the data privacy violations committed by Cambridge Analytica. Escaping further scrutiny Meta is also trying to close the door on further claims before they are litigated. In August 2026, on the eve of a child-safety trial in federal court in Oakland, California, Meta settled with a bipartisan coalition of state attorneys general for roughly $17 billion. The agreement includes 47 states, the District of Columbia and two U.S. territories. Folded into that deal was an allocation of $459.3 million to settle Cambridge Analytica-related claims held by participating states. The participating attorneys general agreed, to the extent of their authority, to “fully, finally, and forever” release Meta from “any and all Claims, whether known or unknown, whether accrued or unaccrued.” By expressly encompassing “unknown” and “unaccrued” claims, the agreement reached beyond what investigators had already uncovered. Participating states accepted payment to give up claims arising from Meta’s conduct even if they did not yet know those claims existed. A decade-old matter - Facebook’s role in the Cambridge Analytica scandal - was quietly brushed under the rug in an unrelated lawsuit about harm to teens. From the 2019 Federal Trade Commission order to the 2022 class action settlement to August 2026’s multistate deal, settlements and releases have meant the company paid a relatively small price for its deception while not having the harms from the data exploitation adjudicated. Ultimately, the biggest privacy judgment in American history stands as a measure of the cover-up, not the alleged crime. Other scholars and I regularly call attention to the lack of comprehensive U.S. privacy legislation, but there remain other legal pathways to pursue the harms Cambridge Analytica wrought. States like New Mexico can continue the fight, and Attorney General Raúl Torrez, who brought the case, promised, “We’re just getting started.” Dissenting from the FTC’s 2019 settlement, then-Commissioner Rohit Chopra criticized the failure to consider “Facebook’s unjust enrichment.” He said “the company’s potential exposure is likely far greater” than the $5 billion imposed by the FTC settlement. What price for the harm? The question remains what exactly Facebook gained from enabling Cambridge Analytica’s abuses. Authorities could also investigate harmful data use for any other apps Facebook may have failed to fully assess, including any associated with Cambridge Analytica’s projects. If the deception about Cambridge Analytica is worth $25 billion, I believe the public is entitled to know what the underlying harms to them are worth. New Mexico opted out of the 2026 multistate settlement and proved that a state willing to go to trial against Meta can win. The next task, in my view, is to investigate fully and, where legal claims remain available, pursue accountability for harms resulting from the data exploitation. Otherwise, Cambridge Analytica will remain at the heart of the most consequential privacy scandal in American history, whose full harms have not been tested in court. Emma L. Briant does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://theconversation.com/us/technology/articles.atom&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 13:23:29 +0000</pubDate>
+      <source url="https://theconversation.com">theconversation.com</source>
+    </item>
+    <item>
+      <title>AIs Hacking the Law</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html</link>
+      <guid isPermaLink="true">https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html</guid>
+      <description>In both a 2021 essay and my 2022 book, A Hacker&amp;amp;#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&amp;amp;#8212;hacking&amp;amp;#8212;the legal system. Here&amp;amp;#8217;s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite exploitation.1 Courts absorb most exploits through interpretation, and such vulnerabilities rarely surface in the first place. With highly capable AI systems enabling the discovery of vulnerabilities at unprecedented scale, we believe the latter could change...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.schneier.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 12:01:00 +0000</pubDate>
+      <source url="https://www.schneier.com">www.schneier.com</source>
+    </item>
+    <item>
+      <title>Copilot for Legal – AL Interview: Carina Negreanu, Microsoft</title>
+      <link>https://www.artificiallawyer.com/2026/11/03/copilot-for-legal-al-interview-carina-negreanu-microsoft/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/11/03/copilot-for-legal-al-interview-carina-negreanu-microsoft/</guid>
+      <description>Microsoft’s new Copilot for Legal is here for the long term and eventually will be available to potentially 100,000s of lawyers worldwide, Legal Vertical leader ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 08:21:31 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search</title>
+      <link>https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search</guid>
+      <description>Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedingsA senior crown prosecutor acting in a high court case cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system.Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirely made-up case during a dispute over whether a child should be prosecuted for the rape of his younger sister, court documents have revealed. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 06:00:40 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/00c1de4ba03f6807582e6a7932fadc08aaf73c71/676_0_6659_5331/master/6659.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbc5910c6d63554f48d67327411258dc" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/00c1de4ba03f6807582e6a7932fadc08aaf73c71/676_0_6659_5331/master/6659.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cbc5910c6d63554f48d67327411258dc" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>‘I Miss Brad’: Heading Into The Midterms Without The Legal Might Of Paul, Weiss — See Also</title>
+      <link>https://abovethelaw.com/2026/11/i-miss-brad-heading-into-the-midterms-without-the-legal-might-of-paul-weiss-see-also/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/i-miss-brad-heading-into-the-midterms-without-the-legal-might-of-paul-weiss-see-also/</guid>
+      <description>Biglaw’s Pro Bono Payola Is Paying Off For Trump: The firms that bent the knee are nowhere to be found in the fight over the election. &amp;quot;With Just Enough Of Learning To Misquote&amp;quot;: Jonathan Turley misquoting the McCarthy hearings in his tirade about the Alaska senate race wouldn&amp;#x27;t be a big deal by itself, except that it speaks to his overall lack of intellectual rigor. The Class Of 2026 Bombed The Bar Exam, On The Old Test, No Less: You can’t blame the new test for this one. The 4 Scariest Words For Lawyers: This is actually a pretty frightening phrase! Awards Season!: The American Legal Technology Awards take us back to first principles. The post ‘I Miss Brad’: Heading Into The Midterms Without The Legal Might Of Paul, Weiss &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 00:31:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Legal Ethics Roundup: Can AI Be Ethical?, DOJ Lawyers Under Scrutiny, Weil Gotshal Implodes, ‘Rogue Activist Judges,’ Reading Recommendations, Jobs &amp; More</title>
       <link>https://abovethelaw.com/2026/11/legal-ethics-roundup-can-ai-be-ethical-doj-lawyers-under-scrutiny-weil-gotshal-implodes-rogue-activist-judges-reading-recommendations-jobs-more/</link>
@@ -4318,48 +4360,6 @@
       <description>As AI technology in healthcare becomes more deeply involved in the complex, high-stakes tasks of diagnosis and treatment planning, traditional lines of accountability will become less clear. Where does the buck stop for AI-supported medical care? The post When AI Gets Medicine Wrong, Who’s Liable? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 28 Sep 2026 14:03:00 +0000</pubDate>
       <source url="https://medcitynews.com">medcitynews.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 09.28.26</title>
-      <link>https://abovethelaw.com/2026/09/morning-docket-09-28-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/morning-docket-09-28-26/</guid>
-      <description>* Clients want Biglaw to start handing out AI discounts, managing to display ignorance of how both AI and lawyers operate. [NY Times] * Chicago federal prosecutor&amp;#x27;s retirement letter lays into Trump administration boss for setting her up with botched prosecution. [ABC News] * Trump goes on tirade after Supreme Court rejects Missouri gerrymander for the third time. [The Hill] * But, the Supreme Court also said Trump can do a little arbitrary voter disenfranchisement as a treat. [Courthouse News Service] * McClatchy is gutting its newsrooms, eviscerating local court coverage. [Court Watch] * Law firms training AI to act human. AI now capable of waiting until they&amp;#x27;re allowed to expense dinner before doing real work. [Reuters] * Law school grades prove excellent predictor of bar passage says Department of Obvious study. [ABA Journal] * Patent verdict takes $5.7 billion bite out of Apple. [Law360] * FBI removes counterintelligence officers for not moving fast enough on alleged threats received by Stephen Miller&amp;#x27;s wife. [Bloomberg Law News] The post Morning Docket: 09.28.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 12:54:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The Download: rogue agent liability and the AI Hype Index</title>
-      <link>https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/</link>
-      <guid isPermaLink="true">https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/</guid>
-      <description>This is today&amp;amp;#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&amp;amp;#8217;s going on in the world of technology. Who&amp;amp;#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 12:10:00 +0000</pubDate>
-      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
-    </item>
-    <item>
-      <title>Apple ordered to pay $5.7bn after losing vibration tech patent suit</title>
-      <link>https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 11:16:08 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Arbitrators Embrace + Reject Legal AI</title>
-      <link>https://www.artificiallawyer.com/2026/09/28/arbitrators-embrace-reject-legal-ai/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/28/arbitrators-embrace-reject-legal-ai/</guid>
-      <description>A survey of 557 arbitration professionals in the US has found strongly conflicting data about legal AI. While some use cases for AI seem popular, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 10:27:26 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Disney Seeks Legal AI Chief Amid Inhouse Shakeup</title>
-      <link>https://www.artificiallawyer.com/2026/09/28/disney-seeks-legal-ai-chief-amid-inhouse-shakeup/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/09/28/disney-seeks-legal-ai-chief-amid-inhouse-shakeup/</guid>
-      <description>Entertainment giant Disney is having a legal AI moment. Last week, Deadline reported that the company’s 1,000-strong Legal and Global Affairs group would face significant ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 08:09:15 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
