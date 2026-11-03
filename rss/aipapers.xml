@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:09:19 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:09:41 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proving and Improving the Platonic Representation Hypothesis with JEPAs</title>
+      <link>https://arxiv.org/abs/2610.39302</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39302</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mdjhvva6vlrswsj26cftjttd/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, b...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 05:09:41 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mdjhvva6vlrswsj26cftjttd/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mdjhvva6vlrswsj26cftjttd/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Predicting Personality Traits from Short Unstructured Conversations with AI</title>
+      <link>https://osf.io/preprints/psyarxiv/8476g_v1</link>
+      <guid isPermaLink="true">https://osf.io/preprints/psyarxiv/8476g_v1</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dfjwo6mi3bx3pvynl4w7vrut/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Given the complexity of personality, we might assume that significant behaviour is required to express our traits. Here we use large language models (LLMs) to test the extent to which personality is v...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 05:09:41 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dfjwo6mi3bx3pvynl4w7vrut/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dfjwo6mi3bx3pvynl4w7vrut/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" type="image/jpeg" length="0" />
+      <source url="https://osf.io">osf.io</source>
+    </item>
+    <item>
+      <title>ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks</title>
+      <link>https://arxiv.org/abs/2610.40890</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.40890</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT gives broad public access to these capabilities, motivating concerns about its potential use in surveillanc…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 05:09:41 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models</title>
       <link>https://arxiv.org/abs/2511.15304</link>
@@ -470,34 +500,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Machine Learning Models Trained on a Longitudinal Survey Dataset Poorly Predict Hundreds of Life Outcomes</title>
-      <link>http://arxiv.org/abs/2610.17115</link>
-      <guid isPermaLink="true">http://arxiv.org/abs/2610.17115</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:syjp7hq2llea5uqv7pl3allz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Understanding the predictability of life outcomes is important for public policy and science, but existing studies focus on a limited number of outcomes and therefore struggle to describe the broad pa...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 24 · likes: 43&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 06:08:55 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:syjp7hq2llea5uqv7pl3allz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:syjp7hq2llea5uqv7pl3allz/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Learning Perceptual Geometry of Natural Odor Mixtures from LLM-Derived Descriptors</title>
-      <link>https://arxiv.org/abs/2610.17164</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.17164</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tq7guigjzcfabdpofdc72cva/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The relationship between odor chemistry and perception remains incompletely understood. Many existing studies focus on the perception of single molecules, whereas natural odors contain tens to hundred...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 8 · likes: 20&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 06:08:55 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tq7guigjzcfabdpofdc72cva/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tq7guigjzcfabdpofdc72cva/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Expanding AI Literacy: The 5Cs of News Literacy in the Era of Generative AI</title>
-      <link>https://digitalcommons.uri.edu/jmle-preprints/66/</link>
-      <guid isPermaLink="true">https://digitalcommons.uri.edu/jmle-preprints/66/</guid>
-      <description>This article adapts the 5Cs framework of news literacy—context, creation, content, circulation, and consumption—to media environments shaped by generative artificial intelligence. We argue that prevai...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 4 · likes: 14&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 06:08:55 -0400</pubDate>
-      <source url="https://digitalcommons.uri.edu">digitalcommons.uri.edu</source>
     </item>
   </channel>
 </rss>
