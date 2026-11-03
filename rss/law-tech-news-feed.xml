@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:56:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:56:18 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Law Firms Need An AI Strategy, Not Another AI Subscription</title>
+      <link>https://abovethelaw.com/2026/11/law-firms-need-an-ai-strategy-not-another-ai-subscription/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/law-firms-need-an-ai-strategy-not-another-ai-subscription/</guid>
+      <description>The goal should not be to accumulate AI subscriptions. It should be to use the technology to improve legal services while protecting the clients who depend on the firm. The post Law Firms Need An AI Strategy, Not Another AI Subscription appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 18:01:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Meta’s $25B fine left out accountability for harm from the Cambridge Analytica data privacy scandal</title>
       <link>https://theconversation.com/metas-25b-fine-left-out-accountability-for-harm-from-the-cambridge-analytica-data-privacy-scandal-295620</link>
@@ -4354,14 +4362,6 @@
       <description>Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from &amp;quot;giving ChatGPT false human attributes,&amp;quot; a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as &amp;quot;ChatGPT&amp;#x27;s use of language, including first-person pronouns [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Mon, 28 Sep 2026 17:00:23 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Driver Ticketed For No Insurance Despite Having Insurance Just Because Flock Said She Didn’t</title>
-      <link>https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/</guid>
-      <description>We&amp;amp;#8217;ve moved past cops doing stuff because a dog gave them permission to do it. Now, we&amp;amp;#8217;re at the post-truth era of policing, where cops will do stuff because a machine told them to do it. We already know ALPRs (automated license plate readers) generate false positives. And we know that these false positives can [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 16:16:04 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
