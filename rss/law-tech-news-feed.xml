@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:55:46 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:55:53 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California fights "preposterous" Trump admin demand to scrap state broadband laws</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/</guid>
+      <description>State tries to obtain broadband funds despite rejecting Trump admin condition.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 22:39:37 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/06/getty-fiber-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Your Client’s Best Evidence Might Be Sitting In Their Phone</title>
       <link>https://abovethelaw.com/2026/11/your-clients-best-evidence-might-be-sitting-in-their-phone/</link>
@@ -4358,14 +4368,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>AI Will Expose How Little Legal Judgment Companies Have Made Explicit</title>
-      <link>https://abovethelaw.com/2026/09/ai-will-expose-how-little-legal-judgment-companies-have-made-explicit/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/ai-will-expose-how-little-legal-judgment-companies-have-made-explicit/</guid>
-      <description>Humans have been quietly compensating for this gap for years. AI will make it visible. The post AI Will Expose How Little Legal Judgment Companies Have Made Explicit appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 21:33:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
