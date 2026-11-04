@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:56:04 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:56:18 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Connectors For E-Discovery: Great To Drive, But There Are Speed Limits</title>
+      <link>https://abovethelaw.com/2026/11/ai-connectors-for-e-discovery-great-to-drive-but-there-are-speed-limits/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/ai-connectors-for-e-discovery-great-to-drive-but-there-are-speed-limits/</guid>
+      <description>Employees don’t understand that whatever they put in Claude could be discoverable. The post AI Connectors For E-Discovery: Great To Drive, But There Are Speed Limits appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 21:44:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill</title>
+      <link>https://abovethelaw.com/2026/11/ai-may-speed-up-legal-research-but-that-doesnt-automatically-shrink-the-bill/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/ai-may-speed-up-legal-research-but-that-doesnt-automatically-shrink-the-bill/</guid>
+      <description>The Tenth Circuit upheld a six-figure fee award after finding no evidence that defense counsel’s AI use made its hours unreasonable. The post AI May Speed Up Legal Research, But That Doesn’t Automatically Shrink The Bill appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 21:00:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>We’re Asking the Ninth Circuit to Hold Reverse Location Warrants Categorically Unconstitutional</title>
+      <link>https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/11/were-asking-ninth-circuit-hold-reverse-location-warrants-categorically</guid>
+      <description>Yesterday, along with the ACLU, EFF filed an amicus brief in the Ninth Circuit court of appeals in United States v. Spurlock, a case involving a “tower dump” warrant. These overbroad warrants require cellular providers to turn over location data about every phone in a given area at a given time. This is the first such case to be heard by a federal appeals court since the US Supreme Court ruled this summer that highly similar “geofence” warrants are searches under the meaning of the Fourth Amendment. Spurlock involves an investigation into two murder victims discovered on the side of a rural California highway. Police also found a car belonging to one of the victims several miles away on the same highway. They quickly sought a tower dump warrant for an area covering this stretch of road, which eventually revealed location data on nearly 1,700 unique phones. Faced with a motion to suppress, the district court relied on a Fifth Circuit court of appeals decision about geofence warrants to hold that tower dumps are similarly categorically unconstitutional “general warrants” that violate the Fourth Amendment. However, the court refused to suppress evidence on the basis of the “good faith doctrine.” Our amicus brief on appeal makes several key arguments. First, we point out that the Supreme Court’s decision in the geofence case Chatrie v. United States this summer only strengthens the arguments that tower dumps are unconstitutional general warrants. Tower dumps are a somewhat older technique than geofence warrants, but they are both “reverse location searches,” in which police “tap into an all-encompassing database, allowing them to undertake nearly perfect, retrospective surveillance of countless persons and places.” This is the sort of untargeted “general warrant” the framers of the Fourth Amendment wanted to prevent. As we write in the brief, “Searching all people in an area without probable cause to believe they were all involved in the criminal activity under investigation reproduces the evils of general warrants and is not constitutionally permitted.” It’s this rule of law that prevents police from searching the houses of a hundred, or even a thousand people in the vicinity of a crime. Second, we note that even if high courts continue to allow tower dump and geofence warrants in any cases, core Fourth Amendment law requires strict limits to protect the privacy of innocent bystanders, including limits on the scope and duration of the warrants, as well notice to affected individuals and after-the-fact deletion and minimization of irrelevant data. Finally, we argue that the Fourth Amendment requires the court to set aside the good faith doctrine in cases like these and actually decide the constitutional issue. Too often courts pass the buck in cases involving novel surveillance techniques, leading to situations where police can continue using the technique for years or even decades without a definitive ruling.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 20:26:48 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif" medium="image" type="image/gif" />
+      <enclosure url="https://www.eff.org/files/banner_library/locationdata_v2.mov1_.gif" type="image/gif" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.</title>
       <link>https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html</link>
@@ -4344,30 +4370,6 @@
       <description>Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 29 Sep 2026 17:27:09 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>3rd Circuit Issues Opinion in Thomson Reuters v. ROSS Case, But For Now It Is Sealed</title>
-      <link>https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/3rd-circuit-issues-opinion-in-thomson-reuters-v-ross-case-but-for-now-it-is-sealed.html</guid>
-      <description>The 3rd U.S. Circuit Court of Appeals today issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but the opinion is, at least for now, sealed and not viewable by the public. The court issued the opinion under seal together with an order stating [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:53:18 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Built for Corporate Restructuring: The Case for Purpose-Built AI</title>
-      <link>https://www.lawnext.com/2026/09/built-for-corporate-restructuring-the-case-for-purpose-built-ai.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/built-for-corporate-restructuring-the-case-for-purpose-built-ai.html</guid>
-      <description>Section 1: Five Realities Reshaping How Corporate Restructuring Gets Done Corporate restructuring operates at the intersection of legal precision and financial complexity, with stakeholder decisions routinely made under exigent circumstances. More data and shortened timelines have made that work harder. A 2025 study by Harvard and USC law professors published in the University of Chicago [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:29:13 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Beyond CLM: The Road To An Agentic Future</title>
-      <link>https://info.breakingmedia.com/beyond-clm-the-road-to-an-agentic-future</link>
-      <guid isPermaLink="true">https://info.breakingmedia.com/beyond-clm-the-road-to-an-agentic-future</guid>
-      <description>[Sponsored] Join this CLE-eligible webinar to see where law departments stand — and where they’re headed — when it comes to agentic AI. The post Beyond CLM: The Road To An Agentic Future appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:18:00 +0000</pubDate>
-      <source url="https://info.breakingmedia.com">info.breakingmedia.com</source>
     </item>
   </channel>
 </rss>
