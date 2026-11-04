@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 19:55:53 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:55:53 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rewriting Copyright Law For Generative AI Would Hurt Everyone</title>
+      <link>https://www.techdirt.com/2026/11/03/rewriting-copyright-law-for-generative-ai-would-hurt-everyone/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/03/rewriting-copyright-law-for-generative-ai-would-hurt-everyone/</guid>
+      <description>In&amp;amp;#160;courts across the country, publishers and creators are suing large AI companies for training generative AI models on copyrighted works. It’s easy to see these cases as a David-and-Goliath showdown between authors and publishers fighting for a cut of Big Tech company profits. But this fight is actually much larger. It affects billions of people [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 03 Nov 2026 23:30:53 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>California fights "preposterous" Trump admin demand to scrap state broadband laws</title>
       <link>https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/</link>
@@ -4358,16 +4366,6 @@
       <description>Trump&amp;#x27;s Newest &amp;#x27;Public Service Announcement&amp;#x27; Is Just His 2024 Campaign Ad, Now Paid For By You: Ethics lawyers from both parties say that&amp;#x27;s the whole problem. Weil Poaches Cravath&amp;#x27;s Private Equity Chief Three Weeks After Cravath Poached Its Corporate Chair: Peter Feist is coming home. 99 Problems, And This Lawsuit Is One: Jay-Z’s accuser now says she never met him. Tony Buzbee may have some explaining to do. Lawyers Are Increasingly Folding AI Into Routine Processes: What exactly does that mean? The post Trump Is Rerunning His 2024 Campaign Ad And Sending Taxpayers The Bill &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 28 Sep 2026 23:02:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Florida invokes extinction fears in legal bid to halt OpenAI development</title>
-      <link>https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/</guid>
-      <description>State says LLMs threaten civilization as &amp;quot;the greatest public nuisance ever created.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 20:49:39 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
