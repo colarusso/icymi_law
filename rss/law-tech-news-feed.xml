@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:56:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:56:31 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.</title>
+      <link>https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html</guid>
+      <description>After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 19:53:16 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ai-bluewave-sign-jgwf/04biz-ai-bluewave-sign-jgwf-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ai-bluewave-sign-jgwf/04biz-ai-bluewave-sign-jgwf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Texas was the new epicenter of the AI data center buildout. That might be kaput.</title>
+      <link>https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/</link>
+      <guid isPermaLink="true">https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/</guid>
+      <description>Texas is the fastest-growing data center market in the US and ground zero for Big Tech&amp;amp;#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 18:50:55 +0000</pubDate>
+      <source url="https://www.technologyreview.com">www.technologyreview.com</source>
+    </item>
     <item>
       <title>Ofcom Admits ‘Highly Effective’ Age Checks At 16 Really Mean ‘ID Scans For Teens’</title>
       <link>https://www.techdirt.com/2026/11/04/ofcom-admits-highly-effective-age-checks-at-16-really-mean-id-scans-for-teens/</link>
@@ -4350,26 +4368,6 @@
       <description>[Sponsored] Join this CLE-eligible webinar to see where law departments stand — and where they’re headed — when it comes to agentic AI. The post Beyond CLM: The Road To An Agentic Future appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 29 Sep 2026 16:18:00 +0000</pubDate>
       <source url="https://info.breakingmedia.com">info.breakingmedia.com</source>
-    </item>
-    <item>
-      <title>Civic Tech’s Interface Era, Revisited</title>
-      <link>https://civic.io/2026/09/29/civic-techs-interface-era-revisited/</link>
-      <guid isPermaLink="true">https://civic.io/2026/09/29/civic-techs-interface-era-revisited/</guid>
-      <description>A prior post on The End of Civic Tech&amp;#x27;s Interface Era gets revisited with the launch of America.gov. What did the original post get right, and wrong.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://civic.io/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:55:31 +0000</pubDate>
-      <media:content url="https://civic.io/wp-content/uploads/2026/09/pexels-photo-7179804.jpeg" medium="image" type="image/jpeg" />
-      <enclosure url="https://civic.io/wp-content/uploads/2026/09/pexels-photo-7179804.jpeg" type="image/jpeg" length="0" />
-      <source url="https://civic.io">civic.io</source>
-    </item>
-    <item>
-      <title>Privacy’s Defenders Podcast: Cowboys, Cypherpunks and Visionaries</title>
-      <link>https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/privacys-defenders-podcast-cowboys-cypherpunks-and-visionaries</guid>
-      <description>People are increasingly concerned about the ways in which mass surveillance is tracking our every move: from Flock license plate readers to face recognition to creepy ads that – based on what we see and do online – seem to know everything we’re thinking and planning. It didn’t have to be this way, and since the early days of the internet, a dedicated band of activists, lawyers and technologists have fought for a better, more secure and private digital future – a future that’s still attainable. Cindy Cohn, who just finished a 26-year run with the Electronic Frontier Foundation including 11 years as its executive director, has lived this fight. She says privacy isn’t just about secrecy: It&amp;#x27;s ultimately about power – who has it, and who has the ability to protect themselves from it. Welcome to the first episode of “Privacy’s Defenders,” a podcast about the people – lawyers, journalists, hackers, and others – who’ve fought to secure your digital liberties since before most people even knew what the internet was. %3Ciframe%20height%3D%2252px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F2f955342-7675-4c8c-bb40-fa364d9a569d%3Fdark%3Dtrue%26amp%3Bcolor%3D000000%22%20allow%3D%22autoplay%22%3E%C2%A0%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com (You can also find this episode on the Internet Archive and on YouTube.) In this episode, Cindy talks with EFF cofounder John Gilmore about how he – an early employee at Sun Microsystems – came together with Lotus Development cofounder Mitch Kapor and cattle rancher, philosopher and Grateful Dead lyricist John Perry Barlow to create EFF as a bulwark against government investigation and prosecution of early internet users. It’s a story of the Secret Service’s “Operation Sundevil,” jet-setting tech titans, tie-dyed cypherpunks, and a fateful house party in San Francisco’s Haight-Ashbury district amid the earliest days of online communications, setting the stage for the battles that created the internet as we know it and issues we still grapple with today. The “Privacy’s Defenders” podcast is a follow-up to Cindy’s book, “Privacy’s Defender: My Thirty-Year Fight Against Digital Surveillance,” bringing to life pivotal moments in the voices of those who fought for your rights. Sales of “Privacy’s Defender” benefit EFF, so pick up your copy today! Joanne Elgart Jennings co-produced and created this podcast. Jarod Sport co-produced, mixed, and mastered it. Corinne Ruff is our story editor. We had additional help from Rachel Estabrook and Alison Broverman. The original music was composed and performed by Nat Keefe of Hot Buttered Rum with Ben Andrews on the fiddle. And other archival sound came from the Internet Archive&amp;#x27;s amazing collection, including the snippet of the Grateful Dead song “Cassidy” that John Perry Barlow co-wrote.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:00:32 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/pd-podcast-banner.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/pd-podcast-banner.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
