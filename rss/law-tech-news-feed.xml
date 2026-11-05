@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:56:20 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:56:22 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two States Can Now Restrict Social Media Access—Here’s What To Do Next</title>
+      <link>https://www.techdirt.com/2026/11/05/two-states-can-now-restrict-social-media-access-heres-what-to-do-next/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/05/two-states-can-now-restrict-social-media-access-heres-what-to-do-next/</guid>
+      <description>Recently, two federal appeals courts issued opinions that will allow Florida and Georgia to start enforcing laws that will age-gate and block young people from accessing social media. The laws do not adequately respect minors’ rights to play, speak, and learn online. More fundamentally, these laws don’t help young people stay safe online—a goal that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 21:02:36 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Nasdaq heading for worst day in 18 months as Wall Street sustains widespread losses</title>
       <link>https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses</link>
@@ -4366,14 +4374,6 @@
       <media:content url="https://i.guim.co.uk/img/media/69b176a7aed6a3b0e3c067ac32ba07fabe983fec/209_76_4167_3334/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d25c038e40d0faf0371b270e76ede2b" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/69b176a7aed6a3b0e3c067ac32ba07fabe983fec/209_76_4167_3334/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d25c038e40d0faf0371b270e76ede2b" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>The Rise Of The Legal Engineer: The New Job 40 Years In The Making</title>
-      <link>https://abovethelaw.com/2026/09/the-rise-of-the-legal-engineer-the-new-job-40-years-in-the-making/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/09/the-rise-of-the-legal-engineer-the-new-job-40-years-in-the-making/</guid>
-      <description>New technology doesn’t merely eliminate jobs. It creates new ones. The post The Rise Of The Legal Engineer: The New Job 40 Years In The Making appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 22:15:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
