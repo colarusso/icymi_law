@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:09:41 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:09:28 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Principled Human-AI Collaboration in Agentic Workflows</title>
+      <link>https://arxiv.org/abs/2611.01566</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.01566</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih4c3f77rk4b7svaimrwutprgsfrnf4sou4j23snzaozumko6jite" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Principled Human-AI Collaboration in Agentic Workflows&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 05:09:28 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih4c3f77rk4b7svaimrwutprgsfrnf4sou4j23snzaozumko6jite" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih4c3f77rk4b7svaimrwutprgsfrnf4sou4j23snzaozumko6jite" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>What's Old Is New: Improved Learning from Small-Group Tutorials</title>
+      <link>https://arxiv.org/abs/2610.39538</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.39538</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkivp3kl7muevev5higsf77q/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The ubiquity of Large Language Models poses a challenge to student learning in homework-based college courses, where access to easy homework answers devalues the intended productive struggle. To addre...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥🔥 · reposts: 7 · likes: 33&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 05:09:06 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkivp3kl7muevev5higsf77q/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkivp3kl7muevev5higsf77q/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Social signals dominate clinician trust in medical AI</title>
+      <link>https://arxiv.org/abs/2611.00007</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.00007</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gv6s35bl5nvywtbiy4yjuijo/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Accuracy and outcome data are often treated as the main determinants of trust in automation. We test this assumption against an account in which clinicians evaluate artificial intelligence (AI) using ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Wed, 04 Nov 2026 05:09:06 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gv6s35bl5nvywtbiy4yjuijo/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gv6s35bl5nvywtbiy4yjuijo/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Proving and Improving the Platonic Representation Hypothesis with JEPAs</title>
       <link>https://arxiv.org/abs/2610.39302</link>
@@ -470,36 +500,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkbweudpy6tvzjqdiza4z3p5/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkbweudpy6tvzjqdiza4z3p5/bafkreiannaoqrqflda372g3gjhkjrqs6leuahzntxl7nz3jeqjy3wkpv24" type="image/jpeg" length="0" />
       <source url="https://osf.io">osf.io</source>
-    </item>
-    <item>
-      <title>Fine-Tuning Language Models to Know What They Know</title>
-      <link>https://arxiv.org/abs/2602.02605</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.02605</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Evaluating true metacognition in Large Language Models (LLMs) is difficult due to biases and heuristics. This paper presents a framework to measure and enhance LLM metacognition while controlling for ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 06:08:33 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ktmis6mlcffobsxzoigeyst5/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>When LLM Agents See a Conflict but Still Proceed: Cross-Domain Dependencies in Network Slicing</title>
-      <link>https://arxiv.org/abs/2610.17118</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.17118</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Future AI-native networks are being designed to apply autonomous agents built on large language models (LLMs) in network management through intents. When intents from different domains meet on the same resource, an agent must recognize the cross-domain dependency before taking an irreversible actio…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 06:08:33 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Fork-and-Flush: Escaping Idea Basins in Autoresearch Agents</title>
-      <link>https://arxiv.org/abs/2610.07447v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.07447v1</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Autoresearch agents tackle open-ended problems by repeatedly proposing candidate solutions, evaluating them, and using feedback to guide subsequent experiments. We show that independent runs of the sa...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 2 · likes: 33&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 06:08:37 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:p572wxnsuoogcrhlfrlizlrb/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
 </rss>
