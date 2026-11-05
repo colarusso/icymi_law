@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 10:56:08 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 11:56:27 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shares in Musk's SpaceX plunge as tech and AI stocks fall</title>
+      <link>https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 05 Nov 2026 16:44:38 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Tech is about to get hammered in Congress</title>
       <link>https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy</link>
@@ -4360,16 +4370,6 @@
       <description>The promise of a single method of sending up a draft law review article is increasingly in jeopardy. The post Scholastica, Law Reviews, And Gatekeepers Of Academic Prestige appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 29 Sep 2026 21:34:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>While the Country Rejects ALPR Mass Surveillance, SF Settles for Weak Safeguards</title>
-      <link>https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/09/while-country-rejects-alpr-mass-surveillance-sf-settles-weak-safeguards</guid>
-      <description>San Francisco&amp;#x27;s decision to retain its use of Automated License Plate Reader (ALPR) surveillance cameras belies what we know about this spying technology tool: it endangers residents and threatens the privacy and civil liberties of our community. Based on what&amp;#x27;s in the city&amp;#x27;s press release and announcement, this policy will do nothing to stop actual harms. We know innocent drivers will be stopped and menaced by officers because of erroneous matches. We know officers use Flock to stalk potential and past romantic partners. Data will be accessed by Immigration and Customs Enforcement (ICE) and used to deport immigrants. Promising greater penalties for such abuse will not end this. These are not isolated mistakes that another policy can fix. They are consequences of building a system that records everyone’s movements and makes them searchable by police. This is also not unique to a single vendor. From Flock Safety to Motorola to Axon—San Francisco must end its use of ALPRs. We ultimately cannot rely on new protocols from city officials, and the City’s new policy is woefully inadequate. There is no warrant requirement to search stored ALPR data. An incident or computer-aided dispatch (CAD) number is not judicial authorization. Without a warrant requirement, officers can search stored location data without showing probable cause to a judge, and will. Without judicial control, officers will continue to search the data for abusive reasons. But a warrant requirement alone would not justify retaining the ALPR network: the community is demanding an end to the collection itself. Additionally, the announced policies include no deadline to delete ALPR data, there is only a 30-day deadline to move data from the vendor’s servers to the city’s servers. City officials must understand that moving data is not deleting it. Whether Flock or SFPD stores the data, it remains a permanent record of where people drive, worship, work, organize, seek care, and spend time with others. Thus, the best practice is deletion. New Hampshire requires deletion in three minutes, and Flock itself has reduced the default retention time to seven days. San Francisco can and should do better. Lastly, while transparency and documentation are important concepts, better audit logs are not the answer. They can expose abuse only after a search has occurred. They cannot undo the disclosure of someone’s movements or justify collecting everyone’s location data in the first place; especially when we are talking about people’s lives and civil liberties. The city&amp;#x27;s announced policy does not even require officers to state, in their own words, why they are searching the stored ALPR data—an accountability rule that has exposed abusive searches across the country. San Francisco is behind many communities that have considered the tradeoffs of ALPR surveillance and made the right choice by ending their contracts. San Francisco must do the same.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 21:30:22 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/flock-vector-2b.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/flock-vector-2b.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
