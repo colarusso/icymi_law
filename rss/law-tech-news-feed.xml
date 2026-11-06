@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:55:50 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:56:10 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bitter Celsius</title>
+      <link>https://buttondown.com/LawyerExMachina/archive/bitter-celsius/</link>
+      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/bitter-celsius/</guid>
+      <description>AI Tweet by Paul Weitzel on bluebooking with ChatGPT Google is re-organizing its AI tools for educational customers, allowing schools to decide whether to restrict or allow students access to AI apps as part of Google Classroom, with the caveat that not opting in to AI tools means that students would not have access to Google Search [NY Times ($) | Former FTC Commissioner Alvaro Bedoya - LinkedIn post | The New Republic | CNBC]Does AI use by attorneys and law firms require reducing fees paid by clients for legal work? [The pro argument | The con argument] “AI-Native” law firms in the U.S. and UK, including Crosby, Scissero, and VETTA, are bidding for assets of Weil, Gotshal and Manges, including internal firm data, playbooks, &amp;amp;amp; KM systems [Reuters | TechCrunch] A new lawsuit against OpenAI alleges that the company refused to deploy reasonable safeguards while a woman used ChatGPT to help plot her attempt to poison her husband via his energy drinks [Ars Technica | Tech Justice Law press release | Complaint (Google Drive)] From Wired Magazine [$]: It was discovered that a personal AI agent was given access to the Pentagon’s network by an Accenture contractor for 2 months, allowing it to access systems with “controlled unclassified information” [cdo Magazine | Cyber Security News | Wired podcast] Fabrication Follies Farhat v. Cutera [Docket | Order Discharging Order to Show Cause] Miscellaneous One link in the chain that resulted in the $6.3 billion hack of cryptocurrency firm Binance was an employee who was spear-phished via a job interview&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 21:21:35 +0000</pubDate>
+      <source url="https://buttondown.com">buttondown.com</source>
+    </item>
+    <item>
+      <title>Three men charged in US with using AI to impersonate CEOs and steal millions</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft</guid>
+      <description>Men allegedly impersonated voices and images of executives to convince employees to send large paymentsThree foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by the US Department of Justice.According to a press release from the United States attorney’s office for the southern district of New York, three men – Jacob Soall, Sharon Hazan, and Guy Sheetrit – were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 21:20:49 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea760337f8b9936ab96b5415c0bb868d" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/c3a832e799ac1dd8a85e6c73794399c038d7678b/250_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea760337f8b9936ab96b5415c0bb868d" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Google Forcing AI on Students Is BS</title>
       <link>https://www.eff.org/deeplinks/2026/11/google-forcing-ai-students-bs</link>
@@ -4356,24 +4374,6 @@
       <description>If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small batteries in unexpected places,&amp;amp;#8230;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.technologyreview.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
       <source url="https://www.technologyreview.com">www.technologyreview.com</source>
-    </item>
-    <item>
-      <title>Opus 2 Buys Bundledocs + AL Interview</title>
-      <link>https://www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/01/opus-2-buys-bundledocs-al-interview/</guid>
-      <description>Opus 2, the pioneering litigation platform, has acquired Bundledocs, the widely-used document bundling system. The move marks the company’s third M&amp;amp;#38;A deal in recent years, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 09:00:18 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban</title>
-      <link>https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars</link>
-      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars</guid>
-      <description>Time magazine list includes Australian communications minister after her efforts to take on big techGet our new political email, free app or daily news podcastThe federal communications minister, Anika Wells, has been named as one of Time magazine’s “world’s most influential rising stars” in recognition of her work on Australia’s under-16 social media ban and taking on big tech companies.Australia’s world-leading restrictions on social media for children, which came into force last year, have garnered international attention, with governments across Europe and Asia, and in some American states, enacting or proposing similar measures. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 07:12:45 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/42add947a4db7772705d51f23d56701ce19e7e01/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02b8129900150280ec8dc43c01974b3a" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/42add947a4db7772705d51f23d56701ce19e7e01/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02b8129900150280ec8dc43c01974b3a" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
