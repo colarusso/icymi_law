@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:55:59 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:56:07 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>After the midterms, is the AI industry in for a rough two years?</title>
+      <link>https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/</link>
+      <guid isPermaLink="true">https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/</guid>
+      <description>Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 17:23:52 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Biglaw’s Best-Paid Partners Now Live In Silicon Valley, Sorry Manhattan</title>
+      <link>https://abovethelaw.com/2026/11/biglaws-best-paid-partners-now-live-in-silicon-valley-sorry-manhattan/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/biglaws-best-paid-partners-now-live-in-silicon-valley-sorry-manhattan/</guid>
+      <description>The AI boom hits Biglaw, if you will. The post Biglaw’s Best-Paid Partners Now Live In Silicon Valley, Sorry Manhattan appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 17:12:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>EFF Submission to OHCHR Consultation on Child Rights and Safety in the Digital Environment</title>
       <link>https://www.eff.org/deeplinks/2026/11/eff-submission-ohchr-consultation-child-rights-and-safety-digital-environment</link>
@@ -4358,26 +4374,6 @@
       <media:content url="https://i.guim.co.uk/img/media/ed060329a91fc7880904c6696c790bf114840c32/1119_334_4888_3911/master/4888.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c162e628345c74ae7d39313e0f699580" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/ed060329a91fc7880904c6696c790bf114840c32/1119_334_4888_3911/master/4888.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c162e628345c74ae7d39313e0f699580" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Gavin Newsom signs laws to protect California workers from AI threat</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat</guid>
-      <description>Democratic governor sharply critical of Donald Trump for not passing comprehensive federal AI regulationsGovernor Gavin Newsom signed laws Wednesday aimed at protecting California workers from the threats of artificial intelligence , including potential job losses and workplace surveillance.The laws ban employers from using the technology to predict a worker’s emotional state by using their biometric data, require employers to send written notices to workers if AI is responsible for mass layoffs and ban employers from relying on AI to decide to fire someone. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 00:17:56 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/8fc5556b3133a76dad9330f3efb7b1cfb0aa2da1/233_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01b94822f711c75f5df478f1854be46c" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/8fc5556b3133a76dad9330f3efb7b1cfb0aa2da1/233_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01b94822f711c75f5df478f1854be46c" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Returning from vacation? The government can search your phone without a warrant.</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/</guid>
-      <description>Reminder: The &amp;quot;border exemption&amp;quot; to your rights is real.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 21:19:56 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
