@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:55:59 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:55:58 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta, Google, and TikTok sue California AG over teen social media law</title>
+      <link>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</guid>
+      <description>If it goes into effect next year, this California law would restrict social media access for children under 16.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 00:01:38 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Reflecting on Digital Rights Wins and Losses in Sacramento</title>
       <link>https://www.eff.org/deeplinks/2026/11/reflecting-digital-rights-wins-and-losses-sacramento</link>
@@ -4365,16 +4373,6 @@
       <pubDate>Wed, 30 Sep 2026 11:09:52 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/6c9559e6c1a3badb7e83f824e28884bb11f226a7/0_46_4672_3736/master/4672.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebd859c5cf31f9b2beb8c66f799bcaf8" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/6c9559e6c1a3badb7e83f824e28884bb11f226a7/0_46_4672_3736/master/4672.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ebd859c5cf31f9b2beb8c66f799bcaf8" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss</title>
-      <link>https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss</guid>
-      <description>Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostageBusiness live – latest updatesThe governor of the Bank of England has said authorities must retain the “right to intervene” in the AI industry amid growing fears that rogue models could take the financial system hostage.Andrew Bailey said the risks posed by the rapid advancement of frontier AI models – a number of which have gone rogue in recent months – were “real and increasingly significant” and reduced the ability of society to supervise and intervene when things went wrong. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 10:41:58 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=959d75279ed826437e37e56beb59d70e" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=959d75279ed826437e37e56beb59d70e" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
