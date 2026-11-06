@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 09:56:16 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:56:31 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Could the US midterms put a pin in the AI bubble?</title>
+      <link>https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 06 Nov 2026 15:39:30 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e383/live/c572bfd0-d9f6-11f1-84c1-dbcae60402d7.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e383/live/c572bfd0-d9f6-11f1-84c1-dbcae60402d7.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns</title>
       <link>https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/</link>
@@ -4366,14 +4376,6 @@
       <description>Our very own investigation into Judge Elanor Ross shows how quickly artificial intelligence can uncover what courts tried to conceal. The post AI Can Read Between The Redacted Lines appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 30 Sep 2026 20:44:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>3rd Circuit Rules For Thomson Reuters In Its Copyright Fight Against Legal Research Startup ROSS</title>
-      <link>https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/09/3rd-circuit-rules-for-thomson-reuters-in-its-copyright-fight-against-legal-research-startup-ross.html</guid>
-      <description>Yesterday I noted that th 3rd U.S. Circuit Court of Appeals had issued an opinion in the long-running copyright battle between Thomson Reuters and the now-shuttered AI legal research company ROSS Intelligence, but that the opinion was sealed and not viewable by the public. Today, it was revealed that the court has ruled in favor [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Wed, 30 Sep 2026 19:29:33 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
