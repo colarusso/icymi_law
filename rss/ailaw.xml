@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:07:20 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:07:01 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI teddy makes unprompted 'I can't help with killing you' remark</title>
+      <link>https://www.bbc.co.uk/news/articles/c6x2w4ej245ko</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6x2w4ej245ko</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5onh7ko2ux7bjjesmbeayjel/bafkreibdiwdojlr2iyyp6b3x5pw4xc6ohedgfy6dzaqo42f73ml43poxze" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 91 · likes: 323&lt;/small&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 05:07:01 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5onh7ko2ux7bjjesmbeayjel/bafkreibdiwdojlr2iyyp6b3x5pw4xc6ohedgfy6dzaqo42f73ml43poxze" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5onh7ko2ux7bjjesmbeayjel/bafkreibdiwdojlr2iyyp6b3x5pw4xc6ohedgfy6dzaqo42f73ml43poxze" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Parents Sue Google Over A.I. Safety Risks on School Chromebooks</title>
       <link>https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreidu7l6y5q7bo734fjwpupsegyhbn3bwsnzbfwhhr2dppljkwofaoq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lr36xv2l64jwtnyoaqem6z2z/bafkreidu7l6y5q7bo734fjwpupsegyhbn3bwsnzbfwhhr2dppljkwofaoq" type="image/jpeg" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Canadian news publishers sue Anthropic for copyright infringement</title>
-      <link>https://www.theglobeandmail.com/business/article-canadian-news-publishers-sue-anthropic-for-copyright-infringement/</link>
-      <guid isPermaLink="true">https://www.theglobeandmail.com/business/article-canadian-news-publishers-sue-anthropic-for-copyright-infringement/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w4omt4th54l6kul2nc7orbil/bafkreigzqfubblzalo7by7kcnned55ga75y3n4uldxlfbxtf3wfmnirdgi" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Publishers claim the Claude maker used their content to develop its large language model&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 15 · likes: 106&lt;/small&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 06:07:17 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w4omt4th54l6kul2nc7orbil/bafkreigzqfubblzalo7by7kcnned55ga75y3n4uldxlfbxtf3wfmnirdgi" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w4omt4th54l6kul2nc7orbil/bafkreigzqfubblzalo7by7kcnned55ga75y3n4uldxlfbxtf3wfmnirdgi" type="image/jpeg" length="0" />
-      <source url="https://www.theglobeandmail.com">www.theglobeandmail.com</source>
     </item>
   </channel>
 </rss>
