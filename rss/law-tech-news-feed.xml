@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:55:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:55:56 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ninth Circuit Reminds Businesses: “Clickwrap or It’s Crap”</title>
+      <link>https://blog.ericgoldman.org/archives/2026/11/ninth-circuit-reminds-businesses-clickwrap-or-its-crap.htm</link>
+      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/11/ninth-circuit-reminds-businesses-clickwrap-or-its-crap.htm</guid>
+      <description>The Ninth Circuit struck down two more TOS formations this week. In both cases, the panels applied exacting standards when reviewing the screens. You&amp;amp;#8217;ve been warned about this risk (many times). Morrison v. Yippee Entertainment, Inc., No. 25-7161 (9th Cir.... The post Ninth Circuit Reminds Businesses: &amp;amp;#8220;Clickwrap or It&amp;amp;#8217;s Crap&amp;amp;#8221; appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 18:00:55 +0000</pubDate>
+      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
+    </item>
     <item>
       <title>Standing in the way of slop bowls: the woman blocking food delivery robots</title>
       <link>https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots</link>
@@ -4366,16 +4374,6 @@
       <description>The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 01 Oct 2026 16:35:25 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Who’s to Blame When A.I. Goes Rogue?</title>
-      <link>https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html</guid>
-      <description>Many think artificial intelligence companies should be held liable for their runaway technology. But legal scholars say applying existing law could be messy&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 15:40:09 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
