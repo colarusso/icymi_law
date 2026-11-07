@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:55:45 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:55:50 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standing in the way of slop bowls: the woman blocking food delivery robots</title>
+      <link>https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots</guid>
+      <description>Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’“One of you needs to be on the lookout for cops, while I block the robot, OK?”It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will follow it to a busy sidewalk and Marvin will stand in front of the robot, blocking its way. The photographer and I will take turns ensuring we’re not all carted off by the police. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 07 Nov 2026 14:00:12 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=731516b3b10b69bcfb54fdbce5864718" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=731516b3b10b69bcfb54fdbce5864718" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</link>
@@ -4366,14 +4376,6 @@
       <media:content url="https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/09/30/business/00ai-liability/00ai-liability-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>The Billable Hour, Legal Tech, And The ‘AI Efficiency Trap’</title>
-      <link>https://abovethelaw.com/2026/10/the-billable-hour-legal-tech-and-the-ai-efficiency-trap/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/the-billable-hour-legal-tech-and-the-ai-efficiency-trap/</guid>
-      <description>[Sponsored] Lessons from ILTACON for the business of Biglaw. The post The Billable Hour, Legal Tech, And The ‘AI Efficiency Trap’ appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 15:33:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
