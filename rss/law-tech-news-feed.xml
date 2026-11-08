@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 11:55:47 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:55:55 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elvis and Eminem rights holders are suing Suno</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</guid>
+      <description>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley&amp;#x27;s music and the publisher of some of Eminem&amp;#x27;s biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee&amp;#x27;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints</title>
       <link>https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence</link>
@@ -4368,14 +4376,6 @@
       <description>Five years ago, Noah Waisberg sold Kira Systems, the pioneering AI contract-analysis company he co-founded, to Litera. Even though the deal itself went well, the experience of going through the sale was hard, Waisberg now says. But that experience provided the fuel that turned into his next business. As part of the sale, he kept [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 01 Oct 2026 18:42:25 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Judge dismisses antitrust lawsuits over Google’s AI Overviews</title>
-      <link>https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed</guid>
-      <description>A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google&amp;#x27;s side in a ruling on Wednesday, writing that PMC [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 17:12:21 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
