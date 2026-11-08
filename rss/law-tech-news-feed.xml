@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 20:55:47 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:56:05 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints</title>
+      <link>https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence</guid>
+      <description>MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to“It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence.“Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints much more complex and time-consuming to read and deal with, despite her decade of experience in the role. “It is definitely more taxing.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 08:00:36 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94570b4f9d7eac5982f2eba6f0827561" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94570b4f9d7eac5982f2eba6f0827561" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Ninth Circuit Reminds Businesses: “Clickwrap or It’s Crap”</title>
       <link>https://blog.ericgoldman.org/archives/2026/11/ninth-circuit-reminds-businesses-clickwrap-or-its-crap.htm</link>
@@ -4366,14 +4376,6 @@
       <description>A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google&amp;#x27;s side in a ruling on Wednesday, writing that PMC [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Thu, 01 Oct 2026 17:12:21 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people</title>
-      <link>https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/</guid>
-      <description>The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 16:35:25 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
