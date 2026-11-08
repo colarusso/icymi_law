@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:55:50 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:55:53 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here’s the full text of Jensen Huang’s memo to Nvidia</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia</guid>
+      <description>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang&amp;#x27;s relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 08 Nov 2026 22:54:50 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Nvidia is investigating Jensen Huang’s relationship with a Chinese spy</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy</link>
@@ -4366,16 +4374,6 @@
       <media:content url="https://static01.nyt.com/images/2026/10/01/multimedia/01biz-amazon-settlement-ktpc/01biz-amazon-settlement-ktpc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/10/01/multimedia/01biz-amazon-settlement-ktpc/01biz-amazon-settlement-ktpc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>California issues investigative subpoena to OpenAI over rogue agents’ hacking</title>
-      <link>https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack</guid>
-      <description>State attorney general issues subpoena to OpenAI as ​part of broader inquiry into potential security vulnerabilitiesCalifornia’s attorney general has issued an investigative subpoena to OpenAI, starting an investigation into the startup ⁠as ​part of a broader inquiry into potential cybersecurity vulnerabilities and incidents related ⁠to its AI models, his office said on Thursday.Last month, Rob Bonta announced that ⁠the Department of Justice was conducting a formal ​investigation into the “Hugging ‌Face incident”, amid increasing ‌scrutiny of the AI industry. AI agents developed by OpenAI hacked Hugging Face in July, gaining access to parts of the open-source platform’s infrastructure. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Thu, 01 Oct 2026 19:01:55 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/554dc557e80595b3853a61976cba14fb5ab9a93d/356_0_4288_3431/master/4288.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6353a3061ada5df89cc5116d457b293e" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/554dc557e80595b3853a61976cba14fb5ab9a93d/356_0_4288_3431/master/4288.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6353a3061ada5df89cc5116d457b293e" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
