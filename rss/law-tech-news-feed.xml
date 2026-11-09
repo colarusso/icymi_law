@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:56:19 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:56:00 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two cities just voted to get Flock cameras out. It’s only the beginning.</title>
+      <link>https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance</link>
+      <guid isPermaLink="true">https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance</guid>
+      <description>As Flock cameras have quietly multiplied across the country in recent years, public concern about privacy, surveillance, and abuse of the technology by law enforcement has sparked nationwide backlash. This led to a number of cities pausing, not renewing, or canceling their contracts with Flock Safety, the leading company behind the controversial AI-enabled automated license [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+      <source url="https://www.vox.com">www.vox.com</source>
+    </item>
     <item>
       <title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</title>
       <link>https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/</link>
@@ -4358,14 +4366,6 @@
       <description>Trump FCC boss Brendan Carr endlessly pays empty lip service to the &amp;amp;#8220;public interest&amp;amp;#8221; and the &amp;amp;#8220;value of broadcasting integrity&amp;amp;#8221; as he engages in ham-fisted censorship of comedians and journalists the president doesn&amp;amp;#8217;t like. Or the illegal dismantling of media consolidation limits. Or helps the president and his friends steal TikTok. But any time there&amp;amp;#8217;s [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 02 Oct 2026 12:23:42 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>More kids are using AI for companionship — and it&amp;#8217;s making them lonely</title>
-      <link>https://www.vox.com/technology/504854/chatgpt-claude-character-ai</link>
-      <guid isPermaLink="true">https://www.vox.com/technology/504854/chatgpt-claude-character-ai</guid>
-      <description>There’s a lot to be anxious about as AI agents and bots get more integrated into every aspect of our lives. Meta, which recently agreed to pay over $17 billion to settle a lawsuit related to harming kids, now wants you to hand over all your online accounts to an inexplicably cute “agent” named Muse [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 11:30:00 +0000</pubDate>
-      <source url="https://www.vox.com">www.vox.com</source>
     </item>
   </channel>
 </rss>
