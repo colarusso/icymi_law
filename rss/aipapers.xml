@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:08:37 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:08:42 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prioritizing Repeated LLM Evaluation for Hidden Failure Discovery</title>
+      <link>https://arxiv.org/abs/2609.32547</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2609.32547</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2daxukdc4vw3u2xgzsktyp5a/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models are commonly evaluated by generating a small number of stochastic responses for each prompt in a benchmark. Because inference budgets are limited, this shallow evaluation may fai...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 05:08:42 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2daxukdc4vw3u2xgzsktyp5a/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2daxukdc4vw3u2xgzsktyp5a/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>In the age of big data and AI: do we still need chemical bonds?</title>
       <link>https://arxiv.org/abs/2611.00228v1</link>
@@ -493,16 +503,6 @@
       <pubDate>Fri, 23 Oct 2026 06:09:13 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>AI and The Enclosure of the Scientific Commons</title>
-      <link>https://arxiv.org/abs/2610.27251</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.27251</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qcrtqnvhgcxpaja2qt5vhdn3/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The scientific literature can be viewed as an &amp;quot;information commons:&amp;quot; an intangible resource that &amp;quot;no one owns and is shared by everyone.&amp;quot; There are well-established economic and political frameworks f...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Fri, 23 Oct 2026 06:09:13 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qcrtqnvhgcxpaja2qt5vhdn3/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qcrtqnvhgcxpaja2qt5vhdn3/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
