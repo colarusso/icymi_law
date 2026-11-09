@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:56:22 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:56:19 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</title>
+      <link>https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/</guid>
+      <description>The update to Waymo&amp;#x27;s self-driving system was rolled out nearly a year ago.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 09 Nov 2026 15:24:59 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Jonathan Kanter is using AI to take on Big Tech</title>
       <link>https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech</link>
@@ -4358,16 +4366,6 @@
       <description>There’s a lot to be anxious about as AI agents and bots get more integrated into every aspect of our lives. Meta, which recently agreed to pay over $17 billion to settle a lawsuit related to harming kids, now wants you to hand over all your online accounts to an inexplicably cute “agent” named Muse [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 02 Oct 2026 11:30:00 +0000</pubDate>
       <source url="https://www.vox.com">www.vox.com</source>
-    </item>
-    <item>
-      <title>OpenAI fires workers for 'mishandling sensitive information'</title>
-      <link>https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The former employees were investigated for sharing data with an outside AI evaluation group.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 08:20:32 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
