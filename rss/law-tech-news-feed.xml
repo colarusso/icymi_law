@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:56:04 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 19:56:06 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todd Blanche’s Tears — See Also</title>
+      <link>https://abovethelaw.com/2026/11/todd-blanches-tears-see-also/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/todd-blanches-tears-see-also/</guid>
+      <description>Todd Blanche Is So Sad Right Now: The Democrats are just being so mean to Trump and his allies. Legendary Litigator Passes Away: But not before saving the legal profession from Trump&amp;#x27;s unconstitutional executive orders. The Verdict Is In, These Schools Are Tops For Crim Law: Did your law school make the cut this time around? Robot Justice: AI has a role to play in access to justice, but it might not be performing the tasks you&amp;#x27;re expecting. The post Todd Blanche&amp;amp;#8217;s Tears &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 00:03:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Legal Ethics Roundup: DOJ Ethics Probe, Bar Exam Tampering, AI Billing Limits, TX Reconsiders ABA Accreditation Council, Biglaw Shakeup, AI Privilege &amp; More</title>
       <link>https://abovethelaw.com/2026/11/legal-ethics-roundup-doj-ethics-probe-bar-exam-tampering-ai-billing-limits-tx-reconsiders-aba-accreditation-council-biglaw-shakeup-ai-privilege-more/</link>
@@ -4356,16 +4364,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1258977050-2-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>ICE Has Been Dumping Protester Photos Into a Palantir Database</title>
-      <link>https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database/</guid>
-      <description>DHS agents not only tracked and intimidated people observing ICE activity in Maine, but stored information about them in a Palantir-built database, newly unsealed court filings say.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 02 Oct 2026 19:52:36 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6abfefc1a18993c6adb83fa3/master/pass/GettyImages-2285538235.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6abfefc1a18993c6adb83fa3/master/pass/GettyImages-2285538235.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
