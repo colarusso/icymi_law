@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 09:56:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:56:01 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulation-Guided Clinical Trials: Is EU Law Ready?</title>
+      <link>https://abovethelaw.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/simulation-guided-clinical-trials-is-eu-law-ready/</guid>
+      <description>Simulations do not replace human judgment: they inform it, making transparent what would otherwise remain a ‘black box.’ EU law does not require them today; but a proportionate embrace, in the right legislative vehicle, with clear methodological standards, and without crushing noncommercial research, could make trials safer, faster, cheaper, and more reliable, without sacrificing rigor. The post Simulation-Guided Clinical Trials: Is EU Law Ready? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 10 Nov 2026 15:02:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Tax Research Platform Blue J Raises $176M to Expand Its Agentic AI and Reach New Markets</title>
       <link>https://www.lawnext.com/2026/11/tax-research-platform-blue-j-raises-176m-to-expand-its-agentic-ai-and-reach-new-markets.html</link>
@@ -4356,16 +4364,6 @@
       <description>Agentic commerce will not eliminate internal governance. It will make vague governance harder to hide. The post Who Owns The Rules For An AI Agent? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 05 Oct 2026 15:32:46 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>AI glasses face their first major government crackdown</title>
-      <link>https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/</guid>
-      <description>Norway wants time to write permanent rules for glasses that can record bystanders.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 05 Oct 2026 13:39:30 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
