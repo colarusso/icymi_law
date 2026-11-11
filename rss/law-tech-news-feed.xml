@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:56:52 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:55:59 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Congress to call Jensen Huang in to answer for alleged Chinese spy affair</title>
+      <link>https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/</guid>
+      <description>Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 19:22:22 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>🤕 Medicare's AI Experiment | EFFector 38.20</title>
       <link>https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820</link>
@@ -4350,16 +4358,6 @@
       <media:content url="https://i.guim.co.uk/img/media/9f3c49ed886fe6452020bb458ef7a0bd5b62a8fe/1131_926_2152_1722/master/2152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b9635d09a6896fdefd8b22d7cf726b" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/9f3c49ed886fe6452020bb458ef7a0bd5b62a8fe/1131_926_2152_1722/master/2152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b9635d09a6896fdefd8b22d7cf726b" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Italian PM files to trademark her voice against AI threats</title>
-      <link>https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 11:24:10 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
