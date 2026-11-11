@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:56:34 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:56:52 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🤕 Medicare's AI Experiment | EFFector 38.20</title>
+      <link>https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/11/medicares-ai-experiment-effector-3820</guid>
+      <description>When we need medical care, we expect decisions about our treatment to be made by our doctors, not a tech company&amp;#x27;s algorithm. But in January, the federal government launched a program that uses AI to to evaluate Medicare beneficiaries&amp;#x27; requests for certain procedures. EFF sued for records on WISeR, seeking badly needed transparency about Medicare&amp;#x27;s AI experiment. In our latest EFFector newsletter, we&amp;#x27;re talking about what happens when the government outsources treatment approval to private AI companies—without sufficient transparency, testing, or legal limits. JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers unconstitutional digital dragnets, a post office surveillance scheme, and what EFF uncovered about Medicare&amp;#x27;s AI experiment. Prefer to listen in? EFFector is now available on all major podcast platforms. This time we&amp;#x27;re talking to EFF&amp;#x27;s Lena Cohen about WISeR records documenting improper denials, operational chaos, and lengthy delays that have left patients waiting in pain. You can find the episode and subscribe on your podcast platform of choice: %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2Fdd676393-5a53-4517-b42b-6fef4f0f0052%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your right to digital privacy? Sign up for EFF&amp;#x27;s EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 18:32:37 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/effector-green-web.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/effector-green-web.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
+    <item>
+      <title>Loot boxes, influencers, and addictive features face an EU crackdown</title>
+      <link>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</guid>
+      <description>Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make &amp;quot;your online experience fairer.&amp;quot; The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 18:13:52 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Three People Arrested for AI-Enhanced Impersonation Fraud</title>
       <link>https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</link>
@@ -4341,26 +4359,6 @@
       <pubDate>Tue, 06 Oct 2026 11:24:10 +0000</pubDate>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc57/live/ceb63ea0-c15f-11f1-ae7b-cfc528a6c828.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>Ofcom investigates Meta over Instagram Instants safety checks</title>
-      <link>https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/06/ofcom-investigates-meta-instagram-instants-safety-checks</guid>
-      <description>Watchdog examining whether company carried out adequate risk assessment as required by Online Safety ActMark Zuckerberg’s Meta is under investigation for a potential breach of the UK’s digital safety laws after launching a Snapchat-style feature on Instagram.The UK’s communications watchdog, Ofcom, is investigating whether the $1.9tn (£1.4tn) company infringed the Online Safety Act (OSA) by failing to carry out adequate checks on whether its Instagram Instants product could show illegal content or be accessed by children. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 10:15:31 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/d32935eb8fe684c5df9e554c9ba560f753b0e08e/504_0_3795_3037/master/3795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcaef66c5271ffdbac83053e54a5b918" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/d32935eb8fe684c5df9e554c9ba560f753b0e08e/504_0_3795_3037/master/3795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcaef66c5271ffdbac83053e54a5b918" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Ofcom investigates Meta over Instagram Instants feature</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:04:02 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cb/live/8dbea280-c163-11f1-ae7b-cfc528a6c828.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1cb/live/8dbea280-c163-11f1-ae7b-cfc528a6c828.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
