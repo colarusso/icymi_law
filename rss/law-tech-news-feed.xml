@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:55:54 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:55:59 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CEO Jensen Huang's job is suddenly on the line at Nvidia</title>
+      <link>https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/</guid>
+      <description>The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 23:10:17 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>United won’t let your AI agent book your flight</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
@@ -4345,16 +4355,6 @@
       <pubDate>Tue, 06 Oct 2026 14:00:16 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/c2dfa51f1648c91edd6ddfc5ab431cd670b80eba/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba022b4f5e38c1610212b48f33491b5d" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/c2dfa51f1648c91edd6ddfc5ab431cd670b80eba/1_0_2999_2400/master/2999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba022b4f5e38c1610212b48f33491b5d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>‘We’re not going to go away’: the mom fighting for social media reform after her son’s suicide</title>
-      <link>https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary</link>
-      <guid isPermaLink="true">https://www.theguardian.com/film/2026/oct/06/your-attention-please-documentary</guid>
-      <description>A new documentary follows Kristin Bride as she takes on Congress after the death of her 16-year-old son who was cyberbulliedAt this point in time, going anywhere without your smartphone feels almost like leaving behind a limb. Whether it’s for directions, distraction or the discourse on social media, our phones have become both a necessity and a crutch in our everyday lives, with our bodies literally evolving around the glow of the screen.But no matter how much we think we need all the bells and whistles of the attention economy, the attention economy actually needs us more than we need it. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 09:00:07 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/4971251b3047fc99e1490b9c193a858d7c4da03c/509_0_2697_2160/master/2697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30dc8d165e3207f44f7382f4d1a69344" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/4971251b3047fc99e1490b9c193a858d7c4da03c/509_0_2697_2160/master/2697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30dc8d165e3207f44f7382f4d1a69344" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
