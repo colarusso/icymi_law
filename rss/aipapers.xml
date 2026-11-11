@@ -5,8 +5,44 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:08:13 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:09:29 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The End of Software Copyright</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7682724</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7682724</guid>
+      <description>The vast majority of coders and software companies today use AI-generated code or employ programmers who do; surveys suggest that nearly 90% of coders ar&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥 · reposts: 15 · likes: 39&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 05:09:29 -0500</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>In re: OpenAI Copyright Infringement Litigation, Amicus Brief of Ron Suskind and Brian L. Frye in Support of Neither Party</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7689342</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7689342</guid>
+      <description>This document is an amicus brief written by Ron Suskind and Brian L. Frye that was filed in United States District Court for the Southern District of New York i&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 05:09:29 -0500</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop</title>
+      <link>http://arxiv.org/abs/2603.26707</link>
+      <guid isPermaLink="true">http://arxiv.org/abs/2603.26707</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:72ltwlqby6oe5rucudbck4jj/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;This paper documents and theorises a self-reinforcing dynamic between two measurable trends: the exponential expansion of large language model (LLM) context windows and the secular contraction of huma...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 05:09:29 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:72ltwlqby6oe5rucudbck4jj/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:72ltwlqby6oe5rucudbck4jj/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>PatternBloom: Empowering Agentic RAG with Externalized RL-Distilled Graph Patterns</title>
+      <link>https://arxiv.org/abs/2611.10477</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.10477</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Reinforcement-learning-trained agents for retrieval-augmented generation retrieve content (passages, knowledge-graph fragments, or hyperedges) and supervise training with outcome rewards on the final answer. Across these paradigms the reasoning route through retrieved content never leaves the langu…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 05:09:29 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The calibration deficit: a challenge for Earth system simulation and emulation</title>
       <link>https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6437/</link>
@@ -465,46 +501,6 @@
       <pubDate>Thu, 29 Oct 2026 06:11:08 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Cheap AI-Assisted Reverse Engineering and What It Will Do</title>
-      <link>https://arxiv.org/abs/2610.35633</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.35633</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hnika5hsjnw3c4z3v7rjby7/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative AI is putting the law of reverse engineering (RE) under severe strain. Existing IP and technology laws assume that RE is expensive and time-consuming, and that it requires specialized exper...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 20 · likes: 36&lt;/small&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 06:10:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hnika5hsjnw3c4z3v7rjby7/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5hnika5hsjnw3c4z3v7rjby7/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Atlas of Human-AI Interaction: An Interactive Knowledge Graph for Research Sensemaking at Scale</title>
-      <link>https://arxiv.org/abs/2509.25499</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2509.25499</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifvz3me7pynrqmzpprrqmecmqp5jkanpqzjjluw6dhypap2okttae" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Atlas of Human-AI Interaction: An Interactive Knowledge Graph for Research Sensemaking at Scale&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 12&lt;/small&gt;</description>
-      <pubDate>Wed, 28 Oct 2026 06:10:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifvz3me7pynrqmzpprrqmecmqp5jkanpqzjjluw6dhypap2okttae" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifvz3me7pynrqmzpprrqmecmqp5jkanpqzjjluw6dhypap2okttae" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>math/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf at main · openai/math</title>
-      <link>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</link>
-      <guid isPermaLink="true">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yym5dkfbnzf6lspvh4hnstjg/bafkreih3m5aw5v2ny3b2sk5xmfmlpf2camrzx4odnf5vpvubpftf26pwge" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Contribute to openai/math development by creating an account on GitHub.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥 · reposts: 13 · likes: 64&lt;/small&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 06:09:48 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yym5dkfbnzf6lspvh4hnstjg/bafkreih3m5aw5v2ny3b2sk5xmfmlpf2camrzx4odnf5vpvubpftf26pwge" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yym5dkfbnzf6lspvh4hnstjg/bafkreih3m5aw5v2ny3b2sk5xmfmlpf2camrzx4odnf5vpvubpftf26pwge" type="image/jpeg" length="0" />
-      <source url="https://github.com">github.com</source>
-    </item>
-    <item>
-      <title>Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits</title>
-      <link>https://arxiv.org/abs/2605.18890</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2605.18890</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The scientific claims drawn from LLM social simulations should be no stronger than the robustness audits that support them. Generative agents bring new expressive power to agent-based modeling, enabli...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 3 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Tue, 27 Oct 2026 06:09:48 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:d3hkcs4lca46ic74i6hcytfi/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
