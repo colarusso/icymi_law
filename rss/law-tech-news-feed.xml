@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:55:59 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:55:53 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/</guid>
+      <description>Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 20:32:21 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Congress to call Jensen Huang in to answer for alleged Chinese spy affair</title>
       <link>https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/</link>
@@ -4347,16 +4357,6 @@
       <pubDate>Tue, 06 Oct 2026 13:23:45 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/816_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5efe6c1f549ab8c841b7053371a5d5d" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/816_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5efe6c1f549ab8c841b7053371a5d5d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>OpenAI admits misstep in handling AI agent interactions with Australian government sites – video</title>
-      <link>https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video</link>
-      <guid isPermaLink="true">https://www.theguardian.com/australia-news/video/2026/oct/06/openai-australia-parliamentary-inquiry-jason-kwon-video</guid>
-      <description>In a parliamentary inquiry, OpenAI chief strategy officer Jason Kwon is questioned by independent senator David Pocock about the company&amp;#x27;s notification process after OpenAI agents accessed Australian government website data in June. Asked why OpenAI relied on an arbitrary department email rather than direct government contacts, Kwon acknowledges that &amp;#x27;in retrospect, we should have done what you&amp;#x27;re suggesting&amp;#x27;. He explains that staff had treated the incident as a &amp;#x27;technical situation&amp;#x27; and sought to contact technical counterparts, which he says was &amp;#x27;not good enough&amp;#x27;OpenAI has &amp;#x27;work to do to rebuild trust&amp;#x27; in Australia, executive tells AI inquiry Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 07:32:25 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/9f3c49ed886fe6452020bb458ef7a0bd5b62a8fe/1131_926_2152_1722/master/2152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b9635d09a6896fdefd8b22d7cf726b" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/9f3c49ed886fe6452020bb458ef7a0bd5b62a8fe/1131_926_2152_1722/master/2152.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39b9635d09a6896fdefd8b22d7cf726b" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
