@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:55:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:55:55 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>United won’t let your AI agent book your flight</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</guid>
+      <description>United says it won&amp;#x27;t let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn&amp;#x27;t yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 21:54:21 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</title>
       <link>https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/</link>
@@ -4347,16 +4355,6 @@
       <pubDate>Tue, 06 Oct 2026 09:00:07 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/4971251b3047fc99e1490b9c193a858d7c4da03c/509_0_2697_2160/master/2697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30dc8d165e3207f44f7382f4d1a69344" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/4971251b3047fc99e1490b9c193a858d7c4da03c/509_0_2697_2160/master/2697.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=30dc8d165e3207f44f7382f4d1a69344" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Trump makes it clear his power is becoming entwined with AI</title>
-      <link>https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape</guid>
-      <description>New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominouslyHello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy.OpenAI safety leader quits, warning AI company’s culture is ‘broken’Forget ‘superintelligence’: error-prone AI nearly sparked world war three this monthAI chatbots remove hijabs from images of Muslim women when promptedGoogle rolls out new Gemini AI model but restricts access over safety concernsCalifornia issues investigative subpoena to OpenAI over rogue agents’ hackingThe AI industry is booming. Women are getting left behind‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to WashingtonRural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’Georgia holds emergency meeting on AI exposing voters’ secret ballotsPeter Thiel revealed as secret buyer of Bel Air mansion that sold for $130mNew Google Maps images reveal massive scale of devastation in Gaza Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 13:23:45 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/816_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5efe6c1f549ab8c841b7053371a5d5d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/816_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5efe6c1f549ab8c841b7053371a5d5d" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
