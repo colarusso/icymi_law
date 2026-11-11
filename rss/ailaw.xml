@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#ailaw</link>
     <description>Popular links about AI and the law shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:07:04 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:07:16 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/ailaw.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man wrongly jailed after AI mismatch can pursue lawsuit for now</title>
+      <link>https://reut.rs/4BSI4NV</link>
+      <guid isPermaLink="true">https://reut.rs/4BSI4NV</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreibwnmn6dswxbjgs7ohfpmjqpcbrbp6ew7vhhsx7aalmqfmd7piyj4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A federal judge in Kentucky has allowed a lawsuit to proceed against a police detective for allegedly relying exclusively on AI facial-recognition technology to identify a check fraud suspect, ​leading to the arrest and imprisonment of the wrong person.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 69 · likes: 177&lt;/small&gt;</description>
+      <pubDate>Wed, 11 Nov 2026 05:07:16 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreibwnmn6dswxbjgs7ohfpmjqpcbrbp6ew7vhhsx7aalmqfmd7piyj4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreibwnmn6dswxbjgs7ohfpmjqpcbrbp6ew7vhhsx7aalmqfmd7piyj4" type="image/jpeg" length="0" />
+      <source url="https://reut.rs">reut.rs</source>
+    </item>
     <item>
       <title>A New Agenda for Tech Regulation Beyond AI</title>
       <link>https://buff.ly/nAMhcpc</link>
@@ -494,16 +504,6 @@
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tfsefp5skxsk2s53jz55juv2/bafkreigvgdknbmbflrl4ilsaabnnnjgqhgds6ltp4soieqopft3rdaw7na" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tfsefp5skxsk2s53jz55juv2/bafkreigvgdknbmbflrl4ilsaabnnnjgqhgds6ltp4soieqopft3rdaw7na" type="image/jpeg" length="0" />
       <source url="https://www.reuters.com">www.reuters.com</source>
-    </item>
-    <item>
-      <title>Appeals court lifts block on Mississippi's DEI ban, ejects judge over AI errors</title>
-      <link>https://reut.rs/4i39Qzp</link>
-      <guid isPermaLink="true">https://reut.rs/4i39Qzp</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreibp7g26j7ib62dpmf6pim7it4ccka2wanho6bbbbuyduh4iv6plri" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A federal appeals court on Thursday vacated a ruling that ​blocked Mississippi&amp;#x27;s ban on diversity, equity and inclusion programs in public schools, reassigning the case away from a district court judg...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 30 · likes: 94&lt;/small&gt;</description>
-      <pubDate>Sat, 24 Oct 2026 06:06:55 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreibp7g26j7ib62dpmf6pim7it4ccka2wanho6bbbbuyduh4iv6plri" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ieqql4ogk6t5zdgimr2pntnm/bafkreibp7g26j7ib62dpmf6pim7it4ccka2wanho6bbbbuyduh4iv6plri" type="image/jpeg" length="0" />
-      <source url="https://reut.rs">reut.rs</source>
     </item>
   </channel>
 </rss>
