@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:56:52 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:56:32 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda</title>
+      <link>https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda</link>
+      <guid isPermaLink="true">https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda</guid>
+      <description>Order a Diet Coke or invade Iran – that’s the choice facing the US president in one of several satirical games, as designers turn the gamification of politics back on the White HouseIn early September, the Trump White House announced a surprising new addition to its official website. Named simply Arcade, it is a collection of browser games based on classic titles such as Flappy Bird, Snake, and Tetris, but re-tuned as flagrant works of political propaganda. Designed to court reactionary gamers, they push the administration’s policies on immigration and other hot-button issues, while dehumanising their targets. There have recently been some new additions: a Temple Run clone named Red Scare about crossing the “ration market” and escaping the Democratic Socialists of America, and another simple item-matching game about the threat of socialism. In the midst of increasing fuel, utility and grocery prices thanks to the Iran war, these were naked attempts to distract voters by appealing to their video game nostalgia.After an explosion of news coverage, Arcade caught the attention of the games industry. The Tetris Company warned on social media that it “took copyright infringement very seriously.” Days later, the game was removed from the White House site. However, aside from a March 2026 statement from the Pokémon Company condemning the White House for using its characters in Immigration and Customs Enforcement (ICE) propaganda, major video game companies have been relatively silent in the face of the administration’s widespread usage of their IP. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 14:00:43 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b70cb5a1fb4d4215ea4bfc914078a7a6" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b70cb5a1fb4d4215ea4bfc914078a7a6" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Morning Docket: 11.12.26</title>
       <link>https://abovethelaw.com/2026/11/morning-docket-11-12-26/</link>
@@ -4348,14 +4358,6 @@
       <description>I&amp;amp;#8217;ve written a few times now about why Meta&amp;amp;#8217;s big &amp;amp;#8220;settlement&amp;amp;#8221; with the states is a bad deal. It&amp;amp;#8217;s Meta seeking to control how the rest of the internet is regulated in a way that, as Eric Goldman&amp;amp;#8217;s op-ed we republished explains, is anti-competitive. It&amp;amp;#8217;s also bad for kids (while everyone is pretending it protects [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 06 Oct 2026 22:00:50 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Department Of Justice Ordered To Call Artificial Intelligence ‘SI’ To Satisfy Donald Trump Fever Dreams</title>
-      <link>https://abovethelaw.com/2026/10/department-of-justice-ordered-to-call-artificial-intelligence-si-to-satisfy-donald-trump-fever-dreams/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/department-of-justice-ordered-to-call-artificial-intelligence-si-to-satisfy-donald-trump-fever-dreams/</guid>
-      <description>Are you ready for the next litmus test of Biglaw cowardice? The post Department Of Justice Ordered To Call Artificial Intelligence &amp;amp;#8216;SI&amp;amp;#8217; To Satisfy Donald Trump Fever Dreams appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
