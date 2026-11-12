@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:56:02 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:56:03 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jensen Huang agrees to testify before Congress</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</guid>
+      <description>Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 16:36:37 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang</link>
@@ -4349,16 +4357,6 @@
       <pubDate>Wed, 07 Oct 2026 00:28:14 +0000</pubDate>
       <media:content url="https://i.guim.co.uk/img/media/ae5415b46aecfb398b1529a993e91833cb19008b/406_0_4055_3244/master/4055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2c8ceb7b41b746016bc4f4b93629e71" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/ae5415b46aecfb398b1529a993e91833cb19008b/406_0_4055_3244/master/4055.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2c8ceb7b41b746016bc4f4b93629e71" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Google told to halt work on datacentres in Finland over environmental concerns</title>
-      <link>https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment</guid>
-      <description>Order on two construction sites comes after Google failed to carry out environmental impact assessmentsGoogle has been ordered to temporarily stop work on two datacentres in Finland after failing to do the necessary environmental impact assessments on its construction sites.The planned datacentres in Muhos and Kajanni are part of a €13bn (£11bn) project across multiple sites in northern Finland by the technology company amid huge demand for space to house online infrastructure. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 06 Oct 2026 18:02:56 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94737ebde78cf77bb6f11a8127225101" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94737ebde78cf77bb6f11a8127225101" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
