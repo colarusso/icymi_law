@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:09:29 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:10:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Surprising Effectiveness of Deleting Weights in LLM Post-Training</title>
+      <link>https://arxiv.org/abs/2611.10866</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.10866</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;How little of a pretrained large language model (LLM) has to change for it to acquire new capabilities? We find that zeroing fewer than 0.05% of its weights, with no other modification, matches full fine-tuning (FFT) at scale across three LLM post-training regimes: reinforcement learning with verifiable rewards, supervised fine-tuning, and on-policy distillation. Our method, Deletion Tuning, learns a binary mask over the gate projection of transformer blocks. Two practical advantages follow: the trained mask is hundreds to thousands of times smaller than the corresponding FFT checkpoint, and Deletion Tuning forgets far less, which addresses a central challenge in continual learning. Under reinforcement learning, its prior-task accuracy stays near the base level while FFT, LoRA, and random sparse fine-tuning lose up to 5.4 points. To understand why masking alone suffices, we analyze the geometry of the learned weight changes under reinforcement learning using stable rank, spectrum drift, and principal-weight overlap. Compared with LoRA and random sparse fine-tuning, Deletion Tuning is closest to FFT across the three measures.&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 2 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 05:10:13 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>How Many Votes is a Lie Worth? Measuring Strategyproofness through Resource Augmentation</title>
+      <link>https://arxiv.org/abs/2602.22838</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.22838</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;It is well known, by the Gibbard-Satterthwaite Theorem, that when there are more than two candidates, any non-dictatorial voting rule can be manipulated by untruthful voters. But how much stronger is ...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Thu, 12 Nov 2026 05:10:13 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gdaie34iakyw4ty6lhxxrbxs/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>The End of Software Copyright</title>
       <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7682724</link>
@@ -481,26 +501,6 @@
       <pubDate>Fri, 30 Oct 2026 06:10:36 -0400</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nv5oeyb6wfhvqdjniea2mvsu/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>RouteDRAG: Learning to Route and Control Agentic Execution for Multimodal Document RAG</title>
-      <link>https://arxiv.org/abs/2610.36444</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.36444</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Web-based applications increasingly rely on understanding long multimodal documents, where answering questions often requires combining information across pages, tables, and figures. Agentic retrieval-augmented generation addresses these tasks through iterative retrieval and reasoning. However, Age…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 7&lt;/small&gt;</description>
-      <pubDate>Fri, 30 Oct 2026 06:10:36 -0400</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>DeepInfer-Mac: Running a 750B-Class MoE on a 24 GB Laptop</title>
-      <link>https://arxiv.org/abs/2610.36564</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.36564</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for DeepInfer-Mac: Running a 750B-Class MoE on a 24 GB Laptop&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 2 · likes: 25&lt;/small&gt;</description>
-      <pubDate>Thu, 29 Oct 2026 06:11:08 -0400</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreidss6foehhrigkmsexfg4uccciqpeinqyxjgqdu2vacrkiuvyiwhe" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
