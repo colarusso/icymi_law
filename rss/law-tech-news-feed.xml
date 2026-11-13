@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:56:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:56:06 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/</guid>
+      <description>Governments, hospitals, courts scrambled by global Microsoft outage.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 15:26:53 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>How crypto and AI lost the midterms, and why they say they didn’t</title>
       <link>https://www.citationneeded.news/crypto-ai-lost-the-midterms/</link>
@@ -4348,14 +4358,6 @@
       <description>Legal Innovators UK, on November 4 and 5 in London at the Minster Building, is right around the corner and Express Registration is now open ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 07:55:30 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>India rejects Elon Musk’s claim of discrimination over Starlink launch</title>
-      <link>https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</guid>
-      <description>Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 06:14:11 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
