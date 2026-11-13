@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:56:13 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:55:57 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stat(s) Of The Week: An Uneasy Relationship</title>
+      <link>https://abovethelaw.com/2026/11/stats-of-the-week-an-uneasy-relationship/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/stats-of-the-week-an-uneasy-relationship/</guid>
+      <description>Lawyers may rely on AI, but they don’t quite trust it. The post Stat(s) Of The Week: An Uneasy Relationship appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 23:16:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>AI In Our Courts: Useful Or A Magic 8 Ball?</title>
       <link>https://abovethelaw.com/2026/11/ai-in-our-courts-useful-or-a-magic-8-ball/</link>
@@ -4346,14 +4354,6 @@
       <description>Courts may take years to sort out legal standards for frontier firms&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.economist.com/united-states/rss.xml&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 13:01:51 +0000</pubDate>
       <source url="https://www.economist.com">www.economist.com</source>
-    </item>
-    <item>
-      <title>OpenAI Decisions – Cheaper Bulk Review For Lawyers</title>
-      <link>https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/</guid>
-      <description>OpenAI has launched Decisions, its own decision system which will compete with the likes of Jev (see here). It could potentially reduce AI costs for ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 09:30:27 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
