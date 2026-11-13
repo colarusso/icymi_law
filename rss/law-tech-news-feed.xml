@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:56:34 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:56:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI In Our Courts: Useful Or A Magic 8 Ball?</title>
+      <link>https://abovethelaw.com/2026/11/ai-in-our-courts-useful-or-a-magic-8-ball/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/ai-in-our-courts-useful-or-a-magic-8-ball/</guid>
+      <description>The difference between how two judges looked at AI and its use could not be more stark. The post AI In Our Courts: Useful Or A Magic 8 Ball? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 22:35:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Tech Companies Are Trying to Shift the Entire Concept of Privacy (Again)</title>
       <link>https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again</link>
@@ -4346,14 +4354,6 @@
       <description>OpenAI has launched Decisions, its own decision system which will compete with the likes of Jev (see here). It could potentially reduce AI costs for ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 09:30:27 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.</title>
-      <link>https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html</guid>
-      <description>A tech start-up’s stunt in San Francisco tested the boundaries of combat sport safety and regulations.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 09:03:22 +0000</pubDate>
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
