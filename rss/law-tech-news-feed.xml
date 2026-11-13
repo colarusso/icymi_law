@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 11:55:59 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:56:20 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI is betting a data center rebrand will make you hate them less</title>
+      <link>https://www.vox.com/podcasts/510722/openai-chris-lehane-data-center-rebrand-2026-midterms-regulation</link>
+      <guid isPermaLink="true">https://www.vox.com/podcasts/510722/openai-chris-lehane-data-center-rebrand-2026-midterms-regulation</guid>
+      <description>Republicans weren’t the only big losers in last week’s midterms: Across the country, voters also backed restrictions on data centers and elected candidates promising tougher oversight of AI companies. Out of 41 local ballot initiatives limiting the data center buildout, 40 of them passed, according to the New York Times.&amp;amp;#160; The AI industry knows it [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.vox.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 13 Nov 2026 17:35:00 +0000</pubDate>
+      <source url="https://www.vox.com">www.vox.com</source>
+    </item>
     <item>
       <title>Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says</title>
       <link>https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/</link>
@@ -4350,14 +4358,6 @@
       <media:content url="https://i.guim.co.uk/img/media/557e5881fe84f95c55110ffd636d0520f7693bfc/2_55_1084_867/master/1084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53ccde0a5b7153a8de6a31afc86a35f3" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/557e5881fe84f95c55110ffd636d0520f7693bfc/2_55_1084_867/master/1084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53ccde0a5b7153a8de6a31afc86a35f3" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Express Registration Opens for Legal Innovators UK – Nov 4 + 5</title>
-      <link>https://www.artificiallawyer.com/2026/10/08/express-registration-opens-for-legal-innovators-uk-nov-4-5/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/08/express-registration-opens-for-legal-innovators-uk-nov-4-5/</guid>
-      <description>Legal Innovators UK, on November 4 and 5 in London at the Minster Building, is right around the corner and Express Registration is now open ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 07:55:30 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
