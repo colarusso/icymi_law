@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:56:06 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:56:23 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South Korea's top scorer in tax accountancy exam admits cheating</title>
+      <link>https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 13:37:45 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png" medium="image" type="image/png" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png" type="image/png" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating</title>
+      <link>https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam</guid>
+      <description>Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 08:56:11 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=653a5ed8aed2d8882aaba908007315a7" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=653a5ed8aed2d8882aaba908007315a7" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Italy fines Meta $887m for accessing Android users’ photos and videos</title>
+      <link>https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos</guid>
+      <description>The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decisionItaly’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent.Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users “without obtaining specific consent and without properly informing them”, the authority said in a statement. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 02:02:01 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a21d148cf4521bdbbe4b16afaee635cc" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a21d148cf4521bdbbe4b16afaee635cc" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Italy fines Meta €805m over accessing users' photos</title>
       <link>https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4332,30 +4362,6 @@
       <media:content url="https://www.eff.org/files/banner_library/daf_day_tangerine.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/daf_day_tangerine.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers</title>
-      <link>https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/</guid>
-      <description>The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 15:42:26 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>New York alleges TikTok gave teens, children a placebo safety feature instead of a real one</title>
-      <link>https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/</guid>
-      <description>New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 15:06:17 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Legal Front Door Coheso Launches Memory + AL Interview</title>
-      <link>https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/</guid>
-      <description>Coheso, the legal front door pioneer, has launched Memory, which turns resolved legal requests into institutional knowledge. See AL Interview with CEO, Ned Gannon, below. ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 13:50:32 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
