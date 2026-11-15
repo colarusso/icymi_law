@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:56:02 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:56:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid>
+      <description>Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>South Korea's top scorer in tax accountancy exam admits cheating</title>
       <link>https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -4352,16 +4360,6 @@
       <description>As a former lawyer, a legal technology CEO, and a paying client of five major law firms, I see how legal services are built, sold, and experienced. Recently, my wife and I sent three firms an RFP for personal legal work. One firm responded with a partner&amp;amp;#8217;s name, an associate&amp;amp;#8217;s name, an hourly rate, and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 16:14:07 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>It's DAF Day! Wait...What's a DAF?</title>
-      <link>https://www.eff.org/deeplinks/2026/10/its-daf-day-wait-whats-daf</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/its-daf-day-wait-whats-daf</guid>
-      <description>Today is DAF Day! This event highlights the millions of donor-advised funds (DAFs) people have set up to make charitable donations and change the world. If you have a DAF, consider supporting EFF today. Decisions about your privacy, encryption, artificial intelligence, online speech, and digital security will determine whether technology empowers people or concentrates power in the hands of a few. A grant from your DAF to EFF supports our mission to ensure that technology remains a force for freedom, innovation, and human rights. If you’ve never heard of a DAF, just think of it as a bank account for your giving with some special benefits. Grants from DAFs allow you to: Simplify your taxes by receiving an upfront single deduction for your multiple charitable donations Receive immediate tax benefits of multi-year gifts Avoid capital gains tax on long-term appreciated assets like stocks Boost your giving by investing your DAF funds While allowing EFF to: Defend encryption, privacy, and security that protect users and developers Challenge unlawful surveillance and censorship that threaten democracy Shape technology policy to safeguards civil liberties while enabling innovation Build free privacy-preserving tools that strengthen digital autonomy Protect the rights of creators, researchers, and builders in the digital ecosystem Your support helps ensure that the next generation of technology will strengthen our freedom. Consider a DAF gift today. LEARN MORE&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 16:02:24 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/daf_day_tangerine.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/daf_day_tangerine.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
