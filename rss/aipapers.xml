@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:09:27 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:09:56 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Encoders</title>
+      <link>https://arxiv.org/abs/2611.14970</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.14970</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaxmdrdq6o2jr264k4jlbxlrl4zv4td2mnnf2xzzahkqxxjp3gifu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Encoders&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 05:09:56 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaxmdrdq6o2jr264k4jlbxlrl4zv4td2mnnf2xzzahkqxxjp3gifu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaxmdrdq6o2jr264k4jlbxlrl4zv4td2mnnf2xzzahkqxxjp3gifu" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Who Pays for the Knowledge Models Copy? Model Collapse as Rogers' Paradox</title>
+      <link>https://arxiv.org/abs/2611.06022</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.06022</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k6tyghnuicddudfx662mlylh/bafkreifpbkhrznxfx6r3fk26366lt7fwx3zzxofpoulw4wd5zdet7rpza4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Generative models trained on the output of earlier models lose knowledge across generations, rare knowledge first. The remedies that work all bring in information from outside the loop, and the theory...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 0 · likes: 7&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 05:09:56 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k6tyghnuicddudfx662mlylh/bafkreifpbkhrznxfx6r3fk26366lt7fwx3zzxofpoulw4wd5zdet7rpza4" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k6tyghnuicddudfx662mlylh/bafkreifpbkhrznxfx6r3fk26366lt7fwx3zzxofpoulw4wd5zdet7rpza4" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Cited but Unused: Parametric Provenance in Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2611.17161</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17161</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r2id5ogmv3mwkflk4vrl7kjl/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Retrieval-augmented generation systems attach citations to attribute claims to their sources. These citations frequently misstate provenance, and standard verification cannot detect this. We measure p...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 05:09:56 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r2id5ogmv3mwkflk4vrl7kjl/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:r2id5ogmv3mwkflk4vrl7kjl/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Emergent Representations of Program Semantics in Language Models Trained on Programs</title>
       <link>https://arxiv.org/abs/2305.11169</link>
@@ -471,36 +501,6 @@
       <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>TreasuryQA Bench: Can AI Agents Work an Archive of Scanned Financial Records?</title>
-      <link>https://arxiv.org/abs/2610.38924</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.38924</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Organisations keep decades of financial records as scanned PDFs on shared drives, and AI agents can now reach those drives through Model Context Protocol (MCP) servers. Existing benchmarks do not mirror this production setting because they simplify the task. In some, the relevant documents are hand…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?</title>
-      <link>https://arxiv.org/abs/2610.39497</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.39497</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Progress toward artificial general intelligence (AGI) has largely relied on scaling a resource-intensive executive, System-2, through larger models, more data and compute, longer reasoning, and more agents. We ask whether the next stage may come instead from co-designing it with System-1, a lightwe…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Letting AI Formulate the Research Question: Autonomous Research Agents</title>
-      <link>https://arxiv.org/abs/2610.39620</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.39620</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Systems such as The AI Scientist have shown that AI agents can carry out and write up research, but in those demonstrations humans chose the research area and selected the outputs to show. We study letting the AI formulate the research question itself, and we report every run. Our system gives an o…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 4&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
