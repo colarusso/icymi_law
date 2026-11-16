@@ -5,8 +5,42 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 14:56:24 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:56:23 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California sues OpenAI over rogue AI hacking incidents</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</guid>
+      <description>California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a &amp;quot;dangerous product without proper oversight,&amp;quot; as reported earlier by Reuters. The lawsuit claims the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 20:46:01 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Comcast's "fiber-powered Wi-Fi" is just cable, AT&amp;T says in false advertising case</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/</guid>
+      <description>AT&amp;amp;#038;T demands Comcast give AT&amp;amp;#038;T profits it made from advertising cable as fiber.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 20:27:58 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Legal Engineering: The Hot New Job At The Intersection Of Law And AI</title>
+      <link>https://abovethelaw.com/2026/11/legal-engineering-the-hot-new-job-at-the-intersection-of-law-and-ai/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/legal-engineering-the-hot-new-job-at-the-intersection-of-law-and-ai/</guid>
+      <description>AI companies and law firms are competing for lawyers who can bridge legal work and technology. The post Legal Engineering: The Hot New Job At The Intersection Of Law And AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 20:15:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>California state AG sues OpenAI over rogue agent incidents</title>
+      <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</guid>
+      <description>The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 20:07:13 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Access To Justice Hackathon Kicks Off</title>
       <link>https://abovethelaw.com/2026/11/access-to-justice-hackathon-kicks-off/</link>
@@ -4336,42 +4370,6 @@
       <media:content url="https://static01.nyt.com/images/2026/10/09/multimedia/09cul-reckoning-explainer-01-zjvh/09cul-reckoning-explainer-01-zjvh-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/10/09/multimedia/09cul-reckoning-explainer-01-zjvh/09cul-reckoning-explainer-01-zjvh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Harvey + Lexis, Google + Cooley, LI UK Tickets</title>
-      <link>https://www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/09/harvey-lexis-google-cooley-li-uk-tickets/</guid>
-      <description>We start this week’s Wrap with several chunky news stories, including a new capability jointly built by Harvey and LexisNexis – plus, the announcement that ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 07:36:11 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts</title>
-      <link>https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts</guid>
-      <description>Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdownsTom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding public contracts.Lord Watson, now a senior vice-president at the US tech corporation, said UK ministers could get themselves “in a lot of trouble” as he was questioned about concerns raised about the government working with his new employer. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 07:20:33 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/feaa93bb4c00e44a655ff9ed1d226f783dc7d75c/0_0_2750_2200/master/2750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=463595922b7a8989f804ca98047a7b1e" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/feaa93bb4c00e44a655ff9ed1d226f783dc7d75c/0_0_2750_2200/master/2750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=463595922b7a8989f804ca98047a7b1e" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Trump Mobile hack and apparent lack of FCC authorization raise security alarms</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/</guid>
-      <description>After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 20:39:31 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/trump-mobile-1152x648-1791486838.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/trump-mobile-1152x648-1791486838.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>The World’s Richest Law Firm Has Decided Money Isn’t Everything — See Also</title>
-      <link>https://abovethelaw.com/2026/10/the-worlds-richest-law-firm-has-decided-money-isnt-everything-see-also/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/the-worlds-richest-law-firm-has-decided-money-isnt-everything-see-also/</guid>
-      <description>Kirkland &amp;amp;#38; Ellis Is Done Sharing Its Revenue With The Media: Turns out $10 billion is right where the numbers stop providing &amp;#x27;meaningful value.&amp;#x27; Biglaw Wants Lawyers Who Know How To Use AI: But some law schools are outright banning it. This could turn into a recruitment problem... &amp;quot;Cartel Attorney&amp;quot; Shouldn&amp;#x27;t Be A Professional Goal: You may wind up behind bars for decades. DOJ Says The Press Ban Is Due To National Security, But Trump Keeps Pointing To The Bad Coverage: Judge says DOJ&amp;#x27;s argument is &amp;#x27;an uphill climb.&amp;#x27; Have A Super Day: Donald Trump rebranded AI as &amp;quot;super intelligence&amp;quot; and now he&amp;#x27;s rebranding everyone who doesn&amp;#x27;t go along &amp;quot;THE ENEMY!&amp;quot; The post The World&amp;amp;#8217;s Richest Law Firm Has Decided Money Isn&amp;amp;#8217;t Everything &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 23:31:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
