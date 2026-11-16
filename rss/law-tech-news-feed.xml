@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:56:11 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:56:05 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>California Sues OpenAI Over A.I. Safety Issues</title>
+      <link>https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html</guid>
+      <description>The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 18:47:13 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>The 2027 Law Firm Pulse Report: An In-House View</title>
       <link>https://abovethelaw.com/2026/11/the-2027-law-firm-pulse-report-an-in-house-view/</link>
@@ -4360,14 +4370,6 @@
       <description>With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder&amp;#x27;s desk.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>California is trying to shut down robot vs. human cage matches</title>
-      <link>https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human</guid>
-      <description>The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 20:06:56 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
