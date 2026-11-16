@@ -5,8 +5,38 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:09:56 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:07:42 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents</title>
+      <link>https://arxiv.org/abs/2505.22954?utm_source=chatgpt.com</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2505.22954?utm_source=chatgpt.com</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Today&amp;#x27;s AI systems have human-designed, fixed architectures and cannot autonomously and continuously improve themselves. The advance of AI could itself be automated. If done safely, that would acceler...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 7 · likes: 23&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 05:07:42 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zfo3ww2suaikfjuho3lvs7zs/bafkreid5ef6vsscqwei75f6d6ixwxru7unutp2iqw6zabq2c7k3hykpboq" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Toward Universal Translatability: On the Statistical Ontology of Generative AI</title>
+      <link>http://arxiv.org/abs/2611.17963</link>
+      <guid isPermaLink="true">http://arxiv.org/abs/2611.17963</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldimjs2u63o7r5xbjzbifwmr/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;This paper argues that the problem of translation functions both as a point of origin and as a normative horizon for contemporary generative AI. In current discourse around &amp;#x27;&amp;#x27;world models,&amp;#x27;&amp;#x27; their att...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 05:07:42 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldimjs2u63o7r5xbjzbifwmr/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ldimjs2u63o7r5xbjzbifwmr/bafkreifa2wylk6yt7yvshmvvwedptaubw7glvquzoen5u5xnqmu7isayhm" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Fast, but incomplete and inaccurate.pdf</title>
+      <link>https://osf.io/ghxn3/files/yqaju</link>
+      <guid isPermaLink="true">https://osf.io/ghxn3/files/yqaju</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ychpcoqh2h2po5gv2psfeqzu/bafkreic66oxr3fjlljowrbhpvm27z3tdd7ywylecs4ir52f72ckffywcfa" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 05:07:42 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ychpcoqh2h2po5gv2psfeqzu/bafkreic66oxr3fjlljowrbhpvm27z3tdd7ywylecs4ir52f72ckffywcfa" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ychpcoqh2h2po5gv2psfeqzu/bafkreic66oxr3fjlljowrbhpvm27z3tdd7ywylecs4ir52f72ckffywcfa" type="image/jpeg" length="0" />
+      <source url="https://osf.io">osf.io</source>
+    </item>
     <item>
       <title>Poison-then-Hide: Finetuning-Activated Backdoor Attack on Pretrained Vision Encoders</title>
       <link>https://arxiv.org/abs/2611.14970</link>
@@ -471,36 +501,6 @@
       <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning</title>
-      <link>https://arxiv.org/abs/2602.06600</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2602.06600</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifkopn7yx6vvvyitnsl4svllzcrctkz3fv7regcf6d4erwiaxwhm4" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 2 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifkopn7yx6vvvyitnsl4svllzcrctkz3fv7regcf6d4erwiaxwhm4" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifkopn7yx6vvvyitnsl4svllzcrctkz3fv7regcf6d4erwiaxwhm4" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Training Foundation Models with a Single Algorithm</title>
-      <link>https://arxiv.org/abs/2610.40564</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.40564</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiab7bfh7i56xogbw7qkx5tq26jtwsye4wh5prbrhkd37c2aryfyya" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Training Foundation Models with a Single Algorithm&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiab7bfh7i56xogbw7qkx5tq26jtwsye4wh5prbrhkd37c2aryfyya" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiab7bfh7i56xogbw7qkx5tq26jtwsye4wh5prbrhkd37c2aryfyya" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Incentives Shape How Humans Co-Create with Generative AI</title>
-      <link>https://arxiv.org/abs/2604.03529</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2604.03529</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Incentives Shape How Humans Co-Create with Generative AI&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiebn7xa4vnphogql3fw56zvxolpbvkm7zsnq5ty5se4xrh3fanode" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
