@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:56:26 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:56:17 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacker behind 2022 GTA VI leaks pleads guilty</title>
+      <link>https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj</guid>
+      <description>Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK&amp;#x27;s Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 23:35:58 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>The AI start-ups fixing India's broken roads and messy land records</title>
+      <link>https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 23:25:53 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>California sues OpenAI over Hugging Face attack</title>
+      <link>https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Attorney General Rob Bonta alleges OpenAI misled and endangered the public&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 23:12:24 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Trump DOJ Folds, Agrees To Permanent Ban On Censoring ICE Tracking Group And App</title>
       <link>https://www.techdirt.com/2026/11/16/trump-doj-folds-agrees-to-permanent-ban-on-censoring-ice-tracking-group-and-app/</link>
@@ -4345,30 +4373,6 @@
       <guid isPermaLink="true">https://abovethelaw.com/2026/10/biglaw-firm-will-pay-associates-to-be-bad-at-ai-for-a-while-100-hours-to-be-precise/</guid>
       <description>It&amp;#x27;s the only way to learn AI, and this firm has figured that out. The post Biglaw Firm Will Pay Associates To Be Bad At AI For A While (100 Hours, To Be Precise) appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 09 Oct 2026 16:14:31 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>YouTube, Meta, and Twitch won&amp;#8217;t say if they&amp;#8217;ll allow the US government to livestream an execution</title>
-      <link>https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream</link>
-      <guid isPermaLink="true">https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream</guid>
-      <description>YouTube, Twitch, Meta, and X aren&amp;#x27;t saying whether they&amp;#x27;ll allow the US government to livestream an execution on their platforms. The four companies didn&amp;#x27;t respond to The Verge&amp;#x27;s requests for comment after an unnamed Pentagon official said yesterday that the execution of Nidal Hasan, who was convicted of a mass shooting at a Texas military [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 15:15:30 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Federal Court Says Flock ALPR Database Searches Require A Warrant</title>
-      <link>https://abovethelaw.com/2026/10/federal-court-says-flock-alpr-database-searches-require-a-warrant/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/federal-court-says-flock-alpr-database-searches-require-a-warrant/</guid>
-      <description>From the great-but-this-is-the-wrong-circuit-for-this dept. The post Federal Court Says Flock ALPR Database Searches Require A Warrant appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 14:02:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 10.09.26</title>
-      <link>https://abovethelaw.com/2026/10/morning-docket-10-09-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/morning-docket-10-09-26/</guid>
-      <description>* DOJ seeking to indict Cassidy Hutchinson for testifying to the January 6 Committee about the insurrection. Grand jury testimony is supposed to be secret, but it&amp;#x27;s the Trump administration so spectacle outweighs. [NBC News] * OpenAI and Anthropic argue that open weight models are dangerous, implying that their products that are running around hacking people are not dangerous. Expect to hear this a lot in the context of &amp;quot;please ban all the more cost-effective options and give us a monopoly&amp;quot; over the coming months. [Bloomberg Law News] * Family separation is back, but this time it&amp;#x27;s a byproduct of vague detention guidance to make it more difficult to challenge. [Slate] * NCBE runs pilot bar exam to test out remote proctoring and &amp;quot;AI-assisted&amp;quot; questions -- you know, the things they claimed were existential threats to the very integrity of the process when California tried to step outside the monopoly. [ABA Journal] * Supreme Court stays case about FCC political advertising rate rule on cusp of election. [Election Law Blog] * NFL and multiple states ask Supreme Court if states can regulate gambling, which traditionally is an unquestioned state power, but now has to be run by our unelected Star Chamber for... reasons. [ESPN] * Arizona court system hacked, exposing 1.3 million people&amp;#x27;s information. [ABA Journal] * NYC suit against oil companies flagged false claims about cleaner gasoline in an effort to dupe consumers, but court tossed it claiming that the only people who care enough about the environment to let it impact their gas choice would have known the claims were bogus anyway. [Courthouse News Service] The post Morning Docket: 10.09.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 12:53:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
