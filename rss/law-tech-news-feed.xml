@@ -5,8 +5,56 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 20:55:47 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:56:45 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GTA 6 hacker pleads guilty after release from secure hospital</title>
+      <link>https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 13:34:22 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png" medium="image" type="image/png" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b17/live/41c7a2f0-e1a2-11f1-b0a4-450a350911f4.png" type="image/png" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>HSF Kramer Hires 6 Legal Engineers from Norm.AI</title>
+      <link>https://www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/11/16/hsf-kramer-hires-6-legal-engineers-from-norm-ai/</guid>
+      <description>New model, AI native law firms have been stealing headlines for months. Now Big Law has struck back. In a surprising move, HSF Kramer has ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 13:00:08 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic</title>
+      <link>https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html</guid>
+      <description>The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 10:02:09 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v3.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v3.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Intel sued by investors after PC sales slump hits share price</title>
+      <link>https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 03:04:01 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>How sensitive data from Centrelink and other Australian agencies may have been fed to Palantir software</title>
+      <link>https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/16/personal-data-centrelink-ato-ndis-palantir</guid>
+      <description>Exclusive: Personal information of Centrelink clients and childcare workers is among data shared with ACIC, which uses US tech company’s softwareThe personal information of Centrelink customers, taxpayers and childcare workers is among a trove of sensitive data that may be ending up in Palantir’s surveillance software in Australia, without the departments responsible for the information even knowing about it.As Guardian Australia reported in September, Palantir’s software is used by the Australian Criminal Intelligence Commission (ACIC) as part of the multi-agency fraud fusion taskforce, which was established in 2022 with the goal of targeting fraud in government payments from the national disability insurance scheme, childcare and welfare. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 15 Nov 2026 21:06:03 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/7ca1181a4138e0412b2c6313ada9da4dd8a1edde/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=becab6b376ee3eed7f61fa71160c247c" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/7ca1181a4138e0412b2c6313ada9da4dd8a1edde/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=becab6b376ee3eed7f61fa71160c247c" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows</title>
       <link>https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes</link>
@@ -4322,46 +4370,6 @@
       <description>Anthropic&amp;#x27;s updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 18:16:24 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>USA Today becomes the latest publisher to sue OpenAI</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit</guid>
-      <description>USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied &amp;quot;hundreds of thousands&amp;quot; of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI&amp;#x27;s unauthorized use of [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 17:58:33 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Trump administration says Microsoft &amp;#8216;abused&amp;#8217; worker visa program and is cutting off access</title>
-      <link>https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1008115/trump-microsoft-worker-visa-program-vance</guid>
-      <description>The Trump administration is suspending some tech companies, including Microsoft, from an immigration program that lets an employer hire foreign workers that can reside permanently in the US, as reported by Reuters. In a press conference, Vice President JD Vance claimed the permanent labor certification program - intended for use when there aren&amp;#x27;t &amp;quot;sufficient&amp;quot; US [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 16:57:27 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>New York accuses TikTok of serving users ‘placebo’ safety features</title>
-      <link>https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features</guid>
-      <description>New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given &amp;quot;ghost&amp;quot; versions of the platform&amp;#x27;s safety features rather than the working versions. Reuters reports the allegation is part of an &amp;quot;updated, sealed version&amp;quot; of New York&amp;#x27;s 2024 lawsuit against TikTok, which was &amp;quot;later ordered unsealed by a judge.&amp;quot; According [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 16:53:49 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>AT&amp;T + OpenAI Partner for Legal AI Workflows</title>
-      <link>https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/</guid>
-      <description>AT&amp;amp;#38;T LegalEdge, the telecom giant’s new inhouse legal agency, is partnering with OpenAI to develop AI-enabled legal workflows. Jason Boehmig, GM Legal Industry at OpenAI, ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 16:36:31 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Legal Operating Systems Are Here: 4 Questions To Ask Vendors</title>
-      <link>https://abovethelaw.com/2026/10/legal-operating-systems-are-here-4-questions-to-ask-vendors/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/legal-operating-systems-are-here-4-questions-to-ask-vendors/</guid>
-      <description>[Sponsored] Integration is now central to legal tech evaluations. Here’s how it works across three layers, and the questions in-house teams should ask vendors at each. The post Legal Operating Systems Are Here: 4 Questions To Ask Vendors appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 16:14:46 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
