@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:56:15 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:56:26 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump DOJ Folds, Agrees To Permanent Ban On Censoring ICE Tracking Group And App</title>
+      <link>https://www.techdirt.com/2026/11/16/trump-doj-folds-agrees-to-permanent-ban-on-censoring-ice-tracking-group-and-app/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/16/trump-doj-folds-agrees-to-permanent-ban-on-censoring-ice-tracking-group-and-app/</guid>
+      <description>Despite years of hype and nonsense about the Biden admin supposedly &amp;amp;#8220;censoring&amp;amp;#8221; people on social media, when that case finally went to court, it became clear that there was nothing behind it beyond a conspiracy theory. Yet when the Trump administration openly took credit for getting social media sites to suppress speech it didn&amp;amp;#8217;t like, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 21:07:19 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Donate Equity to Support Digital Rights: Stocks, DAFs, and Giving</title>
+      <link>https://www.eff.org/deeplinks/2026/11/how-donate-equity-support-digital-rights-stocks-dafs-and-charity</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/11/how-donate-equity-support-digital-rights-stocks-dafs-and-charity</guid>
+      <description>Do the holidays have you thinking about how you can support your favorite nonprofit? For 35 years, the Electronic Frontier Foundation has been advancing our digital rights, including defending security researchers, encrypting the web, and fighting illegal surveillance. Donating equity to EFF can help support this important work. Perhaps your family has taken advantage of the new tax law around giving by creating a Donor-Advised Fund. Perhaps your employer has gone public and you now own stock. Perhaps you’ve seen some of EFF’s recent successes and thought, Man, imagine what they could do with more. Stocks A gift of equity can help your contribution go farther and offer tax savings. When you donate appreciated stock, you avoid paying capital gains tax on any increase in its value. You also receive a charitable income tax deduction for the fair market value of appreciated stock on the date it is transferred. Also, more and more companies are offering gift-matching programs that can double your impact at no additional cost. If you have owned the stock for less than a year, your gift will not qualify for all of these potential tax advantages. And gifts of appreciated stock are fully deductible—up to a maximum of 30% of your adjusted gross income. Please check with your accountant or tax advisor regarding your particular tax status. We have helpful information here to facilitate the transfer of securities. Please email us if you have any questions. And let us know in advance if you are transferring securities. We’ll need to know the amount and type of shares that you will be donating in order to provide a tax receipt. Donor-Advised Funds As a 501(c)(3) organization, EFF can also receive distributions through your Donor-Advised Fund (DAF), including one-time gifts or recurring donations. Simply inform your DAF provider you would like to make a gift to: Electronic Frontier Foundation (EIN 04-3091431) 815 Eddy Street San Francisco, CA 94109 Please note that many DAF providers do not provide the donor’s name to the recipient organization. If you would like to be recognized for your gift, let us know the amount of the gift and the fund name. And due to IRS regulations, we may not be able to provide a thank you gift in line with your giving level. The DAF provider is responsible for your tax receipt. JOIN EFF The rules that govern technology shape our freedom. Help us write those rules today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 20:23:12 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/challenge-banner-1.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/challenge-banner-1.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>California sues OpenAI over rogue AI hacking incidents</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit</link>
@@ -4352,24 +4370,6 @@
       <description>* DOJ seeking to indict Cassidy Hutchinson for testifying to the January 6 Committee about the insurrection. Grand jury testimony is supposed to be secret, but it&amp;#x27;s the Trump administration so spectacle outweighs. [NBC News] * OpenAI and Anthropic argue that open weight models are dangerous, implying that their products that are running around hacking people are not dangerous. Expect to hear this a lot in the context of &amp;quot;please ban all the more cost-effective options and give us a monopoly&amp;quot; over the coming months. [Bloomberg Law News] * Family separation is back, but this time it&amp;#x27;s a byproduct of vague detention guidance to make it more difficult to challenge. [Slate] * NCBE runs pilot bar exam to test out remote proctoring and &amp;quot;AI-assisted&amp;quot; questions -- you know, the things they claimed were existential threats to the very integrity of the process when California tried to step outside the monopoly. [ABA Journal] * Supreme Court stays case about FCC political advertising rate rule on cusp of election. [Election Law Blog] * NFL and multiple states ask Supreme Court if states can regulate gambling, which traditionally is an unquestioned state power, but now has to be run by our unelected Star Chamber for... reasons. [ESPN] * Arizona court system hacked, exposing 1.3 million people&amp;#x27;s information. [ABA Journal] * NYC suit against oil companies flagged false claims about cleaner gasoline in an effort to dupe consumers, but court tossed it claiming that the only people who care enough about the environment to let it impact their gas choice would have known the claims were bogus anyway. [Courthouse News Service] The post Morning Docket: 10.09.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 09 Oct 2026 12:53:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>OpenAI doubles down on decision to fire three AI safety researchers</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers</guid>
-      <description>OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed &amp;quot;a significant breach of trust.&amp;quot; In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &amp;amp;#8288;Balesni were dismissed for violating &amp;quot;clear policies on handling sensitive information.&amp;quot; It insisted the decision was [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 09:48:26 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>What to Know About the Facebook Whistle-Blowing Case Depicted in ‘The Social Reckoning’</title>
-      <link>https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/09/arts/the-social-reckoning-movie-meta-facebook-mark-zuckerberg.html</guid>
-      <description>Aaron Sorkin’s sort-of sequel to the 2010 “Social Network” dramatizes a whistle-blowing case at Facebook. Here’s what to know.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 09 Oct 2026 09:01:00 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/10/09/multimedia/09cul-reckoning-explainer-01-zjvh/09cul-reckoning-explainer-01-zjvh-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/09/multimedia/09cul-reckoning-explainer-01-zjvh/09cul-reckoning-explainer-01-zjvh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
