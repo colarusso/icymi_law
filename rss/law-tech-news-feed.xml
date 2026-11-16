@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 13:56:05 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:56:24 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access To Justice Hackathon Kicks Off</title>
+      <link>https://abovethelaw.com/2026/11/access-to-justice-hackathon-kicks-off/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/access-to-justice-hackathon-kicks-off/</guid>
+      <description>The LawDroid Hackathon has selected five teams to start building for justice. The post Access To Justice Hackathon Kicks Off appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 18:48:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
+    <item>
+      <title>Amazon Ring’s New Indoor Surveillance Drone Is Not Compatible with Privacy</title>
+      <link>https://www.eff.org/deeplinks/2026/11/amazon-rings-new-indoor-surveillance-drone-not-compatible-privacy</link>
+      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/11/amazon-rings-new-indoor-surveillance-drone-not-compatible-privacy</guid>
+      <description>Amazon Ring has finally announced their long-dreaded indoor drone, a small flying surveillance device connected to their security suite of products that can fly around your house filming and recording things. The device is supposedly designed to fly preset paths across your home and will also activate if a sensor or alarm has been triggered. Customers should think twice about purchasing these devices for a number of reasons. These devices are problematic in many of the ways we’ve said Ring’s stationary home surveillance products are a problem, plus some new ways. At a very basic level, they are essentially a window into your house that can be accessed by anyone with access to your account—which has historically included bad actors looking to embarrass or harass Ring users and employees of the company. What’s worse, Ring has supercharged the units with its ‘AI Pilot’ to map routes, model the interior of the home, and control movement. This means not only is the footage being sent to corporate servers, but the company is also making inferences about your home to carry out tasks. How much home usage data this is based on, and if it can be used to infer when certain household activities are happening, are both open questions. And presumably, to maintain the preset routes, inferred data about your home will still be held by Ring even after any stored video footage is deleted. The risk to your privacy is only compounded once you consider Ring’s renewed partnership with police through the massive surveillance and taser vendor, Axon. Through this partnership, police have the ability to request camera footage from Ring users with just a few clicks on Axon’s platforms. This includes its Fusus platform, an interactive surveillance feed and map police use to manage all the surveillance devices they have access to, like automated license plate readers. It’s unclear exactly what devices police can request footage from, but if this request feature is extended to Ring’s drones, police could easily send requests for footage from inside your house. Sharing is voluntary, but once footage is submitted, it cannot be retracted. Worse still, if your footage is not sitting on Amazon’s servers fully encrypted—and there’s reason to believe their privacy options are not the strongest—police could serve a warrant straight to the company, instead of to you, to get footage from your devices. New problems and questions arise because the camera can fly. For instance: if police serve a warrant on Amazon, can they only get the footage from the camera, or could they also get access to control the drone? If the latter, we could be looking at the first full home search in history where police serve a warrant on a third-party tech company and not the resident. The CEO of Ring has pitched this product’s safety benefits in several ways, including by saying: “If someone is going around your house at night, and your motion detector goes off on your Ring doorbell, imagine if you see spotlights and something flying across the window...You’re probably not going to go into that house.” But partially justifying a $250 piece of technology that invades your privacy on what an imagined burglar might do doesn’t sound like a foundation for safety—it sounds like security theater and marketing. It isn’t new for Ring to prey on the fears and paranoia of people and their properties. This is the latest iteration of that: a patrolling drone or rover wouldn&amp;#x27;t have been possible even in the world&amp;#x27;s top museums and art galleries a generation ago. Moving this technology into the household as a common consumer product is another example of companies attempting to lower the bar on surveillance being normalized. With previous Ring products, consumers have had to consider what cameras and high-powered microphones can learn about their home usage from the front door. Autonomous flying drones and rovers inside the home add a whole new layer. What can these devices learn about you and your family? And do you really trust that data sitting on a server somewhere? Consumers should consider these risks before subjecting their guests and households to the latest creepy surveillance tool.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 17:58:26 +0000</pubDate>
+      <media:content url="https://www.eff.org/files/banner_library/ring_banner.png" medium="image" type="image/png" />
+      <enclosure url="https://www.eff.org/files/banner_library/ring_banner.png" type="image/png" length="0" />
+      <source url="https://www.eff.org">www.eff.org</source>
+    </item>
     <item>
       <title>California Sues OpenAI Over A.I. Safety Issues</title>
       <link>https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html</link>
@@ -4354,22 +4372,6 @@
       <description>Kirkland &amp;amp;#38; Ellis Is Done Sharing Its Revenue With The Media: Turns out $10 billion is right where the numbers stop providing &amp;#x27;meaningful value.&amp;#x27; Biglaw Wants Lawyers Who Know How To Use AI: But some law schools are outright banning it. This could turn into a recruitment problem... &amp;quot;Cartel Attorney&amp;quot; Shouldn&amp;#x27;t Be A Professional Goal: You may wind up behind bars for decades. DOJ Says The Press Ban Is Due To National Security, But Trump Keeps Pointing To The Bad Coverage: Judge says DOJ&amp;#x27;s argument is &amp;#x27;an uphill climb.&amp;#x27; Have A Super Day: Donald Trump rebranded AI as &amp;quot;super intelligence&amp;quot; and now he&amp;#x27;s rebranding everyone who doesn&amp;#x27;t go along &amp;quot;THE ENEMY!&amp;quot; The post The World&amp;amp;#8217;s Richest Law Firm Has Decided Money Isn&amp;amp;#8217;t Everything &amp;amp;#8212; See Also appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 23:31:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>The Worst Of Us</title>
-      <link>https://www.myshingle.com/2026/10/the-worst-of-us/</link>
-      <guid isPermaLink="true">https://www.myshingle.com/2026/10/the-worst-of-us/</guid>
-      <description>AI didn’t create the problems we’re now seeing in the legal profession. It revealed them. The post The Worst Of Us appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 22:15:00 +0000</pubDate>
-      <source url="https://www.myshingle.com">www.myshingle.com</source>
-    </item>
-    <item>
-      <title>Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website</title>
-      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</guid>
-      <description>With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder&amp;#x27;s desk.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 21:00:00 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
