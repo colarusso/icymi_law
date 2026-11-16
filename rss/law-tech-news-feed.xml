@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:56:20 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:55:57 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows</title>
+      <link>https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes</guid>
+      <description>Calls for governments to recognise sexual exploitation of children as preventable public health emergencyReports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found.A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Mon, 16 Nov 2026 00:01:27 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5ee8eea520d92549e7558481c7ad85a" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5ee8eea520d92549e7558481c7ad85a" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
@@ -4352,14 +4362,6 @@
       <description>[Sponsored] Integration is now central to legal tech evaluations. Here’s how it works across three layers, and the questions in-house teams should ask vendors at each. The post Legal Operating Systems Are Here: 4 Questions To Ask Vendors appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 08 Oct 2026 16:14:46 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>I Sent Three Law Firms an RFP. There’s Clearly a Client Experience Gap.</title>
-      <link>https://www.lawnext.com/2026/10/i-sent-three-law-firms-an-rfp-theres-clearly-a-client-experience-gap.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/10/i-sent-three-law-firms-an-rfp-theres-clearly-a-client-experience-gap.html</guid>
-      <description>As a former lawyer, a legal technology CEO, and a paying client of five major law firms, I see how legal services are built, sold, and experienced. Recently, my wife and I sent three firms an RFP for personal legal work. One firm responded with a partner&amp;amp;#8217;s name, an associate&amp;amp;#8217;s name, an hourly rate, and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 08 Oct 2026 16:14:07 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
