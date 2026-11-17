@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 08:56:52 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:56:15 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AAA Expands Its AI Arbitrator to Handle A Variety of Business-to-Business Disputes</title>
+      <link>https://www.lawnext.com/2026/11/aaa-expands-its-ai-arbitrator-to-handle-a-variety-of-business-to-business-disputes.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/11/aaa-expands-its-ai-arbitrator-to-handle-a-variety-of-business-to-business-disputes.html</guid>
+      <description>A year after launching its AI Arbitrator as a tool to help resolve documents-only construction cases, the American Arbitration Association has now expanded its availability for use in a range of documents-only, business-to-business disputes across industries. See: AAA Readies November Launch of AI-Powered Arbitrator for Construction Disputes. As with the initial version, the AI Arbitrator [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 14:08:43 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Nvidia’s first big move after Jensen Huang’s exit targets national security</title>
+      <link>https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</guid>
+      <description>The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 14:05:30 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>‘Strict liability’: The legal standard that could help rein in AI</title>
+      <link>https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390</link>
+      <guid isPermaLink="true">https://theconversation.com/strict-liability-the-legal-standard-that-could-help-rein-in-ai-295390</guid>
+      <description>AI companies could be held liable for harm if courts treat the technology as abnormally dangerous, like explosives. Robert Nickelsberg via Getty ImagesSome people have begun using the legal system to rein in AI companies and the harms they are creating. Cases are mounting. In October 2026, the parents of Bowen Wan sued OpenAI, charging that it’s ChatGPT agent may have instructed their daughter to stop taking her medication, leading to her death. In 2024, a mother sued the Character.AI company, claiming that its chatbot’s interactions with her son contributed to his suicide. The state of Kentucky later filed suit, claiming that Character.AI’s software exposed minors to self-harm and psychological manipulation. Social media companies, powered by artificial intelligence, are also facing lawsuits about injuries they purportedly caused. Regulating AI was a hot issue during the 2026 midterms, too. Several candidates who won their races have a regulation agenda. I am a former litigator and a professor of business law, and all this action signals to me that people are looking to the law to protect them from AI harm. But what is the legal liability of AI software? An answer may be found in a principle known as strict liability. Applied properly, strict liability could restrain the risky parts of the AI industry and still allow it to provide the tools the public wants. Abnormally dangerous software Tort law protects people from negligence, such as who is responsible if you slip and fall in a store. Strict liability is part of tort law, but it is used to hold a person or company responsible for harm even if they were not at fault, not negligent or had no intent of creating trouble. A 2026 lawsuit claims ChatGPT encouraged a young woman to stop taking her medication, leading to her death. Two types of strict liability matter for AI. One addresses abnormally dangerous activity, such as blasting with dynamite or transporting radioactive material. The other addresses when a product hurts someone using it. AI programs likely fit the abnormally dangerous standard. The touchstone case was tried in the U.K. in 1868. In the decision, the court stated that if someone has “anything” under their power that is “likely to do mischief if it escapes, [he] must keep it in at his peril” and is “answerable for all the damage which is the natural consequence of its escape.” The defendant is liable even if they used “the utmost care to prevent the harm.” An attorney could pursue this avenue if a company builds AI software that is supposed to stay in a sandbox – a place isolated from the rest of a computer or network – but loses control of it. The AI industry’s recent admissions that the software creates all sorts of risks would make such cases stronger. When Anthropic filed for its initial public offering in October, numerous pages of the document detailed extraordinary risks that its frontier AI models could pose. One hitch in applying this type of strict liability is that an activity must not be in common usage. Lawyers could make a strong case against so-called rogue AI that runs wild and isn’t available to most people. Applying the danger standard could still fail to rein in AI companies or reward victims appropriately. In 1929, aviation was seen as abnormally dangerous. But damages were capped at US$8,300, which was not a large deterrent. Attitudes changed in 1999, when the Montreal Convention standardized strict liability rules for international flights worldwide. It raised statutory damages and eliminated caps for negligence claims. Perhaps the most powerful tool in aviation liability today is for an authority to ground a company’s aircraft, which happened to Boeing after two fatal crashes with its 737 MAX planes. Guilty products Strict product liability is the other strategy for holding AI companies responsible for harm. In years past, courts tended to not see software as a product because it is intangible. But that view is shifting. In recent lawsuits alleging that social media hurt people, courts did see social media as a product and concluded that strict liability was applicable. Cases against Facebook have fallen into this category. Character.AI’s recent bankruptcy filing came in part because of a lawsuit in which the court treated the software as a product. “Design defects” is the part of the doctrine gaining traction. To use this, a plaintiff shows that the product posed a foreseeable risk to someone using it. So far, the doctrine has worked when applied to the lack of guardrails in chatbots. Pursuing strict liability could still run into snags. A court might order that AI software be turned off, or “grounded,” until it is improved. But as AI software creeps closer to being an operating system and is evermore embedded in everyone’s daily activities, it becomes difficult to suspend its use. Moving target AI software by its nature is constantly “learning” and therefore changing. It is impossible for a company to promise that AI software will absolutely behave a certain way. In many cases, AI software is inherently incapable of supporting a guarantee about design safety. Still, strict liability is a way to hold the maker responsible, “even when those products evolve in ways not specifically desired or foreseeable by their manufacturers,” according to a Brookings Institution report. I believe that if people are going to accept AI software as a boon to society, tough rules and sharp deterrents are needed. A strict liability system would shift risk from society to the companies seeking vast revenues. The next steps will be sorting out whether to treat all or some AI software as a product, and whether the technology is ultrahazardous. If it is treated as that dangerous, AI can develop with incentives to reduce harms and ensure that people injured are compensated. Deven Desai owns shares in Google, Inc. He received unrestricted research gifts from Google, Inc. and Facebook, Inc. a decade ago. He has not been employed by Google since 2010.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://theconversation.com/us/technology/articles.atom&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 13:41:07 +0000</pubDate>
+      <source url="https://theconversation.com">theconversation.com</source>
+    </item>
     <item>
       <title>Morning Docket: 11.17.26</title>
       <link>https://abovethelaw.com/2026/11/morning-docket-11-17-26/</link>
@@ -4354,32 +4378,6 @@
       <description>Most major law firms use legal AI tools, yet there has been little significant change to how those firms operate. Why is that? The answer ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 12 Oct 2026 07:29:40 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>The Lessons of Direct File</title>
-      <link>https://civic.io/2026/10/11/the-lessons-of-direct-file/</link>
-      <guid isPermaLink="true">https://civic.io/2026/10/11/the-lessons-of-direct-file/</guid>
-      <description>The Direct File project may have been terminated, but its legacy lives on in lessons for the future of Civic Tech and how it can help improve government services.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://civic.io/feed/&lt;/small&gt;</description>
-      <pubDate>Sun, 11 Oct 2026 16:51:20 +0000</pubDate>
-      <media:content url="https://civic.io/wp-content/uploads/2026/10/pexels-photo-21912672.jpeg" medium="image" type="image/jpeg" />
-      <enclosure url="https://civic.io/wp-content/uploads/2026/10/pexels-photo-21912672.jpeg" type="image/jpeg" length="0" />
-      <source url="https://civic.io">civic.io</source>
-    </item>
-    <item>
-      <title>DistroKid has been quietly taking down songs in response to UMG lawsuit</title>
-      <link>https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</link>
-      <guid isPermaLink="true">https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit</guid>
-      <description>Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an &amp;quot;AI-slop pipeline.&amp;quot; Artists are saying that [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 18:52:07 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones</title>
-      <link>https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall</link>
-      <guid isPermaLink="true">https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall</guid>
-      <description>The post As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones appeared first on ProPublica.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.propublica.org/feeds/propublica/main&lt;/small&gt;</description>
-      <pubDate>Sat, 10 Oct 2026 10:00:00 +0000</pubDate>
-      <source url="https://www.propublica.org">www.propublica.org</source>
     </item>
   </channel>
 </rss>
