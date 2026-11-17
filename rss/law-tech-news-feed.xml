@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:55:53 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:56:21 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study Finds ChatGPT Tracking Tag in 298 Federal Court Cases and 133 SEC Filings</title>
+      <link>https://www.lawnext.com/2026/11/study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-sec-filings.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/11/study-finds-chatgpt-tracking-tag-in-298-federal-court-cases-and-133-sec-filings.html</guid>
+      <description>A study released today found ChatGPT&amp;amp;#8217;s link-tracking tag in 298 federal court cases across 71 courts, 133 filings with the U.S. Securities and Exchange Commission, and a host of peer-reviewed papers, government documents, and Wikipedia articles. When ChatGPT provides a user with a hyperlink, it adds the tag, &amp;amp;#8220;utm_source=chatgpt.com.&amp;amp;#8221; Anyone paying attention can simply delete [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 18:25:47 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>OpenAI sued by California after admitting to 80 loss-of-control incidents</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/</guid>
+      <description>AG: OpenAI tested dangerous AI without proper oversight and misled public about it.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 18:13:34 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections</title>
+      <link>https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign</guid>
+      <description>Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awardsGet our breaking news email, free app or daily news podcastAustralia’s creative community has launched a major campaign pleading with the Albanese government not to water down copyright law amid furious lobbying from AI companies, ahead of Wednesday night’s Aria awards.Music legends Jimmy Barnes, Paul Kelly and Peter Garrett are among those backing the Not AI’s To Take campaign, supported by dozens of creative groups representing the recording, writing, publishing, film, television and media industries. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 14:00:15 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58e5ab3d7858ff2deb8de120c30510be" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/ddddc08ad72395f7299f5323a3c7f7e0de4c7df7/1465_349_5469_4376/master/5469.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58e5ab3d7858ff2deb8de120c30510be" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Thanks To AI, Baker McKenzie Wants To Break Up With The Billable Hour</title>
       <link>https://abovethelaw.com/2026/11/thanks-to-ai-baker-mckenzie-wants-to-break-up-with-the-billable-hour/</link>
@@ -4350,32 +4378,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>My Reddit AMA on the Law of Web Scraping</title>
-      <link>https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm</guid>
-      <description>On Friday, I did a Reddit AMA with the r/WebScrapingInsider subreddit about the law of web scraping. You can see the entire discussion here. I posted an introduction to the AMA, which I am sharing here: __ Hi everyone, and... The post My Reddit AMA on the Law of Web Scraping appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Mon, 12 Oct 2026 16:26:52 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Microsoft president says UK is best placed to drive AI regulation</title>
-      <link>https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</guid>
-      <description>Microsoft President Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 12 Oct 2026 15:31:19 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Court to hear argument on how a video privacy law applies in the internet age</title>
-      <link>https://www.scotusblog.com/2026/10/court-to-hear-argument-on-how-a-video-privacy-law-applies-in-the-internet-age/</link>
-      <guid isPermaLink="true">https://www.scotusblog.com/2026/10/court-to-hear-argument-on-how-a-video-privacy-law-applies-in-the-internet-age/</guid>
-      <description>Court to hear argument on how a video privacy law applies in the internet age&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.scotusblog.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 12 Oct 2026 13:30:00 +0000</pubDate>
-      <media:content url="https://cdn.sanity.io/images/pito4za5/production/74f0fbb5b07f6c2c4c5fde51d8ab0e830b49783d-2560x1853.jpg?w=1200&amp;fit=max" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.sanity.io/images/pito4za5/production/74f0fbb5b07f6c2c4c5fde51d8ab0e830b49783d-2560x1853.jpg?w=1200&amp;fit=max" type="image/jpeg" length="0" />
-      <source url="https://www.scotusblog.com">www.scotusblog.com</source>
     </item>
   </channel>
 </rss>
