@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:56:24 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:56:11 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/</guid>
+      <description>“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 20:32:55 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Waymo suspends freeway rides nationwide after California DMV order</title>
       <link>https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/</link>
@@ -4367,14 +4377,6 @@
       <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/13/legora-increases-inhouse-focus-with-intake/</guid>
       <description>Legora has increased its focus on the inhouse world with the launch of Intake, a legal front door that operates with its agents and which ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 13 Oct 2026 08:39:03 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Decision Systems, eDiscovery, Litigaze + More</title>
-      <link>https://www.artificiallawyer.com/2026/10/13/decision-systems-ediscovery-litigaze-more/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/13/decision-systems-ediscovery-litigaze-more/</guid>
-      <description>Decision systems, such as Jev, as well as the recently launched OpenAI Decisions API, herald a new, but also curiously déjà vu, way of classifying ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 07:44:07 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
