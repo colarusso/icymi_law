@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:07:42 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:09:29 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Institutions for Autonomous AI</title>
+      <link>https://arxiv.org/abs/2611.17114</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.17114</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wln4abcehdwgg37snks734l5/bafkreihjvee6lwpk3otzxa4vknxsnaad43ptiehexs4e66u2sheuebq24e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;As autonomous AI agents increasingly interact in persistent populations, their collective capabilities and alignment depend not only on individual models, but also on the institutions governing their ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥 · reposts: 4 · likes: 31&lt;/small&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 05:09:29 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wln4abcehdwgg37snks734l5/bafkreihjvee6lwpk3otzxa4vknxsnaad43ptiehexs4e66u2sheuebq24e" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wln4abcehdwgg37snks734l5/bafkreihjvee6lwpk3otzxa4vknxsnaad43ptiehexs4e66u2sheuebq24e" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents</title>
       <link>https://arxiv.org/abs/2505.22954?utm_source=chatgpt.com</link>
@@ -491,16 +501,6 @@
       <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
       <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rkaxxuwbgdusr73ub3qpdtc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5rkaxxuwbgdusr73ub3qpdtc/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Fundamental Impossibility Results in AI Safety: Trading Off between Desiderata</title>
-      <link>https://arxiv.org/abs/2610.27373</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.27373</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Is there a fundamental tradeoff between desiderata for safe AI systems, such as harmlessness and helpfulness? We answer by formalizing the interaction between AI systems and users as a game with three...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥 · reposts: 1 · likes: 9&lt;/small&gt;</description>
-      <pubDate>Mon, 02 Nov 2026 05:09:19 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6ond5sxlegjxpe3ismrczk3r/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
