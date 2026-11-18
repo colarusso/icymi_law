@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 13:56:13 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:56:20 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech lawsuits defined 2026 — and lawmakers want more</title>
+      <link>https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act</guid>
+      <description>With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 19:07:29 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Trump admin orders Kalshi to halt wagers on what words Trump will say</title>
       <link>https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/</link>
@@ -4386,14 +4394,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>‘Adventures In Legal Tech’: Where Knowledge Management Meets AI</title>
-      <link>https://abovethelaw.com/2026/10/adventures-in-legal-tech-where-knowledge-management-meets-ai/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/adventures-in-legal-tech-where-knowledge-management-meets-ai/</guid>
-      <description>How using legal tech can be a lot like swimming in the ocean, and other insights from LMA President Rachel Shields Williams. The post ‘Adventures In Legal Tech’: Where Knowledge Management Meets AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 21:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
