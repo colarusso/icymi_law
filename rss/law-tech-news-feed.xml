@@ -5,8 +5,46 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:55:46 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:57:02 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How a Matter Is Staffed Decides AI’s Commercial Value</title>
+      <link>https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/</link>
+      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/</guid>
+      <description>By Alex Tring, BigHand. Law firms are investing heavily in AI, paying more for their lawyers, and being asked by the companies that hire them ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 11:54:35 +0000</pubDate>
+      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
+    </item>
+    <item>
+      <title>British hacker who stole $11m through text message scheme jailed for six years in US</title>
+      <link>https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 09:28:35 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png" medium="image" type="image/png" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png" type="image/png" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
+    <item>
+      <title>Elton John backs Australian artists in fight against AI in surprise Aria awards appearance</title>
+      <link>https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright</link>
+      <guid isPermaLink="true">https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright</guid>
+      <description>British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’Aria awards 2026 red carpet: Tame Impala, Baker Boy, G Flip and more – in picturesElton John has made a surprise appearance at the 2026 Aria awards to draw attention to Not AI’s To Take, a major campaign backed by the creative and media industries calling on the Australian government to protect copyright law in the face of lobbying from AI companies.Delivering a pre-recorded message at Australian music’s biggest night on Wednesday, the British singer backed the new campaign, which is calling on the Albanese government to ensure Australian artists are reimbursed and consulted by AI companies interested in using their works for AI training. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 08:29:57 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/6717b5732293468c3ba09f5cd665c09dc0756308/271_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e609aa1bd29fd424dfa469c9a27988d7" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/6717b5732293468c3ba09f5cd665c09dc0756308/271_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e609aa1bd29fd424dfa469c9a27988d7" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Waymo pulls driverless taxis from all US freeways</title>
+      <link>https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <description>The decision comes after California banned Waymo&amp;#x27;s driverless vehicles from operating on the state&amp;#x27;s highways following a series of traffic incidents.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 03:07:22 +0000</pubDate>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
+    </item>
     <item>
       <title>Voters Reject ALPRs and Surveillance Tech at the Ballot Box</title>
       <link>https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box</link>
@@ -4352,42 +4390,6 @@
       <description>This is a Meta Pixels case on appeal to the Washington Supreme Court. It fails on a highly technical interpretation of the statute. The applicable Washington state statute restricts the interception of communications between two individuals. The Supreme Court says... The post Washington Supreme Court Dismisses Meta Pixels Case&amp;amp;#8211;Baker v. Seattle Children&amp;amp;#8217;s Hospital appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Tue, 13 Oct 2026 15:30:05 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Legora and Laurel Partner to Enable Automatic Time Capture; Will Later Develop Measures of Legora’s Value to Firms</title>
-      <link>https://www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/10/legora-and-laurel-partner-to-enable-automatic-time-capture-will-later-develop-measures-of-legoras-value-to-firms.html</guid>
-      <description>Legal professionals will now be able to automatically record the time they spend working in the legal AI platform Legora, as the result of a new partnership with the AI timekeeping platform Laurel. With this partnership, the companies announced today, Laurel will turn every task a lawyer completes in Legora into a time entry, with the client, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:30:30 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Privacy's Defenders Podcast: No Privacy Without Encryption</title>
-      <link>https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/privacys-defenders-podcast-no-privacy-without-encryption</guid>
-      <description>When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption converts readable data into unreadable gibberish to protect our privacy and security. This didn’t just happen organically. Three decades ago, the U.S government treated encryption like a weapon, and it took some unlikely heroes to set it free: a grad student, a junior lawyer, and a fledgling digital rights group who sued the federal government. The ruling in Bernstein v. Department of Justice held that code is speech and so is protected by the First Amendment – a precedent that underpins the internet as we know it today. This landmark case was led by Cindy Cohn, then a young pro bono lawyer working on behalf of EFF, who went on to become EFF’s legal director and then executive director. Welcome to the second episode of “Privacy’s Defenders,” a podcast about the people – lawyers, journalists, hackers, and others – who’ve fought to secure your digital liberties since before most people even knew what the internet was. %3Ciframe%20height%3D%2252px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F91542147-6839-46fe-a813-73eb7a5c683c%3Fdark%3Dtrue%26amp%3Bcolor%3D000000%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com (You can also find this episode on the Internet Archive and on YouTube.) In this episode, Cindy – who left EFF in June – speaks with Dan Bernstein, who was a Cal Berkeley grad student when he developed a simple encryption algorithm called “Snuffle.” Because federal law classified encryption as a war munition, publishing Snuffle meant submitting it to the government for review, getting a license as an arms dealer, and being granted a license the government had no intention of granting. Bernstein felt this violated his free-speech rights and in 1995 he sued, represented by Cindy working with EFF. Cindy also talks with Tony Coppolino, the Justice Department lawyer she battled in court – who admits she intimidated him from their very first phone call, and who offers a surprising perspective on the case all these years later. The “Privacy’s Defenders” podcast (new episodes drop every other Tuesday!) is a follow-up to Cindy’s book, “Privacy’s Defender: My Thirty-Year Fight Against Digital Surveillance,” bringing to life pivotal moments in the voices of those who fought for your rights. Sales of “Privacy’s Defender” benefit EFF, so pick up your copy today! Joanne Elgart Jennings co-produced and created this podcast. Jarod Sport co-produced, mixed, and mastered it. Corinne Ruff is our story editor. We had additional help from Rachel Estabrook and Alison Broverman. The original music was composed and performed by Nat Keefe of Hot Buttered Rum with Ben Andrews on the fiddle.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:00:03 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/pd-podcast-banner.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/pd-podcast-banner.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Former Big Law M&amp;A Lawyer Launches useABI, an AI ‘Associate’ That Produces Deal Docs Without Prompting</title>
-      <link>https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/10/former-big-law-ma-lawyer-launches-useabi-an-ai-associate-that-produces-deal-docs-without-prompting.html</guid>
-      <description>A former mergers-and-acquisitions lawyer at Greenberg Traurig today launched useABI, a legal AI platform for M&amp;amp;#38;A lawyers that is designed to function not as just another AI assistant but as something closer to a working member of a deal team. “With useABI, an M&amp;amp;#38;A lawyer gets the purchase agreement markup, issues list, diligence report and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 14:01:19 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>AFL tells Sportsbet to stop using players in AI generated content</title>
-      <link>https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content</link>
-      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content</guid>
-      <description>Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’Get our breaking news email, free app or daily news podcastThe AFL has told its official gambling partner, Sportsbet, to stop featuring its high-profile athletes in AI-generated social media content without their permission.Sportsbet has also been told to delete AI videos depicting AFL stars delivering lines from movies, television shows or speeches to react to real events. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 14:00:06 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/da4ea25084485353b9189695120198ae84ce7050/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e145cb2fe400af54a5ebb0114d21a2ed" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/da4ea25084485353b9189695120198ae84ce7050/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e145cb2fe400af54a5ebb0114d21a2ed" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
