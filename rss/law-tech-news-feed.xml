@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:57:02 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:56:11 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>British hackers face prison for GTA 6 data breach and crypto thefts</title>
+      <link>https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/</guid>
+      <description>Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 14:55:13 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>On LawNext: NetDocuments’ Heath Harris on Why Your Taxonomy Is Your AI Strategy and Why, in the End, the Data Wins</title>
+      <link>https://www.lawnext.com/2026/11/on-lawnext-netdocuments-heath-harris-on-why-your-taxonomy-is-your-ai-strategy-and-why-in-the-end-the-data-wins.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/11/on-lawnext-netdocuments-heath-harris-on-why-your-taxonomy-is-your-ai-strategy-and-why-in-the-end-the-data-wins.html</guid>
+      <description>Law firms are moving past the “buy everything” phase of AI adoption and starting to ask how the technology maps to their strategy and brand, says Heath Harris, vice president of applied AI and enterprise transformation at NetDocuments, in this episode of LawNext, recorded live at the company’s Inspire conference in Orlando last month. But [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 14:53:20 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>Tesla’s $30,000 Cybercab comes with a $299 monthly catch</title>
+      <link>https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/</link>
+      <guid isPermaLink="true">https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/</guid>
+      <description>Tesla can restrict where Cybercabs drive and even block owners from reselling them.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 14:01:45 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>How a Matter Is Staffed Decides AI’s Commercial Value</title>
       <link>https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/</link>
@@ -4364,32 +4390,6 @@
       <description>The National Highway Traffic Safety Administration says it&amp;#x27;s evaluating allegations that Tesla&amp;#x27;s 1,000 or so robotaxis using its automated driving system are exceeding &amp;quot;posted speed limits in active school zones.&amp;quot; Waymo&amp;#x27;s robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Tue, 13 Oct 2026 17:40:15 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>As Federal Court Rules ALPRs are Mass Surveillance, EFF Gets Disappointing Ruling</title>
-      <link>https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/federal-court-rules-alprs-are-mass-surveillance-eff-gets-disappointing-ruling</guid>
-      <description>In an extremely disappointing ruling, a California trial court dismissed SIREN v. San Jose, our case challenging the city of San Jose’s warrantless searches of its vast stores of Automatic License Plate Reader (ALPR) data. EFF and the ACLU of Northern California represent SIREN and CAIR California, two non-profits that serve San Jose residents, in this case. Make no mistake: we believe this ruling is wrong on the law, and we will appeal. The ruling ignores the importance of landmark rulings from the U.S. Supreme Court regarding the invasiveness of aggregating collected data on an individual over time, including one issued just months ago. It also severely underestimates the harm that ALPRs cause, in San Jose and around the country. San Jose’s ALPR surveillance system is inescapable. It blankets the city’s streets in nearly five hundred cameras that continuously photograph every car that passes by and retains the collected data for a month or longer. In our briefs, we argued that law enforcement officers who warrantlessly search the resulting ALPR database are violating the California Constitution’s ban on unreasonable searches and its guarantee of privacy. The court disagreed, explaining that based on one California appeals court case involving individual streetlight cameras, people do not have a reasonable expectation of privacy when driving on a public road. This is wrong. Networked ALPRs are not individual streetlight cameras. Their net effect of tracking and mapping cars as they travel reveals patterns of life, intimate relationships, and much more. Fortunately, there are signs that the tide is turning against ALPRS in the courts. Just a day before the ruling in our case, a federal district court in Oklahoma called ALPRs “a type of indiscriminate mass surveillance” and decided that a law enforcement officer’s warrantless search of ALPR data violated the Fourth Amendment. The officer was observing traffic on an Oklahoma highway when he saw a woman driving a car with California plates. According to the court order, the officer began following the woman “for no apparent reason” other than her out of state plates. While following her, the officer decided to run the woman’s license plate number through Flock’s ALPR system – again, with no apparent reason other than her California plates. The Flock search returned at least 30 days of data, allowing the officer to track the car across at least three states, over the span of a month, from a single search. The facts of this case demonstrate how ALPRs allow law enforcement to grab a breathtakingly vast sweep of information about a car (and the driver within) with no more effort than a Google search. It’s true that when a person drives on public roads, they can be observed, including by police. But as the Supreme Court has explained, we don’t expect law enforcement to be able to secretly track and store every movement our cars while we’re driving. The federal court in the Oklahoma case aptly illustrated this difference in societal expectations: We might reasonably expect our friends and family to tell us something like: “Hey, I saw you out driving by the store last week.” But we do not expect people we know—let alone strangers, and especially not law enforcement—to randomly approach us to say: “Hey, I have been following your car for the last 30 days, and here is a detailed log of every place your vehicle has been with supporting photographic evidence. I am also going to share this information with law enforcement throughout the country so they know your whereabouts, too. This decision is the first of its kind, and EFF will continue working to ensure that it is the first of many. Outside the courts, we’ve seen people across the country step up to reject ALPRs at the state and local level. EFF will continue challenging this technology on every front as well. Related Cases:&amp;amp;nbsp;SIREN and CAIR-CA v. San Jose&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 17:19:19 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/flock-vector-2b.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/flock-vector-2b.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce</guid>
-      <description>Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads &amp;quot;MY EX IS MY BIGGEST FAN&amp;quot; in bold black letters. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 16:42:51 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Washington Supreme Court Dismisses Meta Pixels Case–Baker v. Seattle Children’s Hospital</title>
-      <link>https://blog.ericgoldman.org/archives/2026/10/washington-supreme-court-dismisses-meta-pixels-case-baker-v-seattle-childrens-hospital.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/10/washington-supreme-court-dismisses-meta-pixels-case-baker-v-seattle-childrens-hospital.htm</guid>
-      <description>This is a Meta Pixels case on appeal to the Washington Supreme Court. It fails on a highly technical interpretation of the statute. The applicable Washington state statute restricts the interception of communications between two individuals. The Supreme Court says... The post Washington Supreme Court Dismisses Meta Pixels Case&amp;amp;#8211;Baker v. Seattle Children&amp;amp;#8217;s Hospital appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 15:30:05 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
