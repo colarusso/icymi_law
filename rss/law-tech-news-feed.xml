@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:55:52 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:56:20 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How AI is Changing Case Research for Corporate Restructuring</title>
+      <link>https://www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html</guid>
+      <description>As the pace of corporate restructuring continues to accelerate, getting up to speed quickly is a necessity for providing effective representation. Chapter 11 cases increasingly involve multiple jurisdictions, cross-border creditor disputes, complex capital structures, and compressed timelines due to liquidity constraints. Within the first few hours of a case, the docket may already contain countless [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 17:44:44 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
+    <item>
+      <title>‘My family would kill me if they saw it’: the ‘harmless’ images that can be deadly for women in Pakistan</title>
+      <link>https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms</link>
+      <guid isPermaLink="true">https://www.theguardian.com/global-development/2026/nov/18/dangerous-intimate-images-algorithms-selfie-platforms</guid>
+      <description>Tech companies urged to adapt moderation of photos online that can trigger violence against women in some countriesIt was just a photo of a smiling girl in jeans and a vest top, the kind of outfit any young woman might wear in any country. But for Maniza*, a teenager from a conservative town in Pakistan who never leaves the house without her hijab, the selfie she took at home put her at very real risk of an “honour” killing.“My family are really strict and I always wore a hijab. My father didn’t want me to stay in school but my mum pushed him. He said if I got into trouble, he would kill me. It wasn’t just words, he meant it,” she says. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 10:00:47 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/ceaabe2595faa970113beac9b7ef9a7c2ce48c36/276_0_2346_1877/master/2346.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2797a910cb2349e81cf06c4ac533791f" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/ceaabe2595faa970113beac9b7ef9a7c2ce48c36/276_0_2346_1877/master/2346.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2797a910cb2349e81cf06c4ac533791f" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>In-House And AI: You Can’t Demand What You Don’t Understand</title>
       <link>https://abovethelaw.com/2026/11/in-house-and-ai-you-cant-demand-what-you-dont-understand/</link>
@@ -4376,22 +4394,6 @@
       <description>It&amp;#x27;s not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to &amp;quot;capture sensitive communications about the company’s super intelligence technology.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 13 Oct 2026 20:59:11 +0000</pubDate>
       <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</guid>
-      <description>An OpenAI engineer was arrested after the company said it discovered a &amp;quot;sophisticated recording device&amp;quot; hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The San Francisco Standard. OpenAI&amp;#x27;s post about the incident says [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>AI And Front-End Loading: The Highest And Best Use</title>
-      <link>https://abovethelaw.com/2026/10/ai-and-front-end-loading-the-highest-and-best-use/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/ai-and-front-end-loading-the-highest-and-best-use/</guid>
-      <description>Front-end loading is the most important thing you will do in litigation -- and now there&amp;#x27;s a tool that will do most of the work at a fraction of the time and cost. The post AI And Front-End Loading: The Highest And Best Use appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
