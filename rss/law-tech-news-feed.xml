@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:56:20 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:56:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump admin orders Kalshi to halt wagers on what words Trump will say</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/</guid>
+      <description>CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 18:46:08 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>OpenAI Opens Astra for Law to All ChatGPT Enterprise Customers and Releases New Benchmark Results</title>
+      <link>https://www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/11/openai-opens-astra-for-law-to-all-chatgpt-enterprise-customers-and-releases-new-benchmark-results.html</guid>
+      <description>In September, OpenAI joined other frontier models that have been moving into the legal field, including Anthropic and Google, and launched Astra for Law, a version of its latest GPT-6 Astra model configured specifically for legal work. But it limited access to a handful of so-called Trusted Access firms, including Cooley, Ropes &amp;amp;#38; Gray, and [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 18:00:12 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>How AI is Changing Case Research for Corporate Restructuring</title>
       <link>https://www.lawnext.com/2026/11/how-ai-is-changing-case-research-for-corporate-restructuring.html</link>
@@ -4376,24 +4394,6 @@
       <description>How using legal tech can be a lot like swimming in the ocean, and other insights from LMA President Rachel Shields Williams. The post ‘Adventures In Legal Tech’: Where Knowledge Management Meets AI appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Tue, 13 Oct 2026 21:32:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office</title>
-      <link>https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html</guid>
-      <description>OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 21:31:17 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>FBI arrests OpenAI employee accused of planting hidden recording device in conference room</title>
-      <link>https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/</guid>
-      <description>It&amp;#x27;s not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to &amp;quot;capture sensitive communications about the company’s super intelligence technology.&amp;quot;&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 20:59:11 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
     </item>
   </channel>
 </rss>
