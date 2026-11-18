@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:56:13 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:56:24 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can You Regulate ‘Fairness’? The EU’s Digital Fairness Act Is Going To Try</title>
+      <link>https://www.techdirt.com/2026/11/18/can-you-regulate-fairness-the-eus-digital-fairness-act-is-going-to-try/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/18/can-you-regulate-fairness-the-eus-digital-fairness-act-is-going-to-try/</guid>
+      <description>Last week the EU presented its long-awaited &amp;amp;#8220;Digital Fairness Act&amp;amp;#8221; proposal, an attempt to expand its consumer protection laws to deal with what it believes are shady practices online. Now, you might be thinking that the EU already has a ton of internet laws — the GDPR, the ePrivacy Directive, the DSA, the DMA, the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 23:19:40 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Automakers Ramp Up Scare-Mongering Push To Ban Chinese EVs. You Know, ‘For Privacy’</title>
       <link>https://www.techdirt.com/2026/11/18/automakers-ramp-up-scare-mongering-push-to-ban-chinese-evs-you-know-for-privacy/</link>
@@ -4384,14 +4392,6 @@
       <description>Harvey has launched Intake, its new legal front door for the inhouse world, which not only helps to funnel contracts to the right lawyers, but ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Wed, 14 Oct 2026 07:56:04 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>This Biglaw Co-Founder’s Side Project Was Engineering A Revolution</title>
-      <link>https://abovethelaw.com/2026/10/this-biglaw-co-founders-side-project-was-engineering-a-revolution/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/this-biglaw-co-founders-side-project-was-engineering-a-revolution/</guid>
-      <description>He flipped a canal route, split a country from Colombia, and billed accordingly. The post This Biglaw Co-Founder&amp;amp;#8217;s Side Project Was Engineering A Revolution appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 13 Oct 2026 23:00:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
