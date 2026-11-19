@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:56:49 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:56:12 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man hired by Russia spied on Silicon Valley tech and defense company, feds say</title>
+      <link>https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/</guid>
+      <description>25-year-old accused of stalking employees at coffee shop and in an &amp;quot;aggressive&amp;quot; car pursuit.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 20:29:46 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Traumatized teens sue school, cops after Doritos bag triggers AI gun alert</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/</guid>
+      <description>Lawsuit: Over 99% of school system’s AI gun alerts were false positives.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 20:19:28 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>As ROSS Seeks to Come Back from the Dead, Clio Sues to Keep Its Case Law Out of Reach</title>
       <link>https://www.lawnext.com/2026/11/as-ross-seeks-to-come-back-from-the-dead-clio-sues-to-keep-its-case-law-out-of-reach.html</link>
@@ -4372,24 +4392,6 @@
       <description>OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company&amp;#x27;s operations in Asia. The [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Court Filings Show DHS Is Collecting Info On Protesters, Feeding It To Palantir</title>
-      <link>https://www.techdirt.com/2026/10/14/court-filings-show-dhs-is-collecting-info-on-protesters-feeding-it-to-palantir/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/10/14/court-filings-show-dhs-is-collecting-info-on-protesters-feeding-it-to-palantir/</guid>
-      <description>More evidence is piling up that contradicts the almost-but-not-quite denials given by administration officials in response to allegations about the DHS compiling a database to keep tabs on protesters. Just a few months ago, &amp;amp;#8220;Immigration Czar&amp;amp;#8221; Todd Lyons was trying to turn credible accusations into a nothingburger by deploying a few vague and trite statements [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 16:29:48 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>🗣 A Victory for Freedom of Speech Online | EFFector 38.18</title>
-      <link>https://www.eff.org/deeplinks/2026/10/victory-freedom-speech-online-effector-3818</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/victory-freedom-speech-online-effector-3818</guid>
-      <description>No one should have to think twice before criticizing the government online. But a mass surveillance program known as &amp;quot;Catch and Revoke&amp;quot; was created to make millions do just that. EFF and other defenders of free speech are fighting back. In our latest EFFector newsletter, we&amp;#x27;re talking about a key court win for our lawsuit challenging this unconstitutional surveillance program. JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers our Opt Out October guides for ditching Big Tech, a win in the fight against anti-VPN laws, and a court ruling allowing the lawsuit against &amp;quot;Catch and Revoke&amp;quot; to move forward. Prefer to listen in? EFFector is now available on all major podcast platforms. This time we&amp;#x27;re talking to EFF&amp;#x27;s Lisa Femia about how the government is using AI to suppress protected speech online—and the important lawsuit she and others are working on to stop it. You can find the episode and subscribe on your podcast platform of choice: %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F1f21c2ee-32ed-41ab-b0a8-eb86edda26ed%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your right to digital privacy? Sign up for EFF&amp;#x27;s EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today!&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 16:25:23 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/effector-green-web.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/effector-green-web.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
