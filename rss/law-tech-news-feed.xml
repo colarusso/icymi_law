@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:56:42 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:56:16 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‘Communities are really angry’: how Australia’s datacentre opposition has gone from marginal to mainstream in five months</title>
+      <link>https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/nov/20/communities-are-really-angry-how-datacentre-opposition-has-gone-from-marginal-to-mainstream-in-five-months</guid>
+      <description>A network of grassroots campaigners around the country are sharing information to help push back against the datacentre boomGet our breaking news email, free app or daily news podcastWhen Heather Champion raised a council motion in March opposing a massive new gas plant to power a large datacentre in the Southern Highlands of New South Wales, it failed to pass.Five months later, when the local councillor for Wingecaribee raised a new motion calling for the federal government to implement a moratorium on new datacentres, it passed unanimously. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 14:00:50 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/e90e77dce409ae1737f7a957cdd23366571c08e6/735_307_6367_5096/master/6367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f3d300ffbcae89efe55693ab1f6daa6" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/e90e77dce409ae1737f7a957cdd23366571c08e6/735_307_6367_5096/master/6367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f3d300ffbcae89efe55693ab1f6daa6" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Nvidia isn’t the first company to dump a misbehaving CEO – history shows it’s in the interest of corporate boards to act</title>
       <link>https://theconversation.com/nvidia-isnt-the-first-company-to-dump-a-misbehaving-ceo-history-shows-its-in-the-interest-of-corporate-boards-to-act-296800</link>
@@ -4382,16 +4392,6 @@
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
       <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
-    </item>
-    <item>
-      <title>The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster</title>
-      <link>https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban</guid>
-      <description>Jason O’Connell’s suspected use of the specs to aid his speech in the Senedd reignites debate over the AI-enabled devicesIt was a flowing speech packed full of precise statistics – but Jason O’Connell, a Reform UK Senedd member, was not quite the gifted orator he had first appeared. The periodic flashing in his spectacles seemed to give the game away as he spoke for five minutes in the Senedd chamber without a glance at his notes.“Cardiff reviewed 192 roads, following 933 requests, and only four routes have returned to 30mph,” he said as he led the party’s charge to abolish 20mph traffic zones. “£38.3m wasted to implement this policy and up to £8.9bn in an act of economic self-harm.” Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 15:05:53 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/4c63fd3569598d1424cf7662c053ed995980c8e5/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37f0eac17e8aa21c3ce4e7ea567d6b56" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/4c63fd3569598d1424cf7662c053ed995980c8e5/285_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37f0eac17e8aa21c3ce4e7ea567d6b56" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
