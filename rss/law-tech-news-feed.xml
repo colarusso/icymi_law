@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:56:12 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:56:14 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Court Tells Cops That The 4th Amendment Doesn’t Cover AI-Generated ‘Probable Cause’</title>
+      <link>https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</guid>
+      <description>I don&amp;amp;#8217;t know where this decision will take us, but its implications reach much further than the single case it covers. AI is pretty much everywhere, and if a court says an algorithm can&amp;amp;#8217;t make probable cause determinations, it affects/infects everything from facial recognition tech to predictive policing software to Axon adding AI shovelware to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 21:19:47 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Man hired by Russia spied on Silicon Valley tech and defense company, feds say</title>
       <link>https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/</link>
@@ -4384,14 +4392,6 @@
       <description>The issue is: if a website imposes a government-compelled age authentication wall, what percentage of users will stop at the authentication wall, either because the users turn around or fail to navigate the process? I call that percentage the &amp;amp;#8220;balk&amp;amp;#8221;... The post Some New Data on Age Authentication Balk Rates appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Wed, 14 Oct 2026 16:46:19 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</guid>
-      <description>OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company&amp;#x27;s operations in Asia. The [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
