@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 13:56:16 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:56:20 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI For Modern Compliance: A Practical Framework For Leaders</title>
+      <link>https://abovethelaw.com/2026/11/ai-for-modern-compliance-a-practical-framework-for-leaders/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/ai-for-modern-compliance-a-practical-framework-for-leaders/</guid>
+      <description>[Sponsored] How AI works in practice, and its quantifiable impact on compliance operations. The post AI For Modern Compliance: A Practical Framework For Leaders appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:31:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
       <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
@@ -4384,16 +4392,6 @@
       <media:content url="https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://storage.ghost.io/c/a0/4c/a04c7225-d919-4d78-9b7c-a3fdd071349b/content/images/2026/10/shutterstock_2719900129.jpg" type="image/jpeg" length="0" />
       <source url="https://www.platformer.news">www.platformer.news</source>
-    </item>
-    <item>
-      <title>We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches</title>
-      <link>https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches</link>
-      <guid isPermaLink="true">https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches</guid>
-      <description>Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent a religious organization, the Wisconsin Council of Churches, as well as an individual pastor in Green Bay. As the petition explains: Right now, Automated License Plate Readers (“ALPRs”) are recording the movements of vast numbers of Wisconsin drivers as they seek medical care, attend 12-step recovery meetings, attend religious services, participate in protests, attend political meetings, and engage in many other private, sensitive activities. Law enforcement entities throughout Wisconsin collect, store, share, and aggregate this ALPR data. Then they search it, retrospectively tracking the movements of individuals and entire communities in ways that would have been prohibitively costly, if not outright impossible, before the advent of ALPR technology. We all deserve to be free of warrantless mass surveillance. We all deserve to live in a country where surveillance vendors cannot help police upend our system of individualized suspicion. Religious organizations and officials like our clients have a heightened interest in protecting their location privacy because of the range of expressive associations their work entails, including facilitating gatherings for religious worship, as well as offering pastoral care, confidential counseling, and community support. Likewise, the people who visit houses of worship have a strong right to privacy against police monitoring of when they pray, seek addiction counseling, or attend a domestic violence survivor meeting. This is our second lawsuit challenging warrantless ALPR searches, following SIREN v. San Jose. Earlier this month, a federal court in Oklahoma became the first to rule that ALPRs are a “type of indiscriminate mass surveillance” and suppress evidence from a warrantless ALPR search. We hope the Wisconsin Supreme Court will agree. Read the Wisconsin Supreme Court petition Read the press release Related Cases:&amp;amp;nbsp;Wisconsin Council of Churches v. Milwaukee, Racine, Kenosha &amp;amp;amp; Green Bay&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.eff.org/rss/updates.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 23:21:37 +0000</pubDate>
-      <media:content url="https://www.eff.org/files/banner_library/siren_v._san_jose.png" medium="image" type="image/png" />
-      <enclosure url="https://www.eff.org/files/banner_library/siren_v._san_jose.png" type="image/png" length="0" />
-      <source url="https://www.eff.org">www.eff.org</source>
     </item>
   </channel>
 </rss>
