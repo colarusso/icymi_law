@@ -5,8 +5,34 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:55:59 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:56:16 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump threatens ‘tremendous tax’ for moving AI data centers outside the US</title>
+      <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</guid>
+      <description>President Donald Trump promised to put a &amp;quot;tremendous tax&amp;quot; on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. &amp;quot;We&amp;#x27;re not going to allow our companies to build data centers outside of our country,&amp;quot; Trump said at a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military</title>
+      <link>https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html</guid>
+      <description>Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:05:36 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Firms Want AI To Save Hours, Clients Want AI To Save Dollars — They Aren’t The Same Number</title>
+      <link>https://abovethelaw.com/2026/11/firms-want-ai-to-save-hours-clients-want-ai-to-save-dollars-they-arent-the-same-number/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/firms-want-ai-to-save-hours-clients-want-ai-to-save-dollars-they-arent-the-same-number/</guid>
+      <description>What happens to all the time a lawyer saves? Disagreement over this question plagues the legal working relationship. The post Firms Want AI To Save Hours, Clients Want AI To Save Dollars &amp;amp;#8212; They Aren&amp;amp;#8217;t The Same Number appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:01:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>A transcription firm used by police, prosecutors and tech giants exposed customer data online</title>
       <link>https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/</link>
@@ -4368,30 +4394,6 @@
       <media:content url="https://www.eff.org/files/banner_library/siren_v._san_jose.png" medium="image" type="image/png" />
       <enclosure url="https://www.eff.org/files/banner_library/siren_v._san_jose.png" type="image/png" length="0" />
       <source url="https://www.eff.org">www.eff.org</source>
-    </item>
-    <item>
-      <title>Will Universities Respond To The AI Moment?</title>
-      <link>https://www.techdirt.com/2026/10/14/will-universities-respond-to-the-ai-moment/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/10/14/will-universities-respond-to-the-ai-moment/</guid>
-      <description>A key role universities play in society is providing knowledge that can guide public action. Moreover, public universities have a legal duty to serve the public. We expect researchers in universities to&amp;amp;#160; produce and disseminate knowledge that can ultimately advance human flourishing and meet the informational needs of lawmakers, civil society, and the public generally. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 22:01:48 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
-      <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</guid>
-      <description>Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 21:30:33 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Eight states sue OpenAI, saying ChatGPT isn&amp;#8217;t safe for kids</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</guid>
-      <description>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
