@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 09:55:57 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:56:03 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A transcription firm used by police, prosecutors and tech giants exposed customer data online</title>
+      <link>https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/</guid>
+      <description>Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 15:46:07 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed</title>
+      <link>https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html</guid>
+      <description>Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 01:13:38 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/19/multimedia/19dc-chips-vfbt/19dc-chips-vfbt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>California AG subpoenas Nvidia over worries about Huang’s ties with China</title>
       <link>https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/</link>
@@ -4374,26 +4392,6 @@
       <description>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/</guid>
-      <description>Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 19:53:01 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2213769379-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>OpenAI accuses employee who left for Apple of leaking plans for unreleased device</title>
-      <link>https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit</guid>
-      <description>Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown An ⁠OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about an unreleased product to a personal ⁠account and later ⁠made a presentation ​about the unreleased product to senior Apple leadership, a new filing in the lawsuit between OpenAI and Apple alleges.In the filing ⁠in US federal court in San Jose, California, OpenAI alleged that the presentation happened months ago and that Apple is now making ⁠AI products of its own, citing the release of Apple’s HomeView product this week. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Wed, 14 Oct 2026 20:31:15 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/ebf66ef2fc761ca986ec34ee126faa393835c357/479_0_4771_3819/master/4771.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49598467932deaad38c34b1c32751dc9" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/ebf66ef2fc761ca986ec34ee126faa393835c357/479_0_4771_3819/master/4771.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49598467932deaad38c34b1c32751dc9" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
