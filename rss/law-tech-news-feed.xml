@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 17:56:33 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:55:51 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Use Guidelines: It’s Complicated. It’s Also Not A Choice</title>
+      <link>https://abovethelaw.com/2026/11/ai-use-guidelines-its-complicated-its-also-not-a-choice/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/ai-use-guidelines-its-complicated-its-also-not-a-choice/</guid>
+      <description>Having an AI policy isn&amp;#x27;t enough unless the firm makes it real. The post AI Use Guidelines: It’s Complicated. It’s Also Not A Choice appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 23:16:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Trump FCC declares California isn't allowed to enforce phone service rules</title>
       <link>https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/</link>
@@ -4386,14 +4394,6 @@
       <description>Control Risks, a global strategic intelligence and security firm, said today that it has entered into an agreement to spin off two of its businesses, Discovery + Data Insights and Forensics, into a new, stand-alone company that will operate initially under the name of Control Risks – Compliance, Investigations &amp;amp;#38; eDiscovery. The new company will [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Thu, 15 Oct 2026 13:00:31 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Morning Docket: 10.15.26</title>
-      <link>https://abovethelaw.com/2026/10/morning-docket-10-15-26/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/morning-docket-10-15-26/</guid>
-      <description>* States sue OpenAI, claiming the technology harms children. Presumably because those children are trying to draft briefs without caselaw hallucinations. [NBC News] * Supreme Court issues shadow docket ruling, allowing committees to pay reduced candidate rates for TV ads. [Courthouse News Service] * Judge signals that Los Angeles not-really-the-U.S. Attorney Bill Essayli is likely to be disqualified. [Bloomberg Law News] * The top of the UK legal market is pulling away from the pack. A heavily stratified class system? In England? No![Financial Times] * Harvey and Legora introduced products with the same name within hours of each other. [Legal Cheek] * Ninth Circuit strikes down &amp;quot;No Vigilantes Act,&amp;quot; requiring federal law-enforcement agents to wear visible ID, as violating the Supremacy Clause. The law was intended to deter people claiming to be federal agents to harass people by creating a visible distinction. But, for the federal government, encouraging the harassment is a feature not a bug. [LA Times] * Yale Law grad wins Nobel Prize in Economics. [Yale Daily News] * Lawyer mental health survey shows stress, drinking, and gambling. [Reuters] * State AGs move to protect user information in Character.ai bankruptcy. By the way, this is an AI company that was valued at around $2.7B and is now in bankruptcy... in case you&amp;#x27;re wondering what a bursting bubble looks like. [Law360] The post Morning Docket: 10.15.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 12:52:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
