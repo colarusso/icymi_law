@@ -5,8 +5,44 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:11:24 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:10:16 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public AI and Copyright</title>
+      <link>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7682783</link>
+      <guid isPermaLink="true">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7682783</guid>
+      <description>Public Artificial Intelligence (AI) initiatives seek to combine public accountability, public interest objectives and open or equitable access to AI infrastruct&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 8&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 05:10:16 -0500</pubDate>
+      <source url="https://papers.ssrn.com">papers.ssrn.com</source>
+    </item>
+    <item>
+      <title>Where the Tokens Go: Heat, Entropy and Error in Agentic Coding</title>
+      <link>https://arxiv.org/abs/2611.23375</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.23375</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2obkpeujntgaov4bpjsevy6z/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software thermodynamics. The theory draws analogues from cl...&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 05:10:16 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2obkpeujntgaov4bpjsevy6z/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2obkpeujntgaov4bpjsevy6z/bafkreigc4ofbn4qhcdzeaiy7q2h4qsynlyzvuzqcxetqfipq4bamvd2n2i" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Does Your Agent Need to Know Its Budget? A Placebo-Controlled Experiment on LLM Coding Agents</title>
+      <link>https://arxiv.org/html/2611.21614</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2611.21614</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 6&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 05:10:16 -0500</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop</title>
+      <link>https://arxiv.org/abs/2611.23855</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2611.23855</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifwmz76mdhnctfeu23s7dgmlzahtoxazlyg3apuati4zs45km4stu" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 4&lt;/small&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 05:10:16 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifwmz76mdhnctfeu23s7dgmlzahtoxazlyg3apuati4zs45km4stu" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifwmz76mdhnctfeu23s7dgmlzahtoxazlyg3apuati4zs45km4stu" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Open at the Edge, Captured at the Center: llama.cpp and the Political Economy of Local AI Inference</title>
       <link>https://arxiv.org/abs/2608.19001</link>
@@ -455,46 +491,6 @@
       <pubDate>Fri, 06 Nov 2026 05:09:14 -0500</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data</title>
-      <link>https://arxiv.org/abs/2611.05320v1</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.05320v1</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take o&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 1 · likes: 1&lt;/small&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 05:09:14 -0500</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>LoopKV: Loop-Aware KV Cache Compression for Serving Looped Transformers</title>
-      <link>https://arxiv.org/abs/2611.04137</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.04137</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaqpyek2wel3pejjmo6g3zuoh76vtjmd3s5ekczn7cj4ngd4v6saq" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for LoopKV: Loop-Aware KV Cache Compression for Serving Looped Transformers&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Fri, 06 Nov 2026 05:09:14 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaqpyek2wel3pejjmo6g3zuoh76vtjmd3s5ekczn7cj4ngd4v6saq" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreiaqpyek2wel3pejjmo6g3zuoh76vtjmd3s5ekczn7cj4ngd4v6saq" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Principled Human-AI Collaboration in Agentic Workflows</title>
-      <link>https://arxiv.org/abs/2611.01566</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.01566</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih4c3f77rk4b7svaimrwutprgsfrnf4sou4j23snzaozumko6jite" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Principled Human-AI Collaboration in Agentic Workflows&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 5&lt;/small&gt;</description>
-      <pubDate>Thu, 05 Nov 2026 05:09:28 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih4c3f77rk4b7svaimrwutprgsfrnf4sou4j23snzaozumko6jite" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreih4c3f77rk4b7svaimrwutprgsfrnf4sou4j23snzaozumko6jite" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>What's Old Is New: Improved Learning from Small-Group Tutorials</title>
-      <link>https://arxiv.org/abs/2610.39538</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2610.39538</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkivp3kl7muevev5higsf77q/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;The ubiquity of Large Language Models poses a challenge to student learning in homework-based college courses, where access to easy homework answers devalues the intended productive struggle. To addre...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥🔥🔥🔥🔥🔥🔥 · reposts: 7 · likes: 33&lt;/small&gt;</description>
-      <pubDate>Wed, 04 Nov 2026 05:09:06 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkivp3kl7muevev5higsf77q/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bkivp3kl7muevev5higsf77q/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
