@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:55:49 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 08:56:13 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>International talks on controlling use of autonomous weapons collapse</title>
+      <link>https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</guid>
+      <description>Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control on the use of autonomous weapons collapsed just before 5am on Saturday morning, after all night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the Review Conference on Conventional Weapons at the UN in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 13:15:29 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19283afd22dbc9bfead542bffab860d5" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19283afd22dbc9bfead542bffab860d5" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
+    <item>
+      <title>Startup sues Apple in India over tap-to-share contacts feature</title>
+      <link>https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/</guid>
+      <description>A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 04:00:00 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>AI Use Guidelines: It’s Complicated. It’s Also Not A Choice</title>
       <link>https://abovethelaw.com/2026/11/ai-use-guidelines-its-complicated-its-also-not-a-choice/</link>
@@ -4378,22 +4396,6 @@
       <description>Microsoft has fully launched itself into the legal vertical with Copilot for Legal, an AI-powered venture with over 20 skills that overlap with plenty of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 15 Oct 2026 15:32:13 +0000</pubDate>
       <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Microsoft Launches Copilot for Legal – Brace for Impact!</title>
-      <link>https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/</guid>
-      <description>Microsoft – the software company the world’s lawyers rely upon because of Word – has gone nuclear and launched Copilot for Legal, its own multi-capability ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 15:00:16 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Control Risks To Spin Off Its Discovery, Data and Forensics Businesses Into A New Company</title>
-      <link>https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/10/control-risks-to-spin-off-its-discovery-data-and-forensics-businesses-into-a-new-company.html</guid>
-      <description>Control Risks, a global strategic intelligence and security firm, said today that it has entered into an agreement to spin off two of its businesses, Discovery + Data Insights and Forensics, into a new, stand-alone company that will operate initially under the name of Control Risks – Compliance, Investigations &amp;amp;#38; eDiscovery. The new company will [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 13:00:31 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
