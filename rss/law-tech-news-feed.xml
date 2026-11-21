@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:55:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:56:04 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The FBI and USDA were reportedly hacked</title>
+      <link>https://www.theverge.com/tech/1039543/fbi-usda-hacked</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1039543/fbi-usda-hacked</guid>
+      <description>Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Sat, 21 Nov 2026 17:42:27 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>International talks on controlling use of autonomous weapons collapse</title>
       <link>https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse</link>
@@ -4388,14 +4396,6 @@
       <description>Apparently we&amp;amp;#8217;re in an era where the courts just decide to ignore precedents they don&amp;amp;#8217;t like. And that leads us to ridiculous results like yesterday&amp;amp;#8217;s ruling in the Eleventh Circuit allowing Florida&amp;amp;#8217;s HB3 social media age verification law to move forward. But to understand how messed up it is, you need to know the history [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 15 Oct 2026 16:24:20 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Microsoft Copilot for Legal: What Will Be the Fallout?</title>
-      <link>https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/</guid>
-      <description>Microsoft has fully launched itself into the legal vertical with Copilot for Legal, an AI-powered venture with over 20 skills that overlap with plenty of ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 15:32:13 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
