@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 13:56:04 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:56:24 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds</title>
+      <link>https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds</link>
+      <guid isPermaLink="true">https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds</guid>
+      <description>Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetingsGet our breaking news email, free app or daily news podcastBosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”.Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
+      <pubDate>Sun, 22 Nov 2026 19:00:34 +0000</pubDate>
+      <media:content url="https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=841a5935e90b464a6f0e36a81358e58e" medium="image" type="image/jpeg" />
+      <enclosure url="https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=841a5935e90b464a6f0e36a81358e58e" type="image/jpeg" length="0" />
+      <source url="https://www.theguardian.com">www.theguardian.com</source>
+    </item>
     <item>
       <title>Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall</title>
       <link>https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china</link>
@@ -4390,14 +4400,6 @@
       <description>Once you start measuring AI’s value, the next question is who gets to keep it. The post Finally, A Way To Measure AI ROI: Be Careful What You Ask For appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Thu, 15 Oct 2026 20:04:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical</title>
-      <link>https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html</guid>
-      <description>Microsoft today launched Copilot for Legal, offering more than 20 legal-specific skills in Microsoft Copilot, bringing contract review, drafting, obligations tracking and other legal workflows into Word and Cowork, its agentic workspace, along with plugins from more than two dozen legal technology partners. Microsoft now becomes the fourth major AI company in five months to [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Thu, 15 Oct 2026 17:56:34 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
