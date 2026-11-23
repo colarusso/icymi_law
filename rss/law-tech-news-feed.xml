@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:56:22 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:56:04 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oregon and Virginia sue SpaceX over Grok’s porn deepfakes</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit</guid>
+      <description>In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 18:26:47 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO</title>
+      <link>https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/</guid>
+      <description>The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 18:12:22 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Tech leaders are celebrating Jensen Huang’s return</title>
       <link>https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay</link>
@@ -4382,22 +4398,6 @@
       <media:content url="https://www.citationneeded.news/content/images/2026/10/back-the-winners.png" medium="image" type="image/png" />
       <enclosure url="https://www.citationneeded.news/content/images/2026/10/back-the-winners.png" type="image/png" length="0" />
       <source url="https://www.citationneeded.news">www.citationneeded.news</source>
-    </item>
-    <item>
-      <title>Is ‘ROT’ Data Thwarting Your Firm’s AI Adoption?</title>
-      <link>https://abovethelaw.com/2026/10/is-rot-data-thwarting-your-firms-ai-adoption/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/is-rot-data-thwarting-your-firms-ai-adoption/</guid>
-      <description>[Sponsored] If you&amp;#x27;re like most lawyers, redundant, obsolete, and trivial data is probably playing an unwelcome role in your AI outputs. Here&amp;#x27;s why. The post Is &amp;amp;#8216;ROT&amp;amp;#8217; Data Thwarting Your Firm&amp;amp;#8217;s AI Adoption? appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 15:30:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Meta’s new terms may allow it to train AI on news sites for free</title>
-      <link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</guid>
-      <description>Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
 </rss>
