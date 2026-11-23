@@ -5,8 +5,28 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:56:10 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:56:24 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal</title>
+      <link>https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html</guid>
+      <description>The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 21:50:55 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>States sue SpaceX to stop Grok from generating child sex images, revenge porn</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/</guid>
+      <description>X says every Grok output is screened, but state AGs say Grok is still making CSAM.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 21:30:44 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
     <item>
       <title>Nvidia Buckles To Trump Pressure, Reinstates Horny, Still Potentially Compromised CEO</title>
       <link>https://www.techdirt.com/2026/11/23/nvidia-buckles-to-trump-pressure-reinstates-horny-still-potentially-compromised-ceo/</link>
@@ -4378,24 +4398,6 @@
       <description>The AI labs can’t scrape this data, which is kind of the point. The post Tech Company Launches Program To Pay Law Firms For Their Emails, Privilege Be Damned appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 16 Oct 2026 18:32:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Mastering Local Citations For Law Firm SEO Success</title>
-      <link>https://abovethelaw.com/2026/10/mastering-local-citations-for-law-firm-seo-success/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/mastering-local-citations-for-law-firm-seo-success/</guid>
-      <description>Local citations remain one of the most important foundations of a successful local SEO strategy for law firms. The post Mastering Local Citations For Law Firm SEO Success appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 18:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/</guid>
-      <description>Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 15:41:00 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
