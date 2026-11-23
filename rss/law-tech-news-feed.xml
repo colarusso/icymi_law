@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:56:02 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:55:56 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech leaders are celebrating Jensen Huang’s return</title>
+      <link>https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay</guid>
+      <description>Let&amp;#x27;s say you&amp;#x27;re Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) &amp;quot;terrorized&amp;quot; your employees, a series of indiscretions that led to your ouster from what was once the world&amp;#x27;s most valuable company. (The stock price has recently taken [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 16:14:04 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Replacement or addition? AI as a tool for legal research</title>
       <link>https://www.ailawlibrarians.com/2026/11/23/replacement-or-addition-ai-as-a-tool-for-legal-research/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=replacement-or-addition-ai-as-a-tool-for-legal-research</link>
@@ -4390,14 +4398,6 @@
       <description>Meta&amp;#x27;s new terms appear to give it permission to crawl and scrape websites &amp;quot;associated&amp;quot; with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to &amp;quot;develop, improve, research,&amp;quot; and &amp;quot;train&amp;quot; [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Chariot Claims Raises $10M Series A To Fuel Mass Consumer Arbitrations</title>
-      <link>https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html</link>
-      <guid isPermaLink="true">https://www.lawnext.com/2026/10/chariot-claims-raises-10m-series-a-to-fuel-mass-consumer-arbitrations.html</guid>
-      <description>Chariot Claims, a legal tech company that matches consumers to mass arbitration and class action cases and pairs them with law firms, has raised $10 million in Series A funding, it announced Thursday. Silverton Partners led the round, with General Partner Mike Dodd taking the lead. Indicator Ventures, Lightbank, Neon Fund, ZVC, Rosecliff Venture Partners, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 13:27:57 +0000</pubDate>
-      <source url="https://www.lawnext.com">www.lawnext.com</source>
     </item>
   </channel>
 </rss>
