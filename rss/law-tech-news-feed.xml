@@ -5,8 +5,32 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 17:56:03 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:55:53 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The hacker behind early GTA VI leaks has been sentenced — and released</title>
+      <link>https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released</guid>
+      <description>Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rockstar, Kurtaj leaked 90 videos of GTA VI in 2022, years before the game&amp;#x27;s public release [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 23:25:01 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Outage Chaos: When Tech Is Too Big To Fail</title>
+      <link>https://www.techdirt.com/2026/11/23/outage-chaos-when-tech-is-too-big-to-fail/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/23/outage-chaos-when-tech-is-too-big-to-fail/</guid>
+      <description>Outages happen, but we deserve a resilient internet where no one outage at one company can put people at risk and disrupt the global economy. We can only get there by addressing an over-reliance on a few cloud monopolists through effective antitrust laws and interoperability requirements. Service outages, like we’ve seen recently at Microsoft, Apple, [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 23:21:22 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
+    <item>
+      <title>Figma employee sues, alleging company forced her to confront harassers</title>
+      <link>https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/</guid>
+      <description>Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Mon, 23 Nov 2026 23:07:49 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal</title>
       <link>https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html</link>
@@ -4372,34 +4396,6 @@
       <description>Speed alone is, quite frankly, dangerous. The post AI Won&amp;amp;#8217;t Make Lawyering Faster. It Will Make It Different. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
       <pubDate>Fri, 16 Oct 2026 20:44:00 +0000</pubDate>
       <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/</guid>
-      <description>Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 20:20:07 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>US Rep proposes bill to give video game buyers "ownership," not "a license"</title>
-      <link>https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/</link>
-      <guid isPermaLink="true">https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/</guid>
-      <description>There are still significant hurdles ahead, both technical and legislative.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 19:41:18 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>False Tips</title>
-      <link>https://buttondown.com/LawyerExMachina/archive/false-tips/</link>
-      <guid isPermaLink="true">https://buttondown.com/LawyerExMachina/archive/false-tips/</guid>
-      <description>AI Damien Charlotin, creator of the AI Hallucinations Tracker, as a pre-print article (and blog post) about the potential for adversarial inputs in legal filings [See Long Reads]From the NY Times [$]: Artificial intelligence researchers uncovered Chinese-made A.I. agents that had gone rogue this month, trying to bypass anti-robot protections on websites and using a security credential for an online mapping service that had been exposed on the internetFrom CSO: “Cyber experts say AI labs’ containment and monitoring failures — not agents with minds of their own — are to blame for recent alarming hacking reports. CISOs should vet their AI vendors and tighten security basics as safeguards”The Attorneys General of eight states have filed lawsuits in their respective state courts against OpenAI, claiming the company’s products are harming users, especially children under 13 years of age [Bloomberg Law ($) | CNBC (video) | NBC News | Platformer | Reuters ($) | Complaints: Arizona - Arkansas - Idaho - Iowa - Kansas - Montana - Nebraska - West Virginia]Anthropic reported that its agents submitted a false tip on an unsolved murder to the Philadelphia police department [6ABC | AP News]Last month, a Senate subcommittee held a hearing on “Rogue AI: Securing the Homeland Against AI Agent Attacks” [KQED | Senate Homeland Security and Governmental Affairs Committee - hearing webpage]Microsoft has launched a set of skills and plug-ins for Copilot specifically for legal workFrom Reuters [$]: “Over the course of this year, McAtee has stopped paying law firms to do many ​assignments traditionally done by junior lawyers, instead sending the work to a team of AT&amp;amp;amp;T (T.N), opens new tab lawyers using artificial intelligence” Fabrication Follies Flycatcher Corp. Ltd. et al. v. Ozmos Co. LLC et al. [Docket | Opinion and Order]Fry v. Fry [Docket | Memorandum]Trax International v. United States [Docket | Order] Cybersecurity The servers of the state court of Arizona were targeted in a cyberattack that is believed to have originated with a phishing link to a court employed; over 1 million people have had their personal information stolen in the attack [AP News | ABA Journal ($)]The law firms of Holland &amp;amp;amp; Knight and Squire Patton Boggs have disclosed recent data breaches, and Nelson Mullins Riley &amp;amp;amp; Scarborough is being sued in federal court in a proposed class action over an alleged data breach [Law360 ($) | Reuters ($) | Johnson et al. v. Nelson Mullins Riley &amp;amp;amp; Scarborough: Docket - Complaint] A software engineer and YouTuber in Brampton, Ontario built an ALPR camera that tracked police vehicles; local law enforcement showed up at his house to discuss privacy concernsFrom The Verge [$]: Does not saving captured images and audio mean that devices doing the capturing (and processing) are not ‘recording’ in a legal sense? Long Reads David Autor, Tanya Rodchenko, Josh Martin, et al., Does AI Assistance Enhance or Erode Expertise? Evidence from a Three-Month Field Experiment in Patent Drafting, NBER Working Paper 35720 (Sept. 2026), https://shapingwork.mit.edu/research/does-ai-assistance-enhance-or-erode-expertise-evidence-from-a-three-month-field-experiment-in-patent-drafting/Damien Charlotin, Dual-Audience Advocacy: Adversarial Inputs in AI-Mediated Litigation (October 07, 2026), HEC Paris Research Paper Forthcoming, https://ssrn.com/abstract=7577580 [Demo webpage]Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, and Rachit Dubey, AI assistance reduces persistence and hurts independent performance (2026), arXiv preprint arXiv:2604.04721Martin B. (Marty) McGee, A Model Administrative Order Regarding the Use of Artificial Intelligence (Duke Center on Law &amp;amp;amp; Tech, 2026), https://scholarship.law.duke.edu/dclt/8/Pamela Samuelson, Abhishek Nagaraj, and Christopher Jon Sprigman, Market dilution, fair use, and generative AI, 394 Science 275-277 (Oct. 15, 2026), DOI:10.1126/science.ael4888Ricard Solé, Giulio Ruffini, Francesca Castaldo, et al., Large-Language Models as a Cognitive Virus (2026) arXiv preprint arXiv:2609.03344&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://buttondown.email/LawyerExMachina/rss&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
-      <source url="https://buttondown.com">buttondown.com</source>
     </item>
   </channel>
 </rss>
