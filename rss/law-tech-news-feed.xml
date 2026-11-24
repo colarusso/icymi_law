@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:55:55 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:56:07 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia</title>
+      <link>https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list</guid>
+      <description>As Jensen Huang returns to his post as Nvidia&amp;#x27;s CEO with support from the Trump Administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 16:37:03 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Startup Alley Gets A Shake-Up for 2027, As Applications Open for ABA TECHSHOW’s Annual Pitch Competition</title>
       <link>https://www.lawnext.com/2026/11/startup-alley-gets-a-shake-up-for-2027-as-applications-open-for-aba-techshows-annual-pitch-competition.html</link>
@@ -4386,14 +4394,6 @@
       <media:content url="https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acca07559bd2486c93e545f85c16af5d" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acca07559bd2486c93e545f85c16af5d" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>Should Police Wipe a Criminal’s Cellphone Before Returning It?–U.S. v. Stathas</title>
-      <link>https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm</link>
-      <guid isPermaLink="true">https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm</guid>
-      <description>&amp;amp;#8220;Stathas pleaded guilty in 2023 to enticing a minor to engage in unlawful sexual activity&amp;amp;#8221; (18 U.S.C. § 2422(b)). He was sentenced to 180 months in prison and 10 years of supervised release. As part of the arrest and investigation,... The post Should Police Wipe a Criminal&amp;amp;#8217;s Cellphone Before Returning It?&amp;amp;#8211;U.S. v. Stathas appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 15:38:05 +0000</pubDate>
-      <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
     </item>
   </channel>
 </rss>
