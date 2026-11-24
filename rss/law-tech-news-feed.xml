@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:55:58 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:55:52 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Students Detained At Gunpoint After AI Says Their Bag Of Chips Is A Gun File Federal Lawsuit</title>
+      <link>https://www.techdirt.com/2026/11/24/students-detained-at-gunpoint-after-ai-says-their-bag-of-chips-is-a-gun-file-federal-lawsuit/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/24/students-detained-at-gunpoint-after-ai-says-their-bag-of-chips-is-a-gun-file-federal-lawsuit/</guid>
+      <description>We covered the originating story almost exactly a year ago. That makes sense, because if you want to sue someone for rights violations, you almost always need to file that lawsuit prior to its 365-day expiration. A year ago, there was a bit of an AI arms race between two companies who claimed adding their [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 19:04:56 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>How LexisNexis Protégé Helps Attorneys Meet Emerging AI Standards</title>
       <link>https://abovethelaw.com/2026/11/how-lexisnexis-protege-helps-attorneys-meet-emerging-ai-standards/</link>
@@ -4385,14 +4393,6 @@
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot</guid>
       <description>Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia&amp;#x27;s ABC13 &amp;quot;I know they&amp;#x27;re taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Sun, 18 Oct 2026 18:28:10 +0000</pubDate>
-      <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>Video game ownership bill introduced in Congress</title>
-      <link>https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</link>
-      <guid isPermaLink="true">https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act</guid>
-      <description>Rep. Ritchie Torres of New York&amp;#x27;s 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It&amp;#x27;s increasingly common for [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
-      <pubDate>Sun, 18 Oct 2026 16:27:51 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
     </item>
   </channel>
