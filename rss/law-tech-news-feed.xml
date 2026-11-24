@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 19:55:46 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:55:55 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say</title>
+      <link>https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html</guid>
+      <description>A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 01:36:36 +0000</pubDate>
+      <media:content url="https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
     <item>
       <title>The hacker behind early GTA VI leaks has been sentenced — and released</title>
       <link>https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released</link>
@@ -4388,14 +4398,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>AI Won’t Make Lawyering Faster. It Will Make It Different.</title>
-      <link>https://abovethelaw.com/2026/10/ai-wont-make-lawyering-faster-it-will-make-it-different/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/ai-wont-make-lawyering-faster-it-will-make-it-different/</guid>
-      <description>Speed alone is, quite frankly, dangerous. The post AI Won&amp;amp;#8217;t Make Lawyering Faster. It Will Make It Different. appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Fri, 16 Oct 2026 20:44:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
