@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:56:20 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:55:50 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Startup Alley Gets A Shake-Up for 2027, As Applications Open for ABA TECHSHOW’s Annual Pitch Competition</title>
+      <link>https://www.lawnext.com/2026/11/startup-alley-gets-a-shake-up-for-2027-as-applications-open-for-aba-techshows-annual-pitch-competition.html</link>
+      <guid isPermaLink="true">https://www.lawnext.com/2026/11/startup-alley-gets-a-shake-up-for-2027-as-applications-open-for-aba-techshows-annual-pitch-competition.html</guid>
+      <description>Applications are now open for a spot in the 11th annual Startup Alley at ABA TECHSHOW, a competition that has helped catapult the success of a long list of legal technology startups and that is the featured opening event of the American Bar Association&amp;amp;#8217;s legal technology conference. Be sure to apply quickly, as the deadline [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 14:36:11 +0000</pubDate>
+      <source url="https://www.lawnext.com">www.lawnext.com</source>
+    </item>
     <item>
       <title>Pluralistic: Free lunches (24 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/24/move-fast-break-kings/</link>
@@ -4386,16 +4394,6 @@
       <description>&amp;amp;#8220;Stathas pleaded guilty in 2023 to enticing a minor to engage in unlawful sexual activity&amp;amp;#8221; (18 U.S.C. § 2422(b)). He was sentenced to 180 months in prison and 10 years of supervised release. As part of the arrest and investigation,... The post Should Police Wipe a Criminal&amp;amp;#8217;s Cellphone Before Returning It?&amp;amp;#8211;U.S. v. Stathas appeared first on Technology &amp;amp;amp; Marketing Law Blog.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://blog.ericgoldman.org/feed&lt;/small&gt;</description>
       <pubDate>Sat, 17 Oct 2026 15:38:05 +0000</pubDate>
       <source url="https://blog.ericgoldman.org">blog.ericgoldman.org</source>
-    </item>
-    <item>
-      <title>Encryption Is Getting Squeezed From All Sides</title>
-      <link>https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/</guid>
-      <description>Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6ad14bcb1efa7811b4f5a5a5/master/pass/Kernel-Panic-Encription-Being-Squeezed-to-Death-Security.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
     </item>
   </channel>
 </rss>
