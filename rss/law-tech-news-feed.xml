@@ -5,8 +5,18 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:56:07 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:56:04 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Issue 112 – We have a lot of advisers</title>
+      <link>https://www.citationneeded.news/issue-112/</link>
+      <guid isPermaLink="true">https://www.citationneeded.news/issue-112/</guid>
+      <description>After a blue wave, the “crypto president” can’t save bitcoin’s price, Washington is bracing for subpoenas, and a Trump-linked company distances itself&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.citationneeded.news/rss/&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 17:05:51 +0000</pubDate>
+      <media:content url="https://www.citationneeded.news/content/images/2026/11/tarek-mansour.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://www.citationneeded.news/content/images/2026/11/tarek-mansour.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.citationneeded.news">www.citationneeded.news</source>
+    </item>
     <item>
       <title>US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia</title>
       <link>https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list</link>
@@ -4384,16 +4394,6 @@
       <description>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers&amp;#x27; inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
       <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
       <source url="https://www.theverge.com">www.theverge.com</source>
-    </item>
-    <item>
-      <title>‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action</title>
-      <link>https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action</link>
-      <guid isPermaLink="true">https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action</guid>
-      <description>Lena Schilling of Austrian Greens says images are ‘digital violence against women’ and a threat to democracyAn Austrian MEP has spoken out about her experience of being “stripped naked” online without her consent and has urged the EU to take action, as a report found that one in six female MEPs had been targeted by sexualised AI-generated content.Lena Schilling of the Green party said she had learned last month about nude deepfakes of herself circulating online. When she opened the links, she found herself staring at images from one of her first ever press conferences – but the images had been digitally altered to remove her clothing. Continue reading...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theguardian.com/us/technology/rss&lt;/small&gt;</description>
-      <pubDate>Sun, 18 Oct 2026 04:00:50 +0000</pubDate>
-      <media:content url="https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acca07559bd2486c93e545f85c16af5d" medium="image" type="image/jpeg" />
-      <enclosure url="https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acca07559bd2486c93e545f85c16af5d" type="image/jpeg" length="0" />
-      <source url="https://www.theguardian.com">www.theguardian.com</source>
     </item>
   </channel>
 </rss>
