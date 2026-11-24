@@ -5,8 +5,36 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:08:20 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:08:02 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arXiv.org e-Print archive</title>
+      <link>https://arxiv.org</link>
+      <guid isPermaLink="true">https://arxiv.org</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 05:08:02 -0500</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Latent Introspection: Models Can Detect Prior Concept Injections</title>
+      <link>https://arxiv.org/abs/2602.20031</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2602.20031</guid>
+      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;We uncover a latent capacity for introspection in a Qwen 32B model, demonstrating that the model can detect when concepts have been injected into its earlier context and identify which concept was injected. While the model denies injection in sampled outputs, logit lens analysis reveals clear detection signals in the residual stream, which are attenuated in the final layers. Furthermore, prompting the model with accurate information about AI introspection mechanisms can dramatically strengthen this effect: the sensitivity to injection increases massively (0.3% -&amp;gt; 39.9%) with only a 0.6% increase in false positives. Also, mutual information between nine injected and recovered concepts rises from 0.61 bits to 1.05 bits, ruling out generic noise explanations. Our results demonstrate models can have a surprising capacity for introspection and steering awareness that is easy to overlook, with consequences for latent reasoning and safety.&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 05:08:02 -0500</pubDate>
+      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
+      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>[2610.18861] Hybrid Reasoning Agents</title>
+      <link>https://arxiv.org/abs/2610.18861</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreicgryiyc7hwslttebhpqvzyqjjuz67gamz7f4sca7e6i7cwah7zpy" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;A paper introduces Hybrid Reasoning Agents, merging latent reasoning with text interaction to improve AI performance. This approach enhances efficiency and effectiveness, achieving a 10.4% performance&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 0 · likes: 2&lt;/small&gt;</description>
+      <pubDate>Tue, 24 Nov 2026 05:08:02 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreicgryiyc7hwslttebhpqvzyqjjuz67gamz7f4sca7e6i7cwah7zpy" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lowvryocas54fph3iy3mhthr/bafkreicgryiyc7hwslttebhpqvzyqjjuz67gamz7f4sca7e6i7cwah7zpy" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing Across Diverse Conflict Scenarios</title>
       <link>https://arxiv.org/abs/2606.14068</link>
@@ -461,36 +489,6 @@
       <pubDate>Tue, 10 Nov 2026 05:08:13 -0500</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Scout Before You Route: Predicting Task Success and Token Count from a Small LLM Prefill</title>
-      <link>https://arxiv.org/abs/2611.09028</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.09028</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Routers typically choose a model per query by trading predicted correctness against cost. Most price each model at a fixed cost, as if every query used the same number of output tokens, but the output length of reasoning models varies by an order of magnitude across queries. When is per-query cost …&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 05:08:13 -0500</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Graph Traversal on Tensor Cores: A BFS Framework for Modern GPUs</title>
-      <link>https://arxiv.org/abs/2606.05081</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2606.05081</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mhtyiyaladxwqv2ubioyfbp/bafkreicoadpz5azffcwgn5tmctanwkld7h4w5fxc2il2ngd2gfx2zmc77u" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Modern GPUs have Tensor Cores (TCs) capable of extremely high-throughput matrix operations, yet graph algorithms remain difficult to accelerate because of their irregular and data-dependent execution ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 05:08:13 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mhtyiyaladxwqv2ubioyfbp/bafkreicoadpz5azffcwgn5tmctanwkld7h4w5fxc2il2ngd2gfx2zmc77u" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2mhtyiyaladxwqv2ubioyfbp/bafkreicoadpz5azffcwgn5tmctanwkld7h4w5fxc2il2ngd2gfx2zmc77u" type="image/jpeg" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>Prioritizing Repeated LLM Evaluation for Hidden Failure Discovery</title>
-      <link>https://arxiv.org/abs/2609.32547</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2609.32547</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2daxukdc4vw3u2xgzsktyp5a/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Large language models are commonly evaluated by generating a small number of stochastic responses for each prompt in a benchmark. Because inference budgets are limited, this shallow evaluation may fai...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 6&lt;/small&gt;</description>
-      <pubDate>Mon, 09 Nov 2026 05:08:42 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2daxukdc4vw3u2xgzsktyp5a/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2daxukdc4vw3u2xgzsktyp5a/bafkreidqmqwy3yg4tl3phag6b33z4zqxmqu4b2m6eya4gutzr2weqdsdui" type="image/jpeg" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
     </item>
   </channel>
