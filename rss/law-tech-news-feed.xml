@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:55:53 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:56:02 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion</title>
+      <link>https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/</guid>
+      <description>Yale&amp;#x27;s Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang&amp;#x27;s White House–backed return as Nvidia&amp;#x27;s CEO and board member, could prove a giant mistake, exposing the directors to &amp;quot;historic&amp;quot; personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries&amp;#x27; hands.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 00:12:02 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>New York and California Age Gating Rules Go Into Effect in the New Year</title>
       <link>https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year</link>
@@ -4390,14 +4398,6 @@
       <description>Users of the Legora legal AI platform can now access tax research from Blue J Legal via an integration the companies launched today. Legora customers with a subscription to Blue J can now query Blue J&amp;amp;#8217;s platform from within Legora and receive answers with inline citations linking back to sources in Blue J. The companies [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.lawnext.com/feed&lt;/small&gt;</description>
       <pubDate>Mon, 19 Oct 2026 12:00:59 +0000</pubDate>
       <source url="https://www.lawnext.com">www.lawnext.com</source>
-    </item>
-    <item>
-      <title>Legora Does Tax Data Deal With Blue J</title>
-      <link>https://www.artificiallawyer.com/2026/10/19/legora-does-tax-data-deal-with-blue-j/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/19/legora-does-tax-data-deal-with-blue-j/</guid>
-      <description>Legora has formed a partnership with Blue J, the tax data platform – however they stressed to Artificial Lawyer that this did not mean they ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 12:00:14 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
     </item>
   </channel>
 </rss>
