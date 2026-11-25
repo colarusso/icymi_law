@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:55:57 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:55:55 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
+      <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</guid>
+      <description>New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 18:11:46 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers</title>
       <link>https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/</link>
@@ -4378,14 +4386,6 @@
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" type="image/jpeg" length="0" />
       <source url="https://arstechnica.com">arstechnica.com</source>
-    </item>
-    <item>
-      <title>Sling TV Drops Innovative Streaming ‘Day Passes’ After Disney, Warner Bros Sued</title>
-      <link>https://www.techdirt.com/2026/10/19/sling-tv-drops-innovative-streaming-day-passes-after-disney-warner-bros-sued/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/10/19/sling-tv-drops-innovative-streaming-day-passes-after-disney-warner-bros-sued/</guid>
-      <description>Last year, Sling TV unveiled a rare bit of innovation in an increasingly enshittified streaming video market. They began offering what they called “mini-subscriptions,” allowing users to subscribe to live streaming TV for the day, weekend, or a full week for prices starting at around $5. It was a nice option for folks who don’t [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 20:05:46 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
     </item>
   </channel>
 </rss>
