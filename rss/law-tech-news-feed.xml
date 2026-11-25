@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 14:55:58 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:56:11 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skadden Does NOT Announce Raises, But Did Remind Associates To Be Thankful For Firm’s AI Investments!</title>
+      <link>https://abovethelaw.com/2026/11/skadden-does-not-announce-raises-but-did-remind-associates-to-be-thankful-for-firms-ai-investments/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/skadden-does-not-announce-raises-but-did-remind-associates-to-be-thankful-for-firms-ai-investments/</guid>
+      <description>Read the room. The post Skadden Does NOT Announce Raises, But Did Remind Associates To Be Thankful For Firm&amp;amp;#8217;s AI Investments! appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 20:13:00 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Want to buy your kid an AI toy this Christmas? Not in New York</title>
       <link>https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/</link>
@@ -4376,16 +4384,6 @@
       <description>The Metric Is Not the Mission&amp;amp;#160;is a ten-part examination of how Big Tech moved from building and expanding the open internet to increasingly shaping it around its own metrics, incentives and assumptions. Across the series, the argument follows the evolution of the platform economy—from the optimism of the early internet to the growing tensions around [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 19 Oct 2026 22:03:46 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/</guid>
-      <description>US fears Saudi government will help ex-OpenAI engineer flee spying charges.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" type="image/jpeg" length="0" />
-      <source url="https://arstechnica.com">arstechnica.com</source>
     </item>
   </channel>
 </rss>
