@@ -5,8 +5,24 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 11:56:22 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:55:57 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers</title>
+      <link>https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/</guid>
+      <description>U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 17:36:51 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
+    <item>
+      <title>State AGs fight Character AI’s plan to auction off users’ private chats</title>
+      <link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/</guid>
+      <description>The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 17:35:58 +0000</pubDate>
+      <source url="https://techcrunch.com">techcrunch.com</source>
+    </item>
     <item>
       <title>Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets</title>
       <link>https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/</link>
@@ -4370,26 +4386,6 @@
       <description>Last year, Sling TV unveiled a rare bit of innovation in an increasingly enshittified streaming video market. They began offering what they called “mini-subscriptions,” allowing users to subscribe to live streaming TV for the day, weekend, or a full week for prices starting at around $5. It was a nice option for folks who don’t [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
       <pubDate>Mon, 19 Oct 2026 20:05:46 +0000</pubDate>
       <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody</title>
-      <link>https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/</guid>
-      <description>A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.wired.com/feed/category/security/latest/rss&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 19:49:17 +0000</pubDate>
-      <media:content url="https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://media.wired.com/photos/6ad6630343f8fc6e5c00cf7e/master/pass/open-ai-employee-court.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.wired.com">www.wired.com</source>
-    </item>
-    <item>
-      <title>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</title>
-      <link>https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html</guid>
-      <description>A Saudi military official paid for the OpenAI engineer’s wife and infant son to fly out of the United States a day after his arrest, according to a court filing. The Saudi government also offered to cover his bail.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 18:44:56 +0000</pubDate>
-      <media:content url="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.nytimes.com">www.nytimes.com</source>
     </item>
   </channel>
 </rss>
