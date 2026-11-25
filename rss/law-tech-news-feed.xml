@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:56:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:56:22 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/</guid>
+      <description>Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: http://feeds.arstechnica.com/arstechnica/index&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 16:33:45 +0000</pubDate>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306257922-1024x648.jpg" type="image/jpeg" length="0" />
+      <source url="https://arstechnica.com">arstechnica.com</source>
+    </item>
+    <item>
+      <title>Morning Docket: 11.25.26</title>
+      <link>https://abovethelaw.com/2026/11/morning-docket-11-25-26/</link>
+      <guid isPermaLink="true">https://abovethelaw.com/2026/11/morning-docket-11-25-26/</guid>
+      <description>* Judge fires off 48-page opinion ripping the DOJ for weaponization efforts. [ABC News] * Kilmar Abrego Garcia moving to Spain. He had tried to move to Costa Rica a year ago, but the Trump administration spent months trying to force him to move to Africa. [NY Times] * Trump&amp;#x27;s defamation case against the Times will move forward based on new standard that if the claimed crime is complex enough, it&amp;#x27;s inherently defamatory. [Slate] * Huawei convicted of sanctions violations. Too bad they couldn&amp;#x27;t get Trump to make a call for them. [Law360] * In the least shocking news ever, Donald Trump personally profited off of forcing Nvidia to bring back Jensen Huang. [Popular Information] * Elon wants the Twitter fraud case thrown out, arguing that his public claims that he might abandon the deal didn&amp;#x27;t ultimately impact the sale price, which sort of glazes over the whole &amp;quot;the stock tanked until Twitter had to take legal action to force him to go through with the deal&amp;quot; bit. [Reuters] * Trump sanctions on the ICC struck down to the extent they sought to punish Americans working with the international human rights tribunal. [The Intercept] The post Morning Docket: 11.25.26 appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
+      <pubDate>Wed, 25 Nov 2026 14:12:38 +0000</pubDate>
+      <source url="https://abovethelaw.com">abovethelaw.com</source>
+    </item>
     <item>
       <title>Pluralistic: New York vs auto-enshittification (25 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/25/empire-state-strikes-back/</link>
@@ -4372,24 +4390,6 @@
       <media:content url="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" medium="image" type="image/jpeg" />
       <enclosure url="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
       <source url="https://www.nytimes.com">www.nytimes.com</source>
-    </item>
-    <item>
-      <title>Freshfields Leader Accidentally Sends Secret AI Spinoff Plan To The Whole Firm, With A Bonus Insult To Some Very Important Clients</title>
-      <link>https://abovethelaw.com/2026/10/freshfields-leader-accidentally-sends-secret-ai-spinoff-plan-to-the-whole-firm-with-a-bonus-insult-to-some-very-important-clients/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/freshfields-leader-accidentally-sends-secret-ai-spinoff-plan-to-the-whole-firm-with-a-bonus-insult-to-some-very-important-clients/</guid>
-      <description>The recall button is not a time machine. The post Freshfields Leader Accidentally Sends Secret AI Spinoff Plan To The Whole Firm, With A Bonus Insult To Some Very Important Clients appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 18:32:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
-    </item>
-    <item>
-      <title>US bans DeepSeek AI from government use as tech tension with China continues</title>
-      <link>https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <description>DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feeds.bbci.co.uk/news/technology/rss.xml&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 18:21:54 +0000</pubDate>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg" medium="image" type="image/jpeg" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg" type="image/jpeg" length="0" />
-      <source url="https://www.bbc.co.uk">www.bbc.co.uk</source>
     </item>
   </channel>
 </rss>
