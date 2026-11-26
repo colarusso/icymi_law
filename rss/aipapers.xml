@@ -5,8 +5,26 @@
     <link>https://icymilaw.org/#aipapers</link>
     <description>Popular AI paper-like links shared recently on Bluesky.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:09:04 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:09:02 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/aipapers.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontier models need only one text to unmask its human or AI author</title>
+      <link>https://arxiv.org/html/2611.26216v1</link>
+      <guid isPermaLink="true">https://arxiv.org/html/2611.26216v1</guid>
+      <description>&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 3 · likes: 13&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 05:09:02 -0500</pubDate>
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
+    <item>
+      <title>Efficient Prediction of pass@k Scaling in Large Language Models</title>
+      <link>https://arxiv.org/abs/2510.05197</link>
+      <guid isPermaLink="true">https://arxiv.org/abs/2510.05197</guid>
+      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifejusynz7hxn6ar3t6j3an6zdx7y2g56iejydsu3qxsdnevhuzga" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;ArXiv link for Efficient Prediction of pass@k Scaling in Large Language Models&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 2 · likes: 5&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 05:09:02 -0500</pubDate>
+      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifejusynz7hxn6ar3t6j3an6zdx7y2g56iejydsu3qxsdnevhuzga" medium="image" type="image/jpeg" />
+      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:nrfqk6t446qme4kb7aiemqig/bafkreifejusynz7hxn6ar3t6j3an6zdx7y2g56iejydsu3qxsdnevhuzga" type="image/jpeg" length="0" />
+      <source url="https://arxiv.org">arxiv.org</source>
+    </item>
     <item>
       <title>math/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf at main · openai/math</title>
       <link>https://github.com/openai/math/blob/main/preprints%2FThe-matrix-multiplication-exponent-is-nine-fourths-November-24-2026%2Fpaper.pdf</link>
@@ -465,26 +483,6 @@
       <guid isPermaLink="true">https://arxiv.org/abs/2611.10477</guid>
       <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Reinforcement-learning-trained agents for retrieval-augmented generation retrieve content (passages, knowledge-graph fragments, or hyperedges) and supervise training with outcome rewards on the final answer. Across these paradigms the reasoning route through retrieved content never leaves the langu…&lt;br&gt;&lt;br&gt;&lt;small&gt;reposts: 1 · likes: 2&lt;/small&gt;</description>
       <pubDate>Wed, 11 Nov 2026 05:09:29 -0500</pubDate>
-      <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
-      <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
-      <source url="https://arxiv.org">arxiv.org</source>
-    </item>
-    <item>
-      <title>The calibration deficit: a challenge for Earth system simulation and emulation</title>
-      <link>https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6437/</link>
-      <guid isPermaLink="true">https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6437/</guid>
-      <description>&lt;p&gt;&lt;img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:telraubco3huvuk2rlmfnhj7/bafkreicktkfcmvmqfhhgvvzg7swvsj6fytecdg3b42opvfopkcswgg5d7e" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Abstract. The latest Earth System Models (ESMs) are much more complex than previous generations, and are better at reproducing aspects of the current observed climate. However, in general, the latest ...&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥🔥 · reposts: 1 · likes: 2&lt;/small&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 05:08:13 -0500</pubDate>
-      <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:telraubco3huvuk2rlmfnhj7/bafkreicktkfcmvmqfhhgvvzg7swvsj6fytecdg3b42opvfopkcswgg5d7e" medium="image" type="image/jpeg" />
-      <enclosure url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:telraubco3huvuk2rlmfnhj7/bafkreicktkfcmvmqfhhgvvzg7swvsj6fytecdg3b42opvfopkcswgg5d7e" type="image/jpeg" length="0" />
-      <source url="https://egusphere.copernicus.org">egusphere.copernicus.org</source>
-    </item>
-    <item>
-      <title>An Empirical Study of Issues in GPU Kernel Libraries for LLM Systems</title>
-      <link>https://arxiv.org/abs/2611.09280</link>
-      <guid isPermaLink="true">https://arxiv.org/abs/2611.09280</guid>
-      <description>&lt;p&gt;&lt;img src="/static/browse/0.3.4/images/arxiv-logo-fb.png" alt="" style="max-width:100%;height:auto;" /&gt;&lt;/p&gt;Behind the expanding use of large language models (LLMs) across application domains lies a growing dependence on specialized GPU kernel libraries. These libraries underpin the correctness and efficiency of training and inference across diverse GPU platforms, implementing attention, GEMM, quantizati…&lt;br&gt;&lt;br&gt;&lt;small&gt; 🔥 · reposts: 0 · likes: 3&lt;/small&gt;</description>
-      <pubDate>Tue, 10 Nov 2026 05:08:13 -0500</pubDate>
       <media:content url="/static/browse/0.3.4/images/arxiv-logo-fb.png" medium="image" type="image/png" />
       <enclosure url="/static/browse/0.3.4/images/arxiv-logo-fb.png" type="image/png" length="0" />
       <source url="https://arxiv.org">arxiv.org</source>
