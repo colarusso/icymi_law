@@ -5,8 +5,48 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:56:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:56:31 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions</title>
+      <link>https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html</guid>
+      <description>The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 12:04:01 +0000</pubDate>
+      <source url="https://www.nytimes.com">www.nytimes.com</source>
+    </item>
+    <item>
+      <title>Waymo conquered city streets — why does it keep stumbling on freeways?</title>
+      <link>https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls</link>
+      <guid isPermaLink="true">https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls</guid>
+      <description>Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving violation that could get a [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>Private Enforcement in the Artificial Intelligence Age</title>
+      <link>https://feedpress.me/link/16850/17541321/private-enforcement-in-the-artificial-intelligence-age</link>
+      <guid isPermaLink="true">https://feedpress.me/link/16850/17541321/private-enforcement-in-the-artificial-intelligence-age</guid>
+      <description>Daniel Wilf-Townsend, Artificial Intelligence and Aggregate Litigation, 103 Wash. U. L. Rev. 777 (2026). Brooke D. Coleman In Artificial Intelligence &amp;amp;#38; Aggregate Litigation, Daniel Wilf-Townsend enters a conversation about a topic that feels omnipresent: artificial intelligence. I do not pretend to fully comprehend the scope and speed at which artificial intelligence is changing our personal and professional lives, let alone fully appreciate how it is impacting civil litigation. But Wilf-Townsend’s article offers a clear, cogent discussion of how we might enforce [...] The post Private Enforcement in the Artificial Intelligence Age appeared first on Courts Law. The post Private Enforcement in the Artificial Intelligence Age appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 11:30:36 +0000</pubDate>
+      <source url="https://feedpress.me">feedpress.me</source>
+    </item>
+    <item>
+      <title>42 state AGs are trying to stop Character.AI from selling users’ chats</title>
+      <link>https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</link>
+      <guid isPermaLink="true">https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats</guid>
+      <description>A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off &amp;quot;the private chat histories of more than 21 million U.S. accounts - [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 09:54:40 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
+    <item>
+      <title>GTA 6 Streams Hit With Takedowns Over In-Game Reggaeton Song</title>
+      <link>https://www.techdirt.com/2026/11/25/gta-6-streams-hit-with-takedowns-over-in-game-reggaeton-song/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/25/gta-6-streams-hit-with-takedowns-over-in-game-reggaeton-song/</guid>
+      <description>Unless you&amp;amp;#8217;re a monk on retreat somewhere, you know that Grand Theft Auto 6 was released in recent days and that roughly the entire world is playing it. And, importantly, putting clips of the game online, or featuring it in let&amp;amp;#8217;s play game streams. I haven&amp;amp;#8217;t played this thing yet, but I am enjoying the [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 03:39:00 +0000</pubDate>
+      <source url="https://www.techdirt.com">www.techdirt.com</source>
+    </item>
     <item>
       <title>Biglaw’s AI Shift Is Changing How Legal Work Gets Priced</title>
       <link>https://abovethelaw.com/2026/11/biglaws-ai-shift-is-changing-how-legal-work-gets-priced/</link>
@@ -4344,46 +4384,6 @@
       <description>Pope Leo XIV, Encyclical Letter Magnifica Humanitas on Safeguarding the Human Person in the Time of Artificial Intelligence (May 15, 2026). Cristina Tilley Robert Prevost has many alter egos. He is a world-famous Chicago White Sox fan1; the 267th Pontiff of the Roman Catholic Church2; and, it seems, something of a torts scholar. Pope Leo’s 2026 encyclical letter, Magnifica Humanitas, sounded a global alarm about the coming wave of artificially intelligent injuries to humanity and demanded that communities of men and [...] The post In Praise of Pontification appeared first on Torts. The post In Praise of Pontification appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
       <pubDate>Tue, 20 Oct 2026 10:30:47 +0000</pubDate>
       <source url="https://feedpress.me">feedpress.me</source>
-    </item>
-    <item>
-      <title>Webinar: The Future of Contract Management + ACM Demo</title>
-      <link>https://www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/20/webinar-the-future-of-contract-management-acm-demo/</guid>
-      <description>On Thursday, October 29 at 12:00 PM ET, 5PM UK – Spellbook’s CEO, Scott Stevenson, and Artificial Lawyer, will be holding a special live webinar: ‘The ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 08:21:31 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>What Happens When Lawyers Can Afford to Look Further?</title>
-      <link>https://www.artificiallawyer.com/2026/10/20/what-happens-when-lawyers-can-afford-to-look-further/</link>
-      <guid isPermaLink="true">https://www.artificiallawyer.com/2026/10/20/what-happens-when-lawyers-can-afford-to-look-further/</guid>
-      <description>By Darsan Guruvayurappan, Co-founder, Lucio AI. Most legal research does not end when the answer is found, it ends when the time runs out. Let ...&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.artificiallawyer.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 06:40:54 +0000</pubDate>
-      <source url="https://www.artificiallawyer.com">www.artificiallawyer.com</source>
-    </item>
-    <item>
-      <title>Congressman Ritchie Torres Authors Bill For Digital Games Ownership Rights</title>
-      <link>https://www.techdirt.com/2026/10/19/congressman-ritchie-torres-authors-bill-for-digital-games-ownership-rights/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/10/19/congressman-ritchie-torres-authors-bill-for-digital-games-ownership-rights/</guid>
-      <description>The Stop Killing Games movement appears to still be alive and well. The grassroots campaign to legislate out the practice of gaming companies selling games that they neuter or render unplayable in whole or part later when shutting down backend server support has had its ups and downs, to be sure. An effort to pass [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.techdirt.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 03:05:46 +0000</pubDate>
-      <source url="https://www.techdirt.com">www.techdirt.com</source>
-    </item>
-    <item>
-      <title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
-      <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</guid>
-      <description>Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://techcrunch.com/feed/&lt;/small&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 01:27:03 +0000</pubDate>
-      <source url="https://techcrunch.com">techcrunch.com</source>
-    </item>
-    <item>
-      <title>Agentic Commerce Is About To Become A Contracting Problem</title>
-      <link>https://abovethelaw.com/2026/10/agentic-commerce-is-about-to-become-a-contracting-problem/</link>
-      <guid isPermaLink="true">https://abovethelaw.com/2026/10/agentic-commerce-is-about-to-become-a-contracting-problem/</guid>
-      <description>Agents will need structured positions, contextual rules, and clear escalation paths. The post Agentic Commerce Is About To Become A Contracting Problem appeared first on Above the Law.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://abovethelaw.com/feed/&lt;/small&gt;</description>
-      <pubDate>Mon, 19 Oct 2026 22:16:00 +0000</pubDate>
-      <source url="https://abovethelaw.com">abovethelaw.com</source>
     </item>
   </channel>
 </rss>
