@@ -5,8 +5,16 @@
     <link>https://icymilaw.org/rss</link>
     <description>The RSS Feed powering the Suffolk LIT Lab's Law + Tech News Bot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 11:56:03 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:56:00 -0500</lastBuildDate>
     <atom:link href="https://icymilaw.org/rss/law-tech-news-feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android app developers will soon have to share their address publicly</title>
+      <link>https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu</guid>
+      <description>Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. [&amp;amp;#8230;]&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://www.theverge.com/rss/index.xml&lt;/small&gt;</description>
+      <pubDate>Thu, 26 Nov 2026 17:06:24 +0000</pubDate>
+      <source url="https://www.theverge.com">www.theverge.com</source>
+    </item>
     <item>
       <title>Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions</title>
       <link>https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html</link>
@@ -4376,14 +4384,6 @@
       <media:content url="https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a732e1f02fde0d1480fbe11b6272814" medium="image" type="image/jpeg" />
       <enclosure url="https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a732e1f02fde0d1480fbe11b6272814" type="image/jpeg" length="0" />
       <source url="https://www.theguardian.com">www.theguardian.com</source>
-    </item>
-    <item>
-      <title>In Praise of Pontification</title>
-      <link>https://feedpress.me/link/16850/17501312/in-praise-of-pontification</link>
-      <guid isPermaLink="true">https://feedpress.me/link/16850/17501312/in-praise-of-pontification</guid>
-      <description>Pope Leo XIV, Encyclical Letter Magnifica Humanitas on Safeguarding the Human Person in the Time of Artificial Intelligence (May 15, 2026). Cristina Tilley Robert Prevost has many alter egos. He is a world-famous Chicago White Sox fan1; the 267th Pontiff of the Roman Catholic Church2; and, it seems, something of a torts scholar. Pope Leo’s 2026 encyclical letter, Magnifica Humanitas, sounded a global alarm about the coming wave of artificially intelligent injuries to humanity and demanded that communities of men and [...] The post In Praise of Pontification appeared first on Torts. The post In Praise of Pontification appeared first on Jotwell.&lt;br&gt;&lt;br&gt;&lt;small&gt;Source feed: https://feedpress.me/jotwell&lt;/small&gt;</description>
-      <pubDate>Tue, 20 Oct 2026 10:30:47 +0000</pubDate>
-      <source url="https://feedpress.me">feedpress.me</source>
     </item>
   </channel>
 </rss>
